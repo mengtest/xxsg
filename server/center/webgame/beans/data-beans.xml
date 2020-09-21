@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="jsonTabel" class="com.linlongyx.sanguo.webgame.service.JsonTableService">
+    <property name="jsonTables">
+        <map>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.ParameterBean" value="webgame/data/${dataLocation}/parameter.json"/>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.AttrNameBean" value="webgame/data/${dataLocation}/attrName.json"/>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.BuffBean" value="webgame/data/${dataLocation}/buff.json"/>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.FighterBean" value="webgame/data/${dataLocation}/fighter.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.FighterStarBean" value="webgame/data/${dataLocation}/fighterStar.json"/>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.MonsterBean" value="webgame/data/${dataLocation}/monster.json"/>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.EffectBean" value="webgame/data/${dataLocation}/effect.json"/>
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.NewSkillBean" value="webgame/data/${dataLocation}/newSkill.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.MultiInsBean" value="webgame/data/${dataLocation}/multiIns.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.MultiRobotBean" value="webgame/data/${dataLocation}/multiRobot.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.StarcraftBean" value="webgame/data/${dataLocation}/starcraft.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.StarcraftRankBean" value="webgame/data/${dataLocation}/starcraftRank.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.StarcraftRewardBean" value="webgame/data/${dataLocation}/starcraftReward.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.StarcraftWorldBean" value="webgame/data/${dataLocation}/starcraftWorld.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.LanguageBean" value="webgame/data/${dataLocation}/language.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.SoulsStarBean" value="webgame/data/${dataLocation}/soulsStar.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.SoulsSetBean" value="webgame/data/${dataLocation}/soulsSet.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.SoulsBean" value="webgame/data/${dataLocation}/souls.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.ZhenfaBean" value="webgame/data/${dataLocation}/zhenfa.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.ZhenfaRestraintBean" value="webgame/data/${dataLocation}/zhenfaRestraint.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.TowerOwnerBean" value="webgame/data/${dataLocation}/towerOwner.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.MonsterPetBean" value="webgame/data/${dataLocation}/monsterPet.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.MonsterStageBean" value="webgame/data/${dataLocation}/monsterStage.json" />
+            <entry key="com.linlongyx.sanguo.webgame.config.bean.MonsterSoulsBean" value="webgame/data/${dataLocation}/monsterSouls.json" />
+        </map>
+    </property>
+</bean>
+</beans>

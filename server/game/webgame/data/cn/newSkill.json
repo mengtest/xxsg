@@ -1,0 +1,7355 @@
+{
+	"1101": {
+		"id": 1101,
+		"name": "眩晕",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1101]
+	},
+	"1102": {
+		"id": 1102,
+		"name": "沉默",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1102]
+	},
+	"1103": {
+		"id": 1103,
+		"name": "点燃（伤害）",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1103]
+	},
+	"1104": {
+		"id": 1104,
+		"name": "中毒（伤害）",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1104]
+	},
+	"1105": {
+		"id": 1105,
+		"name": "暴走",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1105]
+	},
+	"1106": {
+		"id": 1106,
+		"name": "免疫所有伤害",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1106]
+	},
+	"1107": {
+		"id": 1107,
+		"name": "免疫所有减益buff",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1107]
+	},
+	"1108": {
+		"id": 1108,
+		"name": "增加攻击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1108]
+	},
+	"1109": {
+		"id": 1109,
+		"name": "增加物防",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1109]
+	},
+	"1110": {
+		"id": 1110,
+		"name": "减少攻击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1110]
+	},
+	"1111": {
+		"id": 1111,
+		"name": "减少物防",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [1111]
+	},
+	"2101": {
+		"id": 2101,
+		"name": "物理攻击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2101]
+	},
+	"2102": {
+		"id": 2102,
+		"name": "法术攻击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [2102]
+	},
+	"2103": {
+		"id": 2103,
+		"name": "血量万分比",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2103]
+	},
+	"2104": {
+		"id": 2104,
+		"name": "固定值",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2104]
+	},
+	"2105": {
+		"id": 2105,
+		"name": "万分比+固定值",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2105]
+	},
+	"2106": {
+		"id": 2106,
+		"name": "必杀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2106]
+	},
+	"2107": {
+		"id": 2107,
+		"name": "恢复：攻击万分比+固定值",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2107]
+	},
+	"2108": {
+		"id": 2108,
+		"name": "恢复：血量万分比+固定值",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2108]
+	},
+	"2109": {
+		"id": 2109,
+		"name": "固定值",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2109]
+	},
+	"2110": {
+		"id": 2110,
+		"name": "吸取怒气（目标单体）",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2110]
+	},
+	"2111": {
+		"id": 2111,
+		"name": "加怒",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2111]
+	},
+	"2112": {
+		"id": 2112,
+		"name": "降怒",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2112]
+	},
+	"2113": {
+		"id": 2113,
+		"name": "清算",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2113]
+	},
+	"2114": {
+		"id": 2114,
+		"name": "伤害结果*系数",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2114]
+	},
+	"2115": {
+		"id": 2115,
+		"name": "攻击力*系数",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2115]
+	},
+	"2116": {
+		"id": 2116,
+		"name": "固定值",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2116]
+	},
+	"2117": {
+		"id": 2117,
+		"name": "移除增益效果",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2117]
+	},
+	"2118": {
+		"id": 2118,
+		"name": "移除减益效果",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2118]
+	},
+	"2119": {
+		"id": 2119,
+		"name": "移除增益效果",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2119]
+	},
+	"2120": {
+		"id": 2120,
+		"name": "移除减益效果",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [2120]
+	},
+	"3001": {
+		"id": 3001,
+		"name": "近战单体普攻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [30011]
+	},
+	"3002": {
+		"id": 3002,
+		"name": "近战单体怒攻",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [30021]
+	},
+	"3011": {
+		"id": 3011,
+		"name": "远程单体普攻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [30111]
+	},
+	"3012": {
+		"id": 3012,
+		"name": "远程单体怒攻",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [30121]
+	},
+	"3021": {
+		"id": 3021,
+		"name": "远程单体奶",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [30211]
+	},
+	"3022": {
+		"id": 3022,
+		"name": "远程单体奶",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [30221]
+	},
+	"3031": {
+		"id": 3031,
+		"name": "近战横排普攻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [30311]
+	},
+	"3032": {
+		"id": 3032,
+		"name": "近战横排怒攻",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [30321]
+	},
+	"3041": {
+		"id": 3041,
+		"name": "远程横排普攻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [30411]
+	},
+	"3042": {
+		"id": 3042,
+		"name": "远程横排怒攻",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [30421]
+	},
+	"3051": {
+		"id": 3051,
+		"name": "近战竖排普攻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [30511]
+	},
+	"3052": {
+		"id": 3052,
+		"name": "近战竖排怒攻",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [30521]
+	},
+	"3061": {
+		"id": 3061,
+		"name": "近战全体普攻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [30611]
+	},
+	"3062": {
+		"id": 3062,
+		"name": "近战全体怒攻",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [30621]
+	},
+	"3071": {
+		"id": 3071,
+		"name": "近战单体秒杀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [30711]
+	},
+	"3072": {
+		"id": 3072,
+		"name": "近战全体秒杀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [30721]
+	},
+	"3081": {
+		"id": 3081,
+		"name": "随机单体",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [30811]
+	},
+	"3082": {
+		"id": 3082,
+		"name": "随机3个单位",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [30821]
+	},
+	"3091": {
+		"id": 3091,
+		"name": "单体吸血",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [30911]
+	},
+	"3092": {
+		"id": 3092,
+		"name": "单体吸血",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [30921]
+	},
+	"3101": {
+		"id": 3101,
+		"name": "远程全体奶",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [31011]
+	},
+	"3102": {
+		"id": 3102,
+		"name": "远程全体奶",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [31021]
+	},
+	"100101": {
+		"id": 100101,
+		"name": "斩击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [10010101]
+	},
+	"100102": {
+		"id": 100102,
+		"name": "烈日旋风斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [10010201]
+	},
+	"100103": {
+		"id": 100103,
+		"name": "天罡雷鸣",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [10010301]
+	},
+	"100201": {
+		"id": 100201,
+		"name": "精准",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [10020101]
+	},
+	"100202": {
+		"id": 100202,
+		"name": "烈日旋风斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [10020201]
+	},
+	"13010101": {
+		"id": 13010101,
+		"name": "幽影破",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [13010101]
+	},
+	"13010201": {
+		"id": 13010201,
+		"name": "暗袭破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [13010201]
+	},
+	"13020101": {
+		"id": 13020101,
+		"name": "影杀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [13020101]
+	},
+	"13020201": {
+		"id": 13020201,
+		"name": "暗谋奇袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [13020201]
+	},
+	"13030101": {
+		"id": 13030101,
+		"name": "唤雷术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [13030101]
+	},
+	"13030201": {
+		"id": 13030201,
+		"name": "惊雷术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [13030201]
+	},
+	"14010101": {
+		"id": 14010101,
+		"name": "飓风",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [14010101]
+	},
+	"14010201": {
+		"id": 14010201,
+		"name": "奇策破敌",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [14010201]
+	},
+	"14020101": {
+		"id": 14020101,
+		"name": "斩击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [14020101]
+	},
+	"14020201": {
+		"id": 14020201,
+		"name": "飞身一击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [14020201,14020202]
+	},
+	"14020301": {
+		"id": 14020301,
+		"name": "鹰击长空",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [14020301,14020302]
+	},
+	"14030101": {
+		"id": 14030101,
+		"name": "缠杀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [14030101]
+	},
+	"14030201": {
+		"id": 14030201,
+		"name": "飞火流星",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [14030201]
+	},
+	"14040101": {
+		"id": 14040101,
+		"name": "猛击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [14040101]
+	},
+	"14040201": {
+		"id": 14040201,
+		"name": "地火袭杀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [14040201]
+	},
+	"14040301": {
+		"id": 14040301,
+		"name": "风声鹤唳",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [14040301]
+	},
+	"14050101": {
+		"id": 14050101,
+		"name": "流云",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [14050101]
+	},
+	"14050201": {
+		"id": 14050201,
+		"name": "似水流年",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [14050201,14050202]
+	},
+	"15010101": {
+		"id": 15010101,
+		"name": "无影",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [15010101]
+	},
+	"15010201": {
+		"id": 15010201,
+		"name": "影域",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15010201]
+	},
+	"15020101": {
+		"id": 15020101,
+		"name": "冥刃",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [15020101]
+	},
+	"15020201": {
+		"id": 15020201,
+		"name": "三玄刃",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15020201]
+	},
+	"15020301": {
+		"id": 15020301,
+		"name": "声名狼藉",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15020301]
+	},
+	"15030101": {
+		"id": 15030101,
+		"name": "魔刀一击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [15030101]
+	},
+	"15030201": {
+		"id": 15030201,
+		"name": "魔化狂击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15030201,15030202]
+	},
+	"15040101": {
+		"id": 15040101,
+		"name": "穿透箭",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [15040101]
+	},
+	"15040201": {
+		"id": 15040201,
+		"name": "百步穿杨",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15040201]
+	},
+	"15040301": {
+		"id": 15040301,
+		"name": "逐鹿中原",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15040301]
+	},
+	"15050101": {
+		"id": 15050101,
+		"name": "速击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [15050101]
+	},
+	"15050201": {
+		"id": 15050201,
+		"name": "回复术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15050201,15050202]
+	},
+	"15060101": {
+		"id": 15060101,
+		"name": "斩风击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [15060101]
+	},
+	"15060201": {
+		"id": 15060201,
+		"name": "猛虎斩击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15060201,15060202]
+	},
+	"15060301": {
+		"id": 15060301,
+		"name": "展翅高飞",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [15060301,15060302]
+	},
+	"16010101": {
+		"id": 16010101,
+		"name": "戏耍",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [16010101]
+	},
+	"16010201": {
+		"id": 16010201,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010201,16010211]
+	},
+	"16010202": {
+		"id": 16010202,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010202,16010212]
+	},
+	"16010203": {
+		"id": 16010203,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010203,16010213]
+	},
+	"16010204": {
+		"id": 16010204,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010204,16010214]
+	},
+	"16010205": {
+		"id": 16010205,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010205,16010215]
+	},
+	"16010206": {
+		"id": 16010206,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010206,16010216]
+	},
+	"16010207": {
+		"id": 16010207,
+		"name": "回天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [16010207,16010217]
+	},
+	"16020101": {
+		"id": 16020101,
+		"name": "沧海一粟",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [16020101]
+	},
+	"16020201": {
+		"id": 16020201,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020201,16020211]
+	},
+	"16020202": {
+		"id": 16020202,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020202,16020212]
+	},
+	"16020203": {
+		"id": 16020203,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020203,16020213]
+	},
+	"16020204": {
+		"id": 16020204,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020204,16020214]
+	},
+	"16020205": {
+		"id": 16020205,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020205,16020215]
+	},
+	"16020206": {
+		"id": 16020206,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020206,16020216]
+	},
+	"16020207": {
+		"id": 16020207,
+		"name": "星光漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020207,16020217]
+	},
+	"16020301": {
+		"id": 16020301,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020301,16020311]
+	},
+	"16020302": {
+		"id": 16020302,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020302,16020312]
+	},
+	"16020303": {
+		"id": 16020303,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020303,16020313]
+	},
+	"16020304": {
+		"id": 16020304,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020304,16020314]
+	},
+	"16020305": {
+		"id": 16020305,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020305,16020315]
+	},
+	"16020306": {
+		"id": 16020306,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020306,16020316]
+	},
+	"16020307": {
+		"id": 16020307,
+		"name": "独占鳌头",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16020307,16020317]
+	},
+	"16030101": {
+		"id": 16030101,
+		"name": "剑盾交错",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [16030101]
+	},
+	"16030201": {
+		"id": 16030201,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030201]
+	},
+	"16030202": {
+		"id": 16030202,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030202]
+	},
+	"16030203": {
+		"id": 16030203,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030203]
+	},
+	"16030204": {
+		"id": 16030204,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030204]
+	},
+	"16030205": {
+		"id": 16030205,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030205]
+	},
+	"16030206": {
+		"id": 16030206,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030206]
+	},
+	"16030207": {
+		"id": 16030207,
+		"name": "猛盾推击",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16030207]
+	},
+	"16040101": {
+		"id": 16040101,
+		"name": "阳谋",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [16040101]
+	},
+	"16040201": {
+		"id": 16040201,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040201]
+	},
+	"16040202": {
+		"id": 16040202,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040202]
+	},
+	"16040203": {
+		"id": 16040203,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040203]
+	},
+	"16040204": {
+		"id": 16040204,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040204]
+	},
+	"16040205": {
+		"id": 16040205,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040205]
+	},
+	"16040206": {
+		"id": 16040206,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040206]
+	},
+	"16040207": {
+		"id": 16040207,
+		"name": "请君入瓮",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040207]
+	},
+	"16040301": {
+		"id": 16040301,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040301]
+	},
+	"16040302": {
+		"id": 16040302,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040302]
+	},
+	"16040303": {
+		"id": 16040303,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040303]
+	},
+	"16040304": {
+		"id": 16040304,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040304]
+	},
+	"16040305": {
+		"id": 16040305,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040305]
+	},
+	"16040306": {
+		"id": 16040306,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040306]
+	},
+	"16040307": {
+		"id": 16040307,
+		"name": "鸟尽弓藏",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [16040307]
+	},
+	"17010101": {
+		"id": 17010101,
+		"name": "无尽束缚",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [17010101]
+	},
+	"17010201": {
+		"id": 17010201,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010201,17010211]
+	},
+	"17010202": {
+		"id": 17010202,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010202,17010212]
+	},
+	"17010203": {
+		"id": 17010203,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010203,17010213]
+	},
+	"17010204": {
+		"id": 17010204,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010204,17010214]
+	},
+	"17010205": {
+		"id": 17010205,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010205,17010215]
+	},
+	"17010206": {
+		"id": 17010206,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010206,17010216]
+	},
+	"17010207": {
+		"id": 17010207,
+		"name": "行云流水",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17010207,17010217]
+	},
+	"17020101": {
+		"id": 17020101,
+		"name": "鸩杀",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [17020101]
+	},
+	"17020201": {
+		"id": 17020201,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020201,17020211]
+	},
+	"17020202": {
+		"id": 17020202,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020202,17020212]
+	},
+	"17020203": {
+		"id": 17020203,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020203,17020213]
+	},
+	"17020204": {
+		"id": 17020204,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020204,17020214]
+	},
+	"17020205": {
+		"id": 17020205,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020205,17020215]
+	},
+	"17020206": {
+		"id": 17020206,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020206,17020216]
+	},
+	"17020207": {
+		"id": 17020207,
+		"name": "戾羽谋心",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [17020207,17020217]
+	},
+	"18010101": {
+		"id": 18010101,
+		"name": "枭雄",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [18010101]
+	},
+	"18010201": {
+		"id": 18010201,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010201,18010211]
+	},
+	"18010202": {
+		"id": 18010202,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010202,18010212]
+	},
+	"18010203": {
+		"id": 18010203,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010203,18010213]
+	},
+	"18010204": {
+		"id": 18010204,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010204,18010214]
+	},
+	"18010205": {
+		"id": 18010205,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010205,18010215]
+	},
+	"18010206": {
+		"id": 18010206,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010206,18010216]
+	},
+	"18010207": {
+		"id": 18010207,
+		"name": "沧海星汉",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [18010207,18010217]
+	},
+	"23010101": {
+		"id": 23010101,
+		"name": "聚光斩",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [23010101]
+	},
+	"23010201": {
+		"id": 23010201,
+		"name": "星光斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [23010201]
+	},
+	"23020101": {
+		"id": 23020101,
+		"name": "突刺",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [23020101]
+	},
+	"23020201": {
+		"id": 23020201,
+		"name": "先发制人",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [23020201]
+	},
+	"23030101": {
+		"id": 23030101,
+		"name": "龙劈击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [23030101]
+	},
+	"23030201": {
+		"id": 23030201,
+		"name": "狂龙出山",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [23030201]
+	},
+	"24010101": {
+		"id": 24010101,
+		"name": "离月",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [24010101]
+	},
+	"24010201": {
+		"id": 24010201,
+		"name": "月舞迷神",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [24010201]
+	},
+	"24020101": {
+		"id": 24020101,
+		"name": "魔心狂化",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [24020101]
+	},
+	"24020201": {
+		"id": 24020201,
+		"name": "魔心横扫",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [24020201,24020202]
+	},
+	"24020301": {
+		"id": 24020301,
+		"name": "雕虫小技",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [24020301,24020302]
+	},
+	"24030101": {
+		"id": 24030101,
+		"name": "守护",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [24030101]
+	},
+	"24030201": {
+		"id": 24030201,
+		"name": "白鹤之怒",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [24030201]
+	},
+	"24040101": {
+		"id": 24040101,
+		"name": "蛮横",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [24040101]
+	},
+	"24040201": {
+		"id": 24040201,
+		"name": "狂龙之怒",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [24040201]
+	},
+	"24040301": {
+		"id": 24040301,
+		"name": "鹤鸣九皋",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [24040301]
+	},
+	"24050101": {
+		"id": 24050101,
+		"name": "咒术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [24050101]
+	},
+	"24050201": {
+		"id": 24050201,
+		"name": "回天咒",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [24050201,24050202]
+	},
+	"25010101": {
+		"id": 25010101,
+		"name": "狂怒",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [25010101]
+	},
+	"25010201": {
+		"id": 25010201,
+		"name": "战吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25010201]
+	},
+	"25020101": {
+		"id": 25020101,
+		"name": "标枪",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [25020101]
+	},
+	"25020201": {
+		"id": 25020201,
+		"name": "天马行空",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [25020201]
+	},
+	"25020301": {
+		"id": 25020301,
+		"name": "狼烟四起",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [25020301]
+	},
+	"25030101": {
+		"id": 25030101,
+		"name": "雷击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [25030101]
+	},
+	"25030201": {
+		"id": 25030201,
+		"name": "撼天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25030201]
+	},
+	"25040101": {
+		"id": 25040101,
+		"name": "雷击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [25040101]
+	},
+	"25040201": {
+		"id": 25040201,
+		"name": "天雷",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25040201,25040202]
+	},
+	"25040301": {
+		"id": 25040301,
+		"name": "昙花一现",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25040301,25040302]
+	},
+	"25050101": {
+		"id": 25050101,
+		"name": "精准射击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [25050101]
+	},
+	"25050201": {
+		"id": 25050201,
+		"name": "追星逐月",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25050201,25050202]
+	},
+	"25060101": {
+		"id": 25060101,
+		"name": "龙蛇枪法",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [25060101]
+	},
+	"25060201": {
+		"id": 25060201,
+		"name": "龙蛇摆尾",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25060201,25060202]
+	},
+	"25060301": {
+		"id": 25060301,
+		"name": "移花接木",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [25060301,25060302]
+	},
+	"26010101": {
+		"id": 26010101,
+		"name": "空城计",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [26010101]
+	},
+	"26010201": {
+		"id": 26010201,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010201,26010211]
+	},
+	"26010202": {
+		"id": 26010202,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010202,26010212]
+	},
+	"26010203": {
+		"id": 26010203,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010203,26010213]
+	},
+	"26010204": {
+		"id": 26010204,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010204,26010214]
+	},
+	"26010205": {
+		"id": 26010205,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010205,26010215]
+	},
+	"26010206": {
+		"id": 26010206,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010206,26010216]
+	},
+	"26010207": {
+		"id": 26010207,
+		"name": "八卦镇军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26010207,26010217]
+	},
+	"26020101": {
+		"id": 26020101,
+		"name": "青龙劈",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [26020101]
+	},
+	"26020201": {
+		"id": 26020201,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020201,26020211]
+	},
+	"26020202": {
+		"id": 26020202,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020202,26020212]
+	},
+	"26020203": {
+		"id": 26020203,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020203,26020213]
+	},
+	"26020204": {
+		"id": 26020204,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020204,26020214]
+	},
+	"26020205": {
+		"id": 26020205,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020205,26020215]
+	},
+	"26020206": {
+		"id": 26020206,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020206,26020216]
+	},
+	"26020207": {
+		"id": 26020207,
+		"name": "青龙怒吼",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020207,26020217]
+	},
+	"26020301": {
+		"id": 26020301,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020301,26020311]
+	},
+	"26020302": {
+		"id": 26020302,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020302,26020312]
+	},
+	"26020303": {
+		"id": 26020303,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020303,26020313]
+	},
+	"26020304": {
+		"id": 26020304,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020304,26020314]
+	},
+	"26020305": {
+		"id": 26020305,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020305,26020315]
+	},
+	"26020306": {
+		"id": 26020306,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020306,26020316]
+	},
+	"26020307": {
+		"id": 26020307,
+		"name": "叱咤风云",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26020307,26020317]
+	},
+	"26030101": {
+		"id": 26030101,
+		"name": "仁者之剑",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [26030101]
+	},
+	"26030201": {
+		"id": 26030201,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030201,26030211]
+	},
+	"26030202": {
+		"id": 26030202,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030202,26030212]
+	},
+	"26030203": {
+		"id": 26030203,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030203,26030213]
+	},
+	"26030204": {
+		"id": 26030204,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030204,26030214]
+	},
+	"26030205": {
+		"id": 26030205,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030205,26030215]
+	},
+	"26030206": {
+		"id": 26030206,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030206,26030216]
+	},
+	"26030207": {
+		"id": 26030207,
+		"name": "仁君之势",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [26030207,26030217]
+	},
+	"26040101": {
+		"id": 26040101,
+		"name": "入魔",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [26040101]
+	},
+	"26040201": {
+		"id": 26040201,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040201,26040211,26040221]
+	},
+	"26040202": {
+		"id": 26040202,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040202,26040211,26040222]
+	},
+	"26040203": {
+		"id": 26040203,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040203,26040211,26040223]
+	},
+	"26040204": {
+		"id": 26040204,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040204,26040211,26040224]
+	},
+	"26040205": {
+		"id": 26040205,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040205,26040211,26040225]
+	},
+	"26040206": {
+		"id": 26040206,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040206,26040211,26040226]
+	},
+	"26040207": {
+		"id": 26040207,
+		"name": "魔影千矛",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040207,26040211,26040227]
+	},
+	"26040301": {
+		"id": 26040301,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040301,26040311,26040321]
+	},
+	"26040302": {
+		"id": 26040302,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040302,26040311,26040322]
+	},
+	"26040303": {
+		"id": 26040303,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040303,26040311,26040323]
+	},
+	"26040304": {
+		"id": 26040304,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040304,26040311,26040324]
+	},
+	"26040305": {
+		"id": 26040305,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040305,26040311,26040325]
+	},
+	"26040306": {
+		"id": 26040306,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040306,26040311,26040326]
+	},
+	"26040307": {
+		"id": 26040307,
+		"name": "乘风破浪",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [26040307,26040311,26040327]
+	},
+	"27010101": {
+		"id": 27010101,
+		"name": "月影迷离",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [27010101]
+	},
+	"27010201": {
+		"id": 27010201,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010201]
+	},
+	"27010202": {
+		"id": 27010202,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010202]
+	},
+	"27010203": {
+		"id": 27010203,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010203]
+	},
+	"27010204": {
+		"id": 27010204,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010204]
+	},
+	"27010205": {
+		"id": 27010205,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010205]
+	},
+	"27010206": {
+		"id": 27010206,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010206]
+	},
+	"27010207": {
+		"id": 27010207,
+		"name": "千幻迷影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [27010207]
+	},
+	"27020101": {
+		"id": 27020101,
+		"name": "七探蛇盘",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [27020101,27020111]
+	},
+	"27020201": {
+		"id": 27020201,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020201,27020211]
+	},
+	"27020202": {
+		"id": 27020202,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020202,27020212]
+	},
+	"27020203": {
+		"id": 27020203,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020203,27020213]
+	},
+	"27020204": {
+		"id": 27020204,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020204,27020214]
+	},
+	"27020205": {
+		"id": 27020205,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020205,27020215]
+	},
+	"27020206": {
+		"id": 27020206,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020206,27020216]
+	},
+	"27020207": {
+		"id": 27020207,
+		"name": "云龙九现",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [27020207,27020217]
+	},
+	"28010101": {
+		"id": 28010101,
+		"name": "龙魂武圣",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [28010101,28010111]
+	},
+	"28010201": {
+		"id": 28010201,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010201,28010211,28010221,28010231]
+	},
+	"28010202": {
+		"id": 28010202,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010202,28010212,28010222,28010232]
+	},
+	"28010203": {
+		"id": 28010203,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010203,28010213,28010223,28010233]
+	},
+	"28010204": {
+		"id": 28010204,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010204,28010214,28010224,28010234]
+	},
+	"28010205": {
+		"id": 28010205,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010205,28010215,28010225,28010235]
+	},
+	"28010206": {
+		"id": 28010206,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010206,28010216,28010226,28010236]
+	},
+	"28010207": {
+		"id": 28010207,
+		"name": "御龙强袭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [28010207,28010217,28010227,28010237]
+	},
+	"33010101": {
+		"id": 33010101,
+		"name": "鬼刀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [33010101]
+	},
+	"33010201": {
+		"id": 33010201,
+		"name": "鬼影刀法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [33010201]
+	},
+	"33020101": {
+		"id": 33020101,
+		"name": "锁链重击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [33020101]
+	},
+	"33020201": {
+		"id": 33020201,
+		"name": "锁链风车",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [33020201]
+	},
+	"33030101": {
+		"id": 33030101,
+		"name": "铁扇挥击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [33030101]
+	},
+	"33030201": {
+		"id": 33030201,
+		"name": "水龙卷",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [33030201]
+	},
+	"34010101": {
+		"id": 34010101,
+		"name": "挥击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [34010101]
+	},
+	"34010201": {
+		"id": 34010201,
+		"name": "镇杀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [34010201]
+	},
+	"34020101": {
+		"id": 34020101,
+		"name": "咒术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [34020101]
+	},
+	"34020201": {
+		"id": 34020201,
+		"name": "迎风起舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [34020201,34020202]
+	},
+	"34020301": {
+		"id": 34020301,
+		"name": "空谷幽兰",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [34020301,34020302]
+	},
+	"34030101": {
+		"id": 34030101,
+		"name": "勇猛冲锋",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [34030101]
+	},
+	"34030201": {
+		"id": 34030201,
+		"name": "苦肉计",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [34030201]
+	},
+	"34040101": {
+		"id": 34040101,
+		"name": "火枪战法",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [34040101]
+	},
+	"34040201": {
+		"id": 34040201,
+		"name": "吸血红枪",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [34040201]
+	},
+	"34040301": {
+		"id": 34040301,
+		"name": "破釜沉舟",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [34040301]
+	},
+	"34050101": {
+		"id": 34050101,
+		"name": "坚守",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [34050101]
+	},
+	"34050201": {
+		"id": 34050201,
+		"name": "治疗",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [34050201,34050202]
+	},
+	"35010101": {
+		"id": 35010101,
+		"name": "咒术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [35010101]
+	},
+	"35010201": {
+		"id": 35010201,
+		"name": "魔幻咒杀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [35010201]
+	},
+	"35020101": {
+		"id": 35020101,
+		"name": "斩击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [35020101]
+	},
+	"35020201": {
+		"id": 35020201,
+		"name": "快刀斩杀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [35020201]
+	},
+	"35020301": {
+		"id": 35020301,
+		"name": "舌战群儒",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [35020301]
+	},
+	"35030101": {
+		"id": 35030101,
+		"name": "火刀战法",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [35030101]
+	},
+	"35030201": {
+		"id": 35030201,
+		"name": "狂暴战法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [35030201,35030202]
+	},
+	"35040101": {
+		"id": 35040101,
+		"name": "幻战",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [35040101]
+	},
+	"35040201": {
+		"id": 35040201,
+		"name": "斗气刃",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [35040201,35040202]
+	},
+	"35040301": {
+		"id": 35040301,
+		"name": "亢龙有悔",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [35040301,35040302]
+	},
+	"35050101": {
+		"id": 35050101,
+		"name": "三星连珠",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [35050101]
+	},
+	"35050201": {
+		"id": 35050201,
+		"name": "暴风箭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [35050201]
+	},
+	"35060101": {
+		"id": 35060101,
+		"name": "愤怒咆哮",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [35060101]
+	},
+	"35060201": {
+		"id": 35060201,
+		"name": "崩坏战决",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [35060201]
+	},
+	"35060301": {
+		"id": 35060301,
+		"name": "龙争虎斗",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [35060301]
+	},
+	"36010101": {
+		"id": 36010101,
+		"name": "舞动青春",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [36010101]
+	},
+	"36010201": {
+		"id": 36010201,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010201,36010211]
+	},
+	"36010202": {
+		"id": 36010202,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010202,36010212]
+	},
+	"36010203": {
+		"id": 36010203,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010203,36010213]
+	},
+	"36010204": {
+		"id": 36010204,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010204,36010214]
+	},
+	"36010205": {
+		"id": 36010205,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010205,36010215]
+	},
+	"36010206": {
+		"id": 36010206,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010206,36010216]
+	},
+	"36010207": {
+		"id": 36010207,
+		"name": "仙音神舞",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [36010207,36010217]
+	},
+	"36020101": {
+		"id": 36020101,
+		"name": "红莲剑诀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [36020101]
+	},
+	"36020201": {
+		"id": 36020201,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020201,36020211]
+	},
+	"36020202": {
+		"id": 36020202,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020202,36020212]
+	},
+	"36020203": {
+		"id": 36020203,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020203,36020213]
+	},
+	"36020204": {
+		"id": 36020204,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020204,36020214]
+	},
+	"36020205": {
+		"id": 36020205,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020205,36020215]
+	},
+	"36020206": {
+		"id": 36020206,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020206,36020216]
+	},
+	"36020207": {
+		"id": 36020207,
+		"name": "千莲怒放",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020207,36020217]
+	},
+	"36020301": {
+		"id": 36020301,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020301,36020311]
+	},
+	"36020302": {
+		"id": 36020302,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020302,36020312]
+	},
+	"36020303": {
+		"id": 36020303,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020303,36020313]
+	},
+	"36020304": {
+		"id": 36020304,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020304,36020314]
+	},
+	"36020305": {
+		"id": 36020305,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020305,36020315]
+	},
+	"36020306": {
+		"id": 36020306,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020306,36020316]
+	},
+	"36020307": {
+		"id": 36020307,
+		"name": "风花雪月",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36020307,36020317]
+	},
+	"36030101": {
+		"id": 36030101,
+		"name": "玄法",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [36030101]
+	},
+	"36030201": {
+		"id": 36030201,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030201]
+	},
+	"36030202": {
+		"id": 36030202,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030202]
+	},
+	"36030203": {
+		"id": 36030203,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030203]
+	},
+	"36030204": {
+		"id": 36030204,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030204]
+	},
+	"36030205": {
+		"id": 36030205,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030205]
+	},
+	"36030206": {
+		"id": 36030206,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030206]
+	},
+	"36030207": {
+		"id": 36030207,
+		"name": "玄天幻灭",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36030207]
+	},
+	"36040101": {
+		"id": 36040101,
+		"name": "暮剑诀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [36040101]
+	},
+	"36040201": {
+		"id": 36040201,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040201]
+	},
+	"36040202": {
+		"id": 36040202,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040202]
+	},
+	"36040203": {
+		"id": 36040203,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040203]
+	},
+	"36040204": {
+		"id": 36040204,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040204]
+	},
+	"36040205": {
+		"id": 36040205,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040205]
+	},
+	"36040206": {
+		"id": 36040206,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040206]
+	},
+	"36040207": {
+		"id": 36040207,
+		"name": "刺心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040207]
+	},
+	"36040301": {
+		"id": 36040301,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040301]
+	},
+	"36040302": {
+		"id": 36040302,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040302]
+	},
+	"36040303": {
+		"id": 36040303,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040303]
+	},
+	"36040304": {
+		"id": 36040304,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040304]
+	},
+	"36040305": {
+		"id": 36040305,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040305]
+	},
+	"36040306": {
+		"id": 36040306,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040306]
+	},
+	"36040307": {
+		"id": 36040307,
+		"name": "鱼龙漫衍",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [36040307]
+	},
+	"37010101": {
+		"id": 37010101,
+		"name": "暴雨散射",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [37010101]
+	},
+	"37010201": {
+		"id": 37010201,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010201,37010211]
+	},
+	"37010202": {
+		"id": 37010202,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010202,37010212]
+	},
+	"37010203": {
+		"id": 37010203,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010203,37010213]
+	},
+	"37010204": {
+		"id": 37010204,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010204,37010214]
+	},
+	"37010205": {
+		"id": 37010205,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010205,37010215]
+	},
+	"37010206": {
+		"id": 37010206,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010206,37010216]
+	},
+	"37010207": {
+		"id": 37010207,
+		"name": "飞龙冲击波",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37010207,37010217]
+	},
+	"37020101": {
+		"id": 37020101,
+		"name": "射虎",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [37020101]
+	},
+	"37020201": {
+		"id": 37020201,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020201,37020211,37020221,37020231]
+	},
+	"37020202": {
+		"id": 37020202,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020202,37020212,37020222,37020232]
+	},
+	"37020203": {
+		"id": 37020203,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020203,37020213,37020223,37020233]
+	},
+	"37020204": {
+		"id": 37020204,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020204,37020214,37020224,37020234]
+	},
+	"37020205": {
+		"id": 37020205,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020205,37020215,37020225,37020235]
+	},
+	"37020206": {
+		"id": 37020206,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020206,37020216,37020226,37020236]
+	},
+	"37020207": {
+		"id": 37020207,
+		"name": "江东制霸",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [37020207,37020217,37020227,37020237]
+	},
+	"38010101": {
+		"id": 38010101,
+		"name": "风流",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [38010101]
+	},
+	"38010201": {
+		"id": 38010201,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010201,38010211,38010221]
+	},
+	"38010202": {
+		"id": 38010202,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010202,38010212,38010222]
+	},
+	"38010203": {
+		"id": 38010203,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010203,38010213,38010223]
+	},
+	"38010204": {
+		"id": 38010204,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010204,38010214,38010224]
+	},
+	"38010205": {
+		"id": 38010205,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010205,38010215,38010225]
+	},
+	"38010206": {
+		"id": 38010206,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010206,38010216,38010226]
+	},
+	"38010207": {
+		"id": 38010207,
+		"name": "焚海炬舟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [38010207,38010217,38010227]
+	},
+	"43010101": {
+		"id": 43010101,
+		"name": "战斧旋转",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [43010101]
+	},
+	"43010201": {
+		"id": 43010201,
+		"name": "腾龙斧技",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [43010201]
+	},
+	"43020101": {
+		"id": 43020101,
+		"name": "真火决",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [43020101]
+	},
+	"43020201": {
+		"id": 43020201,
+		"name": "金火漫天",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [43020201]
+	},
+	"43030101": {
+		"id": 43030101,
+		"name": "土遁",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [43030101]
+	},
+	"43030201": {
+		"id": 43030201,
+		"name": "落石封杀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [43030201]
+	},
+	"44010101": {
+		"id": 44010101,
+		"name": "魔刀血杀",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [44010101]
+	},
+	"44010201": {
+		"id": 44010201,
+		"name": "魔炎战刀",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [44010201]
+	},
+	"44020101": {
+		"id": 44020101,
+		"name": "魔枪决",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [44020101]
+	},
+	"44020201": {
+		"id": 44020201,
+		"name": "枪魔入体",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [44020201,44020202]
+	},
+	"44020301": {
+		"id": 44020301,
+		"name": "四面楚歌",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [44020301,44020302]
+	},
+	"44030101": {
+		"id": 44030101,
+		"name": "刑罚",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [44030101]
+	},
+	"44030201": {
+		"id": 44030201,
+		"name": "天罚",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [44030201]
+	},
+	"44040101": {
+		"id": 44040101,
+		"name": "罪扣",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [44040101]
+	},
+	"44040201": {
+		"id": 44040201,
+		"name": "定罪",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [44040201]
+	},
+	"44040301": {
+		"id": 44040301,
+		"name": "刎颈之交",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [44040301]
+	},
+	"44050101": {
+		"id": 44050101,
+		"name": "战灵术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [44050101]
+	},
+	"44050201": {
+		"id": 44050201,
+		"name": "恢复灵术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [44050201,44050202]
+	},
+	"45010101": {
+		"id": 45010101,
+		"name": "斩决",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [45010101]
+	},
+	"45010201": {
+		"id": 45010201,
+		"name": "恢复咒法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [45010201,45010202]
+	},
+	"45020101": {
+		"id": 45020101,
+		"name": "黄道之术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [45020101]
+	},
+	"45020201": {
+		"id": 45020201,
+		"name": "道法神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [45020201,45020202]
+	},
+	"45020301": {
+		"id": 45020301,
+		"name": "哀鸿遍野",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [45020301,45020302]
+	},
+	"45030101": {
+		"id": 45030101,
+		"name": "战火决",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [45030101]
+	},
+	"45030201": {
+		"id": 45030201,
+		"name": "终极矛术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [45030201,45030202]
+	},
+	"45040101": {
+		"id": 45040101,
+		"name": "鬼术",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [45040101]
+	},
+	"45040201": {
+		"id": 45040201,
+		"name": "阎王审判",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [45040201,45040202]
+	},
+	"45040301": {
+		"id": 45040301,
+		"name": "靡靡之音",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [45040301,45040302]
+	},
+	"45050101": {
+		"id": 45050101,
+		"name": "紫影落花",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [45050101]
+	},
+	"45050201": {
+		"id": 45050201,
+		"name": "血花落影",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [45050201]
+	},
+	"45060101": {
+		"id": 45060101,
+		"name": "炮击",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [45060101]
+	},
+	"45060201": {
+		"id": 45060201,
+		"name": "天罚降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [45060201,45060202]
+	},
+	"45060301": {
+		"id": 45060301,
+		"name": "止戈为武",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [45060301,45060302]
+	},
+	"46010101": {
+		"id": 46010101,
+		"name": "妙手",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [46010101]
+	},
+	"46010201": {
+		"id": 46010201,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010201,46010211]
+	},
+	"46010202": {
+		"id": 46010202,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010202,46010212]
+	},
+	"46010203": {
+		"id": 46010203,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010203,46010213]
+	},
+	"46010204": {
+		"id": 46010204,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010204,46010214]
+	},
+	"46010205": {
+		"id": 46010205,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010205,46010215]
+	},
+	"46010206": {
+		"id": 46010206,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010206,46010216]
+	},
+	"46010207": {
+		"id": 46010207,
+		"name": "回天神术",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46010207,46010217]
+	},
+	"46020101": {
+		"id": 46020101,
+		"name": "奇门遁甲",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [46020101]
+	},
+	"46020201": {
+		"id": 46020201,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020201]
+	},
+	"46020202": {
+		"id": 46020202,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020202]
+	},
+	"46020203": {
+		"id": 46020203,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020203]
+	},
+	"46020204": {
+		"id": 46020204,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020204]
+	},
+	"46020205": {
+		"id": 46020205,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020205]
+	},
+	"46020206": {
+		"id": 46020206,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020206]
+	},
+	"46020207": {
+		"id": 46020207,
+		"name": "天劫降世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020207]
+	},
+	"46020301": {
+		"id": 46020301,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020301]
+	},
+	"46020302": {
+		"id": 46020302,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020302]
+	},
+	"46020303": {
+		"id": 46020303,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020303]
+	},
+	"46020304": {
+		"id": 46020304,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020304]
+	},
+	"46020305": {
+		"id": 46020305,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020305]
+	},
+	"46020306": {
+		"id": 46020306,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020306]
+	},
+	"46020307": {
+		"id": 46020307,
+		"name": "偷天换日",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46020307]
+	},
+	"46030101": {
+		"id": 46030101,
+		"name": "迷幻",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [46030101]
+	},
+	"46030201": {
+		"id": 46030201,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030201]
+	},
+	"46030202": {
+		"id": 46030202,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030202]
+	},
+	"46030203": {
+		"id": 46030203,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030203]
+	},
+	"46030204": {
+		"id": 46030204,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030204]
+	},
+	"46030205": {
+		"id": 46030205,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030205]
+	},
+	"46030206": {
+		"id": 46030206,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030206]
+	},
+	"46030207": {
+		"id": 46030207,
+		"name": "幻影千叠",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [46030207]
+	},
+	"46040101": {
+		"id": 46040101,
+		"name": "无双枪决",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [46040101]
+	},
+	"46040201": {
+		"id": 46040201,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040201]
+	},
+	"46040202": {
+		"id": 46040202,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040202]
+	},
+	"46040203": {
+		"id": 46040203,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040203]
+	},
+	"46040204": {
+		"id": 46040204,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040204]
+	},
+	"46040205": {
+		"id": 46040205,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040205]
+	},
+	"46040206": {
+		"id": 46040206,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040206]
+	},
+	"46040207": {
+		"id": 46040207,
+		"name": "屠龙枪法",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040207]
+	},
+	"46040301": {
+		"id": 46040301,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040301]
+	},
+	"46040302": {
+		"id": 46040302,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040302]
+	},
+	"46040303": {
+		"id": 46040303,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040303]
+	},
+	"46040304": {
+		"id": 46040304,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040304]
+	},
+	"46040305": {
+		"id": 46040305,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040305]
+	},
+	"46040306": {
+		"id": 46040306,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040306]
+	},
+	"46040307": {
+		"id": 46040307,
+		"name": "天上人间",
+		"skillLv": 1,
+		"type": 3,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [46040307]
+	},
+	"47010101": {
+		"id": 47010101,
+		"name": "琴音入心",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [47010101]
+	},
+	"47010201": {
+		"id": 47010201,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010201]
+	},
+	"47010202": {
+		"id": 47010202,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010202]
+	},
+	"47010203": {
+		"id": 47010203,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010203]
+	},
+	"47010204": {
+		"id": 47010204,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010204]
+	},
+	"47010205": {
+		"id": 47010205,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010205]
+	},
+	"47010206": {
+		"id": 47010206,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010206]
+	},
+	"47010207": {
+		"id": 47010207,
+		"name": "幻音控心",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47010207]
+	},
+	"47020101": {
+		"id": 47020101,
+		"name": "蛊惑",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [47020101]
+	},
+	"47020201": {
+		"id": 47020201,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020201,47020211,47020221]
+	},
+	"47020202": {
+		"id": 47020202,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020202,47020212,47020222]
+	},
+	"47020203": {
+		"id": 47020203,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020203,47020213,47020223]
+	},
+	"47020204": {
+		"id": 47020204,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020204,47020214,47020224]
+	},
+	"47020205": {
+		"id": 47020205,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020205,47020215,47020225]
+	},
+	"47020206": {
+		"id": 47020206,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020206,47020216,47020226]
+	},
+	"47020207": {
+		"id": 47020207,
+		"name": "太平咒杀",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [47020207,47020217,47020227]
+	},
+	"48010101": {
+		"id": 48010101,
+		"name": "屠戮",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [48010101,48010111]
+	},
+	"48010201": {
+		"id": 48010201,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010201,48010211]
+	},
+	"48010202": {
+		"id": 48010202,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010202,48010212]
+	},
+	"48010203": {
+		"id": 48010203,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010203,48010213]
+	},
+	"48010204": {
+		"id": 48010204,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010204,48010214]
+	},
+	"48010205": {
+		"id": 48010205,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010205,48010215]
+	},
+	"48010206": {
+		"id": 48010206,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010206,48010216]
+	},
+	"48010207": {
+		"id": 48010207,
+		"name": "灭世",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [48010207,48010217]
+	},
+	"10010101": {
+		"id": 10010101,
+		"name": "治疗测试",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [10030101]
+	},
+	"10010201": {
+		"id": 10010201,
+		"name": "风火轮",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [10030102]
+	},
+	"10010301": {
+		"id": 10010301,
+		"name": "气吞山河",
+		"skillLv": 1,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [10030103]
+	},
+	"110010201": {
+		"id": 110010201,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010201,110010211]
+	},
+	"110010202": {
+		"id": 110010202,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010202,110010212]
+	},
+	"110010203": {
+		"id": 110010203,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010203,110010213]
+	},
+	"110010204": {
+		"id": 110010204,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010204,110010214]
+	},
+	"110010205": {
+		"id": 110010205,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010205,110010215]
+	},
+	"110010206": {
+		"id": 110010206,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010206,110010216]
+	},
+	"110010207": {
+		"id": 110010207,
+		"name": "快剑式",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [110010207,110010217]
+	},
+	"110020201": {
+		"id": 110020201,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020201,110020211]
+	},
+	"110020202": {
+		"id": 110020202,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020202,110020212]
+	},
+	"110020203": {
+		"id": 110020203,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020203,110020213]
+	},
+	"110020204": {
+		"id": 110020204,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020204,110020214]
+	},
+	"110020205": {
+		"id": 110020205,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020205,110020215]
+	},
+	"110020206": {
+		"id": 110020206,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020206,110020216]
+	},
+	"110020207": {
+		"id": 110020207,
+		"name": "八蛇破",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [110020207,110020217]
+	},
+	"120010201": {
+		"id": 120010201,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010201,120010211, 120010221]
+	},
+	"120010202": {
+		"id": 120010202,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010202,120010212, 120010222]
+	},
+	"120010203": {
+		"id": 120010203,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010203,120010213, 120010223]
+	},
+	"120010204": {
+		"id": 120010204,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010204,120010214, 120010224]
+	},
+	"120010205": {
+		"id": 120010205,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010205,120010215, 120010225]
+	},
+	"120010206": {
+		"id": 120010206,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010206,120010216, 120010226]
+	},
+	"120010207": {
+		"id": 120010207,
+		"name": "偃月斩",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [120010207,120010217, 120010227]
+	},
+	"120020201": {
+		"id": 120020201,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020201,120020211]
+	},
+	"120020202": {
+		"id": 120020202,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020202,120020212]
+	},
+	"120020203": {
+		"id": 120020203,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020203,120020213]
+	},
+	"120020204": {
+		"id": 120020204,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020204,120020214]
+	},
+	"120020205": {
+		"id": 120020205,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020205,120020215]
+	},
+	"120020206": {
+		"id": 120020206,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020206,120020216]
+	},
+	"120020207": {
+		"id": 120020207,
+		"name": "盘蛇七探",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [120020207,120020217]
+	},
+	"130010201": {
+		"id": 130010201,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010201]
+	},
+	"130010202": {
+		"id": 130010202,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010202]
+	},
+	"130010203": {
+		"id": 130010203,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010203]
+	},
+	"130010204": {
+		"id": 130010204,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010204]
+	},
+	"130010205": {
+		"id": 130010205,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010205]
+	},
+	"130010206": {
+		"id": 130010206,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010206]
+	},
+	"130010207": {
+		"id": 130010207,
+		"name": "鬼神画戟",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130010207]
+	},
+	"130020201": {
+		"id": 130020201,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020201,130020211, 130020221]
+	},
+	"130020202": {
+		"id": 130020202,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020202,130020212, 130020222]
+	},
+	"130020203": {
+		"id": 130020203,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020203,130020213, 130020223]
+	},
+	"130020204": {
+		"id": 130020204,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020204,130020214, 130020224]
+	},
+	"130020205": {
+		"id": 130020205,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020205,130020215, 130020225]
+	},
+	"130020206": {
+		"id": 130020206,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020206,130020216, 130020226]
+	},
+	"130020207": {
+		"id": 130020207,
+		"name": "擎天射日",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130020207,130020217, 130020227]
+	},
+	"130030201": {
+		"id": 130030201,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030201]
+	},
+	"130030202": {
+		"id": 130030202,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030202]
+	},
+	"130030203": {
+		"id": 130030203,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030203]
+	},
+	"130030204": {
+		"id": 130030204,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030204]
+	},
+	"130030205": {
+		"id": 130030205,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030205]
+	},
+	"130030206": {
+		"id": 130030206,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030206]
+	},
+	"130030207": {
+		"id": 130030207,
+		"name": "力破千军",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [130030207]
+	},
+	"130040201": {
+		"id": 130040201,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040201,130040211,130040221]
+	},
+	"130040202": {
+		"id": 130040202,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040202,130040212,130040222]
+	},
+	"130040203": {
+		"id": 130040203,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040203,130040213,130040223]
+	},
+	"130040204": {
+		"id": 130040204,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040204,130040214,130040224]
+	},
+	"130040205": {
+		"id": 130040205,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040205,130040215,130040225]
+	},
+	"130040206": {
+		"id": 130040206,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040206,130040216,130040226]
+	},
+	"130040207": {
+		"id": 130040207,
+		"name": "惊弦",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [130040207,130040217,130040227]
+	},
+	"140010201": {
+		"id": 140010201,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010201,140010211]
+	},
+	"140010202": {
+		"id": 140010202,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010202,140010212]
+	},
+	"140010203": {
+		"id": 140010203,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010203,140010213]
+	},
+	"140010204": {
+		"id": 140010204,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010204,140010214]
+	},
+	"140010205": {
+		"id": 140010205,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010205,140010215]
+	},
+	"140010206": {
+		"id": 140010206,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010206,140010216]
+	},
+	"140010207": {
+		"id": 140010207,
+		"name": "画戟无双",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [140010207,140010217]
+	},
+	"140020201": {
+		"id": 140020201,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020201,140020211,140020221]
+	},
+	"140020202": {
+		"id": 140020202,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020202,140020212,140020222]
+	},
+	"140020203": {
+		"id": 140020203,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020203,140020213,140020223]
+	},
+	"140020204": {
+		"id": 140020204,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020204,140020214,140020224]
+	},
+	"140020205": {
+		"id": 140020205,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020205,140020215,140020225]
+	},
+	"140020206": {
+		"id": 140020206,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020206,140020216,140020226]
+	},
+	"140020207": {
+		"id": 140020207,
+		"name": "银枪冲阵",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [140020207,140020217,140020227]
+	},
+	"150010201": {
+		"id": 150010201,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010201,150010211]
+	},
+	"150010202": {
+		"id": 150010202,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010202,150010212]
+	},
+	"150010203": {
+		"id": 150010203,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010203,150010213]
+	},
+	"150010204": {
+		"id": 150010204,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010204,150010214]
+	},
+	"150010205": {
+		"id": 150010205,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010205,150010215]
+	},
+	"150010206": {
+		"id": 150010206,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010206,150010216]
+	},
+	"150010207": {
+		"id": 150010207,
+		"name": "长林怒火",
+		"skillLv": 1,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [150010207,150010217]
+	},
+	"210010401": {
+		"id": 210010401,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010401]
+	},
+	"210010402": {
+		"id": 210010402,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010402]
+	},
+	"210010403": {
+		"id": 210010403,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010403]
+	},
+	"210010404": {
+		"id": 210010404,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010404]
+	},
+	"210010405": {
+		"id": 210010405,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010405]
+	},
+	"210010406": {
+		"id": 210010406,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010406]
+	},
+	"210010407": {
+		"id": 210010407,
+		"name": "玄铁",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210010407]
+	},
+	"210020401": {
+		"id": 210020401,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020401]
+	},
+	"210020402": {
+		"id": 210020402,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020402]
+	},
+	"210020403": {
+		"id": 210020403,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020403]
+	},
+	"210020404": {
+		"id": 210020404,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020404]
+	},
+	"210020405": {
+		"id": 210020405,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020405]
+	},
+	"210020406": {
+		"id": 210020406,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020406]
+	},
+	"210020407": {
+		"id": 210020407,
+		"name": "天枢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [210020407]
+	},
+	"220010401": {
+		"id": 220010401,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010401,220010411]
+	},
+	"220010402": {
+		"id": 220010402,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010402,220010412]
+	},
+	"220010403": {
+		"id": 220010403,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010403,220010413]
+	},
+	"220010404": {
+		"id": 220010404,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010404,220010414]
+	},
+	"220010405": {
+		"id": 220010405,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010405,220010415]
+	},
+	"220010406": {
+		"id": 220010406,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010406,220010416]
+	},
+	"220010407": {
+		"id": 220010407,
+		"name": "真武",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220010407,220010417]
+	},
+	"220020401": {
+		"id": 220020401,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020401,220020411]
+	},
+	"220020402": {
+		"id": 220020402,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020402,220020412]
+	},
+	"220020403": {
+		"id": 220020403,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020403,220020413]
+	},
+	"220020404": {
+		"id": 220020404,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020404,220020414]
+	},
+	"220020405": {
+		"id": 220020405,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020405,220020415]
+	},
+	"220020406": {
+		"id": 220020406,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020406,220020416]
+	},
+	"220020407": {
+		"id": 220020407,
+		"name": "星璇",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220020407,220020417]
+	},
+	"220030401": {
+		"id": 220030401,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030401]
+	},
+	"220030402": {
+		"id": 220030402,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030402]
+	},
+	"220030403": {
+		"id": 220030403,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030403]
+	},
+	"220030404": {
+		"id": 220030404,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030404]
+	},
+	"220030405": {
+		"id": 220030405,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030405]
+	},
+	"220030406": {
+		"id": 220030406,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030406]
+	},
+	"220030407": {
+		"id": 220030407,
+		"name": "开阳",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220030407]
+	},
+	"220040401": {
+		"id": 220040401,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040401]
+	},
+	"220040402": {
+		"id": 220040402,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040402]
+	},
+	"220040403": {
+		"id": 220040403,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040403]
+	},
+	"220040404": {
+		"id": 220040404,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040404]
+	},
+	"220040405": {
+		"id": 220040405,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040405]
+	},
+	"220040406": {
+		"id": 220040406,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040406]
+	},
+	"220040407": {
+		"id": 220040407,
+		"name": "天权",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [220040407]
+	},
+	"230010401": {
+		"id": 230010401,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010401,230010411]
+	},
+	"230010402": {
+		"id": 230010402,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010402,230010412]
+	},
+	"230010403": {
+		"id": 230010403,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010403,230010413]
+	},
+	"230010404": {
+		"id": 230010404,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010404,230010414]
+	},
+	"230010405": {
+		"id": 230010405,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010405,230010415]
+	},
+	"230010406": {
+		"id": 230010406,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010406,230010416]
+	},
+	"230010407": {
+		"id": 230010407,
+		"name": "魔岩",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230010407,230010417]
+	},
+	"230020401": {
+		"id": 230020401,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020401,230020411]
+	},
+	"230020402": {
+		"id": 230020402,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020402,230020412]
+	},
+	"230020403": {
+		"id": 230020403,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020403,230020413]
+	},
+	"230020404": {
+		"id": 230020404,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020404,230020414]
+	},
+	"230020405": {
+		"id": 230020405,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020405,230020415]
+	},
+	"230020406": {
+		"id": 230020406,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020406,230020416]
+	},
+	"230020407": {
+		"id": 230020407,
+		"name": "御龙",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [230020407,230020417]
+	},
+	"240010401": {
+		"id": 240010401,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010401,240010411]
+	},
+	"240010402": {
+		"id": 240010402,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010402,240010412]
+	},
+	"240010403": {
+		"id": 240010403,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010403,240010413]
+	},
+	"240010404": {
+		"id": 240010404,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010404,240010414]
+	},
+	"240010405": {
+		"id": 240010405,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010405,240010415]
+	},
+	"240010406": {
+		"id": 240010406,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010406,240010416]
+	},
+	"240010407": {
+		"id": 240010407,
+		"name": "剑冢",
+		"skillLv": 1,
+		"type": 6,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [240010407,240010417]
+	},
+	"30100101": {
+		"id": 30100101,
+		"name": "0星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001011]
+	},
+	"30100102": {
+		"id": 30100102,
+		"name": "1星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001021]
+	},
+	"30100103": {
+		"id": 30100103,
+		"name": "2星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001031]
+	},
+	"30100104": {
+		"id": 30100104,
+		"name": "3星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001041]
+	},
+	"30100105": {
+		"id": 30100105,
+		"name": "4星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001051]
+	},
+	"30100106": {
+		"id": 30100106,
+		"name": "5星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001061]
+	},
+	"30100107": {
+		"id": 30100107,
+		"name": "6星·灭灵",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301001071]
+	},
+	"30100201": {
+		"id": 30100201,
+		"name": "0星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002011]
+	},
+	"30100202": {
+		"id": 30100202,
+		"name": "1星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002021,301002022]
+	},
+	"30100203": {
+		"id": 30100203,
+		"name": "2星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002031,301002032]
+	},
+	"30100204": {
+		"id": 30100204,
+		"name": "3星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002041,301002042]
+	},
+	"30100205": {
+		"id": 30100205,
+		"name": "4星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002051,301002052]
+	},
+	"30100206": {
+		"id": 30100206,
+		"name": "5星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002061,301002062]
+	},
+	"30100207": {
+		"id": 30100207,
+		"name": "6星·滋养",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [301002071,301002072]
+	},
+	"30200101": {
+		"id": 30200101,
+		"name": "0星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001011]
+	},
+	"30200102": {
+		"id": 30200102,
+		"name": "1星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001021]
+	},
+	"30200103": {
+		"id": 30200103,
+		"name": "2星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001031]
+	},
+	"30200104": {
+		"id": 30200104,
+		"name": "3星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001041]
+	},
+	"30200105": {
+		"id": 30200105,
+		"name": "4星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001051]
+	},
+	"30200106": {
+		"id": 30200106,
+		"name": "5星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001061]
+	},
+	"30200107": {
+		"id": 30200107,
+		"name": "6星·吞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302001071]
+	},
+	"30200201": {
+		"id": 30200201,
+		"name": "0星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002011]
+	},
+	"30200202": {
+		"id": 30200202,
+		"name": "1星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002021]
+	},
+	"30200203": {
+		"id": 30200203,
+		"name": "2星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002031]
+	},
+	"30200204": {
+		"id": 30200204,
+		"name": "3星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002041]
+	},
+	"30200205": {
+		"id": 30200205,
+		"name": "4星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002051]
+	},
+	"30200206": {
+		"id": 30200206,
+		"name": "5星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002061]
+	},
+	"30200207": {
+		"id": 30200207,
+		"name": "6星·灭地",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302002071]
+	},
+	"30200301": {
+		"id": 30200301,
+		"name": "0星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003011]
+	},
+	"30200302": {
+		"id": 30200302,
+		"name": "1星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003021]
+	},
+	"30200303": {
+		"id": 30200303,
+		"name": "2星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003031]
+	},
+	"30200304": {
+		"id": 30200304,
+		"name": "3星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003041]
+	},
+	"30200305": {
+		"id": 30200305,
+		"name": "4星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003051]
+	},
+	"30200306": {
+		"id": 30200306,
+		"name": "5星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003061]
+	},
+	"30200307": {
+		"id": 30200307,
+		"name": "6星·火舞",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302003071]
+	},
+	"30200401": {
+		"id": 30200401,
+		"name": "0星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004011]
+	},
+	"30200402": {
+		"id": 30200402,
+		"name": "1星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004021,302004022]
+	},
+	"30200403": {
+		"id": 30200403,
+		"name": "2星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004031,302004032]
+	},
+	"30200404": {
+		"id": 30200404,
+		"name": "3星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004041,302004042]
+	},
+	"30200405": {
+		"id": 30200405,
+		"name": "4星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004051,302004052]
+	},
+	"30200406": {
+		"id": 30200406,
+		"name": "5星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004061,302004062]
+	},
+	"30200407": {
+		"id": 30200407,
+		"name": "6星·飞天",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [302004071,302004072]
+	},
+	"30300101": {
+		"id": 30300101,
+		"name": "0星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001011]
+	},
+	"30300102": {
+		"id": 30300102,
+		"name": "1星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001021]
+	},
+	"30300103": {
+		"id": 30300103,
+		"name": "2星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001031]
+	},
+	"30300104": {
+		"id": 30300104,
+		"name": "3星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001041]
+	},
+	"30300105": {
+		"id": 30300105,
+		"name": "4星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001051]
+	},
+	"30300106": {
+		"id": 30300106,
+		"name": "5星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001061]
+	},
+	"30300107": {
+		"id": 30300107,
+		"name": "6星·龙熄",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303001071]
+	},
+	"30300201": {
+		"id": 30300201,
+		"name": "0星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002011]
+	},
+	"30300202": {
+		"id": 30300202,
+		"name": "1星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002021,303002022]
+	},
+	"30300203": {
+		"id": 30300203,
+		"name": "2星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002031,303002032]
+	},
+	"30300204": {
+		"id": 30300204,
+		"name": "3星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002041,303002042]
+	},
+	"30300205": {
+		"id": 30300205,
+		"name": "4星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002051,303002052]
+	},
+	"30300206": {
+		"id": 30300206,
+		"name": "5星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002061,303002062]
+	},
+	"30300207": {
+		"id": 30300207,
+		"name": "6星·凤火",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303002071,303002072]
+	},
+	"30300301": {
+		"id": 30300301,
+		"name": "0星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003011]
+	},
+	"30300302": {
+		"id": 30300302,
+		"name": "1星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003021]
+	},
+	"30300303": {
+		"id": 30300303,
+		"name": "2星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003031]
+	},
+	"30300304": {
+		"id": 30300304,
+		"name": "3星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003041]
+	},
+	"30300305": {
+		"id": 30300305,
+		"name": "4星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003051]
+	},
+	"30300306": {
+		"id": 30300306,
+		"name": "5星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003061]
+	},
+	"30300307": {
+		"id": 30300307,
+		"name": "6星·白虎裂爪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303003071]
+	},
+	"30300401": {
+		"id": 30300401,
+		"name": "0星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004011,303004012]
+	},
+	"30300402": {
+		"id": 30300402,
+		"name": "1星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004021,303004022]
+	},
+	"30300403": {
+		"id": 30300403,
+		"name": "2星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004031,303004032]
+	},
+	"30300404": {
+		"id": 30300404,
+		"name": "3星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004041,303004042]
+	},
+	"30300405": {
+		"id": 30300405,
+		"name": "4星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004051,303004052]
+	},
+	"30300406": {
+		"id": 30300406,
+		"name": "5星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004061,303004062]
+	},
+	"30300407": {
+		"id": 30300407,
+		"name": "6星·狂涛怒浪",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [303004071,303004072]
+	},
+	"30400101": {
+		"id": 30400101,
+		"name": "0星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001011,304001012]
+	},
+	"30400102": {
+		"id": 30400102,
+		"name": "1星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001021,304001022]
+	},
+	"30400103": {
+		"id": 30400103,
+		"name": "2星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001031,304001032]
+	},
+	"30400104": {
+		"id": 30400104,
+		"name": "3星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001041,304001042]
+	},
+	"30400105": {
+		"id": 30400105,
+		"name": "4星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001051,304001052]
+	},
+	"30400106": {
+		"id": 30400106,
+		"name": "5星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001061,304001062]
+	},
+	"30400107": {
+		"id": 30400107,
+		"name": "6星·春阳扶桑",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304001071,304001072]
+	},
+	"30400201": {
+		"id": 30400201,
+		"name": "0星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002011,304002012]
+	},
+	"30400202": {
+		"id": 30400202,
+		"name": "1星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002021,304002022]
+	},
+	"30400203": {
+		"id": 30400203,
+		"name": "2星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002031,304002032]
+	},
+	"30400204": {
+		"id": 30400204,
+		"name": "3星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002041,304002042]
+	},
+	"30400205": {
+		"id": 30400205,
+		"name": "4星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002051,304002052]
+	},
+	"30400206": {
+		"id": 30400206,
+		"name": "5星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002061,304002062]
+	},
+	"30400207": {
+		"id": 30400207,
+		"name": "6星·秋庚刑肃",
+		"skillLv": 1,
+		"type": 5,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [304002071,304002072]
+	},
+	"410010101": {
+		"id": 410010101,
+		"name": "威震霸王",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010101]
+	},
+	"410010201": {
+		"id": 410010201,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010201,410010211]
+	},
+	"410010202": {
+		"id": 410010202,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010202,410010212]
+	},
+	"410010203": {
+		"id": 410010203,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010203,410010213]
+	},
+	"410010204": {
+		"id": 410010204,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010204,410010214]
+	},
+	"410010205": {
+		"id": 410010205,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010205,410010215]
+	},
+	"410010206": {
+		"id": 410010206,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010206,410010216]
+	},
+	"410010207": {
+		"id": 410010207,
+		"name": "气壮山河",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410010207,410010217]
+	},
+	"410010301": {
+		"id": 410010301,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010301,410010311]
+	},
+	"410010302": {
+		"id": 410010302,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010302,410010312]
+	},
+	"410010303": {
+		"id": 410010303,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010303,410010313]
+	},
+	"410010304": {
+		"id": 410010304,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010304,410010314]
+	},
+	"410010305": {
+		"id": 410010305,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010305,410010315]
+	},
+	"410010306": {
+		"id": 410010306,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010306,410010316]
+	},
+	"410010307": {
+		"id": 410010307,
+		"name": "威壮",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410010307,410010317]
+	},
+	"410020101": {
+		"id": 410020101,
+		"name": "鸿门计",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020101]
+	},
+	"410020201": {
+		"id": 410020201,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020201,410020211]
+	},
+	"410020202": {
+		"id": 410020202,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020202,410020212]
+	},
+	"410020203": {
+		"id": 410020203,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020203,410020213]
+	},
+	"410020204": {
+		"id": 410020204,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020204,410020214]
+	},
+	"410020205": {
+		"id": 410020205,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020205,410020215]
+	},
+	"410020206": {
+		"id": 410020206,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020206,410020216]
+	},
+	"410020207": {
+		"id": 410020207,
+		"name": "亡秦策",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [410020207,410020217]
+	},
+	"410020301": {
+		"id": 410020301,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020301]
+	},
+	"410020302": {
+		"id": 410020302,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020302]
+	},
+	"410020303": {
+		"id": 410020303,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020303]
+	},
+	"410020304": {
+		"id": 410020304,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020304]
+	},
+	"410020305": {
+		"id": 410020305,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020305]
+	},
+	"410020306": {
+		"id": 410020306,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020306]
+	},
+	"410020307": {
+		"id": 410020307,
+		"name": "亚父",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [410020307]
+	},
+	"420010101": {
+		"id": 420010101,
+		"name": "漠北逐戎",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010101]
+	},
+	"420010201": {
+		"id": 420010201,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010201]
+	},
+	"420010202": {
+		"id": 420010202,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010202]
+	},
+	"420010203": {
+		"id": 420010203,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010203]
+	},
+	"420010204": {
+		"id": 420010204,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010204]
+	},
+	"420010205": {
+		"id": 420010205,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010205]
+	},
+	"420010206": {
+		"id": 420010206,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010206]
+	},
+	"420010207": {
+		"id": 420010207,
+		"name": "封狼居胥",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420010207]
+	},
+	"420010301": {
+		"id": 420010301,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010301]
+	},
+	"420010302": {
+		"id": 420010302,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010302]
+	},
+	"420010303": {
+		"id": 420010303,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010303]
+	},
+	"420010304": {
+		"id": 420010304,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010304]
+	},
+	"420010305": {
+		"id": 420010305,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010305]
+	},
+	"420010306": {
+		"id": 420010306,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010306]
+	},
+	"420010307": {
+		"id": 420010307,
+		"name": "嫖姚",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420010307]
+	},
+	"420020101": {
+		"id": 420020101,
+		"name": "元狩破虏",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020101]
+	},
+	"420020201": {
+		"id": 420020201,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020201]
+	},
+	"420020202": {
+		"id": 420020202,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020202]
+	},
+	"420020203": {
+		"id": 420020203,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020203]
+	},
+	"420020204": {
+		"id": 420020204,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020204]
+	},
+	"420020205": {
+		"id": 420020205,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020205]
+	},
+	"420020206": {
+		"id": 420020206,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020206]
+	},
+	"420020207": {
+		"id": 420020207,
+		"name": "以战养战",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [420020207]
+	},
+	"420020301": {
+		"id": 420020301,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020301]
+	},
+	"420020302": {
+		"id": 420020302,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020302]
+	},
+	"420020303": {
+		"id": 420020303,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020303]
+	},
+	"420020304": {
+		"id": 420020304,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020304]
+	},
+	"420020305": {
+		"id": 420020305,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020305]
+	},
+	"420020306": {
+		"id": 420020306,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020306]
+	},
+	"420020307": {
+		"id": 420020307,
+		"name": "奇袭",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [420020307]
+	},
+	"420030101": {
+		"id": 420030101,
+		"name": "推恩",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020101]
+	},
+	"420030201": {
+		"id": 420030201,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020201]
+	},
+	"420030202": {
+		"id": 420030202,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020202]
+	},
+	"420030203": {
+		"id": 420030203,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020203]
+	},
+	"420030204": {
+		"id": 420030204,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020204]
+	},
+	"420030205": {
+		"id": 420030205,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020205]
+	},
+	"420030206": {
+		"id": 420030206,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020206]
+	},
+	"420030207": {
+		"id": 420030207,
+		"name": "九世之仇",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420020207]
+	},
+	"420030301": {
+		"id": 420030301,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020301]
+	},
+	"420030302": {
+		"id": 420030302,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020302]
+	},
+	"420030303": {
+		"id": 420030303,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020303]
+	},
+	"420030304": {
+		"id": 420030304,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020304]
+	},
+	"420030305": {
+		"id": 420030305,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020305]
+	},
+	"420030306": {
+		"id": 420030306,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020306]
+	},
+	"420030307": {
+		"id": 420030307,
+		"name": "黩武",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420020307]
+	},
+	"420040101": {
+		"id": 420040101,
+		"name": "妒怨",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040101]
+	},
+	"420040201": {
+		"id": 420040201,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040201]
+	},
+	"420040202": {
+		"id": 420040202,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040202]
+	},
+	"420040203": {
+		"id": 420040203,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040203]
+	},
+	"420040204": {
+		"id": 420040204,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040204]
+	},
+	"420040205": {
+		"id": 420040205,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040205]
+	},
+	"420040206": {
+		"id": 420040206,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040206]
+	},
+	"420040207": {
+		"id": 420040207,
+		"name": "临朝称制",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [420040207]
+	},
+	"420040301": {
+		"id": 420040301,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040301]
+	},
+	"420040302": {
+		"id": 420040302,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040302]
+	},
+	"420040303": {
+		"id": 420040303,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040303]
+	},
+	"420040304": {
+		"id": 420040304,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040304]
+	},
+	"420040305": {
+		"id": 420040305,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040305]
+	},
+	"420040306": {
+		"id": 420040306,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040306]
+	},
+	"420040307": {
+		"id": 420040307,
+		"name": "诛贤任亲",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [420040307]
+	},
+	"430010101": {
+		"id": 430010101,
+		"name": "曼舞",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010101,430010111]
+	},
+	"430010201": {
+		"id": 430010201,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010201,430010211,430010221]
+	},
+	"430010202": {
+		"id": 430010202,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010202,430010212,430010222]
+	},
+	"430010203": {
+		"id": 430010203,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010203,430010213,430010223]
+	},
+	"430010204": {
+		"id": 430010204,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010204,430010214,430010224]
+	},
+	"430010205": {
+		"id": 430010205,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010205,430010215,430010225]
+	},
+	"430010206": {
+		"id": 430010206,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010206,430010216,430010226]
+	},
+	"430010207": {
+		"id": 430010207,
+		"name": "诀别",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 2,
+		"furyCost": 4,
+		"effect": [430010207,430010217,430010227]
+	},
+	"430010301": {
+		"id": 430010301,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010301,430010311]
+	},
+	"430010302": {
+		"id": 430010302,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010302,430010312]
+	},
+	"430010303": {
+		"id": 430010303,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010303,430010313]
+	},
+	"430010304": {
+		"id": 430010304,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010304,430010314]
+	},
+	"430010305": {
+		"id": 430010305,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010305,430010315]
+	},
+	"430010306": {
+		"id": 430010306,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010306,430010316]
+	},
+	"430010307": {
+		"id": 430010307,
+		"name": "楚歌",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 2,
+		"furyCost": 0,
+		"effect": [430010307,430010317]
+	},
+	"430020101": {
+		"id": 430020101,
+		"name": "拔山盖世",
+		"skillLv": 0,
+		"type": 1,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020101]
+	},
+	"430020201": {
+		"id": 430020201,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020201,430020211]
+	},
+	"430020202": {
+		"id": 430020202,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020202,430020212]
+	},
+	"430020203": {
+		"id": 430020203,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020203,430020213]
+	},
+	"430020204": {
+		"id": 430020204,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020204,430020214]
+	},
+	"430020205": {
+		"id": 430020205,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020205,430020215]
+	},
+	"430020206": {
+		"id": 430020206,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020206,430020216]
+	},
+	"430020207": {
+		"id": 430020207,
+		"name": "霸王扛鼎",
+		"skillLv": 0,
+		"type": 2,
+		"hurtTpye": 1,
+		"furyCost": 4,
+		"effect": [430020207,430020217]
+	},
+	"430020301": {
+		"id": 430020301,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020301]
+	},
+	"430020302": {
+		"id": 430020302,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020302]
+	},
+	"430020303": {
+		"id": 430020303,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020303]
+	},
+	"430020304": {
+		"id": 430020304,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020304]
+	},
+	"430020305": {
+		"id": 430020305,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020305]
+	},
+	"430020306": {
+		"id": 430020306,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020306]
+	},
+	"430020307": {
+		"id": 430020307,
+		"name": "破釜沉舟",
+		"skillLv": 0,
+		"type": 7,
+		"hurtTpye": 1,
+		"furyCost": 0,
+		"effect": [430020307]
+	}
+}

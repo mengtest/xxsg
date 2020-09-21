@@ -1,0 +1,2864 @@
+{
+	"10001": {
+		"id": 10001,
+		"front": 0,
+		"worldLevel": 40,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 10
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 3000
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30041
+					}
+				]
+			}
+		}
+	},
+	"10002": {
+		"id": 10002,
+		"front": 10001,
+		"worldLevel": 40,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30042
+					}
+				]
+			}
+		}
+	},
+	"10003": {
+		"id": 10003,
+		"front": 10002,
+		"worldLevel": 40,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 200
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30043
+					}
+				]
+			}
+		}
+	},
+	"10004": {
+		"id": 10004,
+		"front": 10003,
+		"worldLevel": 40,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 5
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30044
+					}
+				]
+			}
+		}
+	},
+	"10005": {
+		"id": 10005,
+		"front": 10004,
+		"worldLevel": 40,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30045
+					}
+				]
+			}
+		}
+	},
+	"10006": {
+		"id": 10006,
+		"front": 10005,
+		"worldLevel": 40,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 3
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 3
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30046
+					}
+				]
+			}
+		}
+	},
+	"10007": {
+		"id": 10007,
+		"front": 10006,
+		"worldLevel": 40,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 100
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 2
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30047
+					}
+				]
+			}
+		}
+	},
+	"10008": {
+		"id": 10008,
+		"front": 0,
+		"worldLevel": 60,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 11
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 3300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30061
+					}
+				]
+			}
+		}
+	},
+	"10009": {
+		"id": 10009,
+		"front": 10008,
+		"worldLevel": 60,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1100
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 21
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30062
+					}
+				]
+			}
+		}
+	},
+	"10010": {
+		"id": 10010,
+		"front": 10009,
+		"worldLevel": 60,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 220
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 11
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30063
+					}
+				]
+			}
+		}
+	},
+	"10011": {
+		"id": 10011,
+		"front": 10010,
+		"worldLevel": 60,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 6
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 6
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30064
+					}
+				]
+			}
+		}
+	},
+	"10012": {
+		"id": 10012,
+		"front": 10011,
+		"worldLevel": 60,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1100
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 101
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30065
+					}
+				]
+			}
+		}
+	},
+	"10013": {
+		"id": 10013,
+		"front": 10012,
+		"worldLevel": 60,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30066
+					}
+				]
+			}
+		}
+	},
+	"10014": {
+		"id": 10014,
+		"front": 10013,
+		"worldLevel": 60,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 101
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 3
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30067
+					}
+				]
+			}
+		}
+	},
+	"10015": {
+		"id": 10015,
+		"front": 0,
+		"worldLevel": 80,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 12
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 3700
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30081
+					}
+				]
+			}
+		}
+	},
+	"10016": {
+		"id": 10016,
+		"front": 10015,
+		"worldLevel": 80,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1300
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 22
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30082
+					}
+				]
+			}
+		}
+	},
+	"10017": {
+		"id": 10017,
+		"front": 10016,
+		"worldLevel": 80,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 250
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 12
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30083
+					}
+				]
+			}
+		}
+	},
+	"10018": {
+		"id": 10018,
+		"front": 10017,
+		"worldLevel": 80,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 7
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 7
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30084
+					}
+				]
+			}
+		}
+	},
+	"10019": {
+		"id": 10019,
+		"front": 10018,
+		"worldLevel": 80,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1300
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 120
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30085
+					}
+				]
+			}
+		}
+	},
+	"10020": {
+		"id": 10020,
+		"front": 10019,
+		"worldLevel": 80,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 5
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30086
+					}
+				]
+			}
+		}
+	},
+	"10021": {
+		"id": 10021,
+		"front": 10020,
+		"worldLevel": 80,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 120
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 4
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30087
+					}
+				]
+			}
+		}
+	},
+	"10022": {
+		"id": 10022,
+		"front": 0,
+		"worldLevel": 100,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 13
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 4100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30101
+					}
+				]
+			}
+		}
+	},
+	"10023": {
+		"id": 10023,
+		"front": 10022,
+		"worldLevel": 100,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1500
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 23
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30102
+					}
+				]
+			}
+		}
+	},
+	"10024": {
+		"id": 10024,
+		"front": 10023,
+		"worldLevel": 100,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 280
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 13
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30103
+					}
+				]
+			}
+		}
+	},
+	"10025": {
+		"id": 10025,
+		"front": 10024,
+		"worldLevel": 100,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 8
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 8
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30104
+					}
+				]
+			}
+		}
+	},
+	"10026": {
+		"id": 10026,
+		"front": 10025,
+		"worldLevel": 100,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1500
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 140
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30105
+					}
+				]
+			}
+		}
+	},
+	"10027": {
+		"id": 10027,
+		"front": 10026,
+		"worldLevel": 100,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 6
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 6
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30106
+					}
+				]
+			}
+		}
+	},
+	"10028": {
+		"id": 10028,
+		"front": 10027,
+		"worldLevel": 100,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 140
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 5
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30107
+					}
+				]
+			}
+		}
+	},
+	"10029": {
+		"id": 10029,
+		"front": 0,
+		"worldLevel": 120,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 14
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 4600
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30121
+					}
+				]
+			}
+		}
+	},
+	"10030": {
+		"id": 10030,
+		"front": 10029,
+		"worldLevel": 120,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1700
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 24
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30122
+					}
+				]
+			}
+		}
+	},
+	"10031": {
+		"id": 10031,
+		"front": 10030,
+		"worldLevel": 120,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 310
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 14
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30123
+					}
+				]
+			}
+		}
+	},
+	"10032": {
+		"id": 10032,
+		"front": 10031,
+		"worldLevel": 120,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 9
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 9
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30124
+					}
+				]
+			}
+		}
+	},
+	"10033": {
+		"id": 10033,
+		"front": 10032,
+		"worldLevel": 120,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1700
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 160
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30125
+					}
+				]
+			}
+		}
+	},
+	"10034": {
+		"id": 10034,
+		"front": 10033,
+		"worldLevel": 120,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 7
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 7
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30126
+					}
+				]
+			}
+		}
+	},
+	"10035": {
+		"id": 10035,
+		"front": 10034,
+		"worldLevel": 120,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 160
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 6
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30127
+					}
+				]
+			}
+		}
+	},
+	"10036": {
+		"id": 10036,
+		"front": 0,
+		"worldLevel": 140,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 15
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 5100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30141
+					}
+				]
+			}
+		}
+	},
+	"10037": {
+		"id": 10037,
+		"front": 10036,
+		"worldLevel": 140,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1900
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 25
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30142
+					}
+				]
+			}
+		}
+	},
+	"10038": {
+		"id": 10038,
+		"front": 10037,
+		"worldLevel": 140,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 350
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30143
+					}
+				]
+			}
+		}
+	},
+	"10039": {
+		"id": 10039,
+		"front": 10038,
+		"worldLevel": 140,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 10
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30144
+					}
+				]
+			}
+		}
+	},
+	"10040": {
+		"id": 10040,
+		"front": 10039,
+		"worldLevel": 140,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1900
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 180
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30145
+					}
+				]
+			}
+		}
+	},
+	"10041": {
+		"id": 10041,
+		"front": 10040,
+		"worldLevel": 140,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 8
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 8
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30146
+					}
+				]
+			}
+		}
+	},
+	"10042": {
+		"id": 10042,
+		"front": 10041,
+		"worldLevel": 140,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 180
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 7
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30147
+					}
+				]
+			}
+		}
+	},
+	"10043": {
+		"id": 10043,
+		"front": 0,
+		"worldLevel": 160,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 16
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 5700
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30161
+					}
+				]
+			}
+		}
+	},
+	"10044": {
+		"id": 10044,
+		"front": 10043,
+		"worldLevel": 160,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 2100
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 26
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30162
+					}
+				]
+			}
+		}
+	},
+	"10045": {
+		"id": 10045,
+		"front": 10044,
+		"worldLevel": 160,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 390
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 16
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30163
+					}
+				]
+			}
+		}
+	},
+	"10046": {
+		"id": 10046,
+		"front": 10045,
+		"worldLevel": 160,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 11
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 11
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30164
+					}
+				]
+			}
+		}
+	},
+	"10047": {
+		"id": 10047,
+		"front": 10046,
+		"worldLevel": 160,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 2100
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30165
+					}
+				]
+			}
+		}
+	},
+	"10048": {
+		"id": 10048,
+		"front": 10047,
+		"worldLevel": 160,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 9
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 9
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30166
+					}
+				]
+			}
+		}
+	},
+	"10049": {
+		"id": 10049,
+		"front": 10048,
+		"worldLevel": 160,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 200
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 8
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30167
+					}
+				]
+			}
+		}
+	},
+	"10050": {
+		"id": 10050,
+		"front": 0,
+		"worldLevel": 180,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 17
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 6300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30181
+					}
+				]
+			}
+		}
+	},
+	"10051": {
+		"id": 10051,
+		"front": 10050,
+		"worldLevel": 180,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 2400
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 27
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30182
+					}
+				]
+			}
+		}
+	},
+	"10052": {
+		"id": 10052,
+		"front": 10051,
+		"worldLevel": 180,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 430
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 17
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30183
+					}
+				]
+			}
+		}
+	},
+	"10053": {
+		"id": 10053,
+		"front": 10052,
+		"worldLevel": 180,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 12
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 12
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30184
+					}
+				]
+			}
+		}
+	},
+	"10054": {
+		"id": 10054,
+		"front": 10053,
+		"worldLevel": 180,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 2400
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 220
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30185
+					}
+				]
+			}
+		}
+	},
+	"10055": {
+		"id": 10055,
+		"front": 10054,
+		"worldLevel": 180,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 10
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30186
+					}
+				]
+			}
+		}
+	},
+	"10056": {
+		"id": 10056,
+		"front": 10055,
+		"worldLevel": 180,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 220
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 9
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30187
+					}
+				]
+			}
+		}
+	},
+	"10057": {
+		"id": 10057,
+		"front": 0,
+		"worldLevel": 999,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 18
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 7000
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30201
+					}
+				]
+			}
+		}
+	},
+	"10058": {
+		"id": 10058,
+		"front": 10057,
+		"worldLevel": 999,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 2700
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 28
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30202
+					}
+				]
+			}
+		}
+	},
+	"10059": {
+		"id": 10059,
+		"front": 10058,
+		"worldLevel": 999,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 480
+			},
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 18
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30203
+					}
+				]
+			}
+		}
+	},
+	"10060": {
+		"id": 10060,
+		"front": 10059,
+		"worldLevel": 999,
+		"openDay": 4,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 13
+			},
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 13
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30204
+					}
+				]
+			}
+		}
+	},
+	"10061": {
+		"id": 10061,
+		"front": 10060,
+		"worldLevel": 999,
+		"openDay": 5,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 700
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 2700
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 250
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30205
+					}
+				]
+			}
+		}
+	},
+	"10062": {
+		"id": 10062,
+		"front": 10061,
+		"worldLevel": 999,
+		"openDay": 6,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 11
+			},
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 11
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30206
+					}
+				]
+			}
+		}
+	},
+	"10063": {
+		"id": 10063,
+		"front": 10062,
+		"worldLevel": 999,
+		"openDay": 7,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 250
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30207
+					}
+				]
+			}
+		}
+	},
+	"20001": {
+		"id": 20001,
+		"front": 0,
+		"worldLevel": 40,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30041
+					}
+				]
+			}
+		}
+	},
+	"20002": {
+		"id": 20002,
+		"front": 20001,
+		"worldLevel": 40,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30042
+					}
+				]
+			}
+		}
+	},
+	"20003": {
+		"id": 20003,
+		"front": 20002,
+		"worldLevel": 40,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30043
+					}
+				]
+			}
+		}
+	},
+	"20008": {
+		"id": 20008,
+		"front": 0,
+		"worldLevel": 60,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30061
+					}
+				]
+			}
+		}
+	},
+	"20009": {
+		"id": 20009,
+		"front": 20008,
+		"worldLevel": 60,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30062
+					}
+				]
+			}
+		}
+	},
+	"20010": {
+		"id": 20010,
+		"front": 20009,
+		"worldLevel": 60,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30063
+					}
+				]
+			}
+		}
+	},
+	"20015": {
+		"id": 20015,
+		"front": 0,
+		"worldLevel": 80,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 4,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30081
+					}
+				]
+			}
+		}
+	},
+	"20016": {
+		"id": 20016,
+		"front": 20015,
+		"worldLevel": 80,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 4,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30082
+					}
+				]
+			}
+		}
+	},
+	"20017": {
+		"id": 20017,
+		"front": 20016,
+		"worldLevel": 80,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 4,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30083
+					}
+				]
+			}
+		}
+	},
+	"20022": {
+		"id": 20022,
+		"front": 0,
+		"worldLevel": 100,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30101
+					}
+				]
+			}
+		}
+	},
+	"20023": {
+		"id": 20023,
+		"front": 20022,
+		"worldLevel": 100,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30102
+					}
+				]
+			}
+		}
+	},
+	"20024": {
+		"id": 20024,
+		"front": 20023,
+		"worldLevel": 100,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30103
+					}
+				]
+			}
+		}
+	},
+	"20029": {
+		"id": 20029,
+		"front": 0,
+		"worldLevel": 120,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30121
+					}
+				]
+			}
+		}
+	},
+	"20030": {
+		"id": 20030,
+		"front": 20029,
+		"worldLevel": 120,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30122
+					}
+				]
+			}
+		}
+	},
+	"20031": {
+		"id": 20031,
+		"front": 20030,
+		"worldLevel": 120,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30123
+					}
+				]
+			}
+		}
+	},
+	"20036": {
+		"id": 20036,
+		"front": 0,
+		"worldLevel": 140,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30141
+					}
+				]
+			}
+		}
+	},
+	"20037": {
+		"id": 20037,
+		"front": 20036,
+		"worldLevel": 140,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30142
+					}
+				]
+			}
+		}
+	},
+	"20038": {
+		"id": 20038,
+		"front": 20037,
+		"worldLevel": 140,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30143
+					}
+				]
+			}
+		}
+	},
+	"20043": {
+		"id": 20043,
+		"front": 0,
+		"worldLevel": 160,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30161
+					}
+				]
+			}
+		}
+	},
+	"20044": {
+		"id": 20044,
+		"front": 20043,
+		"worldLevel": 160,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30162
+					}
+				]
+			}
+		}
+	},
+	"20045": {
+		"id": 20045,
+		"front": 20044,
+		"worldLevel": 160,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30163
+					}
+				]
+			}
+		}
+	},
+	"20050": {
+		"id": 20050,
+		"front": 0,
+		"worldLevel": 180,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 4,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30181
+					}
+				]
+			}
+		}
+	},
+	"20051": {
+		"id": 20051,
+		"front": 20050,
+		"worldLevel": 180,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 4,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30182
+					}
+				]
+			}
+		}
+	},
+	"20052": {
+		"id": 20052,
+		"front": 20051,
+		"worldLevel": 180,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 4,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30183
+					}
+				]
+			}
+		}
+	},
+	"20057": {
+		"id": 20057,
+		"front": 0,
+		"worldLevel": 200,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30201
+					}
+				]
+			}
+		}
+	},
+	"20058": {
+		"id": 20058,
+		"front": 20057,
+		"worldLevel": 200,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30202
+					}
+				]
+			}
+		}
+	},
+	"20059": {
+		"id": 20059,
+		"front": 20058,
+		"worldLevel": 200,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30203
+					}
+				]
+			}
+		}
+	},
+	"20060": {
+		"id": 20060,
+		"front": 0,
+		"worldLevel": 999,
+		"openDay": 1,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30201
+					}
+				]
+			}
+		}
+	},
+	"20061": {
+		"id": 20061,
+		"front": 20060,
+		"worldLevel": 999,
+		"openDay": 2,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30202
+					}
+				]
+			}
+		}
+	},
+	"20062": {
+		"id": 20062,
+		"front": 20061,
+		"worldLevel": 999,
+		"openDay": 3,
+		"challReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 300
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 30203
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"1": {
+		"fashionId": 1,
+		"fashionNameM": "杀神",
+		"fashionNameW": "杀神",
+		"item": [
+			{
+				"type": 2,
+				"id": 401001,
+				"num": 120
+			}
+		]
+	},
+	"2": {
+		"fashionId": 2,
+		"fashionNameM": "飞将",
+		"fashionNameW": "飞将",
+		"item": [
+			{
+				"type": 2,
+				"id": 401002,
+				"num": 120
+			}
+		]
+	},
+	"3": {
+		"fashionId": 3,
+		"fashionNameM": "帅气驯鹿",
+		"fashionNameW": "激萌驯鹿",
+		"item": [
+			{
+				"type": 2,
+				"id": 401003,
+				"num": 150
+			}
+		]
+	}
+}

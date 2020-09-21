@@ -1,0 +1,6397 @@
+{
+	"1001": {
+		"goodsId": 1001,
+		"goodsType": 1,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000102,
+				"num": 10
+			}
+		],
+		"costType": 2,
+		"costNum": 80,
+		"maxNum": 11250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1002": {
+		"goodsId": 1002,
+		"goodsType": 1,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 50
+			}
+		],
+		"costType": 1,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 5,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1003": {
+		"goodsId": 1003,
+		"goodsType": 1,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 100
+			}
+		],
+		"costType": 2,
+		"costNum": 200,
+		"maxNum": 4500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1004": {
+		"goodsId": 1004,
+		"goodsType": 1,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 100
+			}
+		],
+		"costType": 2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1006": {
+		"goodsId": 1006,
+		"goodsType": 1,
+		"order": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1007": {
+		"goodsId": 1007,
+		"goodsType": 1,
+		"order": 19,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1008": {
+		"goodsId": 1008,
+		"goodsType": 1,
+		"order": 18,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001006,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 20,
+		"maxNum": 45000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1009": {
+		"goodsId": 1009,
+		"goodsType": 1,
+		"order": 17,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001007,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1010": {
+		"goodsId": 1010,
+		"goodsType": 1,
+		"order": 16,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001002,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 50,
+		"maxNum": 18000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1011": {
+		"goodsId": 1011,
+		"goodsType": 1,
+		"order": 15,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1012": {
+		"goodsId": 1012,
+		"goodsType": 1,
+		"order": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000015,
+				"num": 100
+			}
+		],
+		"costType": 2,
+		"costNum": 60,
+		"maxNum": 15000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1013": {
+		"goodsId": 1013,
+		"goodsType": 1,
+		"order": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 1000
+			}
+		],
+		"costType": 2,
+		"costNum": 200,
+		"maxNum": 4500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1014": {
+		"goodsId": 1014,
+		"goodsType": 1,
+		"order": 20,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000019,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 4888,
+		"maxNum": 184124,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1015": {
+		"goodsId": 1015,
+		"goodsType": 1,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30011002,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1016": {
+		"goodsId": 1016,
+		"goodsType": 1,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1017": {
+		"goodsId": 1017,
+		"goodsType": 1,
+		"order": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30012002,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1018": {
+		"goodsId": 1018,
+		"goodsType": 1,
+		"order": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30010007,
+				"num": 50
+			}
+		],
+		"costType": 2,
+		"costNum": 150,
+		"maxNum": 6000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1019": {
+		"goodsId": 1019,
+		"goodsType": 1,
+		"order": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30013002,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1020": {
+		"goodsId": 1020,
+		"goodsType": 1,
+		"order": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000036,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 20,
+		"maxNum": 45000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1021": {
+		"goodsId": 1021,
+		"goodsType": 1,
+		"order": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30040001,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 20,
+		"maxNum": 45000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3001": {
+		"goodsId": 3001,
+		"goodsType": 3,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1000000,
+		"maxNum": 900,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 50
+			}
+		],
+		"limitType": 3,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3002": {
+		"goodsId": 3002,
+		"goodsType": 3,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000501,
+				"num": 100
+			}
+		],
+		"costType": 8,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3101": {
+		"goodsId": 3101,
+		"goodsType": 3,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000036,
+				"num": 5
+			}
+		],
+		"costType": 8,
+		"costNum": 200000,
+		"maxNum": 4500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 3,
+		"sellTimes": 50,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3003": {
+		"goodsId": 3003,
+		"goodsType": 3,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000502,
+				"num": 100
+			}
+		],
+		"costType": 8,
+		"costNum": 1000000,
+		"maxNum": 900,
+		"costItem": 30000501,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3004": {
+		"goodsId": 3004,
+		"goodsType": 3,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 5000
+			}
+		],
+		"costType": 8,
+		"costNum": 2000000,
+		"maxNum": 450,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3005": {
+		"goodsId": 3005,
+		"goodsType": 3,
+		"order": 6,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500101,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 300000,
+		"maxNum": 3000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3006": {
+		"goodsId": 3006,
+		"goodsType": 3,
+		"order": 7,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500102,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 300000,
+		"maxNum": 3000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3007": {
+		"goodsId": 3007,
+		"goodsType": 3,
+		"order": 8,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500103,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 300000,
+		"maxNum": 3000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3008": {
+		"goodsId": 3008,
+		"goodsType": 3,
+		"order": 9,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500104,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 300000,
+		"maxNum": 3000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3009": {
+		"goodsId": 3009,
+		"goodsType": 3,
+		"order": 10,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500201,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3010": {
+		"goodsId": 3010,
+		"goodsType": 3,
+		"order": 11,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500202,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3011": {
+		"goodsId": 3011,
+		"goodsType": 3,
+		"order": 12,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500203,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3012": {
+		"goodsId": 3012,
+		"goodsType": 3,
+		"order": 13,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500204,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3013": {
+		"goodsId": 3013,
+		"goodsType": 14,
+		"order": 1,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600101,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1000000,
+		"maxNum": 900,
+		"costItem": 30000501,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3014": {
+		"goodsId": 3014,
+		"goodsType": 14,
+		"order": 2,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600102,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1000000,
+		"maxNum": 900,
+		"costItem": 30000501,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3015": {
+		"goodsId": 3015,
+		"goodsType": 14,
+		"order": 3,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600103,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1000000,
+		"maxNum": 900,
+		"costItem": 30000501,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3016": {
+		"goodsId": 3016,
+		"goodsType": 14,
+		"order": 4,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600104,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1000000,
+		"maxNum": 900,
+		"costItem": 30000501,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3017": {
+		"goodsId": 3017,
+		"goodsType": 14,
+		"order": 5,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600201,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 2000000,
+		"maxNum": 450,
+		"costItem": 30000501,
+		"itemNum": 2000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3018": {
+		"goodsId": 3018,
+		"goodsType": 14,
+		"order": 6,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600202,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 2000000,
+		"maxNum": 450,
+		"costItem": 30000501,
+		"itemNum": 2000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3019": {
+		"goodsId": 3019,
+		"goodsType": 14,
+		"order": 7,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600203,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 2000000,
+		"maxNum": 450,
+		"costItem": 30000501,
+		"itemNum": 2000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3020": {
+		"goodsId": 3020,
+		"goodsType": 14,
+		"order": 8,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600204,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 2000000,
+		"maxNum": 450,
+		"costItem": 30000501,
+		"itemNum": 2000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3021": {
+		"goodsId": 3021,
+		"goodsType": 14,
+		"order": 9,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700101,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 10000000,
+		"maxNum": 90,
+		"costItem": 30000502,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3022": {
+		"goodsId": 3022,
+		"goodsType": 14,
+		"order": 10,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700102,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 10000000,
+		"maxNum": 90,
+		"costItem": 30000502,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3023": {
+		"goodsId": 3023,
+		"goodsType": 14,
+		"order": 11,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700103,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 10000000,
+		"maxNum": 90,
+		"costItem": 30000502,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3024": {
+		"goodsId": 3024,
+		"goodsType": 14,
+		"order": 12,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700104,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 10000000,
+		"maxNum": 90,
+		"costItem": 30000502,
+		"itemNum": 1000,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3501": {
+		"goodsId": 3501,
+		"goodsType": 12,
+		"order": 1,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500101,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 10
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3502": {
+		"goodsId": 3502,
+		"goodsType": 12,
+		"order": 2,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500102,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 20
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3503": {
+		"goodsId": 3503,
+		"goodsType": 12,
+		"order": 3,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500103,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 30
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3504": {
+		"goodsId": 3504,
+		"goodsType": 12,
+		"order": 4,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500104,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 40
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3505": {
+		"goodsId": 3505,
+		"goodsType": 12,
+		"order": 5,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500201,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 200000,
+		"maxNum": 4500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 50
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3506": {
+		"goodsId": 3506,
+		"goodsType": 12,
+		"order": 6,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500202,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 200000,
+		"maxNum": 4500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 75
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3507": {
+		"goodsId": 3507,
+		"goodsType": 12,
+		"order": 7,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500203,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 200000,
+		"maxNum": 4500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 100
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3508": {
+		"goodsId": 3508,
+		"goodsType": 12,
+		"order": 8,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500204,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 200000,
+		"maxNum": 4500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 125
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3509": {
+		"goodsId": 3509,
+		"goodsType": 12,
+		"order": 9,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600101,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 30000501,
+		"itemNum": 500,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 160
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3510": {
+		"goodsId": 3510,
+		"goodsType": 12,
+		"order": 10,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600102,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 30000501,
+		"itemNum": 500,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 200
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3511": {
+		"goodsId": 3511,
+		"goodsType": 12,
+		"order": 11,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600103,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 30000501,
+		"itemNum": 500,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 240
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3512": {
+		"goodsId": 3512,
+		"goodsType": 12,
+		"order": 12,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600104,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 500000,
+		"maxNum": 1800,
+		"costItem": 30000501,
+		"itemNum": 500,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 280
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3513": {
+		"goodsId": 3513,
+		"goodsType": 12,
+		"order": 13,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600201,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1200000,
+		"maxNum": 750,
+		"costItem": 30000501,
+		"itemNum": 1200,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 360
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3514": {
+		"goodsId": 3514,
+		"goodsType": 12,
+		"order": 14,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600202,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1200000,
+		"maxNum": 750,
+		"costItem": 30000501,
+		"itemNum": 1200,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 440
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3515": {
+		"goodsId": 3515,
+		"goodsType": 12,
+		"order": 15,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600203,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1200000,
+		"maxNum": 750,
+		"costItem": 30000501,
+		"itemNum": 1200,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 520
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3516": {
+		"goodsId": 3516,
+		"goodsType": 12,
+		"order": 16,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600204,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 1200000,
+		"maxNum": 750,
+		"costItem": 30000501,
+		"itemNum": 1200,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 600
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3517": {
+		"goodsId": 3517,
+		"goodsType": 12,
+		"order": 18,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700101,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 7000000,
+		"maxNum": 128,
+		"costItem": 30000502,
+		"itemNum": 700,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 700
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3518": {
+		"goodsId": 3518,
+		"goodsType": 12,
+		"order": 19,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700102,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 7000000,
+		"maxNum": 128,
+		"costItem": 30000502,
+		"itemNum": 700,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 800
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3519": {
+		"goodsId": 3519,
+		"goodsType": 12,
+		"order": 20,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700103,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 7000000,
+		"maxNum": 128,
+		"costItem": 30000502,
+		"itemNum": 700,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 900
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3520": {
+		"goodsId": 3520,
+		"goodsType": 12,
+		"order": 21,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700104,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 7000000,
+		"maxNum": 128,
+		"costItem": 30000502,
+		"itemNum": 700,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 1000
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"3521": {
+		"goodsId": 3521,
+		"goodsType": 12,
+		"order": 17,
+		"reward": [
+			{
+				"type": 2,
+				"id": 903001,
+				"num": 1
+			}
+		],
+		"costType": 8,
+		"costNum": 100000000,
+		"maxNum": 9,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 6,
+				"value": 700
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4001": {
+		"goodsId": 4001,
+		"goodsType": 4,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000611,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 100,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4002": {
+		"goodsId": 4002,
+		"goodsType": 4,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000612,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 20,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4003": {
+		"goodsId": 4003,
+		"goodsType": 4,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30010007,
+				"num": 50
+			}
+		],
+		"costType": 5,
+		"costNum": 200,
+		"maxNum": 4500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 5,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4004": {
+		"goodsId": 4004,
+		"goodsType": 4,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 211502,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4005": {
+		"goodsId": 4005,
+		"goodsType": 4,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 212502,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4006": {
+		"goodsId": 4006,
+		"goodsType": 4,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 213502,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4007": {
+		"goodsId": 4007,
+		"goodsType": 4,
+		"order": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 214502,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"4021": {
+		"goodsId": 4021,
+		"goodsType": 4,
+		"order": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30012001,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 40,
+		"maxNum": 22500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 65
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 500,
+		"addStock": 100,
+		"midStock": 500
+	},
+	"4022": {
+		"goodsId": 4022,
+		"goodsType": 4,
+		"order": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30013001,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 40,
+		"maxNum": 22500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 70
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 500,
+		"addStock": 100,
+		"midStock": 500
+	},
+	"4023": {
+		"goodsId": 4023,
+		"goodsType": 4,
+		"order": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000024,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 80
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 5,
+		"addStock": 1,
+		"midStock": 5
+	},
+	"4024": {
+		"goodsId": 4024,
+		"goodsType": 4,
+		"order": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000023,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 5,
+		"addStock": 1,
+		"midStock": 5
+	},
+	"4025": {
+		"goodsId": 4025,
+		"goodsType": 4,
+		"order": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 40,
+		"maxNum": 22500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 250,
+		"addStock": 50,
+		"midStock": 250
+	},
+	"4026": {
+		"goodsId": 4026,
+		"goodsType": 4,
+		"order": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001006,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 80,
+		"maxNum": 11250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 125,
+		"addStock": 25,
+		"midStock": 125
+	},
+	"4027": {
+		"goodsId": 4027,
+		"goodsType": 4,
+		"order": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001007,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 25,
+		"addStock": 5,
+		"midStock": 25
+	},
+	"4028": {
+		"goodsId": 4028,
+		"goodsType": 4,
+		"order": 15,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000034,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 5,
+		"addStock": 1,
+		"midStock": 5
+	},
+	"4029": {
+		"goodsId": 4029,
+		"goodsType": 4,
+		"order": 16,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30040001,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 52
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 50,
+		"addStock": 10,
+		"midStock": 50
+	},
+	"4030": {
+		"goodsId": 4030,
+		"goodsType": 4,
+		"order": 17,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30040002,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 600,
+		"maxNum": 1500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 52
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 50,
+		"addStock": 10,
+		"midStock": 50
+	},
+	"4031": {
+		"goodsId": 4031,
+		"goodsType": 4,
+		"order": 18,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30040003,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 52
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 25,
+		"addStock": 5,
+		"midStock": 25
+	},
+	"4032": {
+		"goodsId": 4032,
+		"goodsType": 4,
+		"order": 19,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30040004,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 2000,
+		"maxNum": 450000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 52
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 15,
+		"addStock": 3,
+		"midStock": 15
+	},
+	"4033": {
+		"goodsId": 4033,
+		"goodsType": 4,
+		"order": 20,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30040005,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 4000,
+		"maxNum": 225000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 52
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 5,
+		"addStock": 1,
+		"midStock": 5
+	},
+	"5001": {
+		"goodsId": 5001,
+		"goodsType": 5,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000014,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 40,
+		"maxNum": 22500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 10000
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5002": {
+		"goodsId": 5002,
+		"goodsType": 5,
+		"order": 2,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400103,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 40,
+		"maxNum": 22500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 5000
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5003": {
+		"goodsId": 5003,
+		"goodsType": 5,
+		"order": 3,
+		"reward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000000
+			}
+		],
+		"costType": 5,
+		"costNum": 80,
+		"maxNum": 11250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 3000
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5004": {
+		"goodsId": 5004,
+		"goodsType": 5,
+		"order": 4,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400202,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 80,
+		"maxNum": 11250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 2000
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5005": {
+		"goodsId": 5005,
+		"goodsType": 5,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000612,
+				"num": 10
+			}
+		],
+		"costType": 5,
+		"costNum": 200,
+		"maxNum": 4500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 1000
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5006": {
+		"goodsId": 5006,
+		"goodsType": 5,
+		"order": 6,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400304,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 500
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5007": {
+		"goodsId": 5007,
+		"goodsType": 5,
+		"order": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 300
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5008": {
+		"goodsId": 5008,
+		"goodsType": 5,
+		"order": 8,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500101,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 300,
+		"maxNum": 3000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 200
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5009": {
+		"goodsId": 5009,
+		"goodsType": 5,
+		"order": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 5000
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 100
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5010": {
+		"goodsId": 5010,
+		"goodsType": 5,
+		"order": 10,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500203,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 50
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5011": {
+		"goodsId": 5011,
+		"goodsType": 5,
+		"order": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 4
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 30
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5012": {
+		"goodsId": 5012,
+		"goodsType": 5,
+		"order": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 500
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 20
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5013": {
+		"goodsId": 5013,
+		"goodsType": 5,
+		"order": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 2
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 10
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5014": {
+		"goodsId": 5014,
+		"goodsType": 5,
+		"order": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 100
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 9
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5015": {
+		"goodsId": 5015,
+		"goodsType": 5,
+		"order": 15,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000013,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 8
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5016": {
+		"goodsId": 5016,
+		"goodsType": 5,
+		"order": 16,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 7
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5017": {
+		"goodsId": 5017,
+		"goodsType": 5,
+		"order": 17,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 6
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5018": {
+		"goodsId": 5018,
+		"goodsType": 5,
+		"order": 18,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 10000
+			}
+		],
+		"costType": 5,
+		"costNum": 1600,
+		"maxNum": 562500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 5
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5019": {
+		"goodsId": 5019,
+		"goodsType": 5,
+		"order": 19,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 2000
+			}
+		],
+		"costType": 5,
+		"costNum": 1600,
+		"maxNum": 562500,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 4
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5020": {
+		"goodsId": 5020,
+		"goodsType": 5,
+		"order": 20,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 300
+			}
+		],
+		"costType": 5,
+		"costNum": 2400,
+		"maxNum": 375000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 3
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5021": {
+		"goodsId": 5021,
+		"goodsType": 5,
+		"order": 21,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 5
+			}
+		],
+		"costType": 5,
+		"costNum": 4000,
+		"maxNum": 225000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 2
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5022": {
+		"goodsId": 5022,
+		"goodsType": 5,
+		"order": 22,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 10
+			}
+		],
+		"costType": 5,
+		"costNum": 4000,
+		"maxNum": 225000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 1
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"5023": {
+		"goodsId": 5023,
+		"goodsType": 5,
+		"order": 23,
+		"reward": [
+			{
+				"type": 2,
+				"id": 501004,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 30000,
+		"maxNum": 30000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 3,
+				"value": 1
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"6001": {
+		"goodsId": 6001,
+		"goodsType": 6,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 6,
+		"costNum": 3000,
+		"maxNum": 300000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 3,
+		"sellTimes": 2,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"6002": {
+		"goodsId": 6002,
+		"goodsType": 6,
+		"order": 2,
+		"reward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 100000
+			}
+		],
+		"costType": 6,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"6003": {
+		"goodsId": 6003,
+		"goodsType": 6,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 15
+			}
+		],
+		"costType": 6,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"6004": {
+		"goodsId": 6004,
+		"goodsType": 6,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 10
+			}
+		],
+		"costType": 6,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7001": {
+		"goodsId": 7001,
+		"goodsType": 7,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 5000,
+		"maxNum": 180000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7002": {
+		"goodsId": 7002,
+		"goodsType": 7,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 20
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7003": {
+		"goodsId": 7003,
+		"goodsType": 7,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7004": {
+		"goodsId": 7004,
+		"goodsType": 7,
+		"order": 4,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 600,
+		"maxNum": 1500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7005": {
+		"goodsId": 7005,
+		"goodsType": 7,
+		"order": 5,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 600,
+		"maxNum": 1500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7006": {
+		"goodsId": 7006,
+		"goodsType": 7,
+		"order": 6,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400205,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7007": {
+		"goodsId": 7007,
+		"goodsType": 7,
+		"order": 7,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400206,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 800,
+		"maxNum": 1125000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7008": {
+		"goodsId": 7008,
+		"goodsType": 7,
+		"order": 8,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400305,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7009": {
+		"goodsId": 7009,
+		"goodsType": 7,
+		"order": 9,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400306,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7010": {
+		"goodsId": 7010,
+		"goodsType": 7,
+		"order": 10,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 3000,
+		"maxNum": 300000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7011": {
+		"goodsId": 7011,
+		"goodsType": 7,
+		"order": 11,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 3000,
+		"maxNum": 300000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7012": {
+		"goodsId": 7012,
+		"goodsType": 7,
+		"order": 12,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500205,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 5000,
+		"maxNum": 180000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7013": {
+		"goodsId": 7013,
+		"goodsType": 7,
+		"order": 13,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500206,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 5000,
+		"maxNum": 180000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7014": {
+		"goodsId": 7014,
+		"goodsType": 7,
+		"order": 14,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 10000,
+		"maxNum": 90000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7015": {
+		"goodsId": 7015,
+		"goodsType": 7,
+		"order": 15,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 10000,
+		"maxNum": 90000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7016": {
+		"goodsId": 7016,
+		"goodsType": 7,
+		"order": 16,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600205,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 20000,
+		"maxNum": 45000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7017": {
+		"goodsId": 7017,
+		"goodsType": 7,
+		"order": 17,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600206,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 20000,
+		"maxNum": 45000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7018": {
+		"goodsId": 7018,
+		"goodsType": 7,
+		"order": 18,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"7019": {
+		"goodsId": 7019,
+		"goodsType": 7,
+		"order": 19,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 100000,
+		"maxNum": 9000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8001": {
+		"goodsId": 8001,
+		"goodsType": 8,
+		"order": 1,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 300,
+		"maxNum": 3000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 10
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8002": {
+		"goodsId": 8002,
+		"goodsType": 8,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 100
+			}
+		],
+		"costType": 7,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 20
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8003": {
+		"goodsId": 8003,
+		"goodsType": 8,
+		"order": 3,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400206,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 30
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8004": {
+		"goodsId": 8004,
+		"goodsType": 8,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 10
+			}
+		],
+		"costType": 7,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 40
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8005": {
+		"goodsId": 8005,
+		"goodsType": 8,
+		"order": 5,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400305,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 50
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8006": {
+		"goodsId": 8006,
+		"goodsType": 8,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 501002,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 2000,
+		"maxNum": 450000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 60
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8007": {
+		"goodsId": 8007,
+		"goodsType": 8,
+		"order": 7,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 1500,
+		"maxNum": 600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 70
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8008": {
+		"goodsId": 8008,
+		"goodsType": 8,
+		"order": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000013,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 80
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8009": {
+		"goodsId": 8009,
+		"goodsType": 8,
+		"order": 9,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40500205,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 2500,
+		"maxNum": 360000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 100
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8010": {
+		"goodsId": 8010,
+		"goodsType": 8,
+		"order": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 120
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8011": {
+		"goodsId": 8011,
+		"goodsType": 8,
+		"order": 11,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 5000,
+		"maxNum": 180000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 140
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8012": {
+		"goodsId": 8012,
+		"goodsType": 8,
+		"order": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 10
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 160
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8013": {
+		"goodsId": 8013,
+		"goodsType": 8,
+		"order": 13,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 5000,
+		"maxNum": 180000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 180
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8014": {
+		"goodsId": 8014,
+		"goodsType": 8,
+		"order": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 1000
+			}
+		],
+		"costType": 7,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 200
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8015": {
+		"goodsId": 8015,
+		"goodsType": 8,
+		"order": 15,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600206,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 10000,
+		"maxNum": 90000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 250
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8016": {
+		"goodsId": 8016,
+		"goodsType": 8,
+		"order": 16,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 200
+			}
+		],
+		"costType": 7,
+		"costNum": 2000,
+		"maxNum": 450000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 300
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8017": {
+		"goodsId": 8017,
+		"goodsType": 8,
+		"order": 17,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40600205,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 10000,
+		"maxNum": 90000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 350
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8018": {
+		"goodsId": 8018,
+		"goodsType": 8,
+		"order": 18,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 5
+			}
+		],
+		"costType": 7,
+		"costNum": 5000,
+		"maxNum": 180000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 400
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8019": {
+		"goodsId": 8019,
+		"goodsType": 8,
+		"order": 19,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700106,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 50000,
+		"maxNum": 18000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 450
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8020": {
+		"goodsId": 8020,
+		"goodsType": 8,
+		"order": 20,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1000
+			}
+		],
+		"costType": 7,
+		"costNum": 10000,
+		"maxNum": 90000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 500
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8021": {
+		"goodsId": 8021,
+		"goodsType": 8,
+		"order": 21,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40700105,
+				"num": 1
+			}
+		],
+		"costType": 7,
+		"costNum": 50000,
+		"maxNum": 18000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 550
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"8022": {
+		"goodsId": 8022,
+		"goodsType": 8,
+		"order": 22,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 15
+			}
+		],
+		"costType": 7,
+		"costNum": 15000,
+		"maxNum": 60000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 4,
+				"value": 600
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9001": {
+		"goodsId": 9001,
+		"goodsType": 9,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 211501,
+				"num": 10
+			}
+		],
+		"costType": 9,
+		"costNum": 125,
+		"maxNum": 7200000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9002": {
+		"goodsId": 9002,
+		"goodsType": 9,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 212501,
+				"num": 10
+			}
+		],
+		"costType": 9,
+		"costNum": 125,
+		"maxNum": 7200000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9003": {
+		"goodsId": 9003,
+		"goodsType": 9,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 213501,
+				"num": 10
+			}
+		],
+		"costType": 9,
+		"costNum": 125,
+		"maxNum": 7200000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9004": {
+		"goodsId": 9004,
+		"goodsType": 9,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 214501,
+				"num": 10
+			}
+		],
+		"costType": 9,
+		"costNum": 125,
+		"maxNum": 7200000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9005": {
+		"goodsId": 9005,
+		"goodsType": 9,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000015,
+				"num": 1000
+			}
+		],
+		"costType": 9,
+		"costNum": 300,
+		"maxNum": 3000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9006": {
+		"goodsId": 9006,
+		"goodsType": 9,
+		"order": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 20
+			}
+		],
+		"costType": 9,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 5
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 5,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9007": {
+		"goodsId": 9007,
+		"goodsType": 9,
+		"order": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 501003,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 2500,
+		"maxNum": 360000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 5
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9008": {
+		"goodsId": 9008,
+		"goodsType": 9,
+		"order": 15,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000901,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 50,
+		"maxNum": 18000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 5
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9009": {
+		"goodsId": 9009,
+		"goodsType": 9,
+		"order": 16,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 10
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9010": {
+		"goodsId": 9010,
+		"goodsType": 9,
+		"order": 17,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 250,
+		"maxNum": 3600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 15
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 3,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9011": {
+		"goodsId": 9011,
+		"goodsType": 9,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 321001,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 25,
+		"maxNum": 36000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 2
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9012": {
+		"goodsId": 9012,
+		"goodsType": 9,
+		"order": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 321002,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 25,
+		"maxNum": 36000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 4
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9013": {
+		"goodsId": 9013,
+		"goodsType": 9,
+		"order": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 322001,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 50,
+		"maxNum": 18000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 6
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9014": {
+		"goodsId": 9014,
+		"goodsType": 9,
+		"order": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 322002,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 50,
+		"maxNum": 18000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 7
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9015": {
+		"goodsId": 9015,
+		"goodsType": 9,
+		"order": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 323001,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 150,
+		"maxNum": 6000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 8
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9016": {
+		"goodsId": 9016,
+		"goodsType": 9,
+		"order": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 323002,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 150,
+		"maxNum": 6000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 9
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"9017": {
+		"goodsId": 9017,
+		"goodsType": 9,
+		"order": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 324001,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 13
+			}
+		],
+		"limitType": 1,
+		"sellTimes": 5,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10001": {
+		"goodsId": 10001,
+		"goodsType": 10,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000014,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 15,
+		"maxNum": 60000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 1
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10002": {
+		"goodsId": 10002,
+		"goodsType": 10,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 100
+			}
+		],
+		"costType": 9,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 2
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10003": {
+		"goodsId": 10003,
+		"goodsType": 10,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000015,
+				"num": 1000
+			}
+		],
+		"costType": 9,
+		"costNum": 30,
+		"maxNum": 30000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 3
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10004": {
+		"goodsId": 10004,
+		"goodsType": 10,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000102,
+				"num": 50
+			}
+		],
+		"costType": 9,
+		"costNum": 20,
+		"maxNum": 45000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 4
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10005": {
+		"goodsId": 10005,
+		"goodsType": 10,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000013,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 250,
+		"maxNum": 3600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 5
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10006": {
+		"goodsId": 10006,
+		"goodsType": 10,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 10
+			}
+		],
+		"costType": 9,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 6
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10007": {
+		"goodsId": 10007,
+		"goodsType": 10,
+		"order": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 10000
+			}
+		],
+		"costType": 9,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 7
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10008": {
+		"goodsId": 10008,
+		"goodsType": 10,
+		"order": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000612,
+				"num": 40
+			}
+		],
+		"costType": 9,
+		"costNum": 150,
+		"maxNum": 6000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 8
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10009": {
+		"goodsId": 10009,
+		"goodsType": 10,
+		"order": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000501,
+				"num": 2000
+			}
+		],
+		"costType": 9,
+		"costNum": 150,
+		"maxNum": 6000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 9
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10010": {
+		"goodsId": 10010,
+		"goodsType": 10,
+		"order": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000403,
+				"num": 5
+			}
+		],
+		"costType": 9,
+		"costNum": 300,
+		"maxNum": 3000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 10
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10011": {
+		"goodsId": 10011,
+		"goodsType": 10,
+		"order": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 20
+			}
+		],
+		"costType": 9,
+		"costNum": 375,
+		"maxNum": 2400000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 11
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10012": {
+		"goodsId": 10012,
+		"goodsType": 10,
+		"order": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 2000
+			}
+		],
+		"costType": 9,
+		"costNum": 300,
+		"maxNum": 3000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 12
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10013": {
+		"goodsId": 10013,
+		"goodsType": 10,
+		"order": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 4000
+			}
+		],
+		"costType": 9,
+		"costNum": 300,
+		"maxNum": 3000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 13
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10014": {
+		"goodsId": 10014,
+		"goodsType": 10,
+		"order": 15,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000502,
+				"num": 500
+			}
+		],
+		"costType": 9,
+		"costNum": 375,
+		"maxNum": 2400000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 14
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10015": {
+		"goodsId": 10015,
+		"goodsType": 10,
+		"order": 16,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 10
+			}
+		],
+		"costType": 9,
+		"costNum": 375,
+		"maxNum": 2400000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 15
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10016": {
+		"goodsId": 10016,
+		"goodsType": 10,
+		"order": 17,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 200
+			}
+		],
+		"costType": 9,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 16
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10017": {
+		"goodsId": 10017,
+		"goodsType": 10,
+		"order": 18,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000404,
+				"num": 2
+			}
+		],
+		"costType": 9,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 17
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10018": {
+		"goodsId": 10018,
+		"goodsType": 10,
+		"order": 19,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			}
+		],
+		"costType": 9,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 18
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10019": {
+		"goodsId": 10019,
+		"goodsType": 10,
+		"order": 20,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 5
+			}
+		],
+		"costType": 9,
+		"costNum": 625,
+		"maxNum": 1440000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 19
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10020": {
+		"goodsId": 10020,
+		"goodsType": 10,
+		"order": 21,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 3
+			}
+		],
+		"costType": 9,
+		"costNum": 750,
+		"maxNum": 1200000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 20
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"10021": {
+		"goodsId": 10021,
+		"goodsType": 10,
+		"order": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 902001,
+				"num": 1
+			}
+		],
+		"costType": 9,
+		"costNum": 25000,
+		"maxNum": 36000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 5,
+				"value": 7
+			}
+		],
+		"limitType": 2,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11001": {
+		"goodsId": 11001,
+		"goodsType": 11,
+		"order": 1,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40100101,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 1,
+		"maxNum": 900000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11002": {
+		"goodsId": 11002,
+		"goodsType": 11,
+		"order": 2,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40100102,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 2,
+		"maxNum": 450000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11003": {
+		"goodsId": 11003,
+		"goodsType": 11,
+		"order": 3,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40100103,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 3,
+		"maxNum": 300000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11004": {
+		"goodsId": 11004,
+		"goodsType": 11,
+		"order": 4,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40100104,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 4,
+		"maxNum": 225000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11005": {
+		"goodsId": 11005,
+		"goodsType": 11,
+		"order": 5,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40100105,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 5,
+		"maxNum": 180000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11006": {
+		"goodsId": 11006,
+		"goodsType": 11,
+		"order": 6,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40100106,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 6,
+		"maxNum": 150000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11007": {
+		"goodsId": 11007,
+		"goodsType": 11,
+		"order": 7,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40200101,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 7,
+		"maxNum": 128571428,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11008": {
+		"goodsId": 11008,
+		"goodsType": 11,
+		"order": 8,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40200102,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 8,
+		"maxNum": 112500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11009": {
+		"goodsId": 11009,
+		"goodsType": 11,
+		"order": 9,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40200103,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 9,
+		"maxNum": 100000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11010": {
+		"goodsId": 11010,
+		"goodsType": 11,
+		"order": 10,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40200104,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11011": {
+		"goodsId": 11011,
+		"goodsType": 11,
+		"order": 11,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40200105,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 11,
+		"maxNum": 81818181,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11012": {
+		"goodsId": 11012,
+		"goodsType": 11,
+		"order": 12,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40200106,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 12,
+		"maxNum": 75000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11013": {
+		"goodsId": 11013,
+		"goodsType": 11,
+		"order": 13,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40300201,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 13,
+		"maxNum": 69230769,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11014": {
+		"goodsId": 11014,
+		"goodsType": 11,
+		"order": 14,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40300202,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 14,
+		"maxNum": 64285714,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11015": {
+		"goodsId": 11015,
+		"goodsType": 11,
+		"order": 15,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40300203,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 15,
+		"maxNum": 60000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11016": {
+		"goodsId": 11016,
+		"goodsType": 11,
+		"order": 16,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40300204,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 16,
+		"maxNum": 56250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11017": {
+		"goodsId": 11017,
+		"goodsType": 11,
+		"order": 17,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40300205,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 17,
+		"maxNum": 52941176,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11018": {
+		"goodsId": 11018,
+		"goodsType": 11,
+		"order": 18,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40300206,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 18,
+		"maxNum": 50000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11019": {
+		"goodsId": 11019,
+		"goodsType": 11,
+		"order": 19,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400101,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 19,
+		"maxNum": 47368421,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11020": {
+		"goodsId": 11020,
+		"goodsType": 11,
+		"order": 20,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400102,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 20,
+		"maxNum": 45000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11021": {
+		"goodsId": 11021,
+		"goodsType": 11,
+		"order": 21,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400103,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 21,
+		"maxNum": 42857142,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11022": {
+		"goodsId": 11022,
+		"goodsType": 11,
+		"order": 22,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400104,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 22,
+		"maxNum": 40909090,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11023": {
+		"goodsId": 11023,
+		"goodsType": 11,
+		"order": 23,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400105,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 23,
+		"maxNum": 39130434,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"11024": {
+		"goodsId": 11024,
+		"goodsType": 11,
+		"order": 24,
+		"reward": [
+			{
+				"type": 5,
+				"id": 40400106,
+				"num": 1
+			}
+		],
+		"costType": 10,
+		"costNum": 24,
+		"maxNum": 37500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13001": {
+		"goodsId": 13001,
+		"goodsType": 13,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 211701,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 300,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13002": {
+		"goodsId": 13002,
+		"goodsType": 13,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 203701,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 1500,
+		"maxNum": 600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 3,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13003": {
+		"goodsId": 13003,
+		"goodsType": 13,
+		"order": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 5,
+		"maxNum": 180000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 100,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13004": {
+		"goodsId": 13004,
+		"goodsType": 13,
+		"order": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000501,
+				"num": 1000
+			}
+		],
+		"costType": -2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13005": {
+		"goodsId": 13005,
+		"goodsType": 13,
+		"order": 11,
+		"reward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 1000000
+			}
+		],
+		"costType": -2,
+		"costNum": 100,
+		"maxNum": 9000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13006": {
+		"goodsId": 13006,
+		"goodsType": 13,
+		"order": 12,
+		"reward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"costType": -2,
+		"costNum": 1,
+		"maxNum": 900000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13007": {
+		"goodsId": 13007,
+		"goodsType": 13,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 214701,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 300,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13008": {
+		"goodsId": 13008,
+		"goodsType": 13,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 202701,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 1500,
+		"maxNum": 600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 3,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13009": {
+		"goodsId": 13009,
+		"goodsType": 13,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 213702,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 300,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13010": {
+		"goodsId": 13010,
+		"goodsType": 13,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 201702,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 1500,
+		"maxNum": 600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 3,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13011": {
+		"goodsId": 13011,
+		"goodsType": 13,
+		"order": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 214702,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 300,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"13012": {
+		"goodsId": 13012,
+		"goodsType": 13,
+		"order": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 202702,
+				"num": 1
+			}
+		],
+		"costType": -2,
+		"costNum": 1500,
+		"maxNum": 600000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 4,
+		"sellTimes": 3,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"15001": {
+		"goodsId": 15001,
+		"goodsType": 15,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1
+			}
+		],
+		"costType": 13,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 3,
+		"sellTimes": 20,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"15002": {
+		"goodsId": 15002,
+		"goodsType": 15,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 1
+			}
+		],
+		"costType": 13,
+		"costNum": 1000,
+		"maxNum": 900000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 3,
+		"sellTimes": 10,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"15003": {
+		"goodsId": 15003,
+		"goodsType": 15,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 1
+			}
+		],
+		"costType": 13,
+		"costNum": 12500,
+		"maxNum": 72000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 3,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"15004": {
+		"goodsId": 15004,
+		"goodsType": 15,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 1
+			}
+		],
+		"costType": 13,
+		"costNum": 10000,
+		"maxNum": 90000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 3,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"16001": {
+		"goodsId": 16001,
+		"goodsType": 16,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10102020,
+				"num": 1
+			}
+		],
+		"costType": 14,
+		"costNum": 80,
+		"maxNum": 11250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 3,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"16002": {
+		"goodsId": 16002,
+		"goodsType": 16,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220302,
+				"num": 1
+			}
+		],
+		"costType": 14,
+		"costNum": 120,
+		"maxNum": 7500000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 3,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"16003": {
+		"goodsId": 16003,
+		"goodsType": 16,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220416,
+				"num": 1
+			}
+		],
+		"costType": 14,
+		"costNum": 500,
+		"maxNum": 1800000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 60
+			}
+		],
+		"limitType": 3,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"16004": {
+		"goodsId": 16004,
+		"goodsType": 16,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 14,
+		"costNum": 20,
+		"maxNum": 45000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"16005": {
+		"goodsId": 16005,
+		"goodsType": 16,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1000
+			}
+		],
+		"costType": 14,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"16006": {
+		"goodsId": 16006,
+		"goodsType": 16,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 14,
+		"costNum": 10,
+		"maxNum": 90000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1701": {
+		"goodsId": 1701,
+		"goodsType": 17,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 4,
+		"maxNum": 225000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 130
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 10000,
+		"addStock": 2000,
+		"midStock": 10000
+	},
+	"1702": {
+		"goodsId": 1702,
+		"goodsType": 17,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 130
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 50,
+		"addStock": 10,
+		"midStock": 50
+	},
+	"1703": {
+		"goodsId": 1703,
+		"goodsType": 17,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 801001,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 130
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 100,
+		"addStock": 20,
+		"midStock": 100
+	},
+	"1704": {
+		"goodsId": 1704,
+		"goodsType": 17,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 801002,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 130
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 100,
+		"addStock": 20,
+		"midStock": 100
+	},
+	"1705": {
+		"goodsId": 1705,
+		"goodsType": 17,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 802001,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 1200,
+		"maxNum": 750000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 130
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 50,
+		"addStock": 10,
+		"midStock": 50
+	},
+	"1706": {
+		"goodsId": 1706,
+		"goodsType": 17,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 802002,
+				"num": 1
+			}
+		],
+		"costType": 5,
+		"costNum": 1200,
+		"maxNum": 750000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 1,
+				"value": 130
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 50,
+		"addStock": 10,
+		"midStock": 50
+	},
+	"1801": {
+		"goodsId": 1801,
+		"goodsType": 18,
+		"order": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 4,
+		"maxNum": 225000000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 7,
+				"value": 20
+			}
+		],
+		"limitType": 0,
+		"sellTimes": 0,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1802": {
+		"goodsId": 1802,
+		"goodsType": 18,
+		"order": 2,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 7,
+				"value": 40
+			}
+		],
+		"limitType": 4,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1803": {
+		"goodsId": 1803,
+		"goodsType": 18,
+		"order": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 801001,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 7,
+				"value": 60
+			}
+		],
+		"limitType": 4,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1804": {
+		"goodsId": 1804,
+		"goodsType": 18,
+		"order": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 801002,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 400,
+		"maxNum": 2250000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 7,
+				"value": 80
+			}
+		],
+		"limitType": 4,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1805": {
+		"goodsId": 1805,
+		"goodsType": 18,
+		"order": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 802001,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 1200,
+		"maxNum": 750000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 7,
+				"value": 100
+			}
+		],
+		"limitType": 4,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	},
+	"1806": {
+		"goodsId": 1806,
+		"goodsType": 18,
+		"order": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 802002,
+				"num": 1
+			}
+		],
+		"costType": 2,
+		"costNum": 1200,
+		"maxNum": 750000,
+		"costItem": 0,
+		"itemNum": 0,
+		"buyCondition": [
+			{
+				"type": 7,
+				"value": 120
+			}
+		],
+		"limitType": 4,
+		"sellTimes": 1,
+		"stock": 0,
+		"addStock": 0,
+		"midStock": 0
+	}
+}

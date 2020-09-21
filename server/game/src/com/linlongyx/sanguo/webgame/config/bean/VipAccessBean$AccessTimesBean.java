@@ -1,0 +1,54 @@
+/*    */ package com.linlongyx.sanguo.webgame.config.bean;
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ public class AccessTimesBean
+/*    */ {
+/*    */   private int type;
+/*    */   private int value;
+/*    */   
+/*    */   public int getType() {
+/* 35 */     return this.type;
+/*    */   }
+/*    */ 
+/*    */   
+/*    */   public int getValue() {
+/* 40 */     return this.value;
+/*    */   }
+/*    */ 
+/*    */   
+/*    */   public String toString() {
+/* 45 */     String retVal = "type= " + this.type + ", value= " + this.value;
+/* 46 */     return retVal;
+/*    */   }
+/*    */ }
+
+
+/* Location:              D:\xxsg_52gmsy\game\target\classes\!\com\linlongyx\sanguo\webgame\config\bean\VipAccessBean$AccessTimesBean.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

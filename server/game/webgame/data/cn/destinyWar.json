@@ -1,0 +1,98 @@
+{
+	"1": {
+		"id": 1,
+		"anger": 10,
+		"maxReward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3
+			}
+		],
+		"point": 10,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 5
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"anger": 50,
+		"maxReward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 5
+			}
+		],
+		"point": 10,
+		"otherCost": [],
+		"moneyCost": []
+	},
+	"3": {
+		"id": 3,
+		"anger": 100,
+		"maxReward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 7
+			}
+		],
+		"point": 20,
+		"otherCost": [],
+		"moneyCost": []
+	},
+	"4": {
+		"id": 4,
+		"anger": 200,
+		"maxReward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 10
+			}
+		],
+		"point": 20,
+		"otherCost": [],
+		"moneyCost": []
+	},
+	"5": {
+		"id": 5,
+		"anger": 300,
+		"maxReward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 15
+			}
+		],
+		"point": 20,
+		"otherCost": [],
+		"moneyCost": []
+	},
+	"6": {
+		"id": 6,
+		"anger": 99999,
+		"maxReward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 20
+			}
+		],
+		"point": 20,
+		"otherCost": [],
+		"moneyCost": []
+	}
+}

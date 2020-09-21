@@ -1,0 +1,4054 @@
+{
+	"1101": {
+		"insId": 1101,
+		"intType": 1,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 5,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 125000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 125000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100901
+					},
+					{
+						"posi": 2,
+						"id": 100902
+					},
+					{
+						"posi": 3,
+						"id": 100903
+					}
+				]
+			}
+		}
+	},
+	"1102": {
+		"insId": 1102,
+		"intType": 1,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 40,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 250000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 250000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100911
+					},
+					{
+						"posi": 2,
+						"id": 100912
+					},
+					{
+						"posi": 3,
+						"id": 100913
+					},
+					{
+						"posi": 4,
+						"id": 100914
+					},
+					{
+						"posi": 5,
+						"id": 100915
+					},
+					{
+						"posi": 6,
+						"id": 100916
+					}
+				]
+			}
+		}
+	},
+	"1103": {
+		"insId": 1103,
+		"intType": 1,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 60,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100921
+					},
+					{
+						"posi": 2,
+						"id": 100922
+					},
+					{
+						"posi": 3,
+						"id": 100923
+					},
+					{
+						"posi": 4,
+						"id": 100924
+					},
+					{
+						"posi": 5,
+						"id": 100925
+					},
+					{
+						"posi": 6,
+						"id": 100926
+					}
+				]
+			}
+		}
+	},
+	"1104": {
+		"insId": 1104,
+		"intType": 1,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 80,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100931
+					},
+					{
+						"posi": 2,
+						"id": 100932
+					},
+					{
+						"posi": 3,
+						"id": 100933
+					},
+					{
+						"posi": 4,
+						"id": 100934
+					},
+					{
+						"posi": 5,
+						"id": 100935
+					},
+					{
+						"posi": 6,
+						"id": 100936
+					}
+				]
+			}
+		}
+	},
+	"1105": {
+		"insId": 1105,
+		"intType": 1,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 100,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1750000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1750000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100941
+					},
+					{
+						"posi": 2,
+						"id": 100942
+					},
+					{
+						"posi": 3,
+						"id": 100943
+					},
+					{
+						"posi": 4,
+						"id": 100944
+					},
+					{
+						"posi": 5,
+						"id": 100945
+					},
+					{
+						"posi": 6,
+						"id": 100946
+					}
+				]
+			}
+		}
+	},
+	"1106": {
+		"insId": 1106,
+		"intType": 1,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 120,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2500000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2500000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100951
+					},
+					{
+						"posi": 2,
+						"id": 100952
+					},
+					{
+						"posi": 3,
+						"id": 100953
+					},
+					{
+						"posi": 4,
+						"id": 100954
+					},
+					{
+						"posi": 5,
+						"id": 100955
+					},
+					{
+						"posi": 6,
+						"id": 100956
+					}
+				]
+			}
+		}
+	},
+	"1107": {
+		"insId": 1107,
+		"intType": 2,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 10,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 750
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 750
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100901
+					},
+					{
+						"posi": 2,
+						"id": 100902
+					},
+					{
+						"posi": 3,
+						"id": 100903
+					}
+				]
+			}
+		}
+	},
+	"1108": {
+		"insId": 1108,
+		"intType": 2,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 40,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 1500
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 1500
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100911
+					},
+					{
+						"posi": 2,
+						"id": 100912
+					},
+					{
+						"posi": 3,
+						"id": 100913
+					},
+					{
+						"posi": 4,
+						"id": 100914
+					},
+					{
+						"posi": 5,
+						"id": 100915
+					},
+					{
+						"posi": 6,
+						"id": 100916
+					}
+				]
+			}
+		}
+	},
+	"1109": {
+		"insId": 1109,
+		"intType": 2,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 60,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 2500
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 2500
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100921
+					},
+					{
+						"posi": 2,
+						"id": 100922
+					},
+					{
+						"posi": 3,
+						"id": 100923
+					},
+					{
+						"posi": 4,
+						"id": 100924
+					},
+					{
+						"posi": 5,
+						"id": 100925
+					},
+					{
+						"posi": 6,
+						"id": 100926
+					}
+				]
+			}
+		}
+	},
+	"1110": {
+		"insId": 1110,
+		"intType": 2,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 80,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 3750
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 3750
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100931
+					},
+					{
+						"posi": 2,
+						"id": 100932
+					},
+					{
+						"posi": 3,
+						"id": 100933
+					},
+					{
+						"posi": 4,
+						"id": 100934
+					},
+					{
+						"posi": 5,
+						"id": 100935
+					},
+					{
+						"posi": 6,
+						"id": 100936
+					}
+				]
+			}
+		}
+	},
+	"1111": {
+		"insId": 1111,
+		"intType": 2,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 100,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 5000
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 5000
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100941
+					},
+					{
+						"posi": 2,
+						"id": 100942
+					},
+					{
+						"posi": 3,
+						"id": 100943
+					},
+					{
+						"posi": 4,
+						"id": 100944
+					},
+					{
+						"posi": 5,
+						"id": 100945
+					},
+					{
+						"posi": 6,
+						"id": 100946
+					}
+				]
+			}
+		}
+	},
+	"1112": {
+		"insId": 1112,
+		"intType": 2,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 120,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 7500
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 7500
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100951
+					},
+					{
+						"posi": 2,
+						"id": 100952
+					},
+					{
+						"posi": 3,
+						"id": 100953
+					},
+					{
+						"posi": 4,
+						"id": 100954
+					},
+					{
+						"posi": 5,
+						"id": 100955
+					},
+					{
+						"posi": 6,
+						"id": 100956
+					}
+				]
+			}
+		}
+	},
+	"1113": {
+		"insId": 1113,
+		"intType": 3,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 10,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000100,
+				"num": 300
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000100,
+				"num": 300
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100901
+					},
+					{
+						"posi": 2,
+						"id": 100902
+					},
+					{
+						"posi": 3,
+						"id": 100903
+					},
+					{
+						"posi": 4,
+						"id": 100904
+					},
+					{
+						"posi": 5,
+						"id": 100905
+					},
+					{
+						"posi": 6,
+						"id": 100906
+					}
+				]
+			}
+		}
+	},
+	"1114": {
+		"insId": 1114,
+		"intType": 3,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 40,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000100,
+				"num": 500
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000100,
+				"num": 500
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100911
+					},
+					{
+						"posi": 2,
+						"id": 100912
+					},
+					{
+						"posi": 3,
+						"id": 100913
+					},
+					{
+						"posi": 4,
+						"id": 100914
+					},
+					{
+						"posi": 5,
+						"id": 100915
+					},
+					{
+						"posi": 6,
+						"id": 100916
+					}
+				]
+			}
+		}
+	},
+	"1115": {
+		"insId": 1115,
+		"intType": 3,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 60,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000100,
+				"num": 750
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000100,
+				"num": 750
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100921
+					},
+					{
+						"posi": 2,
+						"id": 100922
+					},
+					{
+						"posi": 3,
+						"id": 100923
+					},
+					{
+						"posi": 4,
+						"id": 100924
+					},
+					{
+						"posi": 5,
+						"id": 100925
+					},
+					{
+						"posi": 6,
+						"id": 100926
+					}
+				]
+			}
+		}
+	},
+	"1116": {
+		"insId": 1116,
+		"intType": 3,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 80,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 200
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 200
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100931
+					},
+					{
+						"posi": 2,
+						"id": 100932
+					},
+					{
+						"posi": 3,
+						"id": 100933
+					},
+					{
+						"posi": 4,
+						"id": 100934
+					},
+					{
+						"posi": 5,
+						"id": 100935
+					},
+					{
+						"posi": 6,
+						"id": 100936
+					}
+				]
+			}
+		}
+	},
+	"1117": {
+		"insId": 1117,
+		"intType": 3,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 100,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 250
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 250
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100941
+					},
+					{
+						"posi": 2,
+						"id": 100942
+					},
+					{
+						"posi": 3,
+						"id": 100943
+					},
+					{
+						"posi": 4,
+						"id": 100944
+					},
+					{
+						"posi": 5,
+						"id": 100945
+					},
+					{
+						"posi": 6,
+						"id": 100946
+					}
+				]
+			}
+		}
+	},
+	"1118": {
+		"insId": 1118,
+		"intType": 3,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 120,
+		"levelMax": 999,
+		"price": [50,100,150,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000102,
+				"num": 100
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000102,
+				"num": 100
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100951
+					},
+					{
+						"posi": 2,
+						"id": 100952
+					},
+					{
+						"posi": 3,
+						"id": 100953
+					},
+					{
+						"posi": 4,
+						"id": 100954
+					},
+					{
+						"posi": 5,
+						"id": 100955
+					},
+					{
+						"posi": 6,
+						"id": 100956
+					}
+				]
+			}
+		}
+	},
+	"1119": {
+		"insId": 1119,
+		"intType": 4,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 10,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 75
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 75
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100901
+					},
+					{
+						"posi": 2,
+						"id": 100902
+					},
+					{
+						"posi": 3,
+						"id": 100903
+					},
+					{
+						"posi": 4,
+						"id": 100904
+					},
+					{
+						"posi": 5,
+						"id": 100905
+					},
+					{
+						"posi": 6,
+						"id": 100906
+					}
+				]
+			}
+		}
+	},
+	"1120": {
+		"insId": 1120,
+		"intType": 4,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 40,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 150
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 150
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100911
+					},
+					{
+						"posi": 2,
+						"id": 100912
+					},
+					{
+						"posi": 3,
+						"id": 100913
+					},
+					{
+						"posi": 4,
+						"id": 100914
+					},
+					{
+						"posi": 5,
+						"id": 100915
+					},
+					{
+						"posi": 6,
+						"id": 100916
+					}
+				]
+			}
+		}
+	},
+	"1121": {
+		"insId": 1121,
+		"intType": 4,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 60,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 250
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 1
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 250
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 1
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100921
+					},
+					{
+						"posi": 2,
+						"id": 100922
+					},
+					{
+						"posi": 3,
+						"id": 100923
+					},
+					{
+						"posi": 4,
+						"id": 100924
+					},
+					{
+						"posi": 5,
+						"id": 100925
+					},
+					{
+						"posi": 6,
+						"id": 100926
+					}
+				]
+			}
+		}
+	},
+	"1122": {
+		"insId": 1122,
+		"intType": 4,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 80,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 375
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 1
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 375
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 1
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100931
+					},
+					{
+						"posi": 2,
+						"id": 100932
+					},
+					{
+						"posi": 3,
+						"id": 100933
+					},
+					{
+						"posi": 4,
+						"id": 100934
+					},
+					{
+						"posi": 5,
+						"id": 100935
+					},
+					{
+						"posi": 6,
+						"id": 100936
+					}
+				]
+			}
+		}
+	},
+	"1123": {
+		"insId": 1123,
+		"intType": 4,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 100,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 2
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 2
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100941
+					},
+					{
+						"posi": 2,
+						"id": 100942
+					},
+					{
+						"posi": 3,
+						"id": 100943
+					},
+					{
+						"posi": 4,
+						"id": 100944
+					},
+					{
+						"posi": 5,
+						"id": 100945
+					},
+					{
+						"posi": 6,
+						"id": 100946
+					}
+				]
+			}
+		}
+	},
+	"1124": {
+		"insId": 1124,
+		"intType": 4,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 120,
+		"levelMax": 999,
+		"price": [75,150,225,300],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 750
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 2
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 750
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 2
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100951
+					},
+					{
+						"posi": 2,
+						"id": 100952
+					},
+					{
+						"posi": 3,
+						"id": 100953
+					},
+					{
+						"posi": 4,
+						"id": 100954
+					},
+					{
+						"posi": 5,
+						"id": 100955
+					},
+					{
+						"posi": 6,
+						"id": 100956
+					}
+				]
+			}
+		}
+	},
+	"1125": {
+		"insId": 1125,
+		"intType": 5,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 40,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 75
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 75
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100901
+					},
+					{
+						"posi": 2,
+						"id": 100902
+					},
+					{
+						"posi": 3,
+						"id": 100903
+					},
+					{
+						"posi": 4,
+						"id": 100904
+					},
+					{
+						"posi": 5,
+						"id": 100905
+					},
+					{
+						"posi": 6,
+						"id": 100906
+					}
+				]
+			}
+		}
+	},
+	"1126": {
+		"insId": 1126,
+		"intType": 5,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 50,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 150
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 150
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100911
+					},
+					{
+						"posi": 2,
+						"id": 100912
+					},
+					{
+						"posi": 3,
+						"id": 100913
+					},
+					{
+						"posi": 4,
+						"id": 100914
+					},
+					{
+						"posi": 5,
+						"id": 100915
+					},
+					{
+						"posi": 6,
+						"id": 100916
+					}
+				]
+			}
+		}
+	},
+	"1127": {
+		"insId": 1127,
+		"intType": 5,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 60,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 250
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 250
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100921
+					},
+					{
+						"posi": 2,
+						"id": 100922
+					},
+					{
+						"posi": 3,
+						"id": 100923
+					},
+					{
+						"posi": 4,
+						"id": 100924
+					},
+					{
+						"posi": 5,
+						"id": 100925
+					},
+					{
+						"posi": 6,
+						"id": 100926
+					}
+				]
+			}
+		}
+	},
+	"1128": {
+		"insId": 1128,
+		"intType": 5,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 80,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 375
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 375
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100931
+					},
+					{
+						"posi": 2,
+						"id": 100932
+					},
+					{
+						"posi": 3,
+						"id": 100933
+					},
+					{
+						"posi": 4,
+						"id": 100934
+					},
+					{
+						"posi": 5,
+						"id": 100935
+					},
+					{
+						"posi": 6,
+						"id": 100936
+					}
+				]
+			}
+		}
+	},
+	"1129": {
+		"insId": 1129,
+		"intType": 5,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 100,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 500
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 500
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100941
+					},
+					{
+						"posi": 2,
+						"id": 100942
+					},
+					{
+						"posi": 3,
+						"id": 100943
+					},
+					{
+						"posi": 4,
+						"id": 100944
+					},
+					{
+						"posi": 5,
+						"id": 100945
+					},
+					{
+						"posi": 6,
+						"id": 100946
+					}
+				]
+			}
+		}
+	},
+	"1130": {
+		"insId": 1130,
+		"intType": 5,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 120,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 750
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 750
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100951
+					},
+					{
+						"posi": 2,
+						"id": 100952
+					},
+					{
+						"posi": 3,
+						"id": 100953
+					},
+					{
+						"posi": 4,
+						"id": 100954
+					},
+					{
+						"posi": 5,
+						"id": 100955
+					},
+					{
+						"posi": 6,
+						"id": 100956
+					}
+				]
+			}
+		}
+	},
+	"1131": {
+		"insId": 1131,
+		"intType": 6,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 15,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000401,
+				"num": 5
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000401,
+				"num": 5
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100901
+					},
+					{
+						"posi": 2,
+						"id": 100902
+					},
+					{
+						"posi": 3,
+						"id": 100903
+					},
+					{
+						"posi": 4,
+						"id": 100904
+					},
+					{
+						"posi": 5,
+						"id": 100905
+					},
+					{
+						"posi": 6,
+						"id": 100906
+					}
+				]
+			}
+		}
+	},
+	"1132": {
+		"insId": 1132,
+		"intType": 6,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 40,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000401,
+				"num": 8
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000401,
+				"num": 8
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100911
+					},
+					{
+						"posi": 2,
+						"id": 100912
+					},
+					{
+						"posi": 3,
+						"id": 100913
+					},
+					{
+						"posi": 4,
+						"id": 100914
+					},
+					{
+						"posi": 5,
+						"id": 100915
+					},
+					{
+						"posi": 6,
+						"id": 100916
+					}
+				]
+			}
+		}
+	},
+	"1133": {
+		"insId": 1133,
+		"intType": 6,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 60,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000401,
+				"num": 10
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000401,
+				"num": 10
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100921
+					},
+					{
+						"posi": 2,
+						"id": 100922
+					},
+					{
+						"posi": 3,
+						"id": 100923
+					},
+					{
+						"posi": 4,
+						"id": 100924
+					},
+					{
+						"posi": 5,
+						"id": 100925
+					},
+					{
+						"posi": 6,
+						"id": 100926
+					}
+				]
+			}
+		}
+	},
+	"1134": {
+		"insId": 1134,
+		"intType": 6,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 80,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 3
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 3
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100931
+					},
+					{
+						"posi": 2,
+						"id": 100932
+					},
+					{
+						"posi": 3,
+						"id": 100933
+					},
+					{
+						"posi": 4,
+						"id": 100934
+					},
+					{
+						"posi": 5,
+						"id": 100935
+					},
+					{
+						"posi": 6,
+						"id": 100936
+					}
+				]
+			}
+		}
+	},
+	"1135": {
+		"insId": 1135,
+		"intType": 6,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 100,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 4
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 4
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100941
+					},
+					{
+						"posi": 2,
+						"id": 100942
+					},
+					{
+						"posi": 3,
+						"id": 100943
+					},
+					{
+						"posi": 4,
+						"id": 100944
+					},
+					{
+						"posi": 5,
+						"id": 100945
+					},
+					{
+						"posi": 6,
+						"id": 100946
+					}
+				]
+			}
+		}
+	},
+	"1136": {
+		"insId": 1136,
+		"intType": 6,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 120,
+		"levelMax": 999,
+		"price": [100,200,300,400],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 5
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000402,
+				"num": 5
+			}
+		],
+		"dailyTimes": 2,
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 100951
+					},
+					{
+						"posi": 2,
+						"id": 100952
+					},
+					{
+						"posi": 3,
+						"id": 100953
+					},
+					{
+						"posi": 4,
+						"id": 100954
+					},
+					{
+						"posi": 5,
+						"id": 100955
+					},
+					{
+						"posi": 6,
+						"id": 100956
+					}
+				]
+			}
+		}
+	},
+	"20009": {
+		"insId": 20009,
+		"intType": 99,
+		"checkPoint": 1,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 120
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 120
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1101
+					}
+				]
+			}
+		}
+	},
+	"20010": {
+		"insId": 20010,
+		"intType": 99,
+		"checkPoint": 2,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 121
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 121
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1102
+					}
+				]
+			}
+		}
+	},
+	"20011": {
+		"insId": 20011,
+		"intType": 99,
+		"checkPoint": 3,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 122
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 122
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1103
+					}
+				]
+			}
+		}
+	},
+	"20012": {
+		"insId": 20012,
+		"intType": 99,
+		"checkPoint": 4,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 123
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 123
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1104
+					}
+				]
+			}
+		}
+	},
+	"20013": {
+		"insId": 20013,
+		"intType": 99,
+		"checkPoint": 5,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 124
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 124
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1105
+					}
+				]
+			}
+		}
+	},
+	"20014": {
+		"insId": 20014,
+		"intType": 99,
+		"checkPoint": 6,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 125
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 125
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1106
+					}
+				]
+			}
+		}
+	},
+	"20015": {
+		"insId": 20015,
+		"intType": 99,
+		"checkPoint": 7,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 126
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 126
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1107
+					}
+				]
+			}
+		}
+	},
+	"20016": {
+		"insId": 20016,
+		"intType": 99,
+		"checkPoint": 8,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 127
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 127
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1108
+					}
+				]
+			}
+		}
+	},
+	"20017": {
+		"insId": 20017,
+		"intType": 99,
+		"checkPoint": 9,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 128
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 128
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1109
+					}
+				]
+			}
+		}
+	},
+	"20018": {
+		"insId": 20018,
+		"intType": 99,
+		"checkPoint": 10,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 129
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 129
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1110
+					}
+				]
+			}
+		}
+	},
+	"20019": {
+		"insId": 20019,
+		"intType": 99,
+		"checkPoint": 11,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 130
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 130
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 1111
+					}
+				]
+			}
+		}
+	},
+	"20020": {
+		"insId": 20020,
+		"intType": 99,
+		"checkPoint": 12,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 131
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 131
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2101
+					}
+				]
+			}
+		}
+	},
+	"20021": {
+		"insId": 20021,
+		"intType": 99,
+		"checkPoint": 13,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 132
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 132
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2102
+					}
+				]
+			}
+		}
+	},
+	"20022": {
+		"insId": 20022,
+		"intType": 99,
+		"checkPoint": 14,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 133
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 133
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2103
+					}
+				]
+			}
+		}
+	},
+	"20023": {
+		"insId": 20023,
+		"intType": 99,
+		"checkPoint": 15,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 134
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 134
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2104
+					}
+				]
+			}
+		}
+	},
+	"20024": {
+		"insId": 20024,
+		"intType": 99,
+		"checkPoint": 16,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 135
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 135
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2105
+					}
+				]
+			}
+		}
+	},
+	"20025": {
+		"insId": 20025,
+		"intType": 99,
+		"checkPoint": 17,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 136
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 136
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2106
+					}
+				]
+			}
+		}
+	},
+	"20026": {
+		"insId": 20026,
+		"intType": 99,
+		"checkPoint": 18,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 137
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 137
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2107
+					}
+				]
+			}
+		}
+	},
+	"20027": {
+		"insId": 20027,
+		"intType": 99,
+		"checkPoint": 19,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 138
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 138
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2108
+					}
+				]
+			}
+		}
+	},
+	"20028": {
+		"insId": 20028,
+		"intType": 99,
+		"checkPoint": 20,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 139
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 139
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2109
+					}
+				]
+			}
+		}
+	},
+	"20029": {
+		"insId": 20029,
+		"intType": 99,
+		"checkPoint": 21,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 140
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 140
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2110
+					}
+				]
+			}
+		}
+	},
+	"20030": {
+		"insId": 20030,
+		"intType": 99,
+		"checkPoint": 22,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 141
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 141
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2111
+					}
+				]
+			}
+		}
+	},
+	"20031": {
+		"insId": 20031,
+		"intType": 99,
+		"checkPoint": 23,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 142
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 142
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2112
+					}
+				]
+			}
+		}
+	},
+	"20032": {
+		"insId": 20032,
+		"intType": 99,
+		"checkPoint": 24,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 143
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 143
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2113
+					}
+				]
+			}
+		}
+	},
+	"20033": {
+		"insId": 20033,
+		"intType": 99,
+		"checkPoint": 25,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 144
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 144
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2114
+					}
+				]
+			}
+		}
+	},
+	"20034": {
+		"insId": 20034,
+		"intType": 99,
+		"checkPoint": 26,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 145
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 145
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2115
+					}
+				]
+			}
+		}
+	},
+	"20035": {
+		"insId": 20035,
+		"intType": 99,
+		"checkPoint": 27,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 146
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 146
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2116
+					}
+				]
+			}
+		}
+	},
+	"20036": {
+		"insId": 20036,
+		"intType": 99,
+		"checkPoint": 28,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 147
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 147
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2117
+					}
+				]
+			}
+		}
+	},
+	"20037": {
+		"insId": 20037,
+		"intType": 99,
+		"checkPoint": 29,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 148
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 148
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2118
+					}
+				]
+			}
+		}
+	},
+	"20038": {
+		"insId": 20038,
+		"intType": 99,
+		"checkPoint": 30,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 149
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 149
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2119
+					}
+				]
+			}
+		}
+	},
+	"20039": {
+		"insId": 20039,
+		"intType": 99,
+		"checkPoint": 31,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 150
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 150
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2120
+					}
+				]
+			}
+		}
+	},
+	"20040": {
+		"insId": 20040,
+		"intType": 99,
+		"checkPoint": 32,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 151
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 151
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 103
+					}
+				]
+			}
+		}
+	},
+	"20041": {
+		"insId": 20041,
+		"intType": 99,
+		"checkPoint": 33,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 152
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 152
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 104
+					}
+				]
+			}
+		}
+	},
+	"20042": {
+		"insId": 20042,
+		"intType": 99,
+		"checkPoint": 34,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 153
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 153
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 105
+					}
+				]
+			}
+		}
+	},
+	"20043": {
+		"insId": 20043,
+		"intType": 99,
+		"checkPoint": 35,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 154
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 154
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 103
+					},
+					{
+						"posi": 2,
+						"id": 103
+					},
+					{
+						"posi": 3,
+						"id": 103
+					},
+					{
+						"posi": 4,
+						"id": 104
+					},
+					{
+						"posi": 5,
+						"id": 104
+					},
+					{
+						"posi": 6,
+						"id": 105
+					}
+				]
+			}
+		}
+	},
+	"20044": {
+		"insId": 20044,
+		"intType": 99,
+		"checkPoint": 36,
+		"day": [0],
+		"vip": 0,
+		"level": 0,
+		"levelMax": 200,
+		"price": [100,200],
+		"passReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 155
+			}
+		],
+		"firstReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 155
+			}
+		],
+		"dailyTimes": 4,
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 101
+					},
+					{
+						"posi": 2,
+						"id": 2119
+					}
+				]
+			}
+		}
+	}
+}

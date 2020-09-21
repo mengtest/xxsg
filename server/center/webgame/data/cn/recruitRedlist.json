@@ -1,0 +1,62 @@
+{
+	"1": {
+		"id": 1,
+		"type": 1,
+		"beginTime": "1",
+		"endTime": "1",
+		"activityType": 1,
+		"serverType": 2,
+		"fighterNum": 1,
+		"activityList": [5]
+	},
+	"2": {
+		"id": 2,
+		"type": 1,
+		"beginTime": "2",
+		"endTime": "999999",
+		"activityType": 1,
+		"serverType": 2,
+		"fighterNum": 1,
+		"activityList": [1,2,3,4]
+	},
+	"3": {
+		"id": 3,
+		"type": 1,
+		"beginTime": "1",
+		"endTime": "1",
+		"activityType": 1,
+		"serverType": 1,
+		"fighterNum": 1,
+		"activityList": [5]
+	},
+	"4": {
+		"id": 4,
+		"type": 1,
+		"beginTime": "2",
+		"endTime": "999999",
+		"activityType": 1,
+		"serverType": 1,
+		"fighterNum": 1,
+		"activityList": [1,2,3,4]
+	},
+	"5": {
+		"id": 5,
+		"type": 2,
+		"beginTime": "18",
+		"endTime": "999999",
+		"activityType": 1,
+		"serverType": 2,
+		"fighterNum": 1,
+		"activityList": [6]
+	},
+	"6": {
+		"id": 6,
+		"type": 2,
+		"beginTime": "1",
+		"endTime": "999999",
+		"activityType": 1,
+		"serverType": 1,
+		"fighterNum": 1,
+		"activityList": [6]
+	}
+}

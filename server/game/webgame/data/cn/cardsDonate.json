@@ -1,0 +1,922 @@
+{
+	"600101": {
+		"target": 600101,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"600102": {
+		"target": 600102,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"600103": {
+		"target": 600103,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"600104": {
+		"target": 600104,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"600105": {
+		"target": 600105,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"600106": {
+		"target": 600106,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"600107": {
+		"target": 600107,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"600108": {
+		"target": 600108,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"601301": {
+		"target": 601301,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601302": {
+		"target": 601302,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601303": {
+		"target": 601303,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601401": {
+		"target": 601401,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601402": {
+		"target": 601402,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601403": {
+		"target": 601403,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601404": {
+		"target": 601404,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601405": {
+		"target": 601405,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601501": {
+		"target": 601501,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601502": {
+		"target": 601502,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601503": {
+		"target": 601503,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601504": {
+		"target": 601504,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601505": {
+		"target": 601505,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601506": {
+		"target": 601506,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"601601": {
+		"target": 601601,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"601602": {
+		"target": 601602,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"601603": {
+		"target": 601603,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"601604": {
+		"target": 601604,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"601701": {
+		"target": 601701,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"601702": {
+		"target": 601702,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"601801": {
+		"target": 601801,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 5
+			}
+		]
+	},
+	"602301": {
+		"target": 602301,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602302": {
+		"target": 602302,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602303": {
+		"target": 602303,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602401": {
+		"target": 602401,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602402": {
+		"target": 602402,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602403": {
+		"target": 602403,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602404": {
+		"target": 602404,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602405": {
+		"target": 602405,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602501": {
+		"target": 602501,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602502": {
+		"target": 602502,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602503": {
+		"target": 602503,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602504": {
+		"target": 602504,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602505": {
+		"target": 602505,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602506": {
+		"target": 602506,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"602601": {
+		"target": 602601,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"602602": {
+		"target": 602602,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"602603": {
+		"target": 602603,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"602604": {
+		"target": 602604,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"602701": {
+		"target": 602701,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"602702": {
+		"target": 602702,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"602801": {
+		"target": 602801,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 5
+			}
+		]
+	},
+	"603301": {
+		"target": 603301,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603302": {
+		"target": 603302,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603303": {
+		"target": 603303,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603401": {
+		"target": 603401,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603402": {
+		"target": 603402,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603403": {
+		"target": 603403,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603404": {
+		"target": 603404,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603405": {
+		"target": 603405,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603501": {
+		"target": 603501,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603502": {
+		"target": 603502,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603503": {
+		"target": 603503,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603504": {
+		"target": 603504,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603505": {
+		"target": 603505,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603506": {
+		"target": 603506,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"603601": {
+		"target": 603601,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"603602": {
+		"target": 603602,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"603603": {
+		"target": 603603,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"603604": {
+		"target": 603604,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"603701": {
+		"target": 603701,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"603702": {
+		"target": 603702,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"603801": {
+		"target": 603801,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 5
+			}
+		]
+	},
+	"604301": {
+		"target": 604301,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604302": {
+		"target": 604302,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604303": {
+		"target": 604303,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604401": {
+		"target": 604401,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604402": {
+		"target": 604402,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604403": {
+		"target": 604403,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604404": {
+		"target": 604404,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604405": {
+		"target": 604405,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604501": {
+		"target": 604501,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604502": {
+		"target": 604502,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604503": {
+		"target": 604503,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604504": {
+		"target": 604504,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604505": {
+		"target": 604505,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604506": {
+		"target": 604506,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 1
+			}
+		]
+	},
+	"604601": {
+		"target": 604601,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"604602": {
+		"target": 604602,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"604603": {
+		"target": 604603,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"604604": {
+		"target": 604604,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 2
+			}
+		]
+	},
+	"604701": {
+		"target": 604701,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"604702": {
+		"target": 604702,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 3
+			}
+		]
+	},
+	"604801": {
+		"target": 604801,
+		"donateReward": [
+			{
+				"type": 2,
+				"id": 30011004,
+				"num": 5
+			}
+		]
+	}
+}

@@ -1,0 +1,8789 @@
+{
+	"1001": {
+		"insId": 1001,
+		"type": 1,
+		"name": "10级BOSS",
+		"worldLevel": 0,
+		"level": 10,
+		"freshTime": 60,
+		"sustainedTime": 100,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 4500
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 1
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20101]
+			},
+			"2": {
+				"dropId": [20102]
+			},
+			"3": {
+				"dropId": [20103]
+			},
+			"4": {
+				"dropId": [20104]
+			},
+			"5": {
+				"dropId": [20105]
+			},
+			"0": {
+				"dropId": [20106]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100310
+					}
+				]
+			}
+		}
+	},
+	"1002": {
+		"insId": 1002,
+		"type": 1,
+		"name": "15级BOSS",
+		"worldLevel": 0,
+		"level": 15,
+		"freshTime": 150,
+		"sustainedTime": 200,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 6000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 1
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20151]
+			},
+			"2": {
+				"dropId": [20152]
+			},
+			"3": {
+				"dropId": [20153]
+			},
+			"4": {
+				"dropId": [20154]
+			},
+			"5": {
+				"dropId": [20155]
+			},
+			"0": {
+				"dropId": [20156]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100315
+					}
+				]
+			}
+		}
+	},
+	"1003": {
+		"insId": 1003,
+		"type": 1,
+		"name": "20级BOSS",
+		"worldLevel": 0,
+		"level": 20,
+		"freshTime": 200,
+		"sustainedTime": 300,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 7500
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 1
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20201]
+			},
+			"2": {
+				"dropId": [20202]
+			},
+			"3": {
+				"dropId": [20203]
+			},
+			"4": {
+				"dropId": [20204]
+			},
+			"5": {
+				"dropId": [20205]
+			},
+			"0": {
+				"dropId": [20206]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100320
+					}
+				]
+			}
+		}
+	},
+	"1004": {
+		"insId": 1004,
+		"type": 1,
+		"name": "25级BOSS",
+		"worldLevel": 0,
+		"level": 25,
+		"freshTime": 300,
+		"sustainedTime": 500,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 9000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 2
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20251]
+			},
+			"2": {
+				"dropId": [20252]
+			},
+			"3": {
+				"dropId": [20253]
+			},
+			"4": {
+				"dropId": [20254]
+			},
+			"5": {
+				"dropId": [20255]
+			},
+			"0": {
+				"dropId": [20256]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100325
+					}
+				]
+			}
+		}
+	},
+	"1005": {
+		"insId": 1005,
+		"type": 1,
+		"name": "30级BOSS",
+		"worldLevel": 0,
+		"level": 30,
+		"freshTime": 350,
+		"sustainedTime": 700,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 12000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 2
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20301]
+			},
+			"2": {
+				"dropId": [20302]
+			},
+			"3": {
+				"dropId": [20303]
+			},
+			"4": {
+				"dropId": [20304]
+			},
+			"5": {
+				"dropId": [20305]
+			},
+			"0": {
+				"dropId": [20306]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100330
+					}
+				]
+			}
+		}
+	},
+	"1006": {
+		"insId": 1006,
+		"type": 1,
+		"name": "35级BOSS",
+		"worldLevel": 0,
+		"level": 35,
+		"freshTime": 400,
+		"sustainedTime": 800,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 15000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 2
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20351]
+			},
+			"2": {
+				"dropId": [20352]
+			},
+			"3": {
+				"dropId": [20353]
+			},
+			"4": {
+				"dropId": [20354]
+			},
+			"5": {
+				"dropId": [20355]
+			},
+			"0": {
+				"dropId": [20356]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100335
+					}
+				]
+			}
+		}
+	},
+	"1007": {
+		"insId": 1007,
+		"type": 1,
+		"name": "40级BOSS",
+		"worldLevel": 0,
+		"level": 40,
+		"freshTime": 450,
+		"sustainedTime": 900,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 18000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 3
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20401]
+			},
+			"2": {
+				"dropId": [20402]
+			},
+			"3": {
+				"dropId": [20403]
+			},
+			"4": {
+				"dropId": [20404]
+			},
+			"5": {
+				"dropId": [20405]
+			},
+			"0": {
+				"dropId": [20406]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100340
+					}
+				]
+			}
+		}
+	},
+	"1008": {
+		"insId": 1008,
+		"type": 1,
+		"name": "50级BOSS",
+		"worldLevel": 0,
+		"level": 50,
+		"freshTime": 500,
+		"sustainedTime": 1000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 21000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 4
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20501]
+			},
+			"2": {
+				"dropId": [20502]
+			},
+			"3": {
+				"dropId": [20503]
+			},
+			"4": {
+				"dropId": [20504]
+			},
+			"5": {
+				"dropId": [20505]
+			},
+			"0": {
+				"dropId": [20506]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100350
+					}
+				]
+			}
+		}
+	},
+	"1009": {
+		"insId": 1009,
+		"type": 1,
+		"name": "60级BOSS",
+		"worldLevel": 0,
+		"level": 60,
+		"freshTime": 550,
+		"sustainedTime": 1100,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 24000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 6
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20601]
+			},
+			"2": {
+				"dropId": [20602]
+			},
+			"3": {
+				"dropId": [20603]
+			},
+			"4": {
+				"dropId": [20604]
+			},
+			"5": {
+				"dropId": [20605]
+			},
+			"0": {
+				"dropId": [20606]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100360
+					}
+				]
+			}
+		}
+	},
+	"1010": {
+		"insId": 1010,
+		"type": 1,
+		"name": "70级BOSS",
+		"worldLevel": 0,
+		"level": 70,
+		"freshTime": 600,
+		"sustainedTime": 1200,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 27000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 7
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20701]
+			},
+			"2": {
+				"dropId": [20702]
+			},
+			"3": {
+				"dropId": [20703]
+			},
+			"4": {
+				"dropId": [20704]
+			},
+			"5": {
+				"dropId": [20705]
+			},
+			"0": {
+				"dropId": [20706]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100370
+					}
+				]
+			}
+		}
+	},
+	"1011": {
+		"insId": 1011,
+		"type": 1,
+		"name": "80级BOSS",
+		"worldLevel": 0,
+		"level": 80,
+		"freshTime": 650,
+		"sustainedTime": 1300,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 9
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20801]
+			},
+			"2": {
+				"dropId": [20802]
+			},
+			"3": {
+				"dropId": [20803]
+			},
+			"4": {
+				"dropId": [20804]
+			},
+			"5": {
+				"dropId": [20805]
+			},
+			"0": {
+				"dropId": [20806]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100380
+					}
+				]
+			}
+		}
+	},
+	"1012": {
+		"insId": 1012,
+		"type": 1,
+		"name": "90级BOSS",
+		"worldLevel": 0,
+		"level": 90,
+		"freshTime": 700,
+		"sustainedTime": 1400,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 36000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 11
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [20901]
+			},
+			"2": {
+				"dropId": [20902]
+			},
+			"3": {
+				"dropId": [20903]
+			},
+			"4": {
+				"dropId": [20904]
+			},
+			"5": {
+				"dropId": [20905]
+			},
+			"0": {
+				"dropId": [20906]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000021,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100390
+					}
+				]
+			}
+		}
+	},
+	"1013": {
+		"insId": 1013,
+		"type": 1,
+		"name": "100级BOSS",
+		"worldLevel": 0,
+		"level": 100,
+		"freshTime": 750,
+		"sustainedTime": 1500,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 42000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 14
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21001]
+			},
+			"2": {
+				"dropId": [21002]
+			},
+			"3": {
+				"dropId": [21003]
+			},
+			"4": {
+				"dropId": [21004]
+			},
+			"5": {
+				"dropId": [21005]
+			},
+			"0": {
+				"dropId": [21006]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100400
+					}
+				]
+			}
+		}
+	},
+	"1014": {
+		"insId": 1014,
+		"type": 1,
+		"name": "110级BOSS",
+		"worldLevel": 0,
+		"level": 110,
+		"freshTime": 800,
+		"sustainedTime": 1600,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 48000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 16
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21101]
+			},
+			"2": {
+				"dropId": [21102]
+			},
+			"3": {
+				"dropId": [21103]
+			},
+			"4": {
+				"dropId": [21104]
+			},
+			"5": {
+				"dropId": [21105]
+			},
+			"0": {
+				"dropId": [21106]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100410
+					}
+				]
+			}
+		}
+	},
+	"1015": {
+		"insId": 1015,
+		"type": 1,
+		"name": "120级BOSS",
+		"worldLevel": 0,
+		"level": 120,
+		"freshTime": 850,
+		"sustainedTime": 1700,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 54000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 19
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21201]
+			},
+			"2": {
+				"dropId": [21202]
+			},
+			"3": {
+				"dropId": [21203]
+			},
+			"4": {
+				"dropId": [21204]
+			},
+			"5": {
+				"dropId": [21205]
+			},
+			"0": {
+				"dropId": [21206]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100420
+					}
+				]
+			}
+		}
+	},
+	"1016": {
+		"insId": 1016,
+		"type": 1,
+		"name": "130级BOSS",
+		"worldLevel": 0,
+		"level": 130,
+		"freshTime": 900,
+		"sustainedTime": 1800,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 60000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 22
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21301]
+			},
+			"2": {
+				"dropId": [21302]
+			},
+			"3": {
+				"dropId": [21303]
+			},
+			"4": {
+				"dropId": [21304]
+			},
+			"5": {
+				"dropId": [21305]
+			},
+			"0": {
+				"dropId": [21306]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100430
+					}
+				]
+			}
+		}
+	},
+	"1017": {
+		"insId": 1017,
+		"type": 1,
+		"name": "140级BOSS",
+		"worldLevel": 0,
+		"level": 140,
+		"freshTime": 950,
+		"sustainedTime": 1900,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 66000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 26
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21401]
+			},
+			"2": {
+				"dropId": [21402]
+			},
+			"3": {
+				"dropId": [21403]
+			},
+			"4": {
+				"dropId": [21404]
+			},
+			"5": {
+				"dropId": [21405]
+			},
+			"0": {
+				"dropId": [21406]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100440
+					}
+				]
+			}
+		}
+	},
+	"1018": {
+		"insId": 1018,
+		"type": 1,
+		"name": "150级BOSS",
+		"worldLevel": 0,
+		"level": 150,
+		"freshTime": 1000,
+		"sustainedTime": 2000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 75000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 29
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21501]
+			},
+			"2": {
+				"dropId": [21502]
+			},
+			"3": {
+				"dropId": [21503]
+			},
+			"4": {
+				"dropId": [21504]
+			},
+			"5": {
+				"dropId": [21505]
+			},
+			"0": {
+				"dropId": [21506]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100450
+					}
+				]
+			}
+		}
+	},
+	"1019": {
+		"insId": 1019,
+		"type": 1,
+		"name": "160级BOSS",
+		"worldLevel": 0,
+		"level": 160,
+		"freshTime": 1050,
+		"sustainedTime": 2500,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 84000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 33
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21601]
+			},
+			"2": {
+				"dropId": [21602]
+			},
+			"3": {
+				"dropId": [21603]
+			},
+			"4": {
+				"dropId": [21604]
+			},
+			"5": {
+				"dropId": [21605]
+			},
+			"0": {
+				"dropId": [21606]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100460
+					}
+				]
+			}
+		}
+	},
+	"1020": {
+		"insId": 1020,
+		"type": 1,
+		"name": "170级BOSS",
+		"worldLevel": 0,
+		"level": 170,
+		"freshTime": 1100,
+		"sustainedTime": 3000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 93000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 37
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21701]
+			},
+			"2": {
+				"dropId": [21702]
+			},
+			"3": {
+				"dropId": [21703]
+			},
+			"4": {
+				"dropId": [21704]
+			},
+			"5": {
+				"dropId": [21705]
+			},
+			"0": {
+				"dropId": [21706]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100470
+					}
+				]
+			}
+		}
+	},
+	"1021": {
+		"insId": 1021,
+		"type": 1,
+		"name": "180级BOSS",
+		"worldLevel": 0,
+		"level": 180,
+		"freshTime": 1200,
+		"sustainedTime": 4000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 102000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 41
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21801]
+			},
+			"2": {
+				"dropId": [21802]
+			},
+			"3": {
+				"dropId": [21803]
+			},
+			"4": {
+				"dropId": [21804]
+			},
+			"5": {
+				"dropId": [21805]
+			},
+			"0": {
+				"dropId": [21806]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100480
+					}
+				]
+			}
+		}
+	},
+	"1022": {
+		"insId": 1022,
+		"type": 1,
+		"name": "190级BOSS",
+		"worldLevel": 0,
+		"level": 190,
+		"freshTime": 1400,
+		"sustainedTime": 5000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 111000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 46
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [21901]
+			},
+			"2": {
+				"dropId": [21902]
+			},
+			"3": {
+				"dropId": [21903]
+			},
+			"4": {
+				"dropId": [21904]
+			},
+			"5": {
+				"dropId": [21905]
+			},
+			"0": {
+				"dropId": [21906]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100490
+					}
+				]
+			}
+		}
+	},
+	"1023": {
+		"insId": 1023,
+		"type": 1,
+		"name": "200级BOSS",
+		"worldLevel": 0,
+		"level": 200,
+		"freshTime": 1800,
+		"sustainedTime": 6000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 8,
+				"num": 120000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 51
+			}
+		],
+		"rankReward": {
+			"1": {
+				"dropId": [22001]
+			},
+			"2": {
+				"dropId": [22002]
+			},
+			"3": {
+				"dropId": [22003]
+			},
+			"4": {
+				"dropId": [22004]
+			},
+			"5": {
+				"dropId": [22005]
+			},
+			"0": {
+				"dropId": [22006]
+			}
+		},
+		"fresh": [
+			{
+				"type": 2,
+				"id": 30000022,
+				"num": 1
+			}
+		],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100500
+					}
+				]
+			}
+		}
+	},
+	"2001": {
+		"insId": 2001,
+		"type": 2,
+		"name": "暴走贾诩",
+		"worldLevel": 10,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100610
+					}
+				]
+			}
+		}
+	},
+	"2002": {
+		"insId": 2002,
+		"type": 2,
+		"name": "暴走司马懿",
+		"worldLevel": 11,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100611
+					}
+				]
+			}
+		}
+	},
+	"2003": {
+		"insId": 2003,
+		"type": 2,
+		"name": "暴走夏侯惇",
+		"worldLevel": 12,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100612
+					}
+				]
+			}
+		}
+	},
+	"2004": {
+		"insId": 2004,
+		"type": 2,
+		"name": "暴走夏侯渊",
+		"worldLevel": 13,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100613
+					}
+				]
+			}
+		}
+	},
+	"2005": {
+		"insId": 2005,
+		"type": 2,
+		"name": "暴走张郃",
+		"worldLevel": 14,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100614
+					}
+				]
+			}
+		}
+	},
+	"2006": {
+		"insId": 2006,
+		"type": 2,
+		"name": "暴走张辽",
+		"worldLevel": 15,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100615
+					}
+				]
+			}
+		}
+	},
+	"2007": {
+		"insId": 2007,
+		"type": 2,
+		"name": "暴走郭嘉",
+		"worldLevel": 16,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100616
+					}
+				]
+			}
+		}
+	},
+	"2008": {
+		"insId": 2008,
+		"type": 2,
+		"name": "暴走曹操",
+		"worldLevel": 17,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100617
+					}
+				]
+			}
+		}
+	},
+	"2009": {
+		"insId": 2009,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 18,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100618
+					}
+				]
+			}
+		}
+	},
+	"2010": {
+		"insId": 2010,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 19,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100619
+					}
+				]
+			}
+		}
+	},
+	"2011": {
+		"insId": 2011,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 20,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100620
+					}
+				]
+			}
+		}
+	},
+	"2012": {
+		"insId": 2012,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 21,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100621
+					}
+				]
+			}
+		}
+	},
+	"2013": {
+		"insId": 2013,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 22,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100622
+					}
+				]
+			}
+		}
+	},
+	"2014": {
+		"insId": 2014,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 23,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100623
+					}
+				]
+			}
+		}
+	},
+	"2015": {
+		"insId": 2015,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 24,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100624
+					}
+				]
+			}
+		}
+	},
+	"2016": {
+		"insId": 2016,
+		"type": 2,
+		"name": "暴走黄忠",
+		"worldLevel": 25,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100625
+					}
+				]
+			}
+		}
+	},
+	"2017": {
+		"insId": 2017,
+		"type": 2,
+		"name": "暴走赵云",
+		"worldLevel": 26,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100626
+					}
+				]
+			}
+		}
+	},
+	"2018": {
+		"insId": 2018,
+		"type": 2,
+		"name": "暴走诸葛亮",
+		"worldLevel": 27,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100627
+					}
+				]
+			}
+		}
+	},
+	"2019": {
+		"insId": 2019,
+		"type": 2,
+		"name": "暴走关羽",
+		"worldLevel": 28,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100628
+					}
+				]
+			}
+		}
+	},
+	"2020": {
+		"insId": 2020,
+		"type": 2,
+		"name": "暴走刘备",
+		"worldLevel": 29,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100629
+					}
+				]
+			}
+		}
+	},
+	"2021": {
+		"insId": 2021,
+		"type": 2,
+		"name": "暴走张飞",
+		"worldLevel": 30,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100630
+					}
+				]
+			}
+		}
+	},
+	"2022": {
+		"insId": 2022,
+		"type": 2,
+		"name": "暴走黄月英",
+		"worldLevel": 31,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100631
+					}
+				]
+			}
+		}
+	},
+	"2023": {
+		"insId": 2023,
+		"type": 2,
+		"name": "暴走鲁肃",
+		"worldLevel": 32,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100632
+					}
+				]
+			}
+		}
+	},
+	"2024": {
+		"insId": 2024,
+		"type": 2,
+		"name": "暴走孙权",
+		"worldLevel": 33,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100633
+					}
+				]
+			}
+		}
+	},
+	"2025": {
+		"insId": 2025,
+		"type": 2,
+		"name": "暴走甘宁",
+		"worldLevel": 34,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100634
+					}
+				]
+			}
+		}
+	},
+	"2026": {
+		"insId": 2026,
+		"type": 2,
+		"name": "暴走孙坚",
+		"worldLevel": 35,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100635
+					}
+				]
+			}
+		}
+	},
+	"2027": {
+		"insId": 2027,
+		"type": 2,
+		"name": "暴走太史慈",
+		"worldLevel": 36,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100636
+					}
+				]
+			}
+		}
+	},
+	"2028": {
+		"insId": 2028,
+		"type": 2,
+		"name": "暴走孙策",
+		"worldLevel": 37,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100637
+					}
+				]
+			}
+		}
+	},
+	"2029": {
+		"insId": 2029,
+		"type": 2,
+		"name": "暴走小乔",
+		"worldLevel": 38,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100638
+					}
+				]
+			}
+		}
+	},
+	"2030": {
+		"insId": 2030,
+		"type": 2,
+		"name": "暴走周瑜",
+		"worldLevel": 39,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100639
+					}
+				]
+			}
+		}
+	},
+	"2031": {
+		"insId": 2031,
+		"type": 2,
+		"name": "暴走陆逊",
+		"worldLevel": 40,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100640
+					}
+				]
+			}
+		}
+	},
+	"2032": {
+		"insId": 2032,
+		"type": 2,
+		"name": "暴走吕蒙",
+		"worldLevel": 41,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100641
+					}
+				]
+			}
+		}
+	},
+	"2033": {
+		"insId": 2033,
+		"type": 2,
+		"name": "暴走孙尚香",
+		"worldLevel": 42,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100642
+					}
+				]
+			}
+		}
+	},
+	"2034": {
+		"insId": 2034,
+		"type": 2,
+		"name": "暴走于吉",
+		"worldLevel": 43,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100643
+					}
+				]
+			}
+		}
+	},
+	"2035": {
+		"insId": 2035,
+		"type": 2,
+		"name": "暴走张角",
+		"worldLevel": 44,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100644
+					}
+				]
+			}
+		}
+	},
+	"2036": {
+		"insId": 2036,
+		"type": 2,
+		"name": "暴走华雄",
+		"worldLevel": 45,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100645
+					}
+				]
+			}
+		}
+	},
+	"2037": {
+		"insId": 2037,
+		"type": 2,
+		"name": "暴走董卓",
+		"worldLevel": 46,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100646
+					}
+				]
+			}
+		}
+	},
+	"2038": {
+		"insId": 2038,
+		"type": 2,
+		"name": "暴走卢植",
+		"worldLevel": 47,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100647
+					}
+				]
+			}
+		}
+	},
+	"2039": {
+		"insId": 2039,
+		"type": 2,
+		"name": "暴走公孙瓒",
+		"worldLevel": 48,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100648
+					}
+				]
+			}
+		}
+	},
+	"2040": {
+		"insId": 2040,
+		"type": 2,
+		"name": "暴走华佗",
+		"worldLevel": 49,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100649
+					}
+				]
+			}
+		}
+	},
+	"2041": {
+		"insId": 2041,
+		"type": 2,
+		"name": "暴走左慈",
+		"worldLevel": 50,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100650
+					}
+				]
+			}
+		}
+	},
+	"2042": {
+		"insId": 2042,
+		"type": 2,
+		"name": "暴走貂蝉",
+		"worldLevel": 51,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100651
+					}
+				]
+			}
+		}
+	},
+	"2043": {
+		"insId": 2043,
+		"type": 2,
+		"name": "暴走吕布",
+		"worldLevel": 52,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100652
+					}
+				]
+			}
+		}
+	},
+	"2044": {
+		"insId": 2044,
+		"type": 2,
+		"name": "暴走蔡文姬",
+		"worldLevel": 53,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100653
+					}
+				]
+			}
+		}
+	},
+	"2045": {
+		"insId": 2045,
+		"type": 2,
+		"name": "暴走贾诩",
+		"worldLevel": 54,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100654
+					}
+				]
+			}
+		}
+	},
+	"2046": {
+		"insId": 2046,
+		"type": 2,
+		"name": "暴走司马懿",
+		"worldLevel": 55,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100655
+					}
+				]
+			}
+		}
+	},
+	"2047": {
+		"insId": 2047,
+		"type": 2,
+		"name": "暴走夏侯惇",
+		"worldLevel": 56,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100656
+					}
+				]
+			}
+		}
+	},
+	"2048": {
+		"insId": 2048,
+		"type": 2,
+		"name": "暴走夏侯渊",
+		"worldLevel": 57,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100657
+					}
+				]
+			}
+		}
+	},
+	"2049": {
+		"insId": 2049,
+		"type": 2,
+		"name": "暴走张郃",
+		"worldLevel": 58,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100658
+					}
+				]
+			}
+		}
+	},
+	"2050": {
+		"insId": 2050,
+		"type": 2,
+		"name": "暴走张辽",
+		"worldLevel": 59,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100659
+					}
+				]
+			}
+		}
+	},
+	"2051": {
+		"insId": 2051,
+		"type": 2,
+		"name": "暴走郭嘉",
+		"worldLevel": 60,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100660
+					}
+				]
+			}
+		}
+	},
+	"2052": {
+		"insId": 2052,
+		"type": 2,
+		"name": "暴走曹操",
+		"worldLevel": 61,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100661
+					}
+				]
+			}
+		}
+	},
+	"2053": {
+		"insId": 2053,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 62,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100662
+					}
+				]
+			}
+		}
+	},
+	"2054": {
+		"insId": 2054,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 63,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100663
+					}
+				]
+			}
+		}
+	},
+	"2055": {
+		"insId": 2055,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 64,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100664
+					}
+				]
+			}
+		}
+	},
+	"2056": {
+		"insId": 2056,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 65,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100665
+					}
+				]
+			}
+		}
+	},
+	"2057": {
+		"insId": 2057,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 66,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100666
+					}
+				]
+			}
+		}
+	},
+	"2058": {
+		"insId": 2058,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 67,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100667
+					}
+				]
+			}
+		}
+	},
+	"2059": {
+		"insId": 2059,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 68,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100668
+					}
+				]
+			}
+		}
+	},
+	"2060": {
+		"insId": 2060,
+		"type": 2,
+		"name": "暴走黄忠",
+		"worldLevel": 69,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100669
+					}
+				]
+			}
+		}
+	},
+	"2061": {
+		"insId": 2061,
+		"type": 2,
+		"name": "暴走赵云",
+		"worldLevel": 70,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100670
+					}
+				]
+			}
+		}
+	},
+	"2062": {
+		"insId": 2062,
+		"type": 2,
+		"name": "暴走诸葛亮",
+		"worldLevel": 71,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100671
+					}
+				]
+			}
+		}
+	},
+	"2063": {
+		"insId": 2063,
+		"type": 2,
+		"name": "暴走关羽",
+		"worldLevel": 72,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100672
+					}
+				]
+			}
+		}
+	},
+	"2064": {
+		"insId": 2064,
+		"type": 2,
+		"name": "暴走刘备",
+		"worldLevel": 73,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100673
+					}
+				]
+			}
+		}
+	},
+	"2065": {
+		"insId": 2065,
+		"type": 2,
+		"name": "暴走张飞",
+		"worldLevel": 74,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100674
+					}
+				]
+			}
+		}
+	},
+	"2066": {
+		"insId": 2066,
+		"type": 2,
+		"name": "暴走黄月英",
+		"worldLevel": 75,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100675
+					}
+				]
+			}
+		}
+	},
+	"2067": {
+		"insId": 2067,
+		"type": 2,
+		"name": "暴走鲁肃",
+		"worldLevel": 76,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100676
+					}
+				]
+			}
+		}
+	},
+	"2068": {
+		"insId": 2068,
+		"type": 2,
+		"name": "暴走孙权",
+		"worldLevel": 77,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100677
+					}
+				]
+			}
+		}
+	},
+	"2069": {
+		"insId": 2069,
+		"type": 2,
+		"name": "暴走甘宁",
+		"worldLevel": 78,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100678
+					}
+				]
+			}
+		}
+	},
+	"2070": {
+		"insId": 2070,
+		"type": 2,
+		"name": "暴走孙坚",
+		"worldLevel": 79,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100679
+					}
+				]
+			}
+		}
+	},
+	"2071": {
+		"insId": 2071,
+		"type": 2,
+		"name": "暴走太史慈",
+		"worldLevel": 80,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100680
+					}
+				]
+			}
+		}
+	},
+	"2072": {
+		"insId": 2072,
+		"type": 2,
+		"name": "暴走孙策",
+		"worldLevel": 81,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100681
+					}
+				]
+			}
+		}
+	},
+	"2073": {
+		"insId": 2073,
+		"type": 2,
+		"name": "暴走小乔",
+		"worldLevel": 82,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100682
+					}
+				]
+			}
+		}
+	},
+	"2074": {
+		"insId": 2074,
+		"type": 2,
+		"name": "暴走周瑜",
+		"worldLevel": 83,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100683
+					}
+				]
+			}
+		}
+	},
+	"2075": {
+		"insId": 2075,
+		"type": 2,
+		"name": "暴走陆逊",
+		"worldLevel": 84,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100684
+					}
+				]
+			}
+		}
+	},
+	"2076": {
+		"insId": 2076,
+		"type": 2,
+		"name": "暴走吕蒙",
+		"worldLevel": 85,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100685
+					}
+				]
+			}
+		}
+	},
+	"2077": {
+		"insId": 2077,
+		"type": 2,
+		"name": "暴走孙尚香",
+		"worldLevel": 86,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100686
+					}
+				]
+			}
+		}
+	},
+	"2078": {
+		"insId": 2078,
+		"type": 2,
+		"name": "暴走于吉",
+		"worldLevel": 87,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100687
+					}
+				]
+			}
+		}
+	},
+	"2079": {
+		"insId": 2079,
+		"type": 2,
+		"name": "暴走张角",
+		"worldLevel": 88,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100688
+					}
+				]
+			}
+		}
+	},
+	"2080": {
+		"insId": 2080,
+		"type": 2,
+		"name": "暴走华雄",
+		"worldLevel": 89,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100689
+					}
+				]
+			}
+		}
+	},
+	"2081": {
+		"insId": 2081,
+		"type": 2,
+		"name": "暴走董卓",
+		"worldLevel": 90,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100690
+					}
+				]
+			}
+		}
+	},
+	"2082": {
+		"insId": 2082,
+		"type": 2,
+		"name": "暴走卢植",
+		"worldLevel": 91,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100691
+					}
+				]
+			}
+		}
+	},
+	"2083": {
+		"insId": 2083,
+		"type": 2,
+		"name": "暴走公孙瓒",
+		"worldLevel": 92,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100692
+					}
+				]
+			}
+		}
+	},
+	"2084": {
+		"insId": 2084,
+		"type": 2,
+		"name": "暴走华佗",
+		"worldLevel": 93,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100693
+					}
+				]
+			}
+		}
+	},
+	"2085": {
+		"insId": 2085,
+		"type": 2,
+		"name": "暴走左慈",
+		"worldLevel": 94,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100694
+					}
+				]
+			}
+		}
+	},
+	"2086": {
+		"insId": 2086,
+		"type": 2,
+		"name": "暴走貂蝉",
+		"worldLevel": 95,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100695
+					}
+				]
+			}
+		}
+	},
+	"2087": {
+		"insId": 2087,
+		"type": 2,
+		"name": "暴走吕布",
+		"worldLevel": 96,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100696
+					}
+				]
+			}
+		}
+	},
+	"2088": {
+		"insId": 2088,
+		"type": 2,
+		"name": "暴走蔡文姬",
+		"worldLevel": 97,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100697
+					}
+				]
+			}
+		}
+	},
+	"2089": {
+		"insId": 2089,
+		"type": 2,
+		"name": "暴走贾诩",
+		"worldLevel": 98,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100698
+					}
+				]
+			}
+		}
+	},
+	"2090": {
+		"insId": 2090,
+		"type": 2,
+		"name": "暴走司马懿",
+		"worldLevel": 99,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100699
+					}
+				]
+			}
+		}
+	},
+	"2091": {
+		"insId": 2091,
+		"type": 2,
+		"name": "暴走夏侯惇",
+		"worldLevel": 100,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100700
+					}
+				]
+			}
+		}
+	},
+	"2092": {
+		"insId": 2092,
+		"type": 2,
+		"name": "暴走夏侯渊",
+		"worldLevel": 101,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100701
+					}
+				]
+			}
+		}
+	},
+	"2093": {
+		"insId": 2093,
+		"type": 2,
+		"name": "暴走张郃",
+		"worldLevel": 102,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100702
+					}
+				]
+			}
+		}
+	},
+	"2094": {
+		"insId": 2094,
+		"type": 2,
+		"name": "暴走张辽",
+		"worldLevel": 103,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100703
+					}
+				]
+			}
+		}
+	},
+	"2095": {
+		"insId": 2095,
+		"type": 2,
+		"name": "暴走郭嘉",
+		"worldLevel": 104,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100704
+					}
+				]
+			}
+		}
+	},
+	"2096": {
+		"insId": 2096,
+		"type": 2,
+		"name": "暴走曹操",
+		"worldLevel": 105,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100705
+					}
+				]
+			}
+		}
+	},
+	"2097": {
+		"insId": 2097,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 106,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100706
+					}
+				]
+			}
+		}
+	},
+	"2098": {
+		"insId": 2098,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 107,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100707
+					}
+				]
+			}
+		}
+	},
+	"2099": {
+		"insId": 2099,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 108,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100708
+					}
+				]
+			}
+		}
+	},
+	"2100": {
+		"insId": 2100,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 109,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100709
+					}
+				]
+			}
+		}
+	},
+	"2101": {
+		"insId": 2101,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 110,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100710
+					}
+				]
+			}
+		}
+	},
+	"2102": {
+		"insId": 2102,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 111,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100711
+					}
+				]
+			}
+		}
+	},
+	"2103": {
+		"insId": 2103,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 112,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100712
+					}
+				]
+			}
+		}
+	},
+	"2104": {
+		"insId": 2104,
+		"type": 2,
+		"name": "暴走黄忠",
+		"worldLevel": 113,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100713
+					}
+				]
+			}
+		}
+	},
+	"2105": {
+		"insId": 2105,
+		"type": 2,
+		"name": "暴走赵云",
+		"worldLevel": 114,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100714
+					}
+				]
+			}
+		}
+	},
+	"2106": {
+		"insId": 2106,
+		"type": 2,
+		"name": "暴走诸葛亮",
+		"worldLevel": 115,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100715
+					}
+				]
+			}
+		}
+	},
+	"2107": {
+		"insId": 2107,
+		"type": 2,
+		"name": "暴走关羽",
+		"worldLevel": 116,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100716
+					}
+				]
+			}
+		}
+	},
+	"2108": {
+		"insId": 2108,
+		"type": 2,
+		"name": "暴走刘备",
+		"worldLevel": 117,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100717
+					}
+				]
+			}
+		}
+	},
+	"2109": {
+		"insId": 2109,
+		"type": 2,
+		"name": "暴走张飞",
+		"worldLevel": 118,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100718
+					}
+				]
+			}
+		}
+	},
+	"2110": {
+		"insId": 2110,
+		"type": 2,
+		"name": "暴走黄月英",
+		"worldLevel": 119,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100719
+					}
+				]
+			}
+		}
+	},
+	"2111": {
+		"insId": 2111,
+		"type": 2,
+		"name": "暴走鲁肃",
+		"worldLevel": 120,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100720
+					}
+				]
+			}
+		}
+	},
+	"2112": {
+		"insId": 2112,
+		"type": 2,
+		"name": "暴走孙权",
+		"worldLevel": 121,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100721
+					}
+				]
+			}
+		}
+	},
+	"2113": {
+		"insId": 2113,
+		"type": 2,
+		"name": "暴走甘宁",
+		"worldLevel": 122,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100722
+					}
+				]
+			}
+		}
+	},
+	"2114": {
+		"insId": 2114,
+		"type": 2,
+		"name": "暴走孙坚",
+		"worldLevel": 123,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100723
+					}
+				]
+			}
+		}
+	},
+	"2115": {
+		"insId": 2115,
+		"type": 2,
+		"name": "暴走太史慈",
+		"worldLevel": 124,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100724
+					}
+				]
+			}
+		}
+	},
+	"2116": {
+		"insId": 2116,
+		"type": 2,
+		"name": "暴走孙策",
+		"worldLevel": 125,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100725
+					}
+				]
+			}
+		}
+	},
+	"2117": {
+		"insId": 2117,
+		"type": 2,
+		"name": "暴走小乔",
+		"worldLevel": 126,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100726
+					}
+				]
+			}
+		}
+	},
+	"2118": {
+		"insId": 2118,
+		"type": 2,
+		"name": "暴走周瑜",
+		"worldLevel": 127,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100727
+					}
+				]
+			}
+		}
+	},
+	"2119": {
+		"insId": 2119,
+		"type": 2,
+		"name": "暴走陆逊",
+		"worldLevel": 128,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100728
+					}
+				]
+			}
+		}
+	},
+	"2120": {
+		"insId": 2120,
+		"type": 2,
+		"name": "暴走吕蒙",
+		"worldLevel": 129,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100729
+					}
+				]
+			}
+		}
+	},
+	"2121": {
+		"insId": 2121,
+		"type": 2,
+		"name": "暴走孙尚香",
+		"worldLevel": 130,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100730
+					}
+				]
+			}
+		}
+	},
+	"2122": {
+		"insId": 2122,
+		"type": 2,
+		"name": "暴走于吉",
+		"worldLevel": 131,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100731
+					}
+				]
+			}
+		}
+	},
+	"2123": {
+		"insId": 2123,
+		"type": 2,
+		"name": "暴走张角",
+		"worldLevel": 132,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100732
+					}
+				]
+			}
+		}
+	},
+	"2124": {
+		"insId": 2124,
+		"type": 2,
+		"name": "暴走华雄",
+		"worldLevel": 133,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100733
+					}
+				]
+			}
+		}
+	},
+	"2125": {
+		"insId": 2125,
+		"type": 2,
+		"name": "暴走董卓",
+		"worldLevel": 134,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100734
+					}
+				]
+			}
+		}
+	},
+	"2126": {
+		"insId": 2126,
+		"type": 2,
+		"name": "暴走卢植",
+		"worldLevel": 135,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100735
+					}
+				]
+			}
+		}
+	},
+	"2127": {
+		"insId": 2127,
+		"type": 2,
+		"name": "暴走公孙瓒",
+		"worldLevel": 136,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100736
+					}
+				]
+			}
+		}
+	},
+	"2128": {
+		"insId": 2128,
+		"type": 2,
+		"name": "暴走华佗",
+		"worldLevel": 137,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100737
+					}
+				]
+			}
+		}
+	},
+	"2129": {
+		"insId": 2129,
+		"type": 2,
+		"name": "暴走左慈",
+		"worldLevel": 138,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100738
+					}
+				]
+			}
+		}
+	},
+	"2130": {
+		"insId": 2130,
+		"type": 2,
+		"name": "暴走貂蝉",
+		"worldLevel": 139,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100739
+					}
+				]
+			}
+		}
+	},
+	"2131": {
+		"insId": 2131,
+		"type": 2,
+		"name": "暴走吕布",
+		"worldLevel": 140,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100740
+					}
+				]
+			}
+		}
+	},
+	"2132": {
+		"insId": 2132,
+		"type": 2,
+		"name": "暴走蔡文姬",
+		"worldLevel": 141,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100741
+					}
+				]
+			}
+		}
+	},
+	"2133": {
+		"insId": 2133,
+		"type": 2,
+		"name": "暴走贾诩",
+		"worldLevel": 142,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100742
+					}
+				]
+			}
+		}
+	},
+	"2134": {
+		"insId": 2134,
+		"type": 2,
+		"name": "暴走司马懿",
+		"worldLevel": 143,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100743
+					}
+				]
+			}
+		}
+	},
+	"2135": {
+		"insId": 2135,
+		"type": 2,
+		"name": "暴走夏侯惇",
+		"worldLevel": 144,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100744
+					}
+				]
+			}
+		}
+	},
+	"2136": {
+		"insId": 2136,
+		"type": 2,
+		"name": "暴走夏侯渊",
+		"worldLevel": 145,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100745
+					}
+				]
+			}
+		}
+	},
+	"2137": {
+		"insId": 2137,
+		"type": 2,
+		"name": "暴走张郃",
+		"worldLevel": 146,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100746
+					}
+				]
+			}
+		}
+	},
+	"2138": {
+		"insId": 2138,
+		"type": 2,
+		"name": "暴走张辽",
+		"worldLevel": 147,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100747
+					}
+				]
+			}
+		}
+	},
+	"2139": {
+		"insId": 2139,
+		"type": 2,
+		"name": "暴走郭嘉",
+		"worldLevel": 148,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100748
+					}
+				]
+			}
+		}
+	},
+	"2140": {
+		"insId": 2140,
+		"type": 2,
+		"name": "暴走曹操",
+		"worldLevel": 149,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100749
+					}
+				]
+			}
+		}
+	},
+	"2141": {
+		"insId": 2141,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 150,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100750
+					}
+				]
+			}
+		}
+	},
+	"2142": {
+		"insId": 2142,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 151,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100751
+					}
+				]
+			}
+		}
+	},
+	"2143": {
+		"insId": 2143,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 152,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100752
+					}
+				]
+			}
+		}
+	},
+	"2144": {
+		"insId": 2144,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 153,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100753
+					}
+				]
+			}
+		}
+	},
+	"2145": {
+		"insId": 2145,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 154,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100754
+					}
+				]
+			}
+		}
+	},
+	"2146": {
+		"insId": 2146,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 155,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100755
+					}
+				]
+			}
+		}
+	},
+	"2147": {
+		"insId": 2147,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 156,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100756
+					}
+				]
+			}
+		}
+	},
+	"2148": {
+		"insId": 2148,
+		"type": 2,
+		"name": "暴走黄忠",
+		"worldLevel": 157,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100757
+					}
+				]
+			}
+		}
+	},
+	"2149": {
+		"insId": 2149,
+		"type": 2,
+		"name": "暴走赵云",
+		"worldLevel": 158,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100758
+					}
+				]
+			}
+		}
+	},
+	"2150": {
+		"insId": 2150,
+		"type": 2,
+		"name": "暴走诸葛亮",
+		"worldLevel": 159,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100759
+					}
+				]
+			}
+		}
+	},
+	"2151": {
+		"insId": 2151,
+		"type": 2,
+		"name": "暴走关羽",
+		"worldLevel": 160,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100760
+					}
+				]
+			}
+		}
+	},
+	"2152": {
+		"insId": 2152,
+		"type": 2,
+		"name": "暴走刘备",
+		"worldLevel": 161,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100761
+					}
+				]
+			}
+		}
+	},
+	"2153": {
+		"insId": 2153,
+		"type": 2,
+		"name": "暴走张飞",
+		"worldLevel": 162,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100762
+					}
+				]
+			}
+		}
+	},
+	"2154": {
+		"insId": 2154,
+		"type": 2,
+		"name": "暴走黄月英",
+		"worldLevel": 163,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100763
+					}
+				]
+			}
+		}
+	},
+	"2155": {
+		"insId": 2155,
+		"type": 2,
+		"name": "暴走鲁肃",
+		"worldLevel": 164,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100764
+					}
+				]
+			}
+		}
+	},
+	"2156": {
+		"insId": 2156,
+		"type": 2,
+		"name": "暴走孙权",
+		"worldLevel": 165,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100765
+					}
+				]
+			}
+		}
+	},
+	"2157": {
+		"insId": 2157,
+		"type": 2,
+		"name": "暴走甘宁",
+		"worldLevel": 166,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100766
+					}
+				]
+			}
+		}
+	},
+	"2158": {
+		"insId": 2158,
+		"type": 2,
+		"name": "暴走孙坚",
+		"worldLevel": 167,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100767
+					}
+				]
+			}
+		}
+	},
+	"2159": {
+		"insId": 2159,
+		"type": 2,
+		"name": "暴走太史慈",
+		"worldLevel": 168,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100768
+					}
+				]
+			}
+		}
+	},
+	"2160": {
+		"insId": 2160,
+		"type": 2,
+		"name": "暴走孙策",
+		"worldLevel": 169,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100769
+					}
+				]
+			}
+		}
+	},
+	"2161": {
+		"insId": 2161,
+		"type": 2,
+		"name": "暴走小乔",
+		"worldLevel": 170,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100770
+					}
+				]
+			}
+		}
+	},
+	"2162": {
+		"insId": 2162,
+		"type": 2,
+		"name": "暴走周瑜",
+		"worldLevel": 171,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100771
+					}
+				]
+			}
+		}
+	},
+	"2163": {
+		"insId": 2163,
+		"type": 2,
+		"name": "暴走陆逊",
+		"worldLevel": 172,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100772
+					}
+				]
+			}
+		}
+	},
+	"2164": {
+		"insId": 2164,
+		"type": 2,
+		"name": "暴走吕蒙",
+		"worldLevel": 173,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100773
+					}
+				]
+			}
+		}
+	},
+	"2165": {
+		"insId": 2165,
+		"type": 2,
+		"name": "暴走孙尚香",
+		"worldLevel": 174,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100774
+					}
+				]
+			}
+		}
+	},
+	"2166": {
+		"insId": 2166,
+		"type": 2,
+		"name": "暴走于吉",
+		"worldLevel": 175,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100775
+					}
+				]
+			}
+		}
+	},
+	"2167": {
+		"insId": 2167,
+		"type": 2,
+		"name": "暴走张角",
+		"worldLevel": 176,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100776
+					}
+				]
+			}
+		}
+	},
+	"2168": {
+		"insId": 2168,
+		"type": 2,
+		"name": "暴走华雄",
+		"worldLevel": 177,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100777
+					}
+				]
+			}
+		}
+	},
+	"2169": {
+		"insId": 2169,
+		"type": 2,
+		"name": "暴走董卓",
+		"worldLevel": 178,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100778
+					}
+				]
+			}
+		}
+	},
+	"2170": {
+		"insId": 2170,
+		"type": 2,
+		"name": "暴走卢植",
+		"worldLevel": 179,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100779
+					}
+				]
+			}
+		}
+	},
+	"2171": {
+		"insId": 2171,
+		"type": 2,
+		"name": "暴走公孙瓒",
+		"worldLevel": 180,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100780
+					}
+				]
+			}
+		}
+	},
+	"2172": {
+		"insId": 2172,
+		"type": 2,
+		"name": "暴走华佗",
+		"worldLevel": 181,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100781
+					}
+				]
+			}
+		}
+	},
+	"2173": {
+		"insId": 2173,
+		"type": 2,
+		"name": "暴走左慈",
+		"worldLevel": 182,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100782
+					}
+				]
+			}
+		}
+	},
+	"2174": {
+		"insId": 2174,
+		"type": 2,
+		"name": "暴走貂蝉",
+		"worldLevel": 183,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100783
+					}
+				]
+			}
+		}
+	},
+	"2175": {
+		"insId": 2175,
+		"type": 2,
+		"name": "暴走吕布",
+		"worldLevel": 184,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100784
+					}
+				]
+			}
+		}
+	},
+	"2176": {
+		"insId": 2176,
+		"type": 2,
+		"name": "暴走蔡文姬",
+		"worldLevel": 185,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100785
+					}
+				]
+			}
+		}
+	},
+	"2177": {
+		"insId": 2177,
+		"type": 2,
+		"name": "暴走贾诩",
+		"worldLevel": 186,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100786
+					}
+				]
+			}
+		}
+	},
+	"2178": {
+		"insId": 2178,
+		"type": 2,
+		"name": "暴走司马懿",
+		"worldLevel": 187,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100787
+					}
+				]
+			}
+		}
+	},
+	"2179": {
+		"insId": 2179,
+		"type": 2,
+		"name": "暴走夏侯惇",
+		"worldLevel": 188,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100788
+					}
+				]
+			}
+		}
+	},
+	"2180": {
+		"insId": 2180,
+		"type": 2,
+		"name": "暴走夏侯渊",
+		"worldLevel": 189,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100789
+					}
+				]
+			}
+		}
+	},
+	"2181": {
+		"insId": 2181,
+		"type": 2,
+		"name": "暴走张郃",
+		"worldLevel": 190,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100790
+					}
+				]
+			}
+		}
+	},
+	"2182": {
+		"insId": 2182,
+		"type": 2,
+		"name": "暴走张辽",
+		"worldLevel": 191,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100791
+					}
+				]
+			}
+		}
+	},
+	"2183": {
+		"insId": 2183,
+		"type": 2,
+		"name": "暴走郭嘉",
+		"worldLevel": 192,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100792
+					}
+				]
+			}
+		}
+	},
+	"2184": {
+		"insId": 2184,
+		"type": 2,
+		"name": "暴走曹操",
+		"worldLevel": 193,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100793
+					}
+				]
+			}
+		}
+	},
+	"2185": {
+		"insId": 2185,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 194,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100794
+					}
+				]
+			}
+		}
+	},
+	"2186": {
+		"insId": 2186,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 195,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100795
+					}
+				]
+			}
+		}
+	},
+	"2187": {
+		"insId": 2187,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 196,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100796
+					}
+				]
+			}
+		}
+	},
+	"2188": {
+		"insId": 2188,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 197,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100797
+					}
+				]
+			}
+		}
+	},
+	"2189": {
+		"insId": 2189,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 198,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100798
+					}
+				]
+			}
+		}
+	},
+	"2190": {
+		"insId": 2190,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 199,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100799
+					}
+				]
+			}
+		}
+	},
+	"2191": {
+		"insId": 2191,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 200,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100800
+					}
+				]
+			}
+		}
+	},
+	"2192": {
+		"insId": 2192,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 210,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100801
+					}
+				]
+			}
+		}
+	},
+	"2193": {
+		"insId": 2193,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 220,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100802
+					}
+				]
+			}
+		}
+	},
+	"2194": {
+		"insId": 2194,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 230,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100803
+					}
+				]
+			}
+		}
+	},
+	"2195": {
+		"insId": 2195,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 240,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100804
+					}
+				]
+			}
+		}
+	},
+	"2196": {
+		"insId": 2196,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 250,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100805
+					}
+				]
+			}
+		}
+	},
+	"2197": {
+		"insId": 2197,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 260,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100806
+					}
+				]
+			}
+		}
+	},
+	"2198": {
+		"insId": 2198,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 270,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100807
+					}
+				]
+			}
+		}
+	},
+	"2199": {
+		"insId": 2199,
+		"type": 2,
+		"name": "暴走黄忠",
+		"worldLevel": 280,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100808
+					}
+				]
+			}
+		}
+	},
+	"2200": {
+		"insId": 2200,
+		"type": 2,
+		"name": "暴走赵云",
+		"worldLevel": 290,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100809
+					}
+				]
+			}
+		}
+	},
+	"2201": {
+		"insId": 2201,
+		"type": 2,
+		"name": "暴走诸葛亮",
+		"worldLevel": 300,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100810
+					}
+				]
+			}
+		}
+	},
+	"2202": {
+		"insId": 2202,
+		"type": 2,
+		"name": "暴走关羽",
+		"worldLevel": 310,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100811
+					}
+				]
+			}
+		}
+	},
+	"2203": {
+		"insId": 2203,
+		"type": 2,
+		"name": "暴走刘备",
+		"worldLevel": 320,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100812
+					}
+				]
+			}
+		}
+	},
+	"2204": {
+		"insId": 2204,
+		"type": 2,
+		"name": "暴走张飞",
+		"worldLevel": 330,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100813
+					}
+				]
+			}
+		}
+	},
+	"2205": {
+		"insId": 2205,
+		"type": 2,
+		"name": "暴走黄月英",
+		"worldLevel": 340,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100814
+					}
+				]
+			}
+		}
+	},
+	"2206": {
+		"insId": 2206,
+		"type": 2,
+		"name": "暴走鲁肃",
+		"worldLevel": 350,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100815
+					}
+				]
+			}
+		}
+	},
+	"2207": {
+		"insId": 2207,
+		"type": 2,
+		"name": "暴走孙权",
+		"worldLevel": 360,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100816
+					}
+				]
+			}
+		}
+	},
+	"2208": {
+		"insId": 2208,
+		"type": 2,
+		"name": "暴走甘宁",
+		"worldLevel": 370,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100817
+					}
+				]
+			}
+		}
+	},
+	"2209": {
+		"insId": 2209,
+		"type": 2,
+		"name": "暴走孙坚",
+		"worldLevel": 380,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100818
+					}
+				]
+			}
+		}
+	},
+	"2210": {
+		"insId": 2210,
+		"type": 2,
+		"name": "暴走太史慈",
+		"worldLevel": 390,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100819
+					}
+				]
+			}
+		}
+	},
+	"2211": {
+		"insId": 2211,
+		"type": 2,
+		"name": "暴走孙策",
+		"worldLevel": 400,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100820
+					}
+				]
+			}
+		}
+	},
+	"2212": {
+		"insId": 2212,
+		"type": 2,
+		"name": "暴走小乔",
+		"worldLevel": 410,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100821
+					}
+				]
+			}
+		}
+	},
+	"2213": {
+		"insId": 2213,
+		"type": 2,
+		"name": "暴走周瑜",
+		"worldLevel": 420,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100822
+					}
+				]
+			}
+		}
+	},
+	"2214": {
+		"insId": 2214,
+		"type": 2,
+		"name": "暴走陆逊",
+		"worldLevel": 430,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100823
+					}
+				]
+			}
+		}
+	},
+	"2215": {
+		"insId": 2215,
+		"type": 2,
+		"name": "暴走吕蒙",
+		"worldLevel": 440,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100824
+					}
+				]
+			}
+		}
+	},
+	"2216": {
+		"insId": 2216,
+		"type": 2,
+		"name": "暴走孙尚香",
+		"worldLevel": 450,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100825
+					}
+				]
+			}
+		}
+	},
+	"2217": {
+		"insId": 2217,
+		"type": 2,
+		"name": "暴走于吉",
+		"worldLevel": 460,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100826
+					}
+				]
+			}
+		}
+	},
+	"2218": {
+		"insId": 2218,
+		"type": 2,
+		"name": "暴走张角",
+		"worldLevel": 470,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100827
+					}
+				]
+			}
+		}
+	},
+	"2219": {
+		"insId": 2219,
+		"type": 2,
+		"name": "暴走华雄",
+		"worldLevel": 480,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100828
+					}
+				]
+			}
+		}
+	},
+	"2220": {
+		"insId": 2220,
+		"type": 2,
+		"name": "暴走董卓",
+		"worldLevel": 490,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100829
+					}
+				]
+			}
+		}
+	},
+	"2221": {
+		"insId": 2221,
+		"type": 2,
+		"name": "暴走卢植",
+		"worldLevel": 500,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100830
+					}
+				]
+			}
+		}
+	},
+	"2222": {
+		"insId": 2222,
+		"type": 2,
+		"name": "暴走公孙瓒",
+		"worldLevel": 510,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100831
+					}
+				]
+			}
+		}
+	},
+	"2223": {
+		"insId": 2223,
+		"type": 2,
+		"name": "暴走华佗",
+		"worldLevel": 520,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100832
+					}
+				]
+			}
+		}
+	},
+	"2224": {
+		"insId": 2224,
+		"type": 2,
+		"name": "暴走左慈",
+		"worldLevel": 530,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100833
+					}
+				]
+			}
+		}
+	},
+	"2225": {
+		"insId": 2225,
+		"type": 2,
+		"name": "暴走貂蝉",
+		"worldLevel": 540,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100834
+					}
+				]
+			}
+		}
+	},
+	"2226": {
+		"insId": 2226,
+		"type": 2,
+		"name": "暴走吕布",
+		"worldLevel": 550,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100835
+					}
+				]
+			}
+		}
+	},
+	"2227": {
+		"insId": 2227,
+		"type": 2,
+		"name": "暴走蔡文姬",
+		"worldLevel": 560,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100836
+					}
+				]
+			}
+		}
+	},
+	"2228": {
+		"insId": 2228,
+		"type": 2,
+		"name": "暴走贾诩",
+		"worldLevel": 570,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100837
+					}
+				]
+			}
+		}
+	},
+	"2229": {
+		"insId": 2229,
+		"type": 2,
+		"name": "暴走司马懿",
+		"worldLevel": 580,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100838
+					}
+				]
+			}
+		}
+	},
+	"2230": {
+		"insId": 2230,
+		"type": 2,
+		"name": "暴走夏侯惇",
+		"worldLevel": 590,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100839
+					}
+				]
+			}
+		}
+	},
+	"2231": {
+		"insId": 2231,
+		"type": 2,
+		"name": "暴走夏侯渊",
+		"worldLevel": 600,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100840
+					}
+				]
+			}
+		}
+	},
+	"2232": {
+		"insId": 2232,
+		"type": 2,
+		"name": "暴走张郃",
+		"worldLevel": 610,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100841
+					}
+				]
+			}
+		}
+	},
+	"2233": {
+		"insId": 2233,
+		"type": 2,
+		"name": "暴走张辽",
+		"worldLevel": 620,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100842
+					}
+				]
+			}
+		}
+	},
+	"2234": {
+		"insId": 2234,
+		"type": 2,
+		"name": "暴走郭嘉",
+		"worldLevel": 630,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100843
+					}
+				]
+			}
+		}
+	},
+	"2235": {
+		"insId": 2235,
+		"type": 2,
+		"name": "暴走曹操",
+		"worldLevel": 640,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100844
+					}
+				]
+			}
+		}
+	},
+	"2236": {
+		"insId": 2236,
+		"type": 2,
+		"name": "暴走曹仁",
+		"worldLevel": 650,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100845
+					}
+				]
+			}
+		}
+	},
+	"2237": {
+		"insId": 2237,
+		"type": 2,
+		"name": "暴走荀彧",
+		"worldLevel": 660,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100846
+					}
+				]
+			}
+		}
+	},
+	"2238": {
+		"insId": 2238,
+		"type": 2,
+		"name": "暴走甄姬",
+		"worldLevel": 670,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100847
+					}
+				]
+			}
+		}
+	},
+	"2239": {
+		"insId": 2239,
+		"type": 2,
+		"name": "暴走魏延",
+		"worldLevel": 680,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100848
+					}
+				]
+			}
+		}
+	},
+	"2240": {
+		"insId": 2240,
+		"type": 2,
+		"name": "暴走马超",
+		"worldLevel": 690,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100849
+					}
+				]
+			}
+		}
+	},
+	"2241": {
+		"insId": 2241,
+		"type": 2,
+		"name": "暴走庞统",
+		"worldLevel": 700,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100850
+					}
+				]
+			}
+		}
+	},
+	"2242": {
+		"insId": 2242,
+		"type": 2,
+		"name": "暴走徐庶",
+		"worldLevel": 710,
+		"level": 0,
+		"freshTime": 0,
+		"sustainedTime": 0,
+		"lastHitReward": [],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [],
+		"moneyCost": [],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100851
+					}
+				]
+			}
+		}
+	},
+	"3001": {
+		"insId": 3001,
+		"type": 3,
+		"name": "10级BOSS",
+		"worldLevel": 0,
+		"level": 10,
+		"freshTime": 600,
+		"sustainedTime": 300,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 10000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 10000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 6
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100010
+					}
+				]
+			}
+		}
+	},
+	"3002": {
+		"insId": 3002,
+		"type": 3,
+		"name": "15级BOSS",
+		"worldLevel": 0,
+		"level": 15,
+		"freshTime": 700,
+		"sustainedTime": 350,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 10000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 20000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 6
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100015
+					}
+				]
+			}
+		}
+	},
+	"3003": {
+		"insId": 3003,
+		"type": 3,
+		"name": "20级BOSS",
+		"worldLevel": 0,
+		"level": 20,
+		"freshTime": 800,
+		"sustainedTime": 400,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 10000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 40000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 6
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100020
+					}
+				]
+			}
+		}
+	},
+	"3004": {
+		"insId": 3004,
+		"type": 3,
+		"name": "25级BOSS",
+		"worldLevel": 0,
+		"level": 25,
+		"freshTime": 600,
+		"sustainedTime": 300,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 10000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 60000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 8
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 25
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100025
+					}
+				]
+			}
+		}
+	},
+	"3005": {
+		"insId": 3005,
+		"type": 3,
+		"name": "30级BOSS",
+		"worldLevel": 0,
+		"level": 30,
+		"freshTime": 700,
+		"sustainedTime": 350,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 10000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 100000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 8
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100030
+					}
+				]
+			}
+		}
+	},
+	"3006": {
+		"insId": 3006,
+		"type": 3,
+		"name": "35级BOSS",
+		"worldLevel": 0,
+		"level": 35,
+		"freshTime": 800,
+		"sustainedTime": 400,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 12500
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 150000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 10
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 35
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100035
+					}
+				]
+			}
+		}
+	},
+	"3007": {
+		"insId": 3007,
+		"type": 3,
+		"name": "40级BOSS",
+		"worldLevel": 0,
+		"level": 40,
+		"freshTime": 900,
+		"sustainedTime": 450,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 17500
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 220000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 10
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 40
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100040
+					}
+				]
+			}
+		}
+	},
+	"3008": {
+		"insId": 3008,
+		"type": 3,
+		"name": "50级BOSS",
+		"worldLevel": 0,
+		"level": 50,
+		"freshTime": 1000,
+		"sustainedTime": 500,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 40000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 400000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 20000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 26
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 50
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100050
+					}
+				]
+			}
+		}
+	},
+	"3009": {
+		"insId": 3009,
+		"type": 3,
+		"name": "60级BOSS",
+		"worldLevel": 0,
+		"level": 60,
+		"freshTime": 1100,
+		"sustainedTime": 550,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 60000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 700000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 30
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100060
+					}
+				]
+			}
+		}
+	},
+	"3010": {
+		"insId": 3010,
+		"type": 3,
+		"name": "70级BOSS",
+		"worldLevel": 0,
+		"level": 70,
+		"freshTime": 1200,
+		"sustainedTime": 600,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 80000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 36
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 2800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 70
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100070
+					}
+				]
+			}
+		}
+	},
+	"3011": {
+		"insId": 3011,
+		"type": 3,
+		"name": "80级BOSS",
+		"worldLevel": 0,
+		"level": 80,
+		"freshTime": 1300,
+		"sustainedTime": 650,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 120000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1300000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 40
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 80
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100080
+					}
+				]
+			}
+		}
+	},
+	"3012": {
+		"insId": 3012,
+		"type": 3,
+		"name": "90级BOSS",
+		"worldLevel": 0,
+		"level": 90,
+		"freshTime": 1400,
+		"sustainedTime": 700,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 130000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 46
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100090
+					}
+				]
+			}
+		}
+	},
+	"3013": {
+		"insId": 3013,
+		"type": 3,
+		"name": "100级BOSS",
+		"worldLevel": 0,
+		"level": 100,
+		"freshTime": 1500,
+		"sustainedTime": 750,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 140000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 2000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 50
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100100
+					}
+				]
+			}
+		}
+	},
+	"3014": {
+		"insId": 3014,
+		"type": 3,
+		"name": "110级BOSS",
+		"worldLevel": 0,
+		"level": 110,
+		"freshTime": 1600,
+		"sustainedTime": 800,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 150000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 2500000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 56
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100110
+					}
+				]
+			}
+		}
+	},
+	"3015": {
+		"insId": 3015,
+		"type": 3,
+		"name": "120级BOSS",
+		"worldLevel": 0,
+		"level": 120,
+		"freshTime": 1700,
+		"sustainedTime": 850,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 200000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 60
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 3800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100120
+					}
+				]
+			}
+		}
+	},
+	"3016": {
+		"insId": 3016,
+		"type": 3,
+		"name": "130级BOSS",
+		"worldLevel": 0,
+		"level": 130,
+		"freshTime": 1800,
+		"sustainedTime": 900,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 250000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 66
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100130
+					}
+				]
+			}
+		}
+	},
+	"3017": {
+		"insId": 3017,
+		"type": 3,
+		"name": "140级BOSS",
+		"worldLevel": 0,
+		"level": 140,
+		"freshTime": 1900,
+		"sustainedTime": 950,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 350000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 4000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 70
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100140
+					}
+				]
+			}
+		}
+	},
+	"3018": {
+		"insId": 3018,
+		"type": 3,
+		"name": "150级BOSS",
+		"worldLevel": 0,
+		"level": 150,
+		"freshTime": 2000,
+		"sustainedTime": 1000,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 400000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 76
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100150
+					}
+				]
+			}
+		}
+	},
+	"3019": {
+		"insId": 3019,
+		"type": 3,
+		"name": "160级BOSS",
+		"worldLevel": 0,
+		"level": 160,
+		"freshTime": 2500,
+		"sustainedTime": 1050,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 80
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4600
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100160
+					}
+				]
+			}
+		}
+	},
+	"3020": {
+		"insId": 3020,
+		"type": 3,
+		"name": "170级BOSS",
+		"worldLevel": 0,
+		"level": 170,
+		"freshTime": 3000,
+		"sustainedTime": 1100,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 86
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 4800
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100170
+					}
+				]
+			}
+		}
+	},
+	"3021": {
+		"insId": 3021,
+		"type": 3,
+		"name": "180级BOSS",
+		"worldLevel": 0,
+		"level": 180,
+		"freshTime": 4000,
+		"sustainedTime": 1200,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 90
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100180
+					}
+				]
+			}
+		}
+	},
+	"3022": {
+		"insId": 3022,
+		"type": 3,
+		"name": "190级BOSS",
+		"worldLevel": 0,
+		"level": 190,
+		"freshTime": 5000,
+		"sustainedTime": 1400,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 96
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5200
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100190
+					}
+				]
+			}
+		}
+	},
+	"3023": {
+		"insId": 3023,
+		"type": 3,
+		"name": "200级BOSS",
+		"worldLevel": 0,
+		"level": 200,
+		"freshTime": 6000,
+		"sustainedTime": 1800,
+		"lastHitReward": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			},
+			{
+				"type": 1,
+				"id": 8,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 100
+			}
+		],
+		"rankReward": null,
+		"fresh": [],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 5400
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 100200
+					}
+				]
+			}
+		}
+	}
+}

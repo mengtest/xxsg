@@ -1,4 +1,14 @@
-/*    */ package com.linlongyx.sanguo.webgame.common.fight.side;public interface IFightSide { void initGuid(byte paramByte); void getGroupData(List<FightGroupData> paramList); void getCandidateFighterData(List<FightGroupData> paramList);
+/*    */ package com.linlongyx.sanguo.webgame.common.fight.side;
+
+import com.linlongyx.core.framework.protocol.mobile.ResponseBase;
+import com.linlongyx.sanguo.webgame.common.fight.IFight;
+import com.linlongyx.sanguo.webgame.common.fight.fighter.IFighter;
+import com.linlongyx.sanguo.webgame.common.structure.Pair;
+import com.linlongyx.sanguo.webgame.proto.binary.struct.FightGroupData;
+
+import java.util.List;
+
+public interface IFightSide { void initGuid(byte paramByte); void getGroupData(List<FightGroupData> paramList); void getCandidateFighterData(List<FightGroupData> paramList);
 /*    */   int preAction(byte paramByte, IFight paramIFight);
 /*    */   void syncRecord(ResponseBase paramResponseBase);
 /*    */   FightGroup getCurGroup();

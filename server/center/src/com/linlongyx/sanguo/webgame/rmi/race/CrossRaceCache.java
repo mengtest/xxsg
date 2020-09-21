@@ -322,7 +322,7 @@
 /* 322 */       List<RacePlayerData> playerList = new ArrayList<>();
 /*     */ 
 /*     */       
-/* 325 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().filter(()).forEach(playerList::add));
+/* 325 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().forEach(playerList::add));
 /*     */ 
 /*     */       
 /* 328 */       if (!playerList.isEmpty()) {
@@ -334,7 +334,7 @@
 /* 334 */       long maxFightValue = fightValue + deltaFightValue;
 /*     */ 
 /*     */       
-/* 337 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().filter(()).forEach(playerList::add));
+/* 337 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().forEach(playerList::add));
 /*     */ 
 /*     */ 
 /*     */       
@@ -346,7 +346,7 @@
 /* 346 */       deltaFightValue = fightValue * 2L / 5L;
 /* 347 */       long finalMinFightValue = fightValue - deltaFightValue;
 /* 348 */       long finalMaxFightValue = fightValue + deltaFightValue;
-/* 349 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().filter(()).forEach(playerList::add));
+/* 349 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().forEach(playerList::add));
 /*     */ 
 /*     */ 
 /*     */       
@@ -355,7 +355,7 @@
 /*     */       }
 /*     */ 
 /*     */       
-/* 358 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().filter(()).forEach(playerList::add));
+/* 358 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().forEach(playerList::add));
 /*     */ 
 /*     */       
 /* 361 */       if (!playerList.isEmpty()) {
@@ -391,7 +391,7 @@
 /* 391 */         return null; 
 /* 392 */       RaceZone raceZone = this.raceZoneMap.get(Integer.valueOf(data.getZoneId()));
 /* 393 */       List<RacePlayerData> playerList = new ArrayList<>();
-/* 394 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().filter(()).forEach(playerList::add));
+/* 394 */       raceZone.getServerToPlayerMap().values().forEach(sp -> sp.values().stream().forEach(playerList::add));
 /*     */ 
 /*     */       
 /* 397 */       playerList.sort(Comparator.comparingInt(RacePlayerData::getRacePoint).reversed().thenComparing(RacePlayerData::getUpdateTime));

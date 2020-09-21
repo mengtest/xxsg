@@ -1,5 +1,6 @@
 /*     */ package com.linlongyx.sanguo.webgame.rmi.race;
-/*     */ import com.linlongyx.sanguo.webgame.log.LogUtil;
+/*     */ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.linlongyx.sanguo.webgame.log.LogUtil;
 /*     */ import com.linlongyx.sanguo.webgame.proto.binary.struct.RankingData;
 /*     */ import com.linlongyx.sanguo.webgame.rmi.LogicRmiUtil;
 /*     */ import com.linlongyx.sanguo.webgame.rmi.data.RacePlayerData;
@@ -52,7 +53,7 @@
 /*  52 */       return this.cacheRankList;
 /*     */     }
 /*  54 */     List<RacePlayerData> playerList = new ArrayList<>();
-/*  55 */     getServerToPlayerMap().values().forEach(sp -> sp.values().stream().filter(()).limit(this.limit).forEach(playerList::add));
+/*  55 */     getServerToPlayerMap().values().forEach(sp -> sp.values().stream().limit(this.limit).forEach(playerList::add));
 /*     */ 
 /*     */     
 /*  58 */     ArrayList<RankingData> resultList = new ArrayList<>();

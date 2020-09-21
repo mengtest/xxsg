@@ -1,5 +1,9 @@
 /*     */ package com.linlongyx.sanguo.webgame.config.bean;
-/*     */ 
+
+import java.util.ArrayList;
+import java.util.Map;
+
+/*     */
 /*     */ public class ZhenfaBean {
 /*     */   private int id;
 /*     */   private String name;

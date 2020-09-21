@@ -32,7 +32,7 @@
 /*    */             TitleBean titleBean = (TitleBean)JsonTableService.getJsonData(k.intValue(), TitleBean.class);
 /*    */             FighterBean fighterBean = (FighterBean)JsonTableService.getJsonData(playerComponent.getLeaderId(), FighterBean.class);
 /*    */             if (null != titleBean && fighterBean != null) {
-/*    */               titleBean.getAttr().forEach(());
+/*    */               titleBean.getAttr();
 /*    */             }
 /*    */           });
 /*    */     }
@@ -58,7 +58,7 @@
 /*    */               return; 
 /*    */             FighterBean fighterBean = (FighterBean)JsonTableService.getJsonData(partnerEntity.getTableId(), FighterBean.class);
 /*    */             if (null != titleBean && fighterBean != null)
-/*    */               titleBean.getAttr().forEach(()); 
+/*    */               titleBean.getAttr();
 /*    */           }); 
 /*    */   }
 /*    */ }

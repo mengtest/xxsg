@@ -5,13 +5,13 @@
 /*     */ import com.sun.jdmk.comm.AuthInfo;
 /*     */ import com.sun.jdmk.comm.HtmlAdaptorServer;
 /*     */ import java.io.InputStream;
-/*     */ import javax.management.InstanceAlreadyExistsException;
-/*     */ import javax.management.InstanceNotFoundException;
-/*     */ import javax.management.JMException;
-/*     */ import javax.management.MBeanException;
-/*     */ import javax.management.MalformedObjectNameException;
-/*     */ import javax.management.NotCompliantMBeanException;
-/*     */ import javax.management.ObjectName;
+/*     */ import javax.management.*;
+/*     */
+/*     */
+/*     */
+/*     */
+/*     */
+/*     */
 /*     */ import javax.management.modelmbean.InvalidTargetObjectTypeException;
 /*     */ import javax.management.modelmbean.ModelMBean;
 /*     */ import org.apache.commons.modeler.ManagedBean;
@@ -64,7 +64,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setPath(Resource path) {
-/*  67 */     this; JmxAgent.path = path;
+/*  67 */     JmxAgent.path = path;
 /*     */   }
 /*     */   
 /*     */   public static void start() throws Exception {

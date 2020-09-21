@@ -65,7 +65,7 @@
 /*     */   public static Rijndael getInstance(byte[] key, AESMode mode) {
 /*  66 */     String hexKey = Hex.encodeHexString(key);
 /*  67 */     String cacheKey = StringUtils.join(new Object[] { hexKey, 
-/*  68 */           StringUtils.replace(mode.getName(), "/", "_") }"_");
+/*  68 */           StringUtils.replace(mode.getName(), "/", "_") }, "_");
 /*     */     
 /*  70 */     if (AES_CACHES.containsKey(cacheKey)) {
 /*  71 */       return AES_CACHES.get(cacheKey);
@@ -98,7 +98,7 @@
 /*  98 */     String hexKey = Hex.encodeHexString(key);
 /*  99 */     String hexIV = Hex.encodeHexString(iv);
 /* 100 */     String cacheKey = StringUtils.join(new Object[] { hexKey, hexIV, 
-/* 101 */           StringUtils.replace(mode.getName(), "/", "_") }"_");
+/* 101 */           StringUtils.replace(mode.getName(), "/", "_") }, "_");
 /*     */     
 /* 103 */     if (AES_CACHES.containsKey(cacheKey)) {
 /* 104 */       return AES_CACHES.get(cacheKey);

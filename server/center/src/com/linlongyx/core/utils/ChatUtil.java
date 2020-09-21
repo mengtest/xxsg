@@ -257,7 +257,8 @@
 /* 257 */       key = iterator.next();
 /* 258 */       nowMap = sensitiveWordMap;
 /* 259 */       for (int i = 0; i < key.length(); i++) {
-/* 260 */         Map<String, String> map; char keyChar = key.charAt(i);
+/* 260 */         Map<String, String> map = new HashMap<>();
+                  char keyChar = key.charAt(i);
 /* 261 */         Object wordMap = nowMap.get(Character.valueOf(keyChar));
 /*     */         
 /* 263 */         if (wordMap != null) {
@@ -288,7 +289,8 @@
 /* 288 */       key = iterator.next();
 /* 289 */       nowMap = nameMap;
 /* 290 */       for (int i = 0; i < key.length(); i++) {
-/* 291 */         Map<String, String> map; char keyChar = key.charAt(i);
+/* 291 */         Map<String, String> map = new HashMap<>();
+                  char keyChar = key.charAt(i);
 /* 292 */         Object wordMap = nowMap.get(Character.valueOf(keyChar));
 /*     */         
 /* 294 */         if (wordMap != null) {
@@ -318,7 +320,7 @@
 /*     */ 
 /*     */   
 /*     */   public void setSensitiveWord(Resource sensitiveWord) {
-/* 321 */     this; ChatUtil.sensitiveWord = sensitiveWord;
+/* 321 */     ChatUtil.sensitiveWord = sensitiveWord;
 /*     */   }
 /*     */ 
 /*     */ 
@@ -332,7 +334,7 @@
 /*     */ 
 /*     */   
 /*     */   public void setName(Resource name) {
-/* 335 */     this; ChatUtil.name = name;
+/* 335 */     ChatUtil.name = name;
 /*     */   }
 /*     */ }
 

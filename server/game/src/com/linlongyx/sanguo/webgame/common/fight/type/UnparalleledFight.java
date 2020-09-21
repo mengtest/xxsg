@@ -62,7 +62,7 @@
 /*  62 */     getGroupData(response);
 /*     */ 
 /*     */     
-/*  65 */     response.lGroups.forEach(fightGroupData -> fightGroupData.fighters.forEach(()));
+/*  65 */     response.lGroups.forEach(fightGroupData -> fightGroupData.fighters.toArray());
 /*     */ 
 /*     */ 
 /*     */     

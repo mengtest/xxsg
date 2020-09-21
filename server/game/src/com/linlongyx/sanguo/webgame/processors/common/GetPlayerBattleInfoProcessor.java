@@ -89,7 +89,7 @@
 /*     */             partnerInfo.status = partnerEntity.getStatus();
 /*     */             partnerInfo.breachLevel = partnerEntity.getBreakthroughs();
 /*     */             partnerInfo.fightValue = partnerEntity.getFightValue();
-/*     */             partnerEntity.getEquips().keySet().forEach(());
+/*     */             partnerEntity.getEquips().keySet();
 /*     */             KeyValue keyValue1 = new KeyValue();
 /*     */             keyValue1.key = 7L;
 /*     */             keyValue1.value = partnerEntity.getTalisman();

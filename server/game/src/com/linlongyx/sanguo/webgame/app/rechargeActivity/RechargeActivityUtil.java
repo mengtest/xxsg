@@ -95,7 +95,7 @@
 /*    */           RechargeActivityEntity entity = (RechargeActivityEntity)obj;
 /*    */           if (!isOpen(entity.getId())) {
 /*    */             TiringrebateBean bean = (TiringrebateBean)JsonTableService.getJsonData(entity.getId(), TiringrebateBean.class);
-/*    */             entity.getStates().forEach(());
+/*    */             entity.getStates();
 /*    */             entity.setStates(entity.getStates());
 /*    */           } 
 /*    */         });

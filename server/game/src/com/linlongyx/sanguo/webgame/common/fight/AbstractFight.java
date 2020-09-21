@@ -225,7 +225,7 @@
 /* 225 */       if (zhenfaBean != null && zhenfaBean.getStar().containsKey(side.getZhenfa().getValue())) {
 /* 226 */         ZhenfaBean.StarBean starBean = (ZhenfaBean.StarBean)zhenfaBean.getStar().get(side.getZhenfa().getValue());
 /* 227 */         Map<Integer, List<Integer>> buffs = getZhenfaBuffMap(starBean);
-/* 228 */         side.getGroupList().forEach(group -> group.getFighters(true).forEach(()));
+/* 228 */         side.getGroupList().forEach(group -> group.getFighters(true));
 /*     */       } 
 /*     */     } 
 /*     */   }
@@ -242,7 +242,7 @@
 /* 242 */     ZhenfaRestraintBean zhenfaRestraintBean = (ZhenfaRestraintBean)JsonTableService.getJsonData(((Integer)side1.getZhenfa().getKey()).intValue(), ZhenfaRestraintBean.class);
 /* 243 */     for (ZhenfaRestraintBean.BuffBean bean : zhenfaRestraintBean.getBuff()) {
 /* 244 */       if (bean.getZhenfa() == ((Integer)sdie2.getZhenfa().getKey()).intValue()) {
-/* 245 */         side1.getGroupList().forEach(group -> group.getFighters(true).forEach(()));
+/* 245 */         side1.getGroupList().forEach(group -> group.getFighters(true));
 /*     */         break;
 /*     */       } 
 /*     */     } 

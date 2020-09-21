@@ -45,7 +45,7 @@
 /* 45 */         System.out.println(address);
 /* 46 */         int delay = count / POOL_SIZE;
 /* 47 */         String finalCmd = "http://" + address + cmd;
-/* 48 */         scheduledService.schedule(() -> LogUtil.errorLog(new Object[] { finalCmd }, ), delay, TimeUnit.SECONDS);
+/* 48 */         scheduledService.schedule(() -> LogUtil.errorLog(new Object[] { finalCmd }), delay, TimeUnit.SECONDS);
 /*    */ 
 /*    */ 
 /*    */ 

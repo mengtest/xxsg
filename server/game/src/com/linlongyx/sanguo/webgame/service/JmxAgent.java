@@ -68,7 +68,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setPath(Resource path) {
-/*  71 */     this; JmxAgent.path = path;
+/*  71 */     JmxAgent.path = path;
 /*     */   }
 /*     */   
 /*     */   public static void start() throws Exception {

@@ -1,0 +1,777 @@
+{
+	"101": {
+		"id": 101,
+		"text": "纯正三国策略游戏，挂机升级打BOSS，欢迎少年征战乱世！",
+		"serverParameter": ""
+	},
+	"102": {
+		"id": 102,
+		"text": "有任何建议可以随时联系客服进行反馈！",
+		"serverParameter": ""
+	},
+	"103": {
+		"id": 103,
+		"text": "欢迎邮件",
+		"serverParameter": ""
+	},
+	"104": {
+		"id": 104,
+		"text": "三国霸业，自此揭幕！",
+		"serverParameter": ""
+	},
+	"105": {
+		"id": 105,
+		"text": "坐骑功能开启",
+		"serverParameter": ""
+	},
+	"106": {
+		"id": 106,
+		"text": "坐骑新功能开启，酷炫坐骑助主公过关斩将。",
+		"serverParameter": ""
+	},
+	"107": {
+		"id": 107,
+		"text": "恭喜玩家{playerName}提升到VIP{vipLevel}！",
+		"serverParameter": "playerName;vipLevel"
+	},
+	"108": {
+		"id": 108,
+		"text": "恭喜玩家{playerName}购买首充，获得4倍元宝奖励！",
+		"serverParameter": "playerName"
+	},
+	"109": {
+		"id": 109,
+		"text": "恭喜玩家{playerName}购买成长基金，海量元宝随便花！",
+		"serverParameter": "playerName"
+	},
+	"110": {
+		"id": 110,
+		"text": "关注有礼",
+		"serverParameter": ""
+	},
+	"111": {
+		"id": 111,
+		"text": "谢谢你关注公众号，请查收您的关注奖励。",
+		"serverParameter": ""
+	},
+	"112": {
+		"id": 112,
+		"text": "删档充值返利",
+		"serverParameter": ""
+	},
+	"113": {
+		"id": 113,
+		"text": "感谢您在删档测试服中的大力支持，为您返还充值元宝、VIP经验、充值额度如下，祝您游戏愉快！",
+		"serverParameter": ""
+	},
+	"114": {
+		"id": 114,
+		"text": "神器开启",
+		"serverParameter": ""
+	},
+	"115": {
+		"id": 115,
+		"text": "恭喜你在三国志中达到神器章节，为您现献上鬼神剑激活卡，祝您游戏愉快！",
+		"serverParameter": ""
+	},
+	"201": {
+		"id": 201,
+		"text": "恭喜{playerName}人品爆发，将橙色武将{fighterName}招致麾下！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"202": {
+		"id": 202,
+		"text": "恭喜{playerName}人品爆发，将红色武将{fighterName}招致麾下！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"203": {
+		"id": 203,
+		"text": "恭喜{playerName}人品爆发，将天金武将{fighterName}招致麾下！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"204": {
+		"id": 204,
+		"text": "恭喜{playerName}人品爆发，将暗金武将{fighterName}招致麾下！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"301": {
+		"id": 301,
+		"text": "排行BOSS排名奖",
+		"serverParameter": ""
+	},
+	"302": {
+		"id": 302,
+		"text": "{level}级BOSS已被击退，附件为伤害奖励，请查收！",
+		"serverParameter": "level"
+	},
+	"303": {
+		"id": 303,
+		"text": "世界BOSS排行奖励",
+		"serverParameter": ""
+	},
+	"304": {
+		"id": 304,
+		"text": "恭喜你在世界BOSS中排第{playerNum}名，附件为排名奖励，请查收！",
+		"serverParameter": "playerNum"
+	},
+	"305": {
+		"id": 305,
+		"text": "排行BOSS击杀奖励",
+		"serverParameter": ""
+	},
+	"306": {
+		"id": 306,
+		"text": "恭喜你击杀{level}级BOSS，附件为击杀奖励，请查收",
+		"serverParameter": "level"
+	},
+	"307": {
+		"id": 307,
+		"text": "已族BOSS归属奖励",
+		"serverParameter": ""
+	},
+	"308": {
+		"id": 308,
+		"text": "恭喜你击退{level}级异族BOSS，附件为击杀奖励，请查收",
+		"serverParameter": "level"
+	},
+	"309": {
+		"id": 309,
+		"text": "{level}级异族BOSS已复活，请各位主公前往平叛。",
+		"serverParameter": "level"
+	},
+	"603": {
+		"id": 603,
+		"text": "{des}",
+		"serverParameter": "des"
+	},
+	"701": {
+		"id": 701,
+		"text": "恭喜玩家{playerName}提升到VIP{vipLevel}！",
+		"serverParameter": "playerName;vipLevel"
+	},
+	"702": {
+		"id": 702,
+		"text": "世界BOSS已经开启了！各路英雄好汉可以前去攻打！",
+		"serverParameter": ""
+	},
+	"703": {
+		"id": 703,
+		"text": "恭喜{playerName}人品爆发，获得橙色战宠{petName}！",
+		"serverParameter": "playerName;petName"
+	},
+	"704": {
+		"id": 704,
+		"text": "恭喜{playerName}人品爆发，获得红色战宠{petName}！",
+		"serverParameter": "playerName;petName"
+	},
+	"705": {
+		"id": 705,
+		"text": "恭喜{playerName}人品爆发，获得天金战宠{petName}！",
+		"serverParameter": "playerName;petName"
+	},
+	"706": {
+		"id": 706,
+		"text": "恭喜{playerName}人品爆发，获得橙色坐骑{mountName}！",
+		"serverParameter": "playerName;mountName"
+	},
+	"707": {
+		"id": 707,
+		"text": "恭喜{playerName}人品爆发，获得红色坐骑{mountName}！",
+		"serverParameter": "playerName;mountName"
+	},
+	"708": {
+		"id": 708,
+		"text": "恭喜{playerName}人品爆发，获得天金坐骑{mountName}！",
+		"serverParameter": "playerName;mountName"
+	},
+	"709": {
+		"id": 709,
+		"text": "恭喜{playerName}达到200级！",
+		"serverParameter": "playerName"
+	},
+	"710": {
+		"id": 710,
+		"text": "经过{playerName}精心培育，紫色武将{fighterName}达到200级！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"711": {
+		"id": 711,
+		"text": "经过{playerName}精心培育，橙色武将{fighterName}达到200级！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"712": {
+		"id": 712,
+		"text": "经过{playerName}精心培育，红色武将{fighterName}达到200级！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"713": {
+		"id": 713,
+		"text": "经过{playerName}精心培育，天金武将{fighterName}达到200级！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"714": {
+		"id": 714,
+		"text": "恭喜{playerName}的紫色武将{fighterName}升到满星！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"715": {
+		"id": 715,
+		"text": "恭喜{playerName}的橙色武将{fighterName}升到满星！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"716": {
+		"id": 716,
+		"text": "恭喜{playerName}的红色武将{fighterName}升到满星！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"717": {
+		"id": 717,
+		"text": "恭喜{playerName}的天金武将{fighterName}升到满星！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"718": {
+		"id": 718,
+		"text": "恭喜{playerName}在竞技场中的排名上升为第{playerNum}名！",
+		"serverParameter": "playerName;playerNum"
+	},
+	"719": {
+		"id": 719,
+		"text": "恭喜{playerName}的红色武将{fighterName}升到{num}星！",
+		"serverParameter": "playerName;fighterName;num"
+	},
+	"720": {
+		"id": 720,
+		"text": "恭喜{playerName}的天金武将{fighterName}升到{num}星！",
+		"serverParameter": "playerName;fighterName;num"
+	},
+	"721": {
+		"id": 721,
+		"text": "恭喜{playerName}的暗金武将{fighterName}升到{num}星！",
+		"serverParameter": "playerName;fighterName;num"
+	},
+	"722": {
+		"id": 722,
+		"text": "恭喜{playerName}的暗金武将{fighterName}升到满星！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"723": {
+		"id": 723,
+		"text": "经过{playerName}精心培育，暗金武将{fighterName}达到200级！",
+		"serverParameter": "playerName;fighterName"
+	},
+	"801": {
+		"id": 801,
+		"text": "恭喜{playerName}在充值返利中获得{num}元宝",
+		"serverParameter": "playerName;num"
+	},
+	"802": {
+		"id": 802,
+		"text": "{playerName}花费一元购买了{oneyuanName}",
+		"serverParameter": "playerName;oneyuanName"
+	},
+	"803": {
+		"id": 803,
+		"text": "{playerName}花费三元购买了{oneyuanName}",
+		"serverParameter": "playerName;oneyuanName"
+	},
+	"804": {
+		"id": 804,
+		"text": "{playerName}花费八元购买了{oneyuanName}",
+		"serverParameter": "playerName;oneyuanName"
+	},
+	"805": {
+		"id": 805,
+		"text": "{playerName}花费十二元购买了{oneyuanName}",
+		"serverParameter": "playerName;oneyuanName"
+	},
+	"806": {
+		"id": 806,
+		"text": "{playerName}花费十八元购买了{oneyuanName}",
+		"serverParameter": "playerName;oneyuanName"
+	},
+	"901": {
+		"id": 901,
+		"text": "好友改名通知",
+		"serverParameter": ""
+	},
+	"902": {
+		"id": 902,
+		"text": "好友{oldName}改名为{newName}",
+		"serverParameter": "oldName;newName"
+	},
+	"903": {
+		"id": 903,
+		"text": "请求协助{militaryName}<clk=military#{playerId}>立即协助</clk>",
+		"serverParameter": "militaryName;playerId"
+	},
+	"904": {
+		"id": 904,
+		"text": "{blocName}军团招新了，欢迎各路主公前来加入。<clk=army#{blocId}>立即加入</clk>",
+		"serverParameter": "blocName;blocId"
+	},
+	"1101": {
+		"id": 1101,
+		"text": "团长转让",
+		"serverParameter": ""
+	},
+	"1102": {
+		"id": 1102,
+		"text": "由于军团长7天未上线，团长已自动转让。",
+		"serverParameter": ""
+	},
+	"1103": {
+		"id": 1103,
+		"text": "团长转让",
+		"serverParameter": ""
+	},
+	"1104": {
+		"id": 1104,
+		"text": "您所在的军团团长，已经转让给{playerName}.",
+		"serverParameter": "playerName"
+	},
+	"1105": {
+		"id": 1105,
+		"text": "军团逐出",
+		"serverParameter": ""
+	},
+	"1106": {
+		"id": 1106,
+		"text": "很遗憾，你被军团长逐出{blocName}军团。",
+		"serverParameter": "blocName"
+	},
+	"1201": {
+		"id": 1201,
+		"text": "开服{name}排名奖励",
+		"serverParameter": "name"
+	},
+	"1202": {
+		"id": 1202,
+		"text": "恭喜您在开服{name}排名第{rank}名，附件为奖励，请查收！",
+		"serverParameter": "name;rank"
+	},
+	"1203": {
+		"id": 1203,
+		"text": "开服{name}奖励",
+		"serverParameter": "name"
+	},
+	"1204": {
+		"id": 1204,
+		"text": "你好，这是您在开服{name}达成目标的奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"1205": {
+		"id": 1205,
+		"text": "开服{name}入围奖励",
+		"serverParameter": "name"
+	},
+	"1206": {
+		"id": 1206,
+		"text": "你好，您在开服{name}积极参与，附件为奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"1701": {
+		"id": 1701,
+		"text": "竞技场每日结算奖励",
+		"serverParameter": ""
+	},
+	"1702": {
+		"id": 1702,
+		"text": "您在今日的竞技场中排名第{rank}名，可获得竞技奖励如下，请查收",
+		"serverParameter": "rank"
+	},
+	"1703": {
+		"id": 1703,
+		"text": "竞技场排名变化",
+		"serverParameter": ""
+	},
+	"1704": {
+		"id": 1704,
+		"text": "{playerName}在竞技场中击败了您，您的排名变化为{Num}。",
+		"serverParameter": "playerName;Num"
+	},
+	"1901": {
+		"id": 1901,
+		"text": "恭喜{playerName}购买月卡，挂机效率大幅提升，财源滚滚。",
+		"serverParameter": "playerName"
+	},
+	"1902": {
+		"id": 1902,
+		"text": "恭喜{playerName}购买终身卡，挂机效率大幅提升，财源滚滚。",
+		"serverParameter": "playerName"
+	},
+	"1903": {
+		"id": 1903,
+		"text": "恭喜{playerName}购买周卡，天天领元宝，财运亨通。",
+		"serverParameter": "playerName"
+	},
+	"2101": {
+		"id": 2101,
+		"text": "开服{name}奖励",
+		"serverParameter": "name"
+	},
+	"2102": {
+		"id": 2102,
+		"text": "你好，这是您在开服{name}达成目标的奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"2301": {
+		"id": 2301,
+		"text": "{name}奖励",
+		"serverParameter": "name"
+	},
+	"2302": {
+		"id": 2302,
+		"text": "你好，这是您在限时活动{name}达成目标的奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"2401": {
+		"id": 2401,
+		"text": "恭喜{playerName}在天金转盘中获得{Num}元宝",
+		"serverParameter": "playerName;Num"
+	},
+	"2801": {
+		"id": 2801,
+		"text": "跨服段位赛结算奖励",
+		"serverParameter": ""
+	},
+	"2802": {
+		"id": 2802,
+		"text": "恭喜您在本周跨服段位赛中达到{Num}段位，请查收您的奖励。",
+		"serverParameter": "Num"
+	},
+	"2803": {
+		"id": 2803,
+		"text": "跨服段位赛补发奖励",
+		"serverParameter": ""
+	},
+	"2804": {
+		"id": 2804,
+		"text": "这是您本周跨服段位赛未领取奖励，请查收！",
+		"serverParameter": ""
+	},
+	"2805": {
+		"id": 2805,
+		"text": "跨服争霸赛已开启，欢迎各位主公前往大展身手。",
+		"serverParameter": ""
+	},
+	"2901": {
+		"id": 2901,
+		"text": "恭喜{playerName}在法宝宝库中抽中了{itemName}.",
+		"serverParameter": "playerName;itemName"
+	},
+	"3701": {
+		"id": 3701,
+		"text": "{insNum}级组队副本开组了，赶快上车.<clk=team#{insId}#{roomId}>进入队伍</clk>",
+		"serverParameter": "insNum;insId;roomId"
+	},
+	"3702": {
+		"id": 3702,
+		"text": "组队副本双倍时间开启，请各位主公前往征战!",
+		"serverParameter": ""
+	},
+	"3703": {
+		"id": 3703,
+		"text": "八卦阵-{insNum}副本开组了，老司机们赶快上车.<clk=team#{insId}#{roomId}>进入队伍</clk>",
+		"serverParameter": "insNum;insId;roomId"
+	},
+	"3801": {
+		"id": 3801,
+		"text": "称号过期",
+		"serverParameter": "insNum;insId;roomId"
+	},
+	"3802": {
+		"id": 3802,
+		"text": "您的称号{name}已过期，对应属性、战力同时失效，请留意。",
+		"serverParameter": "name"
+	},
+	"4001": {
+		"id": 4001,
+		"text": "{name}结算奖励",
+		"serverParameter": "name"
+	},
+	"4002": {
+		"id": 4002,
+		"text": "您好，这是您在{name}未领取的结算奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"4101": {
+		"id": 4101,
+		"text": "{name}奖励",
+		"serverParameter": "name"
+	},
+	"4102": {
+		"id": 4102,
+		"text": "您好，这是您在{name}未领取的奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"5001": {
+		"id": 5001,
+		"text": "获赠奖励",
+		"serverParameter": ""
+	},
+	"5002": {
+		"id": 5002,
+		"text": "恭喜！玩家{playerName}满足了您的心愿，献上了{name}，请您查收。",
+		"serverParameter": "playerName;name"
+	},
+	"5003": {
+		"id": 5003,
+		"text": "捐赠奖励",
+		"serverParameter": ""
+	},
+	"5004": {
+		"id": 5004,
+		"text": "感谢您为玩家{playerName}满足了心愿，这是您的捐赠奖励，请查收。",
+		"serverParameter": "playerName"
+	},
+	"5005": {
+		"id": 5005,
+		"text": "{playerName}急缺一张.{name}，请求各位大神<clk=cardbook#{infoId}#{itemId}#{playerId}>帮帮忙</clk>^_^",
+		"serverParameter": "playerName;name;infoId;itemId;playerId"
+	},
+	"5006": {
+		"id": 5006,
+		"text": "{playerName}急缺一个{name}，请求各位大神帮帮忙^_^<clk=cardbook#{infoId}#{itemId}#{playerId}>立即帮忙</clk>",
+		"serverParameter": "playerName;name;infoId;itemId;playerId"
+	},
+	"5509": {
+		"id": 5509,
+		"text": "重复道具删除奖励",
+		"serverParameter": ""
+	},
+	"5510": {
+		"id": 5510,
+		"text": "您好，重复道具{itemName}删除奖励，请查收！",
+		"serverParameter": "itemName"
+	},
+	"7401": {
+		"id": 7401,
+		"text": "天命战场排名奖励",
+		"serverParameter": ""
+	},
+	"7402": {
+		"id": 7402,
+		"text": "您好，恭喜你在本周天命战场积分赛中获得{Num}名，请领取您的奖励。",
+		"serverParameter": "Num"
+	},
+	"7403": {
+		"id": 7403,
+		"text": "天命战场竞猜奖励",
+		"serverParameter": ""
+	},
+	"7404": {
+		"id": 7404,
+		"text": "您好，恭喜你在本周天命战场巅峰赛中竞猜胜利，请领取您的奖励。",
+		"serverParameter": ""
+	},
+	"7405": {
+		"id": 7405,
+		"text": "天命战场巅峰赛奖励",
+		"serverParameter": ""
+	},
+	"7406": {
+		"id": 7406,
+		"text": "您好，恭喜你在本周天命战场巅峰赛中获得{Num}，请领取您的奖励。",
+		"serverParameter": "Num"
+	},
+	"7407": {
+		"id": 7407,
+		"text": "天命战场即将开启",
+		"serverParameter": ""
+	},
+	"7408": {
+		"id": 7408,
+		"text": "本周天命战场巅峰赛即将开启，欢迎各位前来观战。",
+		"serverParameter": "Num"
+	},
+	"7501": {
+		"id": 7501,
+		"text": "每日首充奖励",
+		"serverParameter": ""
+	},
+	"7502": {
+		"id": 7502,
+		"text": "您好，这是您在每日首充达成目标的奖励，请查收！",
+		"serverParameter": ""
+	},
+	"4801": {
+		"id": 4801,
+		"text": "{playerName}人品大爆发，在欢乐翻牌中抽中{name}。",
+		"serverParameter": "playerName;name"
+	},
+	"7601": {
+		"id": 7601,
+		"text": "豪华签到每日奖励",
+		"serverParameter": ""
+	},
+	"7602": {
+		"id": 7602,
+		"text": "您好，这是您在豪华签到未领取的每日奖励，请查收！",
+		"serverParameter": ""
+	},
+	"7603": {
+		"id": 7603,
+		"text": "豪华签到每周奖励",
+		"serverParameter": ""
+	},
+	"7604": {
+		"id": 7604,
+		"text": "您好，这是您在豪华签到未领取的每周奖励，请查收！",
+		"serverParameter": ""
+	},
+	"5101": {
+		"id": 5101,
+		"text": "{luckyName}排行奖励",
+		"serverParameter": "luckyName"
+	},
+	"5102": {
+		"id": 5102,
+		"text": "您好，这是您在{luckyName}第{num}名的奖励，请查收！",
+		"serverParameter": "luckyName;num"
+	},
+	"5701": {
+		"id": 5701,
+		"text": "幸运占卜奖励",
+		"serverParameter": ""
+	},
+	"5702": {
+		"id": 5702,
+		"text": "恭喜您在幸运占卜中获得第{num}名，请查收您的奖励！",
+		"serverParameter": "num"
+	},
+	"5703": {
+		"id": 5703,
+		"text": "恭喜{playerName}在幸运占卜中获得一等奖，获得{itemName}。",
+		"serverParameter": "playerName;itemName"
+	},
+	"8101": {
+		"id": 8101,
+		"text": "本阵营{playerName}在招募队友.<clk=crossTeam#{roomId}>立即加入</clk>",
+		"serverParameter": "playerName;roomId"
+	},
+	"8102": {
+		"id": 8102,
+		"text": "三国争霸赛5分钟后即将开启！各位主公请做好准备！",
+		"serverParameter": ""
+	},
+	"8103": {
+		"id": 8103,
+		"text": "三国争霸赛已经开启！各位主公可通过活动大厅进入三国争霸赛活动地图！",
+		"serverParameter": ""
+	},
+	"8104": {
+		"id": 8104,
+		"text": "{camp}{playerName}成功占领{buildingName}！同阵营玩家可采该城池资源！",
+		"serverParameter": "camp;playerName;buildingName"
+	},
+	"8105": {
+		"id": 8105,
+		"text": "{camp}{playerName}击杀了您，抢夺了您守护的城池！",
+		"serverParameter": "camp;playerName"
+	},
+	"8106": {
+		"id": 8106,
+		"text": "三国争霸赛积分奖励",
+		"serverParameter": "name"
+	},
+	"8107": {
+		"id": 8107,
+		"text": "您好，您在三国争霸赛中积分第{rank}名，附件为奖励，请查收！",
+		"serverParameter": "name;rank"
+	},
+	"8108": {
+		"id": 8108,
+		"text": "三国争霸赛阵营排名奖励",
+		"serverParameter": ""
+	},
+	"8109": {
+		"id": 8109,
+		"text": "你好，您在三国争霸赛中所属阵营{camp}，阵营排名第{rank}名，附件为奖励，请查收！",
+		"serverParameter": "camp;rank"
+	},
+	"5901": {
+		"id": 5901,
+		"text": "跨服{name}排名奖励",
+		"serverParameter": "name"
+	},
+	"5902": {
+		"id": 5902,
+		"text": "恭喜您在跨服{name}排名第{rank}名，附件为奖励，请查收！",
+		"serverParameter": "name;rank"
+	},
+	"5903": {
+		"id": 5903,
+		"text": "跨服{name}奖励",
+		"serverParameter": "name"
+	},
+	"5904": {
+		"id": 5904,
+		"text": "你好，这是您在跨服{name}达成目标的奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"5905": {
+		"id": 5905,
+		"text": "跨服{name}入围奖励",
+		"serverParameter": "name"
+	},
+	"5906": {
+		"id": 5906,
+		"text": "你好，您在跨服{name}积极参与，附件为奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"5801": {
+		"id": 5801,
+		"text": "恭喜!{playerName}在阵法殿中寻宝获得稀有道具{itemName}×{num}!",
+		"serverParameter": "playerName;itemName;num"
+	},
+	"5802": {
+		"id": 5802,
+		"text": "阵法殿排名奖励",
+		"serverParameter": ""
+	},
+	"5803": {
+		"id": 5803,
+		"text": "恭喜您在阵法殿积分排名第{rank}名，附件为奖励，请查收！",
+		"serverParameter": "rank"
+	},
+	"5601": {
+		"id": 5601,
+		"text": "储钱罐清算奖励",
+		"serverParameter": ""
+	},
+	"5602": {
+		"id": 5602,
+		"text": "您好，这是您在储钱罐活动中剩余未领取的返利奖励，请查收！",
+		"serverParameter": ""
+	},
+	"6701": {
+		"id": 6701,
+		"text": "塔主争夺防守奖励",
+		"serverParameter": ""
+	},
+	"6702": {
+		"id": 6702,
+		"text": "你好，这是您成功防守{name}的奖励，请查收！",
+		"serverParameter": "name"
+	},
+	"4501": {
+		"id": 4501,
+		"text": "符文之地排行奖励",
+		"serverParameter": ""
+	},
+	"4502": {
+		"id": 4502,
+		"text": "恭喜你在符文之地积分获得了第{num}名，请查收您的丰厚奖励。",
+		"serverParameter": "num"
+	},
+	"7801": {
+		"id": 7801,
+		"text": "学史排名奖励",
+		"serverParameter": ""
+	},
+	"7802": {
+		"id": 7802,
+		"text": "您好！这是您在学史活动中第{rank}名的奖励，请查收！",
+		"serverParameter": "rank"
+	}
+}

@@ -1,0 +1,1270 @@
+{
+	"0": {
+		"desLv": 0,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 0
+			},
+			{
+				"id": 19,
+				"num": 0
+			},
+			{
+				"id": 20,
+				"num": 0
+			},
+			{
+				"id": 21,
+				"num": 0
+			}
+		],
+		"maxVal": 120,
+		"sucessProb": [
+			{
+				"blessVal": 3,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 72,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 84,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 120,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1
+			}
+		],
+		"desVal": [
+			{
+				"low": 1,
+				"high": 1
+			}
+		],
+		"recover": [],
+		"recover_cli": []
+	},
+	"1": {
+		"desLv": 1,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 500
+			},
+			{
+				"id": 19,
+				"num": 500
+			},
+			{
+				"id": 20,
+				"num": 500
+			},
+			{
+				"id": 21,
+				"num": 500
+			}
+		],
+		"maxVal": 240,
+		"sucessProb": [
+			{
+				"blessVal": 14,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 146,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 170,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 240,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2
+			}
+		],
+		"desVal": [
+			{
+				"low": 2,
+				"high": 2
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 68
+			}
+		],
+		"recover_cli": ["[2,30000020,68]"]
+	},
+	"2": {
+		"desLv": 2,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 1000
+			},
+			{
+				"id": 19,
+				"num": 1000
+			},
+			{
+				"id": 20,
+				"num": 1000
+			},
+			{
+				"id": 21,
+				"num": 1000
+			}
+		],
+		"maxVal": 480,
+		"sucessProb": [
+			{
+				"blessVal": 43,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 297,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 345,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 480,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4
+			}
+		],
+		"desVal": [
+			{
+				"low": 4,
+				"high": 4
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 208
+			}
+		],
+		"recover_cli": ["[2,30000020,208]"]
+	},
+	"3": {
+		"desLv": 3,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 1500
+			},
+			{
+				"id": 19,
+				"num": 1500
+			},
+			{
+				"id": 20,
+				"num": 1500
+			},
+			{
+				"id": 21,
+				"num": 1500
+			}
+		],
+		"maxVal": 960,
+		"sucessProb": [
+			{
+				"blessVal": 115,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 604,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 700,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 960,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 8
+			}
+		],
+		"desVal": [
+			{
+				"low": 7,
+				"high": 9
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 492
+			}
+		],
+		"recover_cli": ["[2,30000020,492]"]
+	},
+	"4": {
+		"desLv": 4,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 2000
+			},
+			{
+				"id": 19,
+				"num": 2000
+			},
+			{
+				"id": 20,
+				"num": 2000
+			},
+			{
+				"id": 21,
+				"num": 2000
+			}
+		],
+		"maxVal": 1440,
+		"sucessProb": [
+			{
+				"blessVal": 216,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 921,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 1065,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 1440,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 12
+			}
+		],
+		"desVal": [
+			{
+				"low": 10,
+				"high": 14
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1074
+			}
+		],
+		"recover_cli": ["[2,30000020,1074]"]
+	},
+	"5": {
+		"desLv": 5,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 3000
+			},
+			{
+				"id": 19,
+				"num": 3000
+			},
+			{
+				"id": 20,
+				"num": 3000
+			},
+			{
+				"id": 21,
+				"num": 3000
+			}
+		],
+		"maxVal": 1900,
+		"sucessProb": [
+			{
+				"blessVal": 342,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 1235,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 1425,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 1900,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 15
+			}
+		],
+		"desVal": [
+			{
+				"low": 12,
+				"high": 18
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1956
+			}
+		],
+		"recover_cli": ["[2,30000020,1956]"]
+	},
+	"6": {
+		"desLv": 6,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 4000
+			},
+			{
+				"id": 19,
+				"num": 4000
+			},
+			{
+				"id": 20,
+				"num": 4000
+			},
+			{
+				"id": 21,
+				"num": 4000
+			}
+		],
+		"maxVal": 2800,
+		"sucessProb": [
+			{
+				"blessVal": 588,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 1848,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 2128,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 2800,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 22
+			}
+		],
+		"desVal": [
+			{
+				"low": 18,
+				"high": 26
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3139
+			}
+		],
+		"recover_cli": ["[2,30000020,3139]"]
+	},
+	"7": {
+		"desLv": 7,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 5000
+			},
+			{
+				"id": 19,
+				"num": 5000
+			},
+			{
+				"id": 20,
+				"num": 5000
+			},
+			{
+				"id": 21,
+				"num": 5000
+			}
+		],
+		"maxVal": 3800,
+		"sucessProb": [
+			{
+				"blessVal": 912,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 2546,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 2926,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 3800,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 30
+			}
+		],
+		"desVal": [
+			{
+				"low": 24,
+				"high": 36
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4915
+			}
+		],
+		"recover_cli": ["[2,30000020,4915]"]
+	},
+	"8": {
+		"desLv": 8,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 6000
+			},
+			{
+				"id": 19,
+				"num": 6000
+			},
+			{
+				"id": 20,
+				"num": 6000
+			},
+			{
+				"id": 21,
+				"num": 6000
+			}
+		],
+		"maxVal": 5600,
+		"sucessProb": [
+			{
+				"blessVal": 1512,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 3808,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 4368,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 5600,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 45
+			}
+		],
+		"desVal": [
+			{
+				"low": 36,
+				"high": 54
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 7378
+			}
+		],
+		"recover_cli": ["[2,30000020,7378]"]
+	},
+	"9": {
+		"desLv": 9,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 8000
+			},
+			{
+				"id": 19,
+				"num": 8000
+			},
+			{
+				"id": 20,
+				"num": 8000
+			},
+			{
+				"id": 21,
+				"num": 8000
+			}
+		],
+		"maxVal": 7600,
+		"sucessProb": [
+			{
+				"blessVal": 2280,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 5244,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 6004,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 7600,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 60
+			}
+		],
+		"desVal": [
+			{
+				"low": 48,
+				"high": 72
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 11068
+			}
+		],
+		"recover_cli": ["[2,30000020,11068]"]
+	},
+	"10": {
+		"desLv": 10,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 10000
+			},
+			{
+				"id": 19,
+				"num": 10000
+			},
+			{
+				"id": 20,
+				"num": 10000
+			},
+			{
+				"id": 21,
+				"num": 10000
+			}
+		],
+		"maxVal": 11000,
+		"sucessProb": [
+			{
+				"blessVal": 3630,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 7700,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 8800,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 11000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 90
+			}
+		],
+		"desVal": [
+			{
+				"low": 72,
+				"high": 108
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 16133
+			}
+		],
+		"recover_cli": ["[2,30000020,16133]"]
+	},
+	"11": {
+		"desLv": 11,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 12000
+			},
+			{
+				"id": 19,
+				"num": 12000
+			},
+			{
+				"id": 20,
+				"num": 12000
+			},
+			{
+				"id": 21,
+				"num": 12000
+			}
+		],
+		"maxVal": 15000,
+		"sucessProb": [
+			{
+				"blessVal": 5400,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 10650,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 12150,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 15000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 120
+			}
+		],
+		"desVal": [
+			{
+				"low": 96,
+				"high": 144
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 23659
+			}
+		],
+		"recover_cli": ["[2,30000020,23659]"]
+	},
+	"12": {
+		"desLv": 12,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 14000
+			},
+			{
+				"id": 19,
+				"num": 14000
+			},
+			{
+				"id": 20,
+				"num": 14000
+			},
+			{
+				"id": 21,
+				"num": 14000
+			}
+		],
+		"maxVal": 22000,
+		"sucessProb": [
+			{
+				"blessVal": 8580,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 15840,
+				"sucessProb": 100
+			},
+			{
+				"blessVal": 18040,
+				"sucessProb": 500
+			},
+			{
+				"blessVal": 22000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 150
+			}
+		],
+		"desVal": [
+			{
+				"low": 120,
+				"high": 180
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 34003
+			}
+		],
+		"recover_cli": ["[2,30000020,34003]"]
+	},
+	"13": {
+		"desLv": 13,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 16000
+			},
+			{
+				"id": 19,
+				"num": 16000
+			},
+			{
+				"id": 20,
+				"num": 16000
+			},
+			{
+				"id": 21,
+				"num": 16000
+			}
+		],
+		"maxVal": 30000,
+		"sucessProb": [
+			{
+				"blessVal": 12600,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 21900,
+				"sucessProb": 90
+			},
+			{
+				"blessVal": 24900,
+				"sucessProb": 450
+			},
+			{
+				"blessVal": 30000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"desVal": [
+			{
+				"low": 160,
+				"high": 240
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 49388
+			}
+		],
+		"recover_cli": ["[2,30000020,49388]"]
+	},
+	"14": {
+		"desLv": 14,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 19000
+			},
+			{
+				"id": 19,
+				"num": 19000
+			},
+			{
+				"id": 20,
+				"num": 19000
+			},
+			{
+				"id": 21,
+				"num": 19000
+			}
+		],
+		"maxVal": 44000,
+		"sucessProb": [
+			{
+				"blessVal": 19800,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 32560,
+				"sucessProb": 80
+			},
+			{
+				"blessVal": 36960,
+				"sucessProb": 400
+			},
+			{
+				"blessVal": 44000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 250
+			}
+		],
+		"desVal": [
+			{
+				"low": 200,
+				"high": 300
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 70668
+			}
+		],
+		"recover_cli": ["[2,30000020,70668]"]
+	},
+	"15": {
+		"desLv": 15,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 22000
+			},
+			{
+				"id": 19,
+				"num": 22000
+			},
+			{
+				"id": 20,
+				"num": 22000
+			},
+			{
+				"id": 21,
+				"num": 22000
+			}
+		],
+		"maxVal": 60000,
+		"sucessProb": [
+			{
+				"blessVal": 28800,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 45000,
+				"sucessProb": 70
+			},
+			{
+				"blessVal": 51000,
+				"sucessProb": 350
+			},
+			{
+				"blessVal": 60000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 300
+			}
+		],
+		"desVal": [
+			{
+				"low": 240,
+				"high": 360
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 102495
+			}
+		],
+		"recover_cli": ["[2,30000020,102495]"]
+	},
+	"16": {
+		"desLv": 16,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 25000
+			},
+			{
+				"id": 19,
+				"num": 25000
+			},
+			{
+				"id": 20,
+				"num": 25000
+			},
+			{
+				"id": 21,
+				"num": 25000
+			}
+		],
+		"maxVal": 88000,
+		"sucessProb": [
+			{
+				"blessVal": 44880,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 66880,
+				"sucessProb": 60
+			},
+			{
+				"blessVal": 75680,
+				"sucessProb": 300
+			},
+			{
+				"blessVal": 88000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 350
+			}
+		],
+		"desVal": [
+			{
+				"low": 280,
+				"high": 420
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 146353
+			}
+		],
+		"recover_cli": ["[2,30000020,146353]"]
+	},
+	"17": {
+		"desLv": 17,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 28000
+			},
+			{
+				"id": 19,
+				"num": 28000
+			},
+			{
+				"id": 20,
+				"num": 28000
+			},
+			{
+				"id": 21,
+				"num": 28000
+			}
+		],
+		"maxVal": 120000,
+		"sucessProb": [
+			{
+				"blessVal": 64800,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 92400,
+				"sucessProb": 50
+			},
+			{
+				"blessVal": 104400,
+				"sucessProb": 250
+			},
+			{
+				"blessVal": 120000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 400
+			}
+		],
+		"desVal": [
+			{
+				"low": 320,
+				"high": 480
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 211721
+			}
+		],
+		"recover_cli": ["[2,30000020,211721]"]
+	},
+	"18": {
+		"desLv": 18,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 32000
+			},
+			{
+				"id": 19,
+				"num": 32000
+			},
+			{
+				"id": 20,
+				"num": 32000
+			},
+			{
+				"id": 21,
+				"num": 32000
+			}
+		],
+		"maxVal": 176000,
+		"sucessProb": [
+			{
+				"blessVal": 100320,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 137280,
+				"sucessProb": 35
+			},
+			{
+				"blessVal": 154880,
+				"sucessProb": 175
+			},
+			{
+				"blessVal": 176000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 450
+			}
+		],
+		"desVal": [
+			{
+				"low": 360,
+				"high": 540
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 301955
+			}
+		],
+		"recover_cli": ["[2,30000020,301955]"]
+	},
+	"19": {
+		"desLv": 19,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 36000
+			},
+			{
+				"id": 19,
+				"num": 36000
+			},
+			{
+				"id": 20,
+				"num": 36000
+			},
+			{
+				"id": 21,
+				"num": 36000
+			}
+		],
+		"maxVal": 240000,
+		"sucessProb": [
+			{
+				"blessVal": 144000,
+				"sucessProb": 0
+			},
+			{
+				"blessVal": 189600,
+				"sucessProb": 30
+			},
+			{
+				"blessVal": 213600,
+				"sucessProb": 150
+			},
+			{
+				"blessVal": 240000,
+				"sucessProb": 10000
+			}
+		],
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 500
+			}
+		],
+		"desVal": [
+			{
+				"low": 400,
+				"high": 600
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 436820
+			}
+		],
+		"recover_cli": ["[2,30000020,436820]"]
+	},
+	"20": {
+		"desLv": 20,
+		"cleanUp": 1,
+		"attr": [
+			{
+				"id": 18,
+				"num": 40000
+			},
+			{
+				"id": 19,
+				"num": 40000
+			},
+			{
+				"id": 20,
+				"num": 40000
+			},
+			{
+				"id": 21,
+				"num": 40000
+			}
+		],
+		"maxVal": 0,
+		"sucessProb": [],
+		"cost": [],
+		"desVal": [],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 623150
+			}
+		],
+		"recover_cli": ["[2,30000020,623150]"]
+	}
+}

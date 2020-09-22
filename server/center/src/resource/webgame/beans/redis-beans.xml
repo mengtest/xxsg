@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- redis 服务器配置 -->
+    <!--<context:component-scan base-package="com.gzfeiyin.dragonball.framework.dao.redis">-->
+    <!--</context:component-scan>-->
+
+    <bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig">
+        <property name="maxIdle" value="${redis.maxIdle}"/>
+        <property name="maxTotal" value="${redis.maxTotal}"/>
+        <property name="maxWaitMillis" value="${redis.maxWait}"/>
+        <property name="testOnBorrow" value="${redis.testOnBorrow}"/>
+        <property name="testOnReturn" value="true"/>
+    </bean>
+
+    <bean id="jedisPool" class="redis.clients.jedis.JedisPool" destroy-method="close">
+        <constructor-arg index="0" ref="jedisPoolConfig"/>
+        <constructor-arg index="1" value="${redis.host}"/>
+        <constructor-arg index="2" value="${redis.port}"/>
+        <constructor-arg index="3" value="${redis.timeout}"/>
+        <constructor-arg index="4" value="${redis.pass}"/>
+        <constructor-arg index="5" value="${redis.db}"/>
+    </bean>
+
+    <bean id="redisDataSource" class="com.linlongyx.core.framework.dao.redis.RedisDataSourceImpl">
+        <property name="jedisPool" ref="jedisPool"/>
+    </bean>
+
+    <bean id="redisClientTemplate" class="com.linlongyx.core.framework.dao.redis.RedisClientTemplate">
+        <property name="redisDataSource" ref="redisDataSource"/>
+    </bean>
+
+    <!--<bean id="redisBaseDAO" class="com.linlongyx.core.framework.dao.redis.RedisDAO">
+        <constructor-arg index="0" ref="redisClientTemplate"/>
+    </bean>-->
+</beans>

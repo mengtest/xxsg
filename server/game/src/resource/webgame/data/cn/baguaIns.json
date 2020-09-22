@@ -1,0 +1,8162 @@
+{
+	"101": {
+		"insId": 101,
+		"last": 0,
+		"checkPoint": 1,
+		"name": "乾1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 100
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 5
+			}
+		],
+		"money": 40,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 31
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4001
+					},
+					{
+						"posi": 2,
+						"id": 4002
+					},
+					{
+						"posi": 3,
+						"id": 4003
+					},
+					{
+						"posi": 4,
+						"id": 4004
+					},
+					{
+						"posi": 5,
+						"id": 4005
+					},
+					{
+						"posi": 6,
+						"id": 4006
+					}
+				]
+			}
+		}
+	},
+	"102": {
+		"insId": 102,
+		"last": 101,
+		"checkPoint": 2,
+		"name": "乾1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 110
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 5
+			}
+		],
+		"money": 40,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1001
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 32
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4007
+					},
+					{
+						"posi": 2,
+						"id": 4008
+					},
+					{
+						"posi": 3,
+						"id": 4009
+					},
+					{
+						"posi": 4,
+						"id": 4010
+					},
+					{
+						"posi": 5,
+						"id": 4011
+					},
+					{
+						"posi": 6,
+						"id": 4012
+					}
+				]
+			}
+		}
+	},
+	"103": {
+		"insId": 103,
+		"last": 102,
+		"checkPoint": 3,
+		"name": "乾1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 120
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 6
+			}
+		],
+		"money": 50,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1002
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 33
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4013
+					},
+					{
+						"posi": 2,
+						"id": 4014
+					},
+					{
+						"posi": 3,
+						"id": 4015
+					},
+					{
+						"posi": 4,
+						"id": 4016
+					},
+					{
+						"posi": 5,
+						"id": 4017
+					},
+					{
+						"posi": 6,
+						"id": 4018
+					}
+				]
+			}
+		}
+	},
+	"104": {
+		"insId": 104,
+		"last": 103,
+		"checkPoint": 4,
+		"name": "乾1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 130
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 6
+			}
+		],
+		"money": 50,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1003
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 34
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4019
+					},
+					{
+						"posi": 2,
+						"id": 4020
+					},
+					{
+						"posi": 3,
+						"id": 4021
+					},
+					{
+						"posi": 4,
+						"id": 4022
+					},
+					{
+						"posi": 5,
+						"id": 4023
+					},
+					{
+						"posi": 6,
+						"id": 4024
+					}
+				]
+			}
+		}
+	},
+	"105": {
+		"insId": 105,
+		"last": 104,
+		"checkPoint": 5,
+		"name": "乾1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 140
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 7
+			}
+		],
+		"money": 50,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1004
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 35
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4025
+					},
+					{
+						"posi": 2,
+						"id": 4026
+					},
+					{
+						"posi": 3,
+						"id": 4027
+					},
+					{
+						"posi": 4,
+						"id": 4028
+					},
+					{
+						"posi": 5,
+						"id": 4029
+					},
+					{
+						"posi": 6,
+						"id": 4030
+					}
+				]
+			}
+		}
+	},
+	"106": {
+		"insId": 106,
+		"last": 105,
+		"checkPoint": 6,
+		"name": "乾1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 150
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 7
+			}
+		],
+		"money": 50,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1005
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 36
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4031
+					},
+					{
+						"posi": 2,
+						"id": 4032
+					},
+					{
+						"posi": 3,
+						"id": 4033
+					},
+					{
+						"posi": 4,
+						"id": 4034
+					},
+					{
+						"posi": 5,
+						"id": 4035
+					},
+					{
+						"posi": 6,
+						"id": 4036
+					}
+				]
+			}
+		}
+	},
+	"107": {
+		"insId": 107,
+		"last": 106,
+		"checkPoint": 7,
+		"name": "乾1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 170
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 8
+			}
+		],
+		"money": 60,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1006
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 37
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4037
+					},
+					{
+						"posi": 2,
+						"id": 4038
+					},
+					{
+						"posi": 3,
+						"id": 4039
+					},
+					{
+						"posi": 4,
+						"id": 4040
+					},
+					{
+						"posi": 5,
+						"id": 4041
+					},
+					{
+						"posi": 6,
+						"id": 4042
+					}
+				]
+			}
+		}
+	},
+	"108": {
+		"insId": 108,
+		"last": 107,
+		"checkPoint": 8,
+		"name": "乾1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 190
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 9
+			}
+		],
+		"money": 70,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1007
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 38
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4043
+					},
+					{
+						"posi": 2,
+						"id": 4044
+					},
+					{
+						"posi": 3,
+						"id": 4045
+					},
+					{
+						"posi": 4,
+						"id": 4046
+					},
+					{
+						"posi": 5,
+						"id": 4047
+					},
+					{
+						"posi": 6,
+						"id": 4048
+					}
+				]
+			}
+		}
+	},
+	"109": {
+		"insId": 109,
+		"last": 108,
+		"checkPoint": 9,
+		"name": "乾1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 210
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 10
+			}
+		],
+		"money": 70,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1008
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 39
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4049
+					},
+					{
+						"posi": 2,
+						"id": 4050
+					},
+					{
+						"posi": 3,
+						"id": 4051
+					},
+					{
+						"posi": 4,
+						"id": 4052
+					},
+					{
+						"posi": 5,
+						"id": 4053
+					},
+					{
+						"posi": 6,
+						"id": 4054
+					}
+				]
+			}
+		}
+	},
+	"110": {
+		"insId": 110,
+		"last": 109,
+		"checkPoint": 10,
+		"name": "乾1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60101,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 230
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 11
+			}
+		],
+		"money": 80,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1009
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 40
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4055
+					},
+					{
+						"posi": 2,
+						"id": 4056
+					},
+					{
+						"posi": 3,
+						"id": 4057
+					},
+					{
+						"posi": 4,
+						"id": 4058
+					},
+					{
+						"posi": 5,
+						"id": 4059
+					},
+					{
+						"posi": 6,
+						"id": 4060
+					}
+				]
+			}
+		}
+	},
+	"201": {
+		"insId": 201,
+		"last": 110,
+		"checkPoint": 1,
+		"name": "坤1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 250
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 12
+			}
+		],
+		"money": 90,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1010
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 61
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4061
+					},
+					{
+						"posi": 2,
+						"id": 4062
+					},
+					{
+						"posi": 3,
+						"id": 4063
+					},
+					{
+						"posi": 4,
+						"id": 4064
+					},
+					{
+						"posi": 5,
+						"id": 4065
+					},
+					{
+						"posi": 6,
+						"id": 4066
+					}
+				]
+			}
+		}
+	},
+	"202": {
+		"insId": 202,
+		"last": 201,
+		"checkPoint": 2,
+		"name": "坤1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 270
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 13
+			}
+		],
+		"money": 100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1011
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 62
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4067
+					},
+					{
+						"posi": 2,
+						"id": 4068
+					},
+					{
+						"posi": 3,
+						"id": 4069
+					},
+					{
+						"posi": 4,
+						"id": 4070
+					},
+					{
+						"posi": 5,
+						"id": 4071
+					},
+					{
+						"posi": 6,
+						"id": 4072
+					}
+				]
+			}
+		}
+	},
+	"203": {
+		"insId": 203,
+		"last": 202,
+		"checkPoint": 3,
+		"name": "坤1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 290
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 14
+			}
+		],
+		"money": 100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1012
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 63
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4073
+					},
+					{
+						"posi": 2,
+						"id": 4074
+					},
+					{
+						"posi": 3,
+						"id": 4075
+					},
+					{
+						"posi": 4,
+						"id": 4076
+					},
+					{
+						"posi": 5,
+						"id": 4077
+					},
+					{
+						"posi": 6,
+						"id": 4078
+					}
+				]
+			}
+		}
+	},
+	"204": {
+		"insId": 204,
+		"last": 203,
+		"checkPoint": 4,
+		"name": "坤1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 320
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 16
+			}
+		],
+		"money": 120,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1013
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 64
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4079
+					},
+					{
+						"posi": 2,
+						"id": 4080
+					},
+					{
+						"posi": 3,
+						"id": 4081
+					},
+					{
+						"posi": 4,
+						"id": 4082
+					},
+					{
+						"posi": 5,
+						"id": 4083
+					},
+					{
+						"posi": 6,
+						"id": 4084
+					}
+				]
+			}
+		}
+	},
+	"205": {
+		"insId": 205,
+		"last": 204,
+		"checkPoint": 5,
+		"name": "坤1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 350
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 17
+			}
+		],
+		"money": 120,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1014
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 65
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4085
+					},
+					{
+						"posi": 2,
+						"id": 4086
+					},
+					{
+						"posi": 3,
+						"id": 4087
+					},
+					{
+						"posi": 4,
+						"id": 4088
+					},
+					{
+						"posi": 5,
+						"id": 4089
+					},
+					{
+						"posi": 6,
+						"id": 4090
+					}
+				]
+			}
+		}
+	},
+	"206": {
+		"insId": 206,
+		"last": 205,
+		"checkPoint": 6,
+		"name": "坤1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 380
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 19
+			}
+		],
+		"money": 140,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1015
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 66
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4091
+					},
+					{
+						"posi": 2,
+						"id": 4092
+					},
+					{
+						"posi": 3,
+						"id": 4093
+					},
+					{
+						"posi": 4,
+						"id": 4094
+					},
+					{
+						"posi": 5,
+						"id": 4095
+					},
+					{
+						"posi": 6,
+						"id": 4096
+					}
+				]
+			}
+		}
+	},
+	"207": {
+		"insId": 207,
+		"last": 206,
+		"checkPoint": 7,
+		"name": "坤1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 410
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 20
+			}
+		],
+		"money": 140,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1016
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 67
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4097
+					},
+					{
+						"posi": 2,
+						"id": 4098
+					},
+					{
+						"posi": 3,
+						"id": 4099
+					},
+					{
+						"posi": 4,
+						"id": 4100
+					},
+					{
+						"posi": 5,
+						"id": 4101
+					},
+					{
+						"posi": 6,
+						"id": 4102
+					}
+				]
+			}
+		}
+	},
+	"208": {
+		"insId": 208,
+		"last": 207,
+		"checkPoint": 8,
+		"name": "坤1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 440
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 22
+			}
+		],
+		"money": 160,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1017
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 68
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4103
+					},
+					{
+						"posi": 2,
+						"id": 4104
+					},
+					{
+						"posi": 3,
+						"id": 4105
+					},
+					{
+						"posi": 4,
+						"id": 4106
+					},
+					{
+						"posi": 5,
+						"id": 4107
+					},
+					{
+						"posi": 6,
+						"id": 4108
+					}
+				]
+			}
+		}
+	},
+	"209": {
+		"insId": 209,
+		"last": 208,
+		"checkPoint": 9,
+		"name": "坤1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 470
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 23
+			}
+		],
+		"money": 170,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1018
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 69
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4109
+					},
+					{
+						"posi": 2,
+						"id": 4110
+					},
+					{
+						"posi": 3,
+						"id": 4111
+					},
+					{
+						"posi": 4,
+						"id": 4112
+					},
+					{
+						"posi": 5,
+						"id": 4113
+					},
+					{
+						"posi": 6,
+						"id": 4114
+					}
+				]
+			}
+		}
+	},
+	"210": {
+		"insId": 210,
+		"last": 209,
+		"checkPoint": 10,
+		"name": "坤1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60102,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 500
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 25
+			}
+		],
+		"money": 180,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1019
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 70
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4115
+					},
+					{
+						"posi": 2,
+						"id": 4116
+					},
+					{
+						"posi": 3,
+						"id": 4117
+					},
+					{
+						"posi": 4,
+						"id": 4118
+					},
+					{
+						"posi": 5,
+						"id": 4119
+					},
+					{
+						"posi": 6,
+						"id": 4120
+					}
+				]
+			}
+		}
+	},
+	"301": {
+		"insId": 301,
+		"last": 210,
+		"checkPoint": 1,
+		"name": "震1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 540
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 27
+			}
+		],
+		"money": 180,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1020
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 91
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4121
+					},
+					{
+						"posi": 2,
+						"id": 4122
+					},
+					{
+						"posi": 3,
+						"id": 4123
+					},
+					{
+						"posi": 4,
+						"id": 4124
+					},
+					{
+						"posi": 5,
+						"id": 4125
+					},
+					{
+						"posi": 6,
+						"id": 4126
+					}
+				]
+			}
+		}
+	},
+	"302": {
+		"insId": 302,
+		"last": 301,
+		"checkPoint": 2,
+		"name": "震1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 580
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 29
+			}
+		],
+		"money": 190,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1021
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 92
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4127
+					},
+					{
+						"posi": 2,
+						"id": 4128
+					},
+					{
+						"posi": 3,
+						"id": 4129
+					},
+					{
+						"posi": 4,
+						"id": 4130
+					},
+					{
+						"posi": 5,
+						"id": 4131
+					},
+					{
+						"posi": 6,
+						"id": 4132
+					}
+				]
+			}
+		}
+	},
+	"303": {
+		"insId": 303,
+		"last": 302,
+		"checkPoint": 3,
+		"name": "震1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 620
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 31
+			}
+		],
+		"money": 210,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1022
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 93
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4133
+					},
+					{
+						"posi": 2,
+						"id": 4134
+					},
+					{
+						"posi": 3,
+						"id": 4135
+					},
+					{
+						"posi": 4,
+						"id": 4136
+					},
+					{
+						"posi": 5,
+						"id": 4137
+					},
+					{
+						"posi": 6,
+						"id": 4138
+					}
+				]
+			}
+		}
+	},
+	"304": {
+		"insId": 304,
+		"last": 303,
+		"checkPoint": 4,
+		"name": "震1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 660
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 33
+			}
+		],
+		"money": 220,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1023
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 94
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4139
+					},
+					{
+						"posi": 2,
+						"id": 4140
+					},
+					{
+						"posi": 3,
+						"id": 4141
+					},
+					{
+						"posi": 4,
+						"id": 4142
+					},
+					{
+						"posi": 5,
+						"id": 4143
+					},
+					{
+						"posi": 6,
+						"id": 4144
+					}
+				]
+			}
+		}
+	},
+	"305": {
+		"insId": 305,
+		"last": 304,
+		"checkPoint": 5,
+		"name": "震1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 700
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 35
+			}
+		],
+		"money": 230,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1024
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 95
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4145
+					},
+					{
+						"posi": 2,
+						"id": 4146
+					},
+					{
+						"posi": 3,
+						"id": 4147
+					},
+					{
+						"posi": 4,
+						"id": 4148
+					},
+					{
+						"posi": 5,
+						"id": 4149
+					},
+					{
+						"posi": 6,
+						"id": 4150
+					}
+				]
+			}
+		}
+	},
+	"306": {
+		"insId": 306,
+		"last": 305,
+		"checkPoint": 6,
+		"name": "震1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 740
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 37
+			}
+		],
+		"money": 250,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1025
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 96
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4151
+					},
+					{
+						"posi": 2,
+						"id": 4152
+					},
+					{
+						"posi": 3,
+						"id": 4153
+					},
+					{
+						"posi": 4,
+						"id": 4154
+					},
+					{
+						"posi": 5,
+						"id": 4155
+					},
+					{
+						"posi": 6,
+						"id": 4156
+					}
+				]
+			}
+		}
+	},
+	"307": {
+		"insId": 307,
+		"last": 306,
+		"checkPoint": 7,
+		"name": "震1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 790
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 39
+			}
+		],
+		"money": 260,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1026
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 97
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4157
+					},
+					{
+						"posi": 2,
+						"id": 4158
+					},
+					{
+						"posi": 3,
+						"id": 4159
+					},
+					{
+						"posi": 4,
+						"id": 4160
+					},
+					{
+						"posi": 5,
+						"id": 4161
+					},
+					{
+						"posi": 6,
+						"id": 4162
+					}
+				]
+			}
+		}
+	},
+	"308": {
+		"insId": 308,
+		"last": 307,
+		"checkPoint": 8,
+		"name": "震1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 840
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 42
+			}
+		],
+		"money": 280,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1027
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 98
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4163
+					},
+					{
+						"posi": 2,
+						"id": 4164
+					},
+					{
+						"posi": 3,
+						"id": 4165
+					},
+					{
+						"posi": 4,
+						"id": 4166
+					},
+					{
+						"posi": 5,
+						"id": 4167
+					},
+					{
+						"posi": 6,
+						"id": 4168
+					}
+				]
+			}
+		}
+	},
+	"309": {
+		"insId": 309,
+		"last": 308,
+		"checkPoint": 9,
+		"name": "震1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 890
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 44
+			}
+		],
+		"money": 290,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1028
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 99
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4169
+					},
+					{
+						"posi": 2,
+						"id": 4170
+					},
+					{
+						"posi": 3,
+						"id": 4171
+					},
+					{
+						"posi": 4,
+						"id": 4172
+					},
+					{
+						"posi": 5,
+						"id": 4173
+					},
+					{
+						"posi": 6,
+						"id": 4174
+					}
+				]
+			}
+		}
+	},
+	"310": {
+		"insId": 310,
+		"last": 309,
+		"checkPoint": 10,
+		"name": "震1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60103,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 940
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 47
+			}
+		],
+		"money": 310,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1029
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4175
+					},
+					{
+						"posi": 2,
+						"id": 4176
+					},
+					{
+						"posi": 3,
+						"id": 4177
+					},
+					{
+						"posi": 4,
+						"id": 4178
+					},
+					{
+						"posi": 5,
+						"id": 4179
+					},
+					{
+						"posi": 6,
+						"id": 4180
+					}
+				]
+			}
+		}
+	},
+	"401": {
+		"insId": 401,
+		"last": 310,
+		"checkPoint": 1,
+		"name": "巽1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 990
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 49
+			}
+		],
+		"money": 320,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1030
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 121
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4181
+					},
+					{
+						"posi": 2,
+						"id": 4182
+					},
+					{
+						"posi": 3,
+						"id": 4183
+					},
+					{
+						"posi": 4,
+						"id": 4184
+					},
+					{
+						"posi": 5,
+						"id": 4185
+					},
+					{
+						"posi": 6,
+						"id": 4186
+					}
+				]
+			}
+		}
+	},
+	"402": {
+		"insId": 402,
+		"last": 401,
+		"checkPoint": 2,
+		"name": "巽1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1040
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 52
+			}
+		],
+		"money": 340,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1031
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 122
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4187
+					},
+					{
+						"posi": 2,
+						"id": 4188
+					},
+					{
+						"posi": 3,
+						"id": 4189
+					},
+					{
+						"posi": 4,
+						"id": 4190
+					},
+					{
+						"posi": 5,
+						"id": 4191
+					},
+					{
+						"posi": 6,
+						"id": 4192
+					}
+				]
+			}
+		}
+	},
+	"403": {
+		"insId": 403,
+		"last": 402,
+		"checkPoint": 3,
+		"name": "巽1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1090
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 54
+			}
+		],
+		"money": 360,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1032
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 123
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4193
+					},
+					{
+						"posi": 2,
+						"id": 4194
+					},
+					{
+						"posi": 3,
+						"id": 4195
+					},
+					{
+						"posi": 4,
+						"id": 4196
+					},
+					{
+						"posi": 5,
+						"id": 4197
+					},
+					{
+						"posi": 6,
+						"id": 4198
+					}
+				]
+			}
+		}
+	},
+	"404": {
+		"insId": 404,
+		"last": 403,
+		"checkPoint": 4,
+		"name": "巽1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1150
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 57
+			}
+		],
+		"money": 380,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1033
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 124
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4199
+					},
+					{
+						"posi": 2,
+						"id": 4200
+					},
+					{
+						"posi": 3,
+						"id": 4201
+					},
+					{
+						"posi": 4,
+						"id": 4202
+					},
+					{
+						"posi": 5,
+						"id": 4203
+					},
+					{
+						"posi": 6,
+						"id": 4204
+					}
+				]
+			}
+		}
+	},
+	"405": {
+		"insId": 405,
+		"last": 404,
+		"checkPoint": 5,
+		"name": "巽1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1210
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 60
+			}
+		],
+		"money": 390,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1034
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 125
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4205
+					},
+					{
+						"posi": 2,
+						"id": 4206
+					},
+					{
+						"posi": 3,
+						"id": 4207
+					},
+					{
+						"posi": 4,
+						"id": 4208
+					},
+					{
+						"posi": 5,
+						"id": 4209
+					},
+					{
+						"posi": 6,
+						"id": 4210
+					}
+				]
+			}
+		}
+	},
+	"406": {
+		"insId": 406,
+		"last": 405,
+		"checkPoint": 6,
+		"name": "巽1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1270
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 63
+			}
+		],
+		"money": 410,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1035
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 126
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4211
+					},
+					{
+						"posi": 2,
+						"id": 4212
+					},
+					{
+						"posi": 3,
+						"id": 4213
+					},
+					{
+						"posi": 4,
+						"id": 4214
+					},
+					{
+						"posi": 5,
+						"id": 4215
+					},
+					{
+						"posi": 6,
+						"id": 4216
+					}
+				]
+			}
+		}
+	},
+	"407": {
+		"insId": 407,
+		"last": 406,
+		"checkPoint": 7,
+		"name": "巽1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1330
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 66
+			}
+		],
+		"money": 430,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1036
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 127
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4217
+					},
+					{
+						"posi": 2,
+						"id": 4218
+					},
+					{
+						"posi": 3,
+						"id": 4219
+					},
+					{
+						"posi": 4,
+						"id": 4220
+					},
+					{
+						"posi": 5,
+						"id": 4221
+					},
+					{
+						"posi": 6,
+						"id": 4222
+					}
+				]
+			}
+		}
+	},
+	"408": {
+		"insId": 408,
+		"last": 407,
+		"checkPoint": 8,
+		"name": "巽1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1390
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 69
+			}
+		],
+		"money": 450,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1037
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 128
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4223
+					},
+					{
+						"posi": 2,
+						"id": 4224
+					},
+					{
+						"posi": 3,
+						"id": 4225
+					},
+					{
+						"posi": 4,
+						"id": 4226
+					},
+					{
+						"posi": 5,
+						"id": 4227
+					},
+					{
+						"posi": 6,
+						"id": 4228
+					}
+				]
+			}
+		}
+	},
+	"409": {
+		"insId": 409,
+		"last": 408,
+		"checkPoint": 9,
+		"name": "巽1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1450
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 72
+			}
+		],
+		"money": 470,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1038
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 129
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4229
+					},
+					{
+						"posi": 2,
+						"id": 4230
+					},
+					{
+						"posi": 3,
+						"id": 4231
+					},
+					{
+						"posi": 4,
+						"id": 4232
+					},
+					{
+						"posi": 5,
+						"id": 4233
+					},
+					{
+						"posi": 6,
+						"id": 4234
+					}
+				]
+			}
+		}
+	},
+	"410": {
+		"insId": 410,
+		"last": 409,
+		"checkPoint": 10,
+		"name": "巽1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60104,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1510
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 75
+			}
+		],
+		"money": 490,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1039
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 130
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4235
+					},
+					{
+						"posi": 2,
+						"id": 4236
+					},
+					{
+						"posi": 3,
+						"id": 4237
+					},
+					{
+						"posi": 4,
+						"id": 4238
+					},
+					{
+						"posi": 5,
+						"id": 4239
+					},
+					{
+						"posi": 6,
+						"id": 4240
+					}
+				]
+			}
+		}
+	},
+	"501": {
+		"insId": 501,
+		"last": 410,
+		"checkPoint": 1,
+		"name": "坎1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1580
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 79
+			}
+		],
+		"money": 480,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1040
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 151
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4241
+					},
+					{
+						"posi": 2,
+						"id": 4242
+					},
+					{
+						"posi": 3,
+						"id": 4243
+					},
+					{
+						"posi": 4,
+						"id": 4244
+					},
+					{
+						"posi": 5,
+						"id": 4245
+					},
+					{
+						"posi": 6,
+						"id": 4246
+					}
+				]
+			}
+		}
+	},
+	"502": {
+		"insId": 502,
+		"last": 501,
+		"checkPoint": 2,
+		"name": "坎1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1650
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 82
+			}
+		],
+		"money": 500,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1041
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 152
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4247
+					},
+					{
+						"posi": 2,
+						"id": 4248
+					},
+					{
+						"posi": 3,
+						"id": 4249
+					},
+					{
+						"posi": 4,
+						"id": 4250
+					},
+					{
+						"posi": 5,
+						"id": 4251
+					},
+					{
+						"posi": 6,
+						"id": 4252
+					}
+				]
+			}
+		}
+	},
+	"503": {
+		"insId": 503,
+		"last": 502,
+		"checkPoint": 3,
+		"name": "坎1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1720
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 86
+			}
+		],
+		"money": 520,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1042
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 153
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4253
+					},
+					{
+						"posi": 2,
+						"id": 4254
+					},
+					{
+						"posi": 3,
+						"id": 4255
+					},
+					{
+						"posi": 4,
+						"id": 4256
+					},
+					{
+						"posi": 5,
+						"id": 4257
+					},
+					{
+						"posi": 6,
+						"id": 4258
+					}
+				]
+			}
+		}
+	},
+	"504": {
+		"insId": 504,
+		"last": 503,
+		"checkPoint": 4,
+		"name": "坎1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1790
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 89
+			}
+		],
+		"money": 540,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1043
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 154
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4259
+					},
+					{
+						"posi": 2,
+						"id": 4260
+					},
+					{
+						"posi": 3,
+						"id": 4261
+					},
+					{
+						"posi": 4,
+						"id": 4262
+					},
+					{
+						"posi": 5,
+						"id": 4263
+					},
+					{
+						"posi": 6,
+						"id": 4264
+					}
+				]
+			}
+		}
+	},
+	"505": {
+		"insId": 505,
+		"last": 504,
+		"checkPoint": 5,
+		"name": "坎1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1860
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 93
+			}
+		],
+		"money": 560,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1044
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 155
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4265
+					},
+					{
+						"posi": 2,
+						"id": 4266
+					},
+					{
+						"posi": 3,
+						"id": 4267
+					},
+					{
+						"posi": 4,
+						"id": 4268
+					},
+					{
+						"posi": 5,
+						"id": 4269
+					},
+					{
+						"posi": 6,
+						"id": 4270
+					}
+				]
+			}
+		}
+	},
+	"506": {
+		"insId": 506,
+		"last": 505,
+		"checkPoint": 6,
+		"name": "坎1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 1930
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 96
+			}
+		],
+		"money": 580,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1045
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 156
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4271
+					},
+					{
+						"posi": 2,
+						"id": 4272
+					},
+					{
+						"posi": 3,
+						"id": 4273
+					},
+					{
+						"posi": 4,
+						"id": 4274
+					},
+					{
+						"posi": 5,
+						"id": 4275
+					},
+					{
+						"posi": 6,
+						"id": 4276
+					}
+				]
+			}
+		}
+	},
+	"507": {
+		"insId": 507,
+		"last": 506,
+		"checkPoint": 7,
+		"name": "坎1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2010
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 100
+			}
+		],
+		"money": 600,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1046
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 157
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4277
+					},
+					{
+						"posi": 2,
+						"id": 4278
+					},
+					{
+						"posi": 3,
+						"id": 4279
+					},
+					{
+						"posi": 4,
+						"id": 4280
+					},
+					{
+						"posi": 5,
+						"id": 4281
+					},
+					{
+						"posi": 6,
+						"id": 4282
+					}
+				]
+			}
+		}
+	},
+	"508": {
+		"insId": 508,
+		"last": 507,
+		"checkPoint": 8,
+		"name": "坎1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2090
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 104
+			}
+		],
+		"money": 630,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1047
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 158
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4283
+					},
+					{
+						"posi": 2,
+						"id": 4284
+					},
+					{
+						"posi": 3,
+						"id": 4285
+					},
+					{
+						"posi": 4,
+						"id": 4286
+					},
+					{
+						"posi": 5,
+						"id": 4287
+					},
+					{
+						"posi": 6,
+						"id": 4288
+					}
+				]
+			}
+		}
+	},
+	"509": {
+		"insId": 509,
+		"last": 508,
+		"checkPoint": 9,
+		"name": "坎1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2170
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 108
+			}
+		],
+		"money": 650,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1048
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 159
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4289
+					},
+					{
+						"posi": 2,
+						"id": 4290
+					},
+					{
+						"posi": 3,
+						"id": 4291
+					},
+					{
+						"posi": 4,
+						"id": 4292
+					},
+					{
+						"posi": 5,
+						"id": 4293
+					},
+					{
+						"posi": 6,
+						"id": 4294
+					}
+				]
+			}
+		}
+	},
+	"510": {
+		"insId": 510,
+		"last": 509,
+		"checkPoint": 10,
+		"name": "坎1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60105,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2250
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 112
+			}
+		],
+		"money": 680,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1049
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 160
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4295
+					},
+					{
+						"posi": 2,
+						"id": 4296
+					},
+					{
+						"posi": 3,
+						"id": 4297
+					},
+					{
+						"posi": 4,
+						"id": 4298
+					},
+					{
+						"posi": 5,
+						"id": 4299
+					},
+					{
+						"posi": 6,
+						"id": 4300
+					}
+				]
+			}
+		}
+	},
+	"601": {
+		"insId": 601,
+		"last": 510,
+		"checkPoint": 1,
+		"name": "离1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2330
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 116
+			}
+		],
+		"money": 700,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1050
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 181
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4301
+					},
+					{
+						"posi": 2,
+						"id": 4302
+					},
+					{
+						"posi": 3,
+						"id": 4303
+					},
+					{
+						"posi": 4,
+						"id": 4304
+					},
+					{
+						"posi": 5,
+						"id": 4305
+					},
+					{
+						"posi": 6,
+						"id": 4306
+					}
+				]
+			}
+		}
+	},
+	"602": {
+		"insId": 602,
+		"last": 601,
+		"checkPoint": 2,
+		"name": "离1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2410
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 120
+			}
+		],
+		"money": 720,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1051
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 182
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4307
+					},
+					{
+						"posi": 2,
+						"id": 4308
+					},
+					{
+						"posi": 3,
+						"id": 4309
+					},
+					{
+						"posi": 4,
+						"id": 4310
+					},
+					{
+						"posi": 5,
+						"id": 4311
+					},
+					{
+						"posi": 6,
+						"id": 4312
+					}
+				]
+			}
+		}
+	},
+	"603": {
+		"insId": 603,
+		"last": 602,
+		"checkPoint": 3,
+		"name": "离1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2490
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 124
+			}
+		],
+		"money": 750,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1052
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 183
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4313
+					},
+					{
+						"posi": 2,
+						"id": 4314
+					},
+					{
+						"posi": 3,
+						"id": 4315
+					},
+					{
+						"posi": 4,
+						"id": 4316
+					},
+					{
+						"posi": 5,
+						"id": 4317
+					},
+					{
+						"posi": 6,
+						"id": 4318
+					}
+				]
+			}
+		}
+	},
+	"604": {
+		"insId": 604,
+		"last": 603,
+		"checkPoint": 4,
+		"name": "离1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2580
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 129
+			}
+		],
+		"money": 780,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1053
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 184
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4319
+					},
+					{
+						"posi": 2,
+						"id": 4320
+					},
+					{
+						"posi": 3,
+						"id": 4321
+					},
+					{
+						"posi": 4,
+						"id": 4322
+					},
+					{
+						"posi": 5,
+						"id": 4323
+					},
+					{
+						"posi": 6,
+						"id": 4324
+					}
+				]
+			}
+		}
+	},
+	"605": {
+		"insId": 605,
+		"last": 604,
+		"checkPoint": 5,
+		"name": "离1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2670
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 133
+			}
+		],
+		"money": 800,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1054
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 185
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4325
+					},
+					{
+						"posi": 2,
+						"id": 4326
+					},
+					{
+						"posi": 3,
+						"id": 4327
+					},
+					{
+						"posi": 4,
+						"id": 4328
+					},
+					{
+						"posi": 5,
+						"id": 4329
+					},
+					{
+						"posi": 6,
+						"id": 4330
+					}
+				]
+			}
+		}
+	},
+	"606": {
+		"insId": 606,
+		"last": 605,
+		"checkPoint": 6,
+		"name": "离1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2760
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 138
+			}
+		],
+		"money": 830,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1055
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 186
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4331
+					},
+					{
+						"posi": 2,
+						"id": 4332
+					},
+					{
+						"posi": 3,
+						"id": 4333
+					},
+					{
+						"posi": 4,
+						"id": 4334
+					},
+					{
+						"posi": 5,
+						"id": 4335
+					},
+					{
+						"posi": 6,
+						"id": 4336
+					}
+				]
+			}
+		}
+	},
+	"607": {
+		"insId": 607,
+		"last": 606,
+		"checkPoint": 7,
+		"name": "离1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2850
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 142
+			}
+		],
+		"money": 860,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1056
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 187
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4337
+					},
+					{
+						"posi": 2,
+						"id": 4338
+					},
+					{
+						"posi": 3,
+						"id": 4339
+					},
+					{
+						"posi": 4,
+						"id": 4340
+					},
+					{
+						"posi": 5,
+						"id": 4341
+					},
+					{
+						"posi": 6,
+						"id": 4342
+					}
+				]
+			}
+		}
+	},
+	"608": {
+		"insId": 608,
+		"last": 607,
+		"checkPoint": 8,
+		"name": "离1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 2940
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 147
+			}
+		],
+		"money": 890,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1057
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 188
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4343
+					},
+					{
+						"posi": 2,
+						"id": 4344
+					},
+					{
+						"posi": 3,
+						"id": 4345
+					},
+					{
+						"posi": 4,
+						"id": 4346
+					},
+					{
+						"posi": 5,
+						"id": 4347
+					},
+					{
+						"posi": 6,
+						"id": 4348
+					}
+				]
+			}
+		}
+	},
+	"609": {
+		"insId": 609,
+		"last": 608,
+		"checkPoint": 9,
+		"name": "离1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3030
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 151
+			}
+		],
+		"money": 910,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1058
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 189
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4349
+					},
+					{
+						"posi": 2,
+						"id": 4350
+					},
+					{
+						"posi": 3,
+						"id": 4351
+					},
+					{
+						"posi": 4,
+						"id": 4352
+					},
+					{
+						"posi": 5,
+						"id": 4353
+					},
+					{
+						"posi": 6,
+						"id": 4354
+					}
+				]
+			}
+		}
+	},
+	"610": {
+		"insId": 610,
+		"last": 609,
+		"checkPoint": 10,
+		"name": "离1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60106,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3120
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 156
+			}
+		],
+		"money": 940,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1059
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 190
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4355
+					},
+					{
+						"posi": 2,
+						"id": 4356
+					},
+					{
+						"posi": 3,
+						"id": 4357
+					},
+					{
+						"posi": 4,
+						"id": 4358
+					},
+					{
+						"posi": 5,
+						"id": 4359
+					},
+					{
+						"posi": 6,
+						"id": 4360
+					}
+				]
+			}
+		}
+	},
+	"701": {
+		"insId": 701,
+		"last": 610,
+		"checkPoint": 1,
+		"name": "艮1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3220
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 161
+			}
+		],
+		"money": 890,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1060
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4361
+					},
+					{
+						"posi": 2,
+						"id": 4362
+					},
+					{
+						"posi": 3,
+						"id": 4363
+					},
+					{
+						"posi": 4,
+						"id": 4364
+					},
+					{
+						"posi": 5,
+						"id": 4365
+					},
+					{
+						"posi": 6,
+						"id": 4366
+					}
+				]
+			}
+		}
+	},
+	"702": {
+		"insId": 702,
+		"last": 701,
+		"checkPoint": 2,
+		"name": "艮1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3320
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 166
+			}
+		],
+		"money": 920,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1061
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4367
+					},
+					{
+						"posi": 2,
+						"id": 4368
+					},
+					{
+						"posi": 3,
+						"id": 4369
+					},
+					{
+						"posi": 4,
+						"id": 4370
+					},
+					{
+						"posi": 5,
+						"id": 4371
+					},
+					{
+						"posi": 6,
+						"id": 4372
+					}
+				]
+			}
+		}
+	},
+	"703": {
+		"insId": 703,
+		"last": 702,
+		"checkPoint": 3,
+		"name": "艮1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3420
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 171
+			}
+		],
+		"money": 950,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1062
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4373
+					},
+					{
+						"posi": 2,
+						"id": 4374
+					},
+					{
+						"posi": 3,
+						"id": 4375
+					},
+					{
+						"posi": 4,
+						"id": 4376
+					},
+					{
+						"posi": 5,
+						"id": 4377
+					},
+					{
+						"posi": 6,
+						"id": 4378
+					}
+				]
+			}
+		}
+	},
+	"704": {
+		"insId": 704,
+		"last": 703,
+		"checkPoint": 4,
+		"name": "艮1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3520
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 176
+			}
+		],
+		"money": 970,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1063
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4379
+					},
+					{
+						"posi": 2,
+						"id": 4380
+					},
+					{
+						"posi": 3,
+						"id": 4381
+					},
+					{
+						"posi": 4,
+						"id": 4382
+					},
+					{
+						"posi": 5,
+						"id": 4383
+					},
+					{
+						"posi": 6,
+						"id": 4384
+					}
+				]
+			}
+		}
+	},
+	"705": {
+		"insId": 705,
+		"last": 704,
+		"checkPoint": 5,
+		"name": "艮1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3620
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 181
+			}
+		],
+		"money": 1000,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1064
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4385
+					},
+					{
+						"posi": 2,
+						"id": 4386
+					},
+					{
+						"posi": 3,
+						"id": 4387
+					},
+					{
+						"posi": 4,
+						"id": 4388
+					},
+					{
+						"posi": 5,
+						"id": 4389
+					},
+					{
+						"posi": 6,
+						"id": 4390
+					}
+				]
+			}
+		}
+	},
+	"706": {
+		"insId": 706,
+		"last": 705,
+		"checkPoint": 6,
+		"name": "艮1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3720
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 186
+			}
+		],
+		"money": 1030,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1065
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4391
+					},
+					{
+						"posi": 2,
+						"id": 4392
+					},
+					{
+						"posi": 3,
+						"id": 4393
+					},
+					{
+						"posi": 4,
+						"id": 4394
+					},
+					{
+						"posi": 5,
+						"id": 4395
+					},
+					{
+						"posi": 6,
+						"id": 4396
+					}
+				]
+			}
+		}
+	},
+	"707": {
+		"insId": 707,
+		"last": 706,
+		"checkPoint": 7,
+		"name": "艮1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3830
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 191
+			}
+		],
+		"money": 1060,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1066
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4397
+					},
+					{
+						"posi": 2,
+						"id": 4398
+					},
+					{
+						"posi": 3,
+						"id": 4399
+					},
+					{
+						"posi": 4,
+						"id": 4400
+					},
+					{
+						"posi": 5,
+						"id": 4401
+					},
+					{
+						"posi": 6,
+						"id": 4402
+					}
+				]
+			}
+		}
+	},
+	"708": {
+		"insId": 708,
+		"last": 707,
+		"checkPoint": 8,
+		"name": "艮1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 3940
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 197
+			}
+		],
+		"money": 1090,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1067
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4403
+					},
+					{
+						"posi": 2,
+						"id": 4404
+					},
+					{
+						"posi": 3,
+						"id": 4405
+					},
+					{
+						"posi": 4,
+						"id": 4406
+					},
+					{
+						"posi": 5,
+						"id": 4407
+					},
+					{
+						"posi": 6,
+						"id": 4408
+					}
+				]
+			}
+		}
+	},
+	"709": {
+		"insId": 709,
+		"last": 708,
+		"checkPoint": 9,
+		"name": "艮1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4050
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1068
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4409
+					},
+					{
+						"posi": 2,
+						"id": 4410
+					},
+					{
+						"posi": 3,
+						"id": 4411
+					},
+					{
+						"posi": 4,
+						"id": 4412
+					},
+					{
+						"posi": 5,
+						"id": 4413
+					},
+					{
+						"posi": 6,
+						"id": 4414
+					}
+				]
+			}
+		}
+	},
+	"710": {
+		"insId": 710,
+		"last": 709,
+		"checkPoint": 10,
+		"name": "艮1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60107,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4160
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1069
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4415
+					},
+					{
+						"posi": 2,
+						"id": 4416
+					},
+					{
+						"posi": 3,
+						"id": 4417
+					},
+					{
+						"posi": 4,
+						"id": 4418
+					},
+					{
+						"posi": 5,
+						"id": 4419
+					},
+					{
+						"posi": 6,
+						"id": 4420
+					}
+				]
+			}
+		}
+	},
+	"801": {
+		"insId": 801,
+		"last": 710,
+		"checkPoint": 1,
+		"name": "兑1-1",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4270
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1070
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4421
+					},
+					{
+						"posi": 2,
+						"id": 4422
+					},
+					{
+						"posi": 3,
+						"id": 4423
+					},
+					{
+						"posi": 4,
+						"id": 4424
+					},
+					{
+						"posi": 5,
+						"id": 4425
+					},
+					{
+						"posi": 6,
+						"id": 4426
+					}
+				]
+			}
+		}
+	},
+	"802": {
+		"insId": 802,
+		"last": 801,
+		"checkPoint": 2,
+		"name": "兑1-2",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4380
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1071
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4427
+					},
+					{
+						"posi": 2,
+						"id": 4428
+					},
+					{
+						"posi": 3,
+						"id": 4429
+					},
+					{
+						"posi": 4,
+						"id": 4430
+					},
+					{
+						"posi": 5,
+						"id": 4431
+					},
+					{
+						"posi": 6,
+						"id": 4432
+					}
+				]
+			}
+		}
+	},
+	"803": {
+		"insId": 803,
+		"last": 802,
+		"checkPoint": 3,
+		"name": "兑1-3",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4490
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1072
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4433
+					},
+					{
+						"posi": 2,
+						"id": 4434
+					},
+					{
+						"posi": 3,
+						"id": 4435
+					},
+					{
+						"posi": 4,
+						"id": 4436
+					},
+					{
+						"posi": 5,
+						"id": 4437
+					},
+					{
+						"posi": 6,
+						"id": 4438
+					}
+				]
+			}
+		}
+	},
+	"804": {
+		"insId": 804,
+		"last": 803,
+		"checkPoint": 4,
+		"name": "兑1-4",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4610
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1073
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4439
+					},
+					{
+						"posi": 2,
+						"id": 4440
+					},
+					{
+						"posi": 3,
+						"id": 4441
+					},
+					{
+						"posi": 4,
+						"id": 4442
+					},
+					{
+						"posi": 5,
+						"id": 4443
+					},
+					{
+						"posi": 6,
+						"id": 4444
+					}
+				]
+			}
+		}
+	},
+	"805": {
+		"insId": 805,
+		"last": 804,
+		"checkPoint": 5,
+		"name": "兑1-5",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4730
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1074
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4445
+					},
+					{
+						"posi": 2,
+						"id": 4446
+					},
+					{
+						"posi": 3,
+						"id": 4447
+					},
+					{
+						"posi": 4,
+						"id": 4448
+					},
+					{
+						"posi": 5,
+						"id": 4449
+					},
+					{
+						"posi": 6,
+						"id": 4450
+					}
+				]
+			}
+		}
+	},
+	"806": {
+		"insId": 806,
+		"last": 805,
+		"checkPoint": 6,
+		"name": "兑1-6",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4850
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1075
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4451
+					},
+					{
+						"posi": 2,
+						"id": 4452
+					},
+					{
+						"posi": 3,
+						"id": 4453
+					},
+					{
+						"posi": 4,
+						"id": 4454
+					},
+					{
+						"posi": 5,
+						"id": 4455
+					},
+					{
+						"posi": 6,
+						"id": 4456
+					}
+				]
+			}
+		}
+	},
+	"807": {
+		"insId": 807,
+		"last": 806,
+		"checkPoint": 7,
+		"name": "兑1-7",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 4970
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1076
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4457
+					},
+					{
+						"posi": 2,
+						"id": 4458
+					},
+					{
+						"posi": 3,
+						"id": 4459
+					},
+					{
+						"posi": 4,
+						"id": 4460
+					},
+					{
+						"posi": 5,
+						"id": 4461
+					},
+					{
+						"posi": 6,
+						"id": 4462
+					}
+				]
+			}
+		}
+	},
+	"808": {
+		"insId": 808,
+		"last": 807,
+		"checkPoint": 8,
+		"name": "兑1-8",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 5090
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1077
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4463
+					},
+					{
+						"posi": 2,
+						"id": 4464
+					},
+					{
+						"posi": 3,
+						"id": 4465
+					},
+					{
+						"posi": 4,
+						"id": 4466
+					},
+					{
+						"posi": 5,
+						"id": 4467
+					},
+					{
+						"posi": 6,
+						"id": 4468
+					}
+				]
+			}
+		}
+	},
+	"809": {
+		"insId": 809,
+		"last": 808,
+		"checkPoint": 9,
+		"name": "兑1-9",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 5210
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1078
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4469
+					},
+					{
+						"posi": 2,
+						"id": 4470
+					},
+					{
+						"posi": 3,
+						"id": 4471
+					},
+					{
+						"posi": 4,
+						"id": 4472
+					},
+					{
+						"posi": 5,
+						"id": 4473
+					},
+					{
+						"posi": 6,
+						"id": 4474
+					}
+				]
+			}
+		}
+	},
+	"810": {
+		"insId": 810,
+		"last": 809,
+		"checkPoint": 10,
+		"name": "兑1-10",
+		"proReward": [
+			{
+				"type": 3,
+				"id": 60108,
+				"num": 1
+			}
+		],
+		"sureReward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 5330
+			}
+		],
+		"chest": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 200
+			}
+		],
+		"money": 1100,
+		"sweep": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 30000
+			}
+		],
+		"assist": [
+			{
+				"type": 1,
+				"id": 6,
+				"num": 300
+			},
+			{
+				"type": 3,
+				"id": 60201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1079
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 1,
+						"id": 4475
+					},
+					{
+						"posi": 2,
+						"id": 4476
+					},
+					{
+						"posi": 3,
+						"id": 4477
+					},
+					{
+						"posi": 4,
+						"id": 4478
+					},
+					{
+						"posi": 5,
+						"id": 4479
+					},
+					{
+						"posi": 6,
+						"id": 4480
+					}
+				]
+			}
+		}
+	}
+}

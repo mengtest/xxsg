@@ -1,0 +1,39 @@
+/*    */ package com.linlongyx.sanguo.webgame.common.fight.side;
+
+import com.linlongyx.core.framework.protocol.mobile.ResponseBase;
+import com.linlongyx.sanguo.webgame.common.fight.IFight;
+import com.linlongyx.sanguo.webgame.common.fight.fighter.IFighter;
+import com.linlongyx.sanguo.webgame.common.structure.Pair;
+import com.linlongyx.sanguo.webgame.proto.binary.struct.FightGroupData;
+
+import java.util.List;
+
+public interface IFightSide { void initGuid(byte paramByte); void getGroupData(List<FightGroupData> paramList); void getCandidateFighterData(List<FightGroupData> paramList);
+/*    */   int preAction(byte paramByte, IFight paramIFight);
+/*    */   void syncRecord(ResponseBase paramResponseBase);
+/*    */   FightGroup getCurGroup();
+/*    */   List<FightGroup> getGroupList();
+/*    */   IFighter getCandidateFighter();
+/*    */   boolean addCandidateFigher(IFighter paramIFighter);
+/*    */   IFighter getPetFighter();
+/*    */   void setPetFighter(IFighter paramIFighter);
+/*    */   IFighter getStageFighter();
+/*    */   void setStageFighter(IFighter paramIFighter);
+/*    */   Pair<Integer, Integer> getZhenfa();
+/*    */   void setZhenfa(Pair<Integer, Integer> paramPair);
+/*    */   void addGroup(FightGroup paramFightGroup);
+/*    */   END_STATUS checkEndStatus(int paramInt);
+/*    */   long getTotalHurt();
+/*    */   void updateTotalHurt(long paramLong);
+/*    */   int getTotalFirstHandVal();
+/* 19 */   public enum END_STATUS { END_STATUS_ON,
+/* 20 */     END_STATUS_NEXT,
+/* 21 */     END_STATUS_END,
+/* 22 */     END_STATUS_MAXROUND; }
+/*    */    }
+
+
+/* Location:              D:\xxsg_52gmsy\game\target\classes\!\com\linlongyx\sanguo\webgame\common\fight\side\IFightSide.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

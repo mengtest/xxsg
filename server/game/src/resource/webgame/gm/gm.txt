@@ -1,0 +1,117 @@
+三国GM
+添加GM注意分类，以便查找
+
+----------------------boss----------------------
+/gm boss reset 重置排行boss次数
+/gm boss worldOpen 世界Boss开启
+/gm boss worldClose 世界Boss关闭
+/gm boss rankDie insId 让insId对应的boss死亡
+/gm boss rankBorn insId 让insId对应的boss重生
+
+----------------------货币----------------------
+/gm currency add 2 100000 把类型为1的货币增加100
+/gm currency desc 1 100 把类型为1的货币减少100
+
+----------------------玩家----------------------
+/gm player level 100  设定玩家等级
+/gm player addExp 100  增加经验
+/gm player worldLevel 100 设置世界等级
+/gm player resetTimes 重置快速作战次数回三次和重置花费元宝作战次数
+/gm player recharge 1 充值(1是charge表的id)
+/gm player clearCard 清除月卡终身卡
+/gm player logout 100122233221
+/gm player platform xinghui    微端xinghui 玩吧wanba 微信weixin 爱疯awy
+/gm player pvp 玩家id或在线玩家名(支持简单模糊匹配)
+/gm player serverId 1001 在线设置服务器id 10默认是1001 重启后恢复
+/gm player noHeFu 设置为非合服
+/gm player heFu 设置为合服
+/gm player task 任务类型 目标 数值 刷新某类型任务进度
+/gm player clearMental 清楚阵法殿排行
+
+----------------------战斗----------------------
+/gm ins fight 1 1101 攻打类型1的id为1101的副本 类型：/1主线副本 2日常副本 3排行boss
+/gm pet add 1001 添加战宠
+/gm ins clear 99 通关类型为99的所有日常副本
+/gm ins reset 清除日常副本攻打次数
+
+----------------------任务----------------------
+/gm task main 当前主线任务进度+1
+/gm task done 一键完成当前任务
+/gm task setId 10 设置当前任务id为10
+/gm task t6 1 命星id 三国志激活命星
+
+----------------------商店----------------------
+/gm shop resetRefreshNum 重置神秘商店刷新次数
+/gm shop buy 9 9001 1 购买类型为9的商品9001数量1个
+
+----------------------道具----------------------
+/gm item add 20 100 添加类型为2的道具
+/gm item addEquip itemId 添加装备，参数为道具表的装备的id
+/gm item clear 清空背包道具
+/gm item addReCharge 1 10 添加充值道具
+
+----------------------装备----------------------
+/gm equip equipDown 脱下所有装备(目前没有通知前端，需重新进入)
+
+----------------------武将----------------------
+/gm partner addPartner 1501 添加武将，武将表id
+/gm partner addPartner2 1 2 添加指定星数武将，武将表id 星数
+/gm partner deletePartner 删除所有武将（不包括主角）目前没有通知前端需要重新进入游戏
+/gm partner showBattle
+/gm partner reined -1 4 使用完/gm partner showBattle  传入唯一id
+
+----------------------图鉴----------------------
+/gm handbook getReward 1 领取图鉴阵营星数宝箱 参数为阵营
+
+----------------------竞技场----------------------
+/gm arena reward 竞技场结算
+/gm arena exchange 50 和第50名交换位置(只能与比自己高的交换)
+/gm arena resetTimes 重置竞技场挑战次数
+
+----------------------邮件----------------------
+/gm mail empty 发一份无附件的测试邮件
+/gm mail add 30000100 10 邮件发送10个30000100道具
+
+----------------------排行榜----------------------
+/gm ranking refresh 1  刷新rankingType为1的排行榜
+/gm ranking refreshAll 刷新所有排行榜
+
+----------------------时间----------------------
+
+/gm sys logout user 1  踢userId=1的玩家下线
+/gm sys logout player 1 踢playerId=1的玩家下线
+/gm sys logout all 踢所有玩家下线
+
+/gm sys reset 重置
+/gm sys reset0 0点重置
+/gm sys reset5 5点重置
+/gm reset 0 0点重置的数据
+/gm sys refresh 刷新配置
+
+以下gm只能在13时间服使用
+/gm sys time set 23:30:30 改时间
+/gm sys openTime 2018-09-16 设置开服时间
+/gm sys ptime 1.1120 从10推送代码到13时间服
+/gm sys updatetime 1.1120 在13时间服更新代码
+/gm sys syncData 1.1120 13时间服更新配置
+/gm sys restart in 重启13时间服
+
+----------------------军团----------------------
+/gm group addExp 100 为自己军团添加100经验
+
+
+----------------------活动----------------------
+/gm activity rankClear 清空开服竞赛数据
+/gm activity rankRefresh 刷新开服竞赛排行榜数据
+/gm activity rankReset 清空并重置竞赛排行榜数据
+/gm activity rankSet rankId state 修改活动状态, state (0:未开启,1:开启中,2:已过时)
+/gm activity balance 开服竞赛排行榜结算
+
+--------------------军务府------------------------------
+/gm military add id 直接激活对应军务
+
+--------------------阵法殿---------------------------
+/gm zhenfa clear 清楚界面公告
+/gm zhenfa cReward 清楚领奖记录
+/gm zhenfa cPoint 清楚积分
+

@@ -1,0 +1,752 @@
+{
+	"60001001": {
+		"id": 60001001,
+		"Level": 100,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21095
+					}
+				]
+			}
+		}
+	},
+	"60001002": {
+		"id": 60001002,
+		"Level": 100,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000028,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21100
+					}
+				]
+			}
+		}
+	},
+	"60001003": {
+		"id": 60001003,
+		"Level": 105,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000027,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21105
+					}
+				]
+			}
+		}
+	},
+	"60001004": {
+		"id": 60001004,
+		"Level": 110,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000025,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21110
+					}
+				]
+			}
+		}
+	},
+	"60001005": {
+		"id": 60001005,
+		"Level": 120,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000028,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 2400,
+		"runTime": 2100,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21115
+					}
+				]
+			}
+		}
+	},
+	"60001006": {
+		"id": 60001006,
+		"Level": 120,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000027,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 2400,
+		"runTime": 2100,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21120
+					}
+				]
+			}
+		}
+	},
+	"60001008": {
+		"id": 60001008,
+		"Level": 130,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000029,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 1500000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100001,
+				"num": 1
+			}
+		],
+		"reviveTime": 3600,
+		"runTime": 3300,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21130
+					}
+				]
+			}
+		}
+	},
+	"60001009": {
+		"id": 60001009,
+		"Level": 135,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 3
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21135
+					}
+				]
+			}
+		}
+	},
+	"60001010": {
+		"id": 60001010,
+		"Level": 140,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000028,
+				"num": 3
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21140
+					}
+				]
+			}
+		}
+	},
+	"60001011": {
+		"id": 60001011,
+		"Level": 145,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000027,
+				"num": 3
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21145
+					}
+				]
+			}
+		}
+	},
+	"60001012": {
+		"id": 60001012,
+		"Level": 150,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000025,
+				"num": 3
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21150
+					}
+				]
+			}
+		}
+	},
+	"60001013": {
+		"id": 60001013,
+		"Level": 160,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 2
+			},
+			{
+				"type": 2,
+				"id": 30000028,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 2400,
+		"runTime": 2100,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21155
+					}
+				]
+			}
+		}
+	},
+	"60001014": {
+		"id": 60001014,
+		"Level": 160,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 2
+			},
+			{
+				"type": 2,
+				"id": 30000027,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 2400,
+		"runTime": 2100,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21160
+					}
+				]
+			}
+		}
+	},
+	"60001016": {
+		"id": 60001016,
+		"Level": 170,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000029,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 3000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100002,
+				"num": 1
+			}
+		],
+		"reviveTime": 3600,
+		"runTime": 3300,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21170
+					}
+				]
+			}
+		}
+	},
+	"60001017": {
+		"id": 60001017,
+		"Level": 175,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 5
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100003,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21175
+					}
+				]
+			}
+		}
+	},
+	"60001018": {
+		"id": 60001018,
+		"Level": 180,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000028,
+				"num": 5
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100003,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21180
+					}
+				]
+			}
+		}
+	},
+	"60001019": {
+		"id": 60001019,
+		"Level": 185,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000027,
+				"num": 5
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100003,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21185
+					}
+				]
+			}
+		}
+	},
+	"60001020": {
+		"id": 60001020,
+		"Level": 190,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000025,
+				"num": 5
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100003,
+				"num": 1
+			}
+		],
+		"reviveTime": 1800,
+		"runTime": 1500,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21190
+					}
+				]
+			}
+		}
+	},
+	"60001021": {
+		"id": 60001021,
+		"Level": 200,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 3
+			},
+			{
+				"type": 2,
+				"id": 30000028,
+				"num": 3
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100003,
+				"num": 1
+			}
+		],
+		"reviveTime": 2400,
+		"runTime": 2100,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21195
+					}
+				]
+			}
+		}
+	},
+	"60001022": {
+		"id": 60001022,
+		"Level": 200,
+		"belongReward": [
+			{
+				"type": 2,
+				"id": 30000026,
+				"num": 3
+			},
+			{
+				"type": 2,
+				"id": 30000027,
+				"num": 3
+			},
+			{
+				"type": 1,
+				"id": 4,
+				"num": 5000000
+			}
+		],
+		"proReward": [
+			{
+				"type": 3,
+				"id": 100003,
+				"num": 1
+			}
+		],
+		"reviveTime": 2400,
+		"runTime": 2100,
+		"wave": {
+			"1": {
+				"round": 10,
+				"monster": [
+					{
+						"posi": 5,
+						"id": 21200
+					}
+				]
+			}
+		}
+	}
+}

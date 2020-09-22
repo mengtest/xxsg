@@ -1,0 +1,122 @@
+{
+	"1001": {
+		"buffId": 1001,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1002": {
+		"buffId": 1002,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1003": {
+		"buffId": 1003,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1004": {
+		"buffId": 1004,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1005": {
+		"buffId": 1005,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1006": {
+		"buffId": 1006,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1007": {
+		"buffId": 1007,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1008": {
+		"buffId": 1008,
+		"costStar": 3,
+		"prob": 1000
+	},
+	"1009": {
+		"buffId": 1009,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1010": {
+		"buffId": 1010,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1011": {
+		"buffId": 1011,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1012": {
+		"buffId": 1012,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1013": {
+		"buffId": 1013,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1014": {
+		"buffId": 1014,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1015": {
+		"buffId": 1015,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1016": {
+		"buffId": 1016,
+		"costStar": 6,
+		"prob": 1000
+	},
+	"1017": {
+		"buffId": 1017,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1018": {
+		"buffId": 1018,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1019": {
+		"buffId": 1019,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1020": {
+		"buffId": 1020,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1021": {
+		"buffId": 1021,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1022": {
+		"buffId": 1022,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1023": {
+		"buffId": 1023,
+		"costStar": 9,
+		"prob": 1000
+	},
+	"1024": {
+		"buffId": 1024,
+		"costStar": 9,
+		"prob": 1000
+	}
+}

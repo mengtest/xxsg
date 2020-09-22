@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<job-scheduling-data
+        xmlns="http://www.quartz-scheduler.org/xml/JobSchedulingData"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.quartz-scheduler.org/xml/JobSchedulingData
+	http://www.quartz-scheduler.org/xml/job_scheduling_data_1_8.xsd"
+        version="1.8">
+
+    <schedule>
+        <job>
+            <name>JOBS</name>
+            <group>AUTO</group>
+            <description>A job that scans a directory for files</description>
+            <job-class>com.linlongyx.sanguo.webgame.quartz.QuartzJob</job-class>
+        </job>
+
+        <trigger>
+            <cron>
+                <name>10000</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 0 * * ?</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>10001</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 22 * * ?</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>10002</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 0 ? * MON</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>10010</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 12 ? * WED,FRI</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>10011</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 20 ? * WED,FRI</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>10012</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 * * * ?</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>20001</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0/30 * * * ?</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>20003</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0/5 * * * ?</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>20004</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 21 ? * FRI</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>20005</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0/30 * * * * ?</cron-expression>
+            </cron>
+        </trigger>
+        <trigger>
+            <cron>
+                <name>20006</name>
+                <job-name>JOBS</job-name>
+                <job-group>AUTO</job-group>
+                <cron-expression>0 0 0/2 * * ?</cron-expression>
+            </cron>
+        </trigger>
+    </schedule>
+</job-scheduling-data>

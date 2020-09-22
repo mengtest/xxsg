@@ -1,0 +1,1208 @@
+{
+	"0": {
+		"level": 0,
+		"itemId": 30000801,
+		"costStone": 2,
+		"totalCost": 0
+	},
+	"1": {
+		"level": 1,
+		"itemId": 30000801,
+		"costStone": 4,
+		"totalCost": 2
+	},
+	"2": {
+		"level": 2,
+		"itemId": 30000801,
+		"costStone": 6,
+		"totalCost": 6
+	},
+	"3": {
+		"level": 3,
+		"itemId": 30000801,
+		"costStone": 8,
+		"totalCost": 12
+	},
+	"4": {
+		"level": 4,
+		"itemId": 30000801,
+		"costStone": 10,
+		"totalCost": 20
+	},
+	"5": {
+		"level": 5,
+		"itemId": 30000801,
+		"costStone": 12,
+		"totalCost": 30
+	},
+	"6": {
+		"level": 6,
+		"itemId": 30000801,
+		"costStone": 14,
+		"totalCost": 42
+	},
+	"7": {
+		"level": 7,
+		"itemId": 30000801,
+		"costStone": 16,
+		"totalCost": 56
+	},
+	"8": {
+		"level": 8,
+		"itemId": 30000801,
+		"costStone": 18,
+		"totalCost": 72
+	},
+	"9": {
+		"level": 9,
+		"itemId": 30000801,
+		"costStone": 20,
+		"totalCost": 90
+	},
+	"10": {
+		"level": 10,
+		"itemId": 30000801,
+		"costStone": 22,
+		"totalCost": 110
+	},
+	"11": {
+		"level": 11,
+		"itemId": 30000801,
+		"costStone": 24,
+		"totalCost": 132
+	},
+	"12": {
+		"level": 12,
+		"itemId": 30000801,
+		"costStone": 26,
+		"totalCost": 156
+	},
+	"13": {
+		"level": 13,
+		"itemId": 30000801,
+		"costStone": 28,
+		"totalCost": 182
+	},
+	"14": {
+		"level": 14,
+		"itemId": 30000801,
+		"costStone": 30,
+		"totalCost": 210
+	},
+	"15": {
+		"level": 15,
+		"itemId": 30000801,
+		"costStone": 32,
+		"totalCost": 240
+	},
+	"16": {
+		"level": 16,
+		"itemId": 30000801,
+		"costStone": 34,
+		"totalCost": 272
+	},
+	"17": {
+		"level": 17,
+		"itemId": 30000801,
+		"costStone": 36,
+		"totalCost": 306
+	},
+	"18": {
+		"level": 18,
+		"itemId": 30000801,
+		"costStone": 38,
+		"totalCost": 342
+	},
+	"19": {
+		"level": 19,
+		"itemId": 30000801,
+		"costStone": 40,
+		"totalCost": 380
+	},
+	"20": {
+		"level": 20,
+		"itemId": 30000801,
+		"costStone": 42,
+		"totalCost": 420
+	},
+	"21": {
+		"level": 21,
+		"itemId": 30000801,
+		"costStone": 44,
+		"totalCost": 462
+	},
+	"22": {
+		"level": 22,
+		"itemId": 30000801,
+		"costStone": 46,
+		"totalCost": 506
+	},
+	"23": {
+		"level": 23,
+		"itemId": 30000801,
+		"costStone": 48,
+		"totalCost": 552
+	},
+	"24": {
+		"level": 24,
+		"itemId": 30000801,
+		"costStone": 50,
+		"totalCost": 600
+	},
+	"25": {
+		"level": 25,
+		"itemId": 30000801,
+		"costStone": 52,
+		"totalCost": 650
+	},
+	"26": {
+		"level": 26,
+		"itemId": 30000801,
+		"costStone": 54,
+		"totalCost": 702
+	},
+	"27": {
+		"level": 27,
+		"itemId": 30000801,
+		"costStone": 56,
+		"totalCost": 756
+	},
+	"28": {
+		"level": 28,
+		"itemId": 30000801,
+		"costStone": 58,
+		"totalCost": 812
+	},
+	"29": {
+		"level": 29,
+		"itemId": 30000801,
+		"costStone": 60,
+		"totalCost": 870
+	},
+	"30": {
+		"level": 30,
+		"itemId": 30000801,
+		"costStone": 62,
+		"totalCost": 930
+	},
+	"31": {
+		"level": 31,
+		"itemId": 30000801,
+		"costStone": 64,
+		"totalCost": 992
+	},
+	"32": {
+		"level": 32,
+		"itemId": 30000801,
+		"costStone": 66,
+		"totalCost": 1056
+	},
+	"33": {
+		"level": 33,
+		"itemId": 30000801,
+		"costStone": 68,
+		"totalCost": 1122
+	},
+	"34": {
+		"level": 34,
+		"itemId": 30000801,
+		"costStone": 70,
+		"totalCost": 1190
+	},
+	"35": {
+		"level": 35,
+		"itemId": 30000801,
+		"costStone": 72,
+		"totalCost": 1260
+	},
+	"36": {
+		"level": 36,
+		"itemId": 30000801,
+		"costStone": 74,
+		"totalCost": 1332
+	},
+	"37": {
+		"level": 37,
+		"itemId": 30000801,
+		"costStone": 76,
+		"totalCost": 1406
+	},
+	"38": {
+		"level": 38,
+		"itemId": 30000801,
+		"costStone": 78,
+		"totalCost": 1482
+	},
+	"39": {
+		"level": 39,
+		"itemId": 30000801,
+		"costStone": 80,
+		"totalCost": 1560
+	},
+	"40": {
+		"level": 40,
+		"itemId": 30000801,
+		"costStone": 82,
+		"totalCost": 1640
+	},
+	"41": {
+		"level": 41,
+		"itemId": 30000801,
+		"costStone": 84,
+		"totalCost": 1722
+	},
+	"42": {
+		"level": 42,
+		"itemId": 30000801,
+		"costStone": 86,
+		"totalCost": 1806
+	},
+	"43": {
+		"level": 43,
+		"itemId": 30000801,
+		"costStone": 88,
+		"totalCost": 1892
+	},
+	"44": {
+		"level": 44,
+		"itemId": 30000801,
+		"costStone": 90,
+		"totalCost": 1980
+	},
+	"45": {
+		"level": 45,
+		"itemId": 30000801,
+		"costStone": 92,
+		"totalCost": 2070
+	},
+	"46": {
+		"level": 46,
+		"itemId": 30000801,
+		"costStone": 94,
+		"totalCost": 2162
+	},
+	"47": {
+		"level": 47,
+		"itemId": 30000801,
+		"costStone": 96,
+		"totalCost": 2256
+	},
+	"48": {
+		"level": 48,
+		"itemId": 30000801,
+		"costStone": 98,
+		"totalCost": 2352
+	},
+	"49": {
+		"level": 49,
+		"itemId": 30000801,
+		"costStone": 100,
+		"totalCost": 2450
+	},
+	"50": {
+		"level": 50,
+		"itemId": 30000801,
+		"costStone": 102,
+		"totalCost": 2550
+	},
+	"51": {
+		"level": 51,
+		"itemId": 30000801,
+		"costStone": 104,
+		"totalCost": 2652
+	},
+	"52": {
+		"level": 52,
+		"itemId": 30000801,
+		"costStone": 106,
+		"totalCost": 2756
+	},
+	"53": {
+		"level": 53,
+		"itemId": 30000801,
+		"costStone": 108,
+		"totalCost": 2862
+	},
+	"54": {
+		"level": 54,
+		"itemId": 30000801,
+		"costStone": 110,
+		"totalCost": 2970
+	},
+	"55": {
+		"level": 55,
+		"itemId": 30000801,
+		"costStone": 112,
+		"totalCost": 3080
+	},
+	"56": {
+		"level": 56,
+		"itemId": 30000801,
+		"costStone": 114,
+		"totalCost": 3192
+	},
+	"57": {
+		"level": 57,
+		"itemId": 30000801,
+		"costStone": 116,
+		"totalCost": 3306
+	},
+	"58": {
+		"level": 58,
+		"itemId": 30000801,
+		"costStone": 118,
+		"totalCost": 3422
+	},
+	"59": {
+		"level": 59,
+		"itemId": 30000801,
+		"costStone": 120,
+		"totalCost": 3540
+	},
+	"60": {
+		"level": 60,
+		"itemId": 30000801,
+		"costStone": 122,
+		"totalCost": 3660
+	},
+	"61": {
+		"level": 61,
+		"itemId": 30000801,
+		"costStone": 124,
+		"totalCost": 3782
+	},
+	"62": {
+		"level": 62,
+		"itemId": 30000801,
+		"costStone": 126,
+		"totalCost": 3906
+	},
+	"63": {
+		"level": 63,
+		"itemId": 30000801,
+		"costStone": 128,
+		"totalCost": 4032
+	},
+	"64": {
+		"level": 64,
+		"itemId": 30000801,
+		"costStone": 130,
+		"totalCost": 4160
+	},
+	"65": {
+		"level": 65,
+		"itemId": 30000801,
+		"costStone": 132,
+		"totalCost": 4290
+	},
+	"66": {
+		"level": 66,
+		"itemId": 30000801,
+		"costStone": 134,
+		"totalCost": 4422
+	},
+	"67": {
+		"level": 67,
+		"itemId": 30000801,
+		"costStone": 136,
+		"totalCost": 4556
+	},
+	"68": {
+		"level": 68,
+		"itemId": 30000801,
+		"costStone": 138,
+		"totalCost": 4692
+	},
+	"69": {
+		"level": 69,
+		"itemId": 30000801,
+		"costStone": 140,
+		"totalCost": 4830
+	},
+	"70": {
+		"level": 70,
+		"itemId": 30000801,
+		"costStone": 142,
+		"totalCost": 4970
+	},
+	"71": {
+		"level": 71,
+		"itemId": 30000801,
+		"costStone": 144,
+		"totalCost": 5112
+	},
+	"72": {
+		"level": 72,
+		"itemId": 30000801,
+		"costStone": 146,
+		"totalCost": 5256
+	},
+	"73": {
+		"level": 73,
+		"itemId": 30000801,
+		"costStone": 148,
+		"totalCost": 5402
+	},
+	"74": {
+		"level": 74,
+		"itemId": 30000801,
+		"costStone": 150,
+		"totalCost": 5550
+	},
+	"75": {
+		"level": 75,
+		"itemId": 30000801,
+		"costStone": 152,
+		"totalCost": 5700
+	},
+	"76": {
+		"level": 76,
+		"itemId": 30000801,
+		"costStone": 154,
+		"totalCost": 5852
+	},
+	"77": {
+		"level": 77,
+		"itemId": 30000801,
+		"costStone": 156,
+		"totalCost": 6006
+	},
+	"78": {
+		"level": 78,
+		"itemId": 30000801,
+		"costStone": 158,
+		"totalCost": 6162
+	},
+	"79": {
+		"level": 79,
+		"itemId": 30000801,
+		"costStone": 160,
+		"totalCost": 6320
+	},
+	"80": {
+		"level": 80,
+		"itemId": 30000801,
+		"costStone": 162,
+		"totalCost": 6480
+	},
+	"81": {
+		"level": 81,
+		"itemId": 30000801,
+		"costStone": 164,
+		"totalCost": 6642
+	},
+	"82": {
+		"level": 82,
+		"itemId": 30000801,
+		"costStone": 166,
+		"totalCost": 6806
+	},
+	"83": {
+		"level": 83,
+		"itemId": 30000801,
+		"costStone": 168,
+		"totalCost": 6972
+	},
+	"84": {
+		"level": 84,
+		"itemId": 30000801,
+		"costStone": 170,
+		"totalCost": 7140
+	},
+	"85": {
+		"level": 85,
+		"itemId": 30000801,
+		"costStone": 172,
+		"totalCost": 7310
+	},
+	"86": {
+		"level": 86,
+		"itemId": 30000801,
+		"costStone": 174,
+		"totalCost": 7482
+	},
+	"87": {
+		"level": 87,
+		"itemId": 30000801,
+		"costStone": 176,
+		"totalCost": 7656
+	},
+	"88": {
+		"level": 88,
+		"itemId": 30000801,
+		"costStone": 178,
+		"totalCost": 7832
+	},
+	"89": {
+		"level": 89,
+		"itemId": 30000801,
+		"costStone": 180,
+		"totalCost": 8010
+	},
+	"90": {
+		"level": 90,
+		"itemId": 30000801,
+		"costStone": 182,
+		"totalCost": 8190
+	},
+	"91": {
+		"level": 91,
+		"itemId": 30000801,
+		"costStone": 184,
+		"totalCost": 8372
+	},
+	"92": {
+		"level": 92,
+		"itemId": 30000801,
+		"costStone": 186,
+		"totalCost": 8556
+	},
+	"93": {
+		"level": 93,
+		"itemId": 30000801,
+		"costStone": 188,
+		"totalCost": 8742
+	},
+	"94": {
+		"level": 94,
+		"itemId": 30000801,
+		"costStone": 190,
+		"totalCost": 8930
+	},
+	"95": {
+		"level": 95,
+		"itemId": 30000801,
+		"costStone": 192,
+		"totalCost": 9120
+	},
+	"96": {
+		"level": 96,
+		"itemId": 30000801,
+		"costStone": 194,
+		"totalCost": 9312
+	},
+	"97": {
+		"level": 97,
+		"itemId": 30000801,
+		"costStone": 196,
+		"totalCost": 9506
+	},
+	"98": {
+		"level": 98,
+		"itemId": 30000801,
+		"costStone": 198,
+		"totalCost": 9702
+	},
+	"99": {
+		"level": 99,
+		"itemId": 30000801,
+		"costStone": 200,
+		"totalCost": 9900
+	},
+	"100": {
+		"level": 100,
+		"itemId": 30000801,
+		"costStone": 202,
+		"totalCost": 10100
+	},
+	"101": {
+		"level": 101,
+		"itemId": 30000801,
+		"costStone": 204,
+		"totalCost": 10302
+	},
+	"102": {
+		"level": 102,
+		"itemId": 30000801,
+		"costStone": 206,
+		"totalCost": 10506
+	},
+	"103": {
+		"level": 103,
+		"itemId": 30000801,
+		"costStone": 208,
+		"totalCost": 10712
+	},
+	"104": {
+		"level": 104,
+		"itemId": 30000801,
+		"costStone": 210,
+		"totalCost": 10920
+	},
+	"105": {
+		"level": 105,
+		"itemId": 30000801,
+		"costStone": 212,
+		"totalCost": 11130
+	},
+	"106": {
+		"level": 106,
+		"itemId": 30000801,
+		"costStone": 214,
+		"totalCost": 11342
+	},
+	"107": {
+		"level": 107,
+		"itemId": 30000801,
+		"costStone": 216,
+		"totalCost": 11556
+	},
+	"108": {
+		"level": 108,
+		"itemId": 30000801,
+		"costStone": 218,
+		"totalCost": 11772
+	},
+	"109": {
+		"level": 109,
+		"itemId": 30000801,
+		"costStone": 220,
+		"totalCost": 11990
+	},
+	"110": {
+		"level": 110,
+		"itemId": 30000801,
+		"costStone": 222,
+		"totalCost": 12210
+	},
+	"111": {
+		"level": 111,
+		"itemId": 30000801,
+		"costStone": 224,
+		"totalCost": 12432
+	},
+	"112": {
+		"level": 112,
+		"itemId": 30000801,
+		"costStone": 226,
+		"totalCost": 12656
+	},
+	"113": {
+		"level": 113,
+		"itemId": 30000801,
+		"costStone": 228,
+		"totalCost": 12882
+	},
+	"114": {
+		"level": 114,
+		"itemId": 30000801,
+		"costStone": 230,
+		"totalCost": 13110
+	},
+	"115": {
+		"level": 115,
+		"itemId": 30000801,
+		"costStone": 232,
+		"totalCost": 13340
+	},
+	"116": {
+		"level": 116,
+		"itemId": 30000801,
+		"costStone": 234,
+		"totalCost": 13572
+	},
+	"117": {
+		"level": 117,
+		"itemId": 30000801,
+		"costStone": 236,
+		"totalCost": 13806
+	},
+	"118": {
+		"level": 118,
+		"itemId": 30000801,
+		"costStone": 238,
+		"totalCost": 14042
+	},
+	"119": {
+		"level": 119,
+		"itemId": 30000801,
+		"costStone": 240,
+		"totalCost": 14280
+	},
+	"120": {
+		"level": 120,
+		"itemId": 30000801,
+		"costStone": 242,
+		"totalCost": 14520
+	},
+	"121": {
+		"level": 121,
+		"itemId": 30000801,
+		"costStone": 244,
+		"totalCost": 14762
+	},
+	"122": {
+		"level": 122,
+		"itemId": 30000801,
+		"costStone": 246,
+		"totalCost": 15006
+	},
+	"123": {
+		"level": 123,
+		"itemId": 30000801,
+		"costStone": 248,
+		"totalCost": 15252
+	},
+	"124": {
+		"level": 124,
+		"itemId": 30000801,
+		"costStone": 250,
+		"totalCost": 15500
+	},
+	"125": {
+		"level": 125,
+		"itemId": 30000801,
+		"costStone": 252,
+		"totalCost": 15750
+	},
+	"126": {
+		"level": 126,
+		"itemId": 30000801,
+		"costStone": 254,
+		"totalCost": 16002
+	},
+	"127": {
+		"level": 127,
+		"itemId": 30000801,
+		"costStone": 256,
+		"totalCost": 16256
+	},
+	"128": {
+		"level": 128,
+		"itemId": 30000801,
+		"costStone": 258,
+		"totalCost": 16512
+	},
+	"129": {
+		"level": 129,
+		"itemId": 30000801,
+		"costStone": 260,
+		"totalCost": 16770
+	},
+	"130": {
+		"level": 130,
+		"itemId": 30000801,
+		"costStone": 262,
+		"totalCost": 17030
+	},
+	"131": {
+		"level": 131,
+		"itemId": 30000801,
+		"costStone": 264,
+		"totalCost": 17292
+	},
+	"132": {
+		"level": 132,
+		"itemId": 30000801,
+		"costStone": 266,
+		"totalCost": 17556
+	},
+	"133": {
+		"level": 133,
+		"itemId": 30000801,
+		"costStone": 268,
+		"totalCost": 17822
+	},
+	"134": {
+		"level": 134,
+		"itemId": 30000801,
+		"costStone": 270,
+		"totalCost": 18090
+	},
+	"135": {
+		"level": 135,
+		"itemId": 30000801,
+		"costStone": 272,
+		"totalCost": 18360
+	},
+	"136": {
+		"level": 136,
+		"itemId": 30000801,
+		"costStone": 274,
+		"totalCost": 18632
+	},
+	"137": {
+		"level": 137,
+		"itemId": 30000801,
+		"costStone": 276,
+		"totalCost": 18906
+	},
+	"138": {
+		"level": 138,
+		"itemId": 30000801,
+		"costStone": 278,
+		"totalCost": 19182
+	},
+	"139": {
+		"level": 139,
+		"itemId": 30000801,
+		"costStone": 280,
+		"totalCost": 19460
+	},
+	"140": {
+		"level": 140,
+		"itemId": 30000801,
+		"costStone": 282,
+		"totalCost": 19740
+	},
+	"141": {
+		"level": 141,
+		"itemId": 30000801,
+		"costStone": 284,
+		"totalCost": 20022
+	},
+	"142": {
+		"level": 142,
+		"itemId": 30000801,
+		"costStone": 286,
+		"totalCost": 20306
+	},
+	"143": {
+		"level": 143,
+		"itemId": 30000801,
+		"costStone": 288,
+		"totalCost": 20592
+	},
+	"144": {
+		"level": 144,
+		"itemId": 30000801,
+		"costStone": 290,
+		"totalCost": 20880
+	},
+	"145": {
+		"level": 145,
+		"itemId": 30000801,
+		"costStone": 292,
+		"totalCost": 21170
+	},
+	"146": {
+		"level": 146,
+		"itemId": 30000801,
+		"costStone": 294,
+		"totalCost": 21462
+	},
+	"147": {
+		"level": 147,
+		"itemId": 30000801,
+		"costStone": 296,
+		"totalCost": 21756
+	},
+	"148": {
+		"level": 148,
+		"itemId": 30000801,
+		"costStone": 298,
+		"totalCost": 22052
+	},
+	"149": {
+		"level": 149,
+		"itemId": 30000801,
+		"costStone": 300,
+		"totalCost": 22350
+	},
+	"150": {
+		"level": 150,
+		"itemId": 30000801,
+		"costStone": 302,
+		"totalCost": 22650
+	},
+	"151": {
+		"level": 151,
+		"itemId": 30000801,
+		"costStone": 304,
+		"totalCost": 22952
+	},
+	"152": {
+		"level": 152,
+		"itemId": 30000801,
+		"costStone": 306,
+		"totalCost": 23256
+	},
+	"153": {
+		"level": 153,
+		"itemId": 30000801,
+		"costStone": 308,
+		"totalCost": 23562
+	},
+	"154": {
+		"level": 154,
+		"itemId": 30000801,
+		"costStone": 310,
+		"totalCost": 23870
+	},
+	"155": {
+		"level": 155,
+		"itemId": 30000801,
+		"costStone": 312,
+		"totalCost": 24180
+	},
+	"156": {
+		"level": 156,
+		"itemId": 30000801,
+		"costStone": 314,
+		"totalCost": 24492
+	},
+	"157": {
+		"level": 157,
+		"itemId": 30000801,
+		"costStone": 316,
+		"totalCost": 24806
+	},
+	"158": {
+		"level": 158,
+		"itemId": 30000801,
+		"costStone": 318,
+		"totalCost": 25122
+	},
+	"159": {
+		"level": 159,
+		"itemId": 30000801,
+		"costStone": 320,
+		"totalCost": 25440
+	},
+	"160": {
+		"level": 160,
+		"itemId": 30000801,
+		"costStone": 322,
+		"totalCost": 25760
+	},
+	"161": {
+		"level": 161,
+		"itemId": 30000801,
+		"costStone": 324,
+		"totalCost": 26082
+	},
+	"162": {
+		"level": 162,
+		"itemId": 30000801,
+		"costStone": 326,
+		"totalCost": 26406
+	},
+	"163": {
+		"level": 163,
+		"itemId": 30000801,
+		"costStone": 328,
+		"totalCost": 26732
+	},
+	"164": {
+		"level": 164,
+		"itemId": 30000801,
+		"costStone": 330,
+		"totalCost": 27060
+	},
+	"165": {
+		"level": 165,
+		"itemId": 30000801,
+		"costStone": 332,
+		"totalCost": 27390
+	},
+	"166": {
+		"level": 166,
+		"itemId": 30000801,
+		"costStone": 334,
+		"totalCost": 27722
+	},
+	"167": {
+		"level": 167,
+		"itemId": 30000801,
+		"costStone": 336,
+		"totalCost": 28056
+	},
+	"168": {
+		"level": 168,
+		"itemId": 30000801,
+		"costStone": 338,
+		"totalCost": 28392
+	},
+	"169": {
+		"level": 169,
+		"itemId": 30000801,
+		"costStone": 340,
+		"totalCost": 28730
+	},
+	"170": {
+		"level": 170,
+		"itemId": 30000801,
+		"costStone": 342,
+		"totalCost": 29070
+	},
+	"171": {
+		"level": 171,
+		"itemId": 30000801,
+		"costStone": 344,
+		"totalCost": 29412
+	},
+	"172": {
+		"level": 172,
+		"itemId": 30000801,
+		"costStone": 346,
+		"totalCost": 29756
+	},
+	"173": {
+		"level": 173,
+		"itemId": 30000801,
+		"costStone": 348,
+		"totalCost": 30102
+	},
+	"174": {
+		"level": 174,
+		"itemId": 30000801,
+		"costStone": 350,
+		"totalCost": 30450
+	},
+	"175": {
+		"level": 175,
+		"itemId": 30000801,
+		"costStone": 352,
+		"totalCost": 30800
+	},
+	"176": {
+		"level": 176,
+		"itemId": 30000801,
+		"costStone": 354,
+		"totalCost": 31152
+	},
+	"177": {
+		"level": 177,
+		"itemId": 30000801,
+		"costStone": 356,
+		"totalCost": 31506
+	},
+	"178": {
+		"level": 178,
+		"itemId": 30000801,
+		"costStone": 358,
+		"totalCost": 31862
+	},
+	"179": {
+		"level": 179,
+		"itemId": 30000801,
+		"costStone": 360,
+		"totalCost": 32220
+	},
+	"180": {
+		"level": 180,
+		"itemId": 30000801,
+		"costStone": 362,
+		"totalCost": 32580
+	},
+	"181": {
+		"level": 181,
+		"itemId": 30000801,
+		"costStone": 364,
+		"totalCost": 32942
+	},
+	"182": {
+		"level": 182,
+		"itemId": 30000801,
+		"costStone": 366,
+		"totalCost": 33306
+	},
+	"183": {
+		"level": 183,
+		"itemId": 30000801,
+		"costStone": 368,
+		"totalCost": 33672
+	},
+	"184": {
+		"level": 184,
+		"itemId": 30000801,
+		"costStone": 370,
+		"totalCost": 34040
+	},
+	"185": {
+		"level": 185,
+		"itemId": 30000801,
+		"costStone": 372,
+		"totalCost": 34410
+	},
+	"186": {
+		"level": 186,
+		"itemId": 30000801,
+		"costStone": 374,
+		"totalCost": 34782
+	},
+	"187": {
+		"level": 187,
+		"itemId": 30000801,
+		"costStone": 376,
+		"totalCost": 35156
+	},
+	"188": {
+		"level": 188,
+		"itemId": 30000801,
+		"costStone": 378,
+		"totalCost": 35532
+	},
+	"189": {
+		"level": 189,
+		"itemId": 30000801,
+		"costStone": 380,
+		"totalCost": 35910
+	},
+	"190": {
+		"level": 190,
+		"itemId": 30000801,
+		"costStone": 382,
+		"totalCost": 36290
+	},
+	"191": {
+		"level": 191,
+		"itemId": 30000801,
+		"costStone": 384,
+		"totalCost": 36672
+	},
+	"192": {
+		"level": 192,
+		"itemId": 30000801,
+		"costStone": 386,
+		"totalCost": 37056
+	},
+	"193": {
+		"level": 193,
+		"itemId": 30000801,
+		"costStone": 388,
+		"totalCost": 37442
+	},
+	"194": {
+		"level": 194,
+		"itemId": 30000801,
+		"costStone": 390,
+		"totalCost": 37830
+	},
+	"195": {
+		"level": 195,
+		"itemId": 30000801,
+		"costStone": 392,
+		"totalCost": 38220
+	},
+	"196": {
+		"level": 196,
+		"itemId": 30000801,
+		"costStone": 394,
+		"totalCost": 38612
+	},
+	"197": {
+		"level": 197,
+		"itemId": 30000801,
+		"costStone": 396,
+		"totalCost": 39006
+	},
+	"198": {
+		"level": 198,
+		"itemId": 30000801,
+		"costStone": 398,
+		"totalCost": 39402
+	},
+	"199": {
+		"level": 199,
+		"itemId": 30000801,
+		"costStone": 400,
+		"totalCost": 39800
+	},
+	"200": {
+		"level": 200,
+		"itemId": 30000801,
+		"costStone": 0,
+		"totalCost": 40200
+	}
+}

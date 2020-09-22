@@ -1,0 +1,4936 @@
+{
+	"1": {
+		"warehouseId": 1,
+		"id": {
+			"101": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 1,
+						"num": 100000
+					}
+				],
+				"desc": "金币*100000",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 750,
+				"isShow": 0
+			},
+			"103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000201,
+						"num": 100
+					}
+				],
+				"desc": "装备精炼石*100",
+				"rafflePer": 2000,
+				"isShow": 0
+			},
+			"104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 750,
+				"isShow": 0
+			},
+			"105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 2000,
+				"isShow": 0
+			},
+			"106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 5
+					}
+				],
+				"desc": "天命石*5",
+				"rafflePer": 1500,
+				"isShow": 0
+			},
+			"107": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 30
+					}
+				],
+				"desc": "宝物强化石*30",
+				"rafflePer": 2000,
+				"isShow": 0
+			}
+		}
+	},
+	"2": {
+		"warehouseId": 2,
+		"id": {
+			"201": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 1,
+						"num": 100000
+					}
+				],
+				"desc": "金币*100000",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 750,
+				"isShow": 0
+			},
+			"203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000201,
+						"num": 100
+					}
+				],
+				"desc": "装备精炼石*100",
+				"rafflePer": 2000,
+				"isShow": 0
+			},
+			"204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 750,
+				"isShow": 0
+			},
+			"205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 2000,
+				"isShow": 0
+			},
+			"206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 5
+					}
+				],
+				"desc": "天命石*5",
+				"rafflePer": 1500,
+				"isShow": 0
+			},
+			"207": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 30
+					}
+				],
+				"desc": "宝物强化石*30",
+				"rafflePer": 2000,
+				"isShow": 0
+			}
+		}
+	},
+	"3": {
+		"warehouseId": 3,
+		"id": {
+			"301": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 1,
+						"num": 100000
+					}
+				],
+				"desc": "金币*100000",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"302": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 750,
+				"isShow": 0
+			},
+			"303": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000201,
+						"num": 100
+					}
+				],
+				"desc": "装备精炼石*100",
+				"rafflePer": 2000,
+				"isShow": 0
+			},
+			"304": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 750,
+				"isShow": 0
+			},
+			"305": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 2000,
+				"isShow": 0
+			},
+			"306": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 5
+					}
+				],
+				"desc": "天命石*5",
+				"rafflePer": 1500,
+				"isShow": 0
+			},
+			"307": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 30
+					}
+				],
+				"desc": "宝物强化石*30",
+				"rafflePer": 2000,
+				"isShow": 0
+			}
+		}
+	},
+	"101": {
+		"warehouseId": 101,
+		"id": {
+			"10101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"102": {
+		"warehouseId": 102,
+		"id": {
+			"10201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"103": {
+		"warehouseId": 103,
+		"id": {
+			"10301": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"104": {
+		"warehouseId": 104,
+		"id": {
+			"10401": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"201": {
+		"warehouseId": 201,
+		"id": {
+			"20101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"202": {
+		"warehouseId": 202,
+		"id": {
+			"20201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"203": {
+		"warehouseId": 203,
+		"id": {
+			"20301": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"204": {
+		"warehouseId": 204,
+		"id": {
+			"20401": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"301": {
+		"warehouseId": 301,
+		"id": {
+			"30101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"302": {
+		"warehouseId": 302,
+		"id": {
+			"30201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"303": {
+		"warehouseId": 303,
+		"id": {
+			"30301": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"304": {
+		"warehouseId": 304,
+		"id": {
+			"30401": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"401": {
+		"warehouseId": 401,
+		"id": {
+			"40101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220704,
+						"num": 1
+					}
+				],
+				"desc": "风灵套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"402": {
+		"warehouseId": 402,
+		"id": {
+			"40201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220704,
+						"num": 1
+					}
+				],
+				"desc": "风灵套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"403": {
+		"warehouseId": 403,
+		"id": {
+			"40301": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220704,
+						"num": 1
+					}
+				],
+				"desc": "风灵套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"404": {
+		"warehouseId": 404,
+		"id": {
+			"40401": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220704,
+						"num": 1
+					}
+				],
+				"desc": "风灵套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"501": {
+		"warehouseId": 501,
+		"id": {
+			"50101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220705,
+						"num": 1
+					}
+				],
+				"desc": "邪魔套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"502": {
+		"warehouseId": 502,
+		"id": {
+			"50201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220705,
+						"num": 1
+					}
+				],
+				"desc": "邪魔套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"503": {
+		"warehouseId": 503,
+		"id": {
+			"50301": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220705,
+						"num": 1
+					}
+				],
+				"desc": "邪魔套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"504": {
+		"warehouseId": 504,
+		"id": {
+			"50401": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220705,
+						"num": 1
+					}
+				],
+				"desc": "邪魔套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"601": {
+		"warehouseId": 601,
+		"id": {
+			"60101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220706,
+						"num": 1
+					}
+				],
+				"desc": "太初套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"602": {
+		"warehouseId": 602,
+		"id": {
+			"60201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220706,
+						"num": 1
+					}
+				],
+				"desc": "太初套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"603": {
+		"warehouseId": 603,
+		"id": {
+			"60301": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220706,
+						"num": 1
+					}
+				],
+				"desc": "太初套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"604": {
+		"warehouseId": 604,
+		"id": {
+			"60401": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220706,
+						"num": 1
+					}
+				],
+				"desc": "太初套任选*1",
+				"rafflePer": 3000,
+				"isShow": 1
+			}
+		}
+	},
+	"10001": {
+		"warehouseId": 10001,
+		"id": {
+			"1000101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"1000102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"1000103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"1000104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"1000105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"1000106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1000,
+				"isShow": 0
+			},
+			"1000107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 200,
+				"isShow": 0
+			},
+			"1000108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 150
+					}
+				],
+				"desc": "天命石*150",
+				"rafflePer": 625,
+				"isShow": 1
+			},
+			"1000109": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 1500
+					}
+				],
+				"desc": "宝物强化石*1500",
+				"rafflePer": 625,
+				"isShow": 1
+			},
+			"1000110": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 6
+					}
+				],
+				"desc": "特级宝石礼盒*6",
+				"rafflePer": 625,
+				"isShow": 1
+			},
+			"1000111": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 150
+					}
+				],
+				"desc": "宝物精炼石*150",
+				"rafflePer": 625,
+				"isShow": 1
+			},
+			"1000112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 3
+					}
+				],
+				"desc": "精炼精华*3",
+				"rafflePer": 625,
+				"isShow": 1
+			},
+			"1000113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 3
+					}
+				],
+				"desc": "铸魂石*3",
+				"rafflePer": 625,
+				"isShow": 1
+			},
+			"1000114": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 15000
+					}
+				],
+				"desc": "元宝*15000",
+				"rafflePer": 50,
+				"isShow": 1
+			}
+		}
+	},
+	"20001": {
+		"warehouseId": 20001,
+		"id": {
+			"2000101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2000102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2000103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2000104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2000105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2000106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2000107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 70,
+				"isShow": 0
+			},
+			"2000108": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700201,
+						"num": 1
+					}
+				],
+				"desc": "龙泉剑*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700202,
+						"num": 1
+					}
+				],
+				"desc": "龙泉盔*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700203,
+						"num": 1
+					}
+				],
+				"desc": "龙泉甲*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700204,
+						"num": 1
+					}
+				],
+				"desc": "龙泉靴*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 250
+					}
+				],
+				"desc": "天命石*250",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2000113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 2500
+					}
+				],
+				"desc": "宝物强化石*2500",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2000114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 10
+					}
+				],
+				"desc": "特级宝石礼盒*10",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2000115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 250
+					}
+				],
+				"desc": "宝物精炼石*250",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2000116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 5
+					}
+				],
+				"desc": "精炼精华*5",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2000117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 5
+					}
+				],
+				"desc": "铸魂石*5",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2000118": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 25000
+					}
+				],
+				"desc": "元宝*25000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20101": {
+		"warehouseId": 20101,
+		"id": {
+			"2010101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2010102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2010103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2010104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2010105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2010106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2010107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 70,
+				"isShow": 0
+			},
+			"2010108": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700301,
+						"num": 1
+					}
+				],
+				"desc": "极炎枪*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700302,
+						"num": 1
+					}
+				],
+				"desc": "极炎盔*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700303,
+						"num": 1
+					}
+				],
+				"desc": "极炎甲*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700304,
+						"num": 1
+					}
+				],
+				"desc": "极炎靴*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 250
+					}
+				],
+				"desc": "天命石*250",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2010113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 2500
+					}
+				],
+				"desc": "宝物强化石*2500",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2010114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 10
+					}
+				],
+				"desc": "特级宝石礼盒*10",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2010115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 250
+					}
+				],
+				"desc": "宝物精炼石*250",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2010116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 5
+					}
+				],
+				"desc": "精炼精华*5",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2010117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 5
+					}
+				],
+				"desc": "铸魂石*5",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2010118": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 25000
+					}
+				],
+				"desc": "元宝*25000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20201": {
+		"warehouseId": 20201,
+		"id": {
+			"2020101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2020102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2020103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2020104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2020105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2020106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1530,
+				"isShow": 0
+			},
+			"2020107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 70,
+				"isShow": 0
+			},
+			"2020108": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700401,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞刀*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700402,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞盔*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700403,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞甲*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700404,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞靴*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 250
+					}
+				],
+				"desc": "天命石*250",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2020113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 2500
+					}
+				],
+				"desc": "宝物强化石*2500",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2020114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 10
+					}
+				],
+				"desc": "特级宝石礼盒*10",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2020115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 250
+					}
+				],
+				"desc": "宝物精炼石*250",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2020116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 5
+					}
+				],
+				"desc": "精炼精华*5",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2020117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 5
+					}
+				],
+				"desc": "铸魂石*5",
+				"rafflePer": 55,
+				"isShow": 1
+			},
+			"2020118": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 25000
+					}
+				],
+				"desc": "元宝*25000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20301": {
+		"warehouseId": 20301,
+		"id": {
+			"2030101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2030102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2030103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2030104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2030105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2030106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2030107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 30,
+				"isShow": 0
+			},
+			"2030108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 180,
+				"isShow": 1
+			},
+			"2030109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800101,
+						"num": 1
+					}
+				],
+				"desc": "风灵扇*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800102,
+						"num": 1
+					}
+				],
+				"desc": "风灵帽*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800103,
+						"num": 1
+					}
+				],
+				"desc": "风灵甲*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030112": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800104,
+						"num": 1
+					}
+				],
+				"desc": "风灵靴*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 250
+					}
+				],
+				"desc": "天命石*250",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 2500
+					}
+				],
+				"desc": "宝物强化石*2500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 10
+					}
+				],
+				"desc": "特级宝石礼盒*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 250
+					}
+				],
+				"desc": "宝物精炼石*250",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 5
+					}
+				],
+				"desc": "精炼精华*5",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030118": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 5
+					}
+				],
+				"desc": "铸魂石*5",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2030119": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 25000
+					}
+				],
+				"desc": "元宝*25000",
+				"rafflePer": 10,
+				"isShow": 1
+			}
+		}
+	},
+	"20401": {
+		"warehouseId": 20401,
+		"id": {
+			"2040101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2040102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2040103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2040104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2040105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2040106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2040107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 30,
+				"isShow": 0
+			},
+			"2040108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 180,
+				"isShow": 1
+			},
+			"2040109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800201,
+						"num": 1
+					}
+				],
+				"desc": "邪魔刀*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800202,
+						"num": 1
+					}
+				],
+				"desc": "邪魔盔*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800203,
+						"num": 1
+					}
+				],
+				"desc": "邪魔甲*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040112": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800204,
+						"num": 1
+					}
+				],
+				"desc": "邪魔靴*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 250
+					}
+				],
+				"desc": "天命石*250",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 2500
+					}
+				],
+				"desc": "宝物强化石*2500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 10
+					}
+				],
+				"desc": "特级宝石礼盒*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 250
+					}
+				],
+				"desc": "宝物精炼石*250",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 5
+					}
+				],
+				"desc": "精炼精华*5",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040118": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 5
+					}
+				],
+				"desc": "铸魂石*5",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2040119": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 25000
+					}
+				],
+				"desc": "元宝*25000",
+				"rafflePer": 10,
+				"isShow": 1
+			}
+		}
+	},
+	"20501": {
+		"warehouseId": 20501,
+		"id": {
+			"2050101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2050102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2050103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2050104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2050105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2050106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1580,
+				"isShow": 0
+			},
+			"2050107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 30,
+				"isShow": 0
+			},
+			"2050108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 180,
+				"isShow": 1
+			},
+			"2050109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800301,
+						"num": 1
+					}
+				],
+				"desc": "太初剑*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800302,
+						"num": 1
+					}
+				],
+				"desc": "太初头带*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800303,
+						"num": 1
+					}
+				],
+				"desc": "太初衣*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050112": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800304,
+						"num": 1
+					}
+				],
+				"desc": "太初鞋*1",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 250
+					}
+				],
+				"desc": "天命石*250",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 2500
+					}
+				],
+				"desc": "宝物强化石*2500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 10
+					}
+				],
+				"desc": "特级宝石礼盒*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 250
+					}
+				],
+				"desc": "宝物精炼石*250",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 5
+					}
+				],
+				"desc": "精炼精华*5",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050118": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 5
+					}
+				],
+				"desc": "铸魂石*5",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"2050119": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 25000
+					}
+				],
+				"desc": "元宝*25000",
+				"rafflePer": 10,
+				"isShow": 1
+			}
+		}
+	},
+	"20002": {
+		"warehouseId": 20002,
+		"id": {
+			"2000201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2000202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2000203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2000204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2000205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2000206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2000207": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 100,
+				"isShow": 0
+			},
+			"2000208": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700201,
+						"num": 1
+					}
+				],
+				"desc": "龙泉剑*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2000209": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700202,
+						"num": 1
+					}
+				],
+				"desc": "龙泉盔*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2000210": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700203,
+						"num": 1
+					}
+				],
+				"desc": "龙泉甲*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2000211": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700204,
+						"num": 1
+					}
+				],
+				"desc": "龙泉靴*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2000212": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 350
+					}
+				],
+				"desc": "天命石*350",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000213": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 3500
+					}
+				],
+				"desc": "宝物强化石*3500",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000214": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 14
+					}
+				],
+				"desc": "特级宝石礼盒*14",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000215": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 350
+					}
+				],
+				"desc": "宝物精炼石*350",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000216": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 7
+					}
+				],
+				"desc": "精炼精华*7",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000217": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 7
+					}
+				],
+				"desc": "铸魂石*7",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2000218": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 35000
+					}
+				],
+				"desc": "元宝*35000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20102": {
+		"warehouseId": 20102,
+		"id": {
+			"2010201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2010202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2010203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2010204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2010205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2010206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2010207": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 100,
+				"isShow": 0
+			},
+			"2010208": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700301,
+						"num": 1
+					}
+				],
+				"desc": "极炎枪*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2010209": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700302,
+						"num": 1
+					}
+				],
+				"desc": "极炎盔*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2010210": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700303,
+						"num": 1
+					}
+				],
+				"desc": "极炎甲*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2010211": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700304,
+						"num": 1
+					}
+				],
+				"desc": "极炎靴*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2010212": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 350
+					}
+				],
+				"desc": "天命石*350",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010213": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 3500
+					}
+				],
+				"desc": "宝物强化石*3500",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010214": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 14
+					}
+				],
+				"desc": "特级宝石礼盒*14",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010215": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 350
+					}
+				],
+				"desc": "宝物精炼石*350",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010216": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 7
+					}
+				],
+				"desc": "精炼精华*7",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010217": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 7
+					}
+				],
+				"desc": "铸魂石*7",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2010218": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 35000
+					}
+				],
+				"desc": "元宝*35000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20202": {
+		"warehouseId": 20202,
+		"id": {
+			"2020201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2020202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2020203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2020204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2020205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2020206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1520,
+				"isShow": 0
+			},
+			"2020207": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 100,
+				"isShow": 0
+			},
+			"2020208": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700401,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞刀*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2020209": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700402,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞盔*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2020210": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700403,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞甲*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2020211": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700404,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞靴*1",
+				"rafflePer": 40,
+				"isShow": 1
+			},
+			"2020212": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 350
+					}
+				],
+				"desc": "天命石*350",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020213": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 3500
+					}
+				],
+				"desc": "宝物强化石*3500",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020214": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 14
+					}
+				],
+				"desc": "特级宝石礼盒*14",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020215": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 350
+					}
+				],
+				"desc": "宝物精炼石*350",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020216": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 7
+					}
+				],
+				"desc": "精炼精华*7",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020217": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 7
+					}
+				],
+				"desc": "铸魂石*7",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"2020218": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 35000
+					}
+				],
+				"desc": "元宝*35000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20302": {
+		"warehouseId": 20302,
+		"id": {
+			"2030201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2030202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2030203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2030204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2030205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2030206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2030207": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 60,
+				"isShow": 0
+			},
+			"2030208": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 220,
+				"isShow": 1
+			},
+			"2030209": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800101,
+						"num": 1
+					}
+				],
+				"desc": "风灵扇*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2030210": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800102,
+						"num": 1
+					}
+				],
+				"desc": "风灵帽*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2030211": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800103,
+						"num": 1
+					}
+				],
+				"desc": "风灵甲*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2030212": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800104,
+						"num": 1
+					}
+				],
+				"desc": "风灵靴*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2030213": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 350
+					}
+				],
+				"desc": "天命石*350",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2030214": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 3500
+					}
+				],
+				"desc": "宝物强化石*3500",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2030215": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 14
+					}
+				],
+				"desc": "特级宝石礼盒*14",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2030216": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 350
+					}
+				],
+				"desc": "宝物精炼石*350",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2030217": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 7
+					}
+				],
+				"desc": "精炼精华*7",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2030218": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 7
+					}
+				],
+				"desc": "铸魂石*7",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2030219": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 35000
+					}
+				],
+				"desc": "元宝*35000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20402": {
+		"warehouseId": 20402,
+		"id": {
+			"2040201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2040202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2040203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2040204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2040205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2040206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2040207": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 60,
+				"isShow": 0
+			},
+			"2040208": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 220,
+				"isShow": 1
+			},
+			"2040209": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800201,
+						"num": 1
+					}
+				],
+				"desc": "邪魔刀*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2040210": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800202,
+						"num": 1
+					}
+				],
+				"desc": "邪魔盔*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2040211": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800203,
+						"num": 1
+					}
+				],
+				"desc": "邪魔甲*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2040212": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800204,
+						"num": 1
+					}
+				],
+				"desc": "邪魔靴*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2040213": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 350
+					}
+				],
+				"desc": "天命石*350",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2040214": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 3500
+					}
+				],
+				"desc": "宝物强化石*3500",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2040215": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 14
+					}
+				],
+				"desc": "特级宝石礼盒*14",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2040216": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 350
+					}
+				],
+				"desc": "宝物精炼石*350",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2040217": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 7
+					}
+				],
+				"desc": "精炼精华*7",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2040218": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 7
+					}
+				],
+				"desc": "铸魂石*7",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2040219": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 35000
+					}
+				],
+				"desc": "元宝*35000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"20502": {
+		"warehouseId": 20502,
+		"id": {
+			"2050201": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2050202": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2050203": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2050204": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2050205": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2050206": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"2050207": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 60,
+				"isShow": 0
+			},
+			"2050208": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 220,
+				"isShow": 1
+			},
+			"2050209": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800301,
+						"num": 1
+					}
+				],
+				"desc": "太初剑*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2050210": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800302,
+						"num": 1
+					}
+				],
+				"desc": "太初头带*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2050211": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800303,
+						"num": 1
+					}
+				],
+				"desc": "太初衣*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2050212": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800304,
+						"num": 1
+					}
+				],
+				"desc": "太初鞋*1",
+				"rafflePer": 10,
+				"isShow": 1
+			},
+			"2050213": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 350
+					}
+				],
+				"desc": "天命石*350",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2050214": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 3500
+					}
+				],
+				"desc": "宝物强化石*3500",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2050215": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 14
+					}
+				],
+				"desc": "特级宝石礼盒*14",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2050216": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 350
+					}
+				],
+				"desc": "宝物精炼石*350",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2050217": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 7
+					}
+				],
+				"desc": "精炼精华*7",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2050218": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 7
+					}
+				],
+				"desc": "铸魂石*7",
+				"rafflePer": 60,
+				"isShow": 1
+			},
+			"2050219": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 35000
+					}
+				],
+				"desc": "元宝*35000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"30001": {
+		"warehouseId": 30001,
+		"id": {
+			"3000101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3000102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3000103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3000104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3000105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3000106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3000107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 60,
+				"isShow": 0
+			},
+			"3000108": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700201,
+						"num": 1
+					}
+				],
+				"desc": "龙泉剑*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3000109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700202,
+						"num": 1
+					}
+				],
+				"desc": "龙泉盔*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3000110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700203,
+						"num": 1
+					}
+				],
+				"desc": "龙泉甲*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3000111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700204,
+						"num": 1
+					}
+				],
+				"desc": "龙泉靴*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3000112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 500
+					}
+				],
+				"desc": "天命石*500",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3000113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 5000
+					}
+				],
+				"desc": "宝物强化石*5000",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3000114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 20
+					}
+				],
+				"desc": "特级宝石礼盒*20",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3000115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 500
+					}
+				],
+				"desc": "宝物精炼石*500",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3000116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 10
+					}
+				],
+				"desc": "精炼精华*10",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3000117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 10
+					}
+				],
+				"desc": "铸魂石*10",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3000118": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 50000
+					}
+				],
+				"desc": "元宝*50000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"30101": {
+		"warehouseId": 30101,
+		"id": {
+			"3010101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3010102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3010103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3010104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3010105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3010106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3010107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 60,
+				"isShow": 0
+			},
+			"3010108": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700301,
+						"num": 1
+					}
+				],
+				"desc": "极炎枪*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3010109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700302,
+						"num": 1
+					}
+				],
+				"desc": "极炎盔*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3010110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700303,
+						"num": 1
+					}
+				],
+				"desc": "极炎甲*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3010111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700304,
+						"num": 1
+					}
+				],
+				"desc": "极炎靴*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3010112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 500
+					}
+				],
+				"desc": "天命石*500",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3010113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 5000
+					}
+				],
+				"desc": "宝物强化石*5000",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3010114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 20
+					}
+				],
+				"desc": "特级宝石礼盒*20",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3010115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 500
+					}
+				],
+				"desc": "宝物精炼石*500",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3010116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 10
+					}
+				],
+				"desc": "精炼精华*10",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3010117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 10
+					}
+				],
+				"desc": "铸魂石*10",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3010118": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 50000
+					}
+				],
+				"desc": "元宝*50000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"30201": {
+		"warehouseId": 30201,
+		"id": {
+			"3020101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3020102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3020103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3020104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3020105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3020106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1550,
+				"isShow": 0
+			},
+			"3020107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 60,
+				"isShow": 0
+			},
+			"3020108": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700401,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞刀*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3020109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700402,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞盔*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3020110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700403,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞甲*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3020111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40700404,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞靴*1",
+				"rafflePer": 50,
+				"isShow": 1
+			},
+			"3020112": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 500
+					}
+				],
+				"desc": "天命石*500",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3020113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 5000
+					}
+				],
+				"desc": "宝物强化石*5000",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3020114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 20
+					}
+				],
+				"desc": "特级宝石礼盒*20",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3020115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 500
+					}
+				],
+				"desc": "宝物精炼石*500",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3020116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 10
+					}
+				],
+				"desc": "精炼精华*10",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3020117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 10
+					}
+				],
+				"desc": "铸魂石*10",
+				"rafflePer": 70,
+				"isShow": 1
+			},
+			"3020118": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 50000
+					}
+				],
+				"desc": "元宝*50000",
+				"rafflePer": 20,
+				"isShow": 1
+			}
+		}
+	},
+	"30301": {
+		"warehouseId": 30301,
+		"id": {
+			"3030101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3030102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3030103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3030104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3030105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3030106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3030107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 30,
+				"isShow": 0
+			},
+			"3030108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220701,
+						"num": 1
+					}
+				],
+				"desc": "龙泉套任选*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"3030109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800101,
+						"num": 1
+					}
+				],
+				"desc": "风灵扇*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3030110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800102,
+						"num": 1
+					}
+				],
+				"desc": "风灵帽*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3030111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800103,
+						"num": 1
+					}
+				],
+				"desc": "风灵甲*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3030112": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800104,
+						"num": 1
+					}
+				],
+				"desc": "风灵靴*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3030113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 500
+					}
+				],
+				"desc": "天命石*500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3030114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 5000
+					}
+				],
+				"desc": "宝物强化石*5000",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3030115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 20
+					}
+				],
+				"desc": "特级宝石礼盒*20",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3030116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 500
+					}
+				],
+				"desc": "宝物精炼石*500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3030117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 10
+					}
+				],
+				"desc": "精炼精华*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3030118": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 10
+					}
+				],
+				"desc": "铸魂石*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3030119": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 50000
+					}
+				],
+				"desc": "元宝*50000",
+				"rafflePer": 10,
+				"isShow": 1
+			}
+		}
+	},
+	"30401": {
+		"warehouseId": 30401,
+		"id": {
+			"3040101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3040102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3040103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3040104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3040105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3040106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3040107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 30,
+				"isShow": 0
+			},
+			"3040108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220702,
+						"num": 1
+					}
+				],
+				"desc": "极炎套任选*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"3040109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800201,
+						"num": 1
+					}
+				],
+				"desc": "邪魔刀*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3040110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800202,
+						"num": 1
+					}
+				],
+				"desc": "邪魔盔*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3040111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800203,
+						"num": 1
+					}
+				],
+				"desc": "邪魔甲*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3040112": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800204,
+						"num": 1
+					}
+				],
+				"desc": "邪魔靴*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3040113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 500
+					}
+				],
+				"desc": "天命石*500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3040114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 5000
+					}
+				],
+				"desc": "宝物强化石*5000",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3040115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 20
+					}
+				],
+				"desc": "特级宝石礼盒*20",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3040116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 500
+					}
+				],
+				"desc": "宝物精炼石*500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3040117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 10
+					}
+				],
+				"desc": "精炼精华*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3040118": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 10
+					}
+				],
+				"desc": "铸魂石*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3040119": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 50000
+					}
+				],
+				"desc": "元宝*50000",
+				"rafflePer": 10,
+				"isShow": 1
+			}
+		}
+	},
+	"30501": {
+		"warehouseId": 30501,
+		"id": {
+			"3050101": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 50
+					}
+				],
+				"desc": "天命石*50",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3050102": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 500
+					}
+				],
+				"desc": "宝物强化石*500",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3050103": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 2
+					}
+				],
+				"desc": "特级宝石礼盒*2",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3050104": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 50
+					}
+				],
+				"desc": "宝物精炼石*50",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3050105": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 1
+					}
+				],
+				"desc": "精炼精华*1",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3050106": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 1
+					}
+				],
+				"desc": "铸魂石*1",
+				"rafflePer": 1600,
+				"isShow": 0
+			},
+			"3050107": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 5000
+					}
+				],
+				"desc": "元宝*5000",
+				"rafflePer": 30,
+				"isShow": 0
+			},
+			"3050108": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220703,
+						"num": 1
+					}
+				],
+				"desc": "龙鳞套任选*1",
+				"rafflePer": 100,
+				"isShow": 1
+			},
+			"3050109": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800301,
+						"num": 1
+					}
+				],
+				"desc": "太初剑*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3050110": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800302,
+						"num": 1
+					}
+				],
+				"desc": "太初头带*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3050111": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800303,
+						"num": 1
+					}
+				],
+				"desc": "太初衣*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3050112": {
+				"raffleReward": [
+					{
+						"type": 5,
+						"id": 40800304,
+						"num": 1
+					}
+				],
+				"desc": "太初鞋*1",
+				"rafflePer": 20,
+				"isShow": 1
+			},
+			"3050113": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000020,
+						"num": 500
+					}
+				],
+				"desc": "天命石*500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3050114": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000801,
+						"num": 5000
+					}
+				],
+				"desc": "宝物强化石*5000",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3050115": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000614,
+						"num": 20
+					}
+				],
+				"desc": "特级宝石礼盒*20",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3050116": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000811,
+						"num": 500
+					}
+				],
+				"desc": "宝物精炼石*500",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3050117": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000812,
+						"num": 10
+					}
+				],
+				"desc": "精炼精华*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3050118": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000701,
+						"num": 10
+					}
+				],
+				"desc": "铸魂石*10",
+				"rafflePer": 30,
+				"isShow": 1
+			},
+			"3050119": {
+				"raffleReward": [
+					{
+						"type": 1,
+						"id": 2,
+						"num": 50000
+					}
+				],
+				"desc": "元宝*50000",
+				"rafflePer": 10,
+				"isShow": 1
+			}
+		}
+	}
+}

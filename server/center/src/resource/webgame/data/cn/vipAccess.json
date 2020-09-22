@@ -1,0 +1,2621 @@
+{
+	"0": {
+		"vipLevel": 0,
+		"recharge": 0,
+		"total": 0,
+		"accessTimes": [
+			{
+				"type": 14,
+				"value": 14400
+			},
+			{
+				"type": 19,
+				"value": 180
+			},
+			{
+				"type": 8,
+				"value": 2
+			},
+			{
+				"type": 23,
+				"value": 1
+			},
+			{
+				"type": 9,
+				"value": 1
+			},
+			{
+				"type": 20,
+				"value": 1
+			},
+			{
+				"type": 1,
+				"value": 3
+			},
+			{
+				"type": 7,
+				"value": 1
+			},
+			{
+				"type": 21,
+				"value": 1
+			},
+			{
+				"type": 22,
+				"value": 1
+			}
+		],
+		"vipReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"price": 100,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 100000
+			}
+		]
+	},
+	"1": {
+		"vipLevel": 1,
+		"recharge": 0,
+		"total": 0,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 240
+			},
+			{
+				"type": 8,
+				"value": 3
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 1,
+				"value": 4
+			},
+			{
+				"type": 10,
+				"value": 1
+			},
+			{
+				"type": 11,
+				"value": 1
+			},
+			{
+				"type": 14,
+				"value": 14400
+			},
+			{
+				"type": 23,
+				"value": 1
+			},
+			{
+				"type": 9,
+				"value": 1
+			},
+			{
+				"type": 20,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 1
+			},
+			{
+				"type": 21,
+				"value": 1
+			},
+			{
+				"type": 22,
+				"value": 1
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 100
+			},
+			{
+				"type": 2,
+				"id": 220203,
+				"num": 1
+			}
+		],
+		"price": 300,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 110
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 110000
+			}
+		]
+	},
+	"2": {
+		"vipLevel": 2,
+		"recharge": 0,
+		"total": 0,
+		"accessTimes": [
+			{
+				"type": 14,
+				"value": 28800
+			},
+			{
+				"type": 19,
+				"value": 300
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 9,
+				"value": 2
+			},
+			{
+				"type": 12,
+				"value": 50
+			},
+			{
+				"type": 1,
+				"value": 5
+			},
+			{
+				"type": 7,
+				"value": 2
+			},
+			{
+				"type": 11,
+				"value": 2
+			},
+			{
+				"type": 23,
+				"value": 1
+			},
+			{
+				"type": 20,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 1
+			},
+			{
+				"type": 21,
+				"value": 1
+			},
+			{
+				"type": 22,
+				"value": 1
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 220202,
+				"num": 1
+			}
+		],
+		"price": 300,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 120000
+			}
+		]
+	},
+	"3": {
+		"vipLevel": 3,
+		"recharge": 6,
+		"total": 6,
+		"accessTimes": [
+			{
+				"type": 14,
+				"value": 43200
+			},
+			{
+				"type": 19,
+				"value": 360
+			},
+			{
+				"type": 23,
+				"value": 2
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 20,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 1,
+				"value": 6
+			},
+			{
+				"type": 7,
+				"value": 3
+			},
+			{
+				"type": 10,
+				"value": 2
+			},
+			{
+				"type": 11,
+				"value": 3
+			},
+			{
+				"type": 17,
+				"value": 1
+			},
+			{
+				"type": 21,
+				"value": 2
+			},
+			{
+				"type": 22,
+				"value": 2
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 2,
+				"value": 1
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 220201,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 100
+			}
+		],
+		"price": 300,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 130
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 130000
+			}
+		]
+	},
+	"4": {
+		"vipLevel": 4,
+		"recharge": 30,
+		"total": 36,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 420
+			},
+			{
+				"type": 20,
+				"value": 5
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 1,
+				"value": 7
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 3
+			},
+			{
+				"type": 11,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 1
+			},
+			{
+				"type": 14,
+				"value": 43200
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 2
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 3
+			},
+			{
+				"type": 17,
+				"value": 1
+			},
+			{
+				"type": 21,
+				"value": 2
+			},
+			{
+				"type": 22,
+				"value": 2
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30000002,
+				"num": 3
+			},
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 501015,
+				"num": 1
+			}
+		],
+		"price": 500,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 140
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 140000
+			}
+		]
+	},
+	"5": {
+		"vipLevel": 5,
+		"recharge": 50,
+		"total": 86,
+		"accessTimes": [
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 19,
+				"value": 480
+			},
+			{
+				"type": 20,
+				"value": 7
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 1,
+				"value": 8
+			},
+			{
+				"type": 10,
+				"value": 4
+			},
+			{
+				"type": 11,
+				"value": 5
+			},
+			{
+				"type": 17,
+				"value": 2
+			},
+			{
+				"type": 14,
+				"value": 43200
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 2
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 3
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 18,
+				"value": 1
+			},
+			{
+				"type": 21,
+				"value": 2
+			},
+			{
+				"type": 22,
+				"value": 2
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 30000502,
+				"num": 200
+			},
+			{
+				"type": 2,
+				"id": 30000014,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30000002,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 50
+			}
+		],
+		"price": 500,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 150000
+			}
+		]
+	},
+	"6": {
+		"vipLevel": 6,
+		"recharge": 100,
+		"total": 186,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 720
+			},
+			{
+				"type": 23,
+				"value": 3
+			},
+			{
+				"type": 20,
+				"value": 10
+			},
+			{
+				"type": 1,
+				"value": 9
+			},
+			{
+				"type": 7,
+				"value": 4
+			},
+			{
+				"type": 10,
+				"value": 5
+			},
+			{
+				"type": 11,
+				"value": 6
+			},
+			{
+				"type": 18,
+				"value": 2
+			},
+			{
+				"type": 21,
+				"value": 3
+			},
+			{
+				"type": 22,
+				"value": 3
+			},
+			{
+				"type": 14,
+				"value": 43200
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 17,
+				"value": 2
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 2
+			},
+			{
+				"type": 2,
+				"id": 220204,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000501,
+				"num": 2000
+			},
+			{
+				"type": 2,
+				"id": 30000002,
+				"num": 10
+			}
+		],
+		"price": 500,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 160
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 160000
+			}
+		]
+	},
+	"7": {
+		"vipLevel": 7,
+		"recharge": 200,
+		"total": 386,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 840
+			},
+			{
+				"type": 20,
+				"value": 20
+			},
+			{
+				"type": 1,
+				"value": 10
+			},
+			{
+				"type": 10,
+				"value": 6
+			},
+			{
+				"type": 11,
+				"value": 7
+			},
+			{
+				"type": 14,
+				"value": 43200
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 3
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 4
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 17,
+				"value": 2
+			},
+			{
+				"type": 18,
+				"value": 2
+			},
+			{
+				"type": 21,
+				"value": 3
+			},
+			{
+				"type": 22,
+				"value": 3
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 40
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 2
+			},
+			{
+				"type": 2,
+				"id": 220205,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 500
+			}
+		],
+		"price": 1000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 170
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 170000
+			}
+		]
+	},
+	"8": {
+		"vipLevel": 8,
+		"recharge": 500,
+		"total": 886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 960
+			},
+			{
+				"type": 20,
+				"value": 30
+			},
+			{
+				"type": 1,
+				"value": 11
+			},
+			{
+				"type": 10,
+				"value": 7
+			},
+			{
+				"type": 11,
+				"value": 8
+			},
+			{
+				"type": 17,
+				"value": 3
+			},
+			{
+				"type": 14,
+				"value": 43200
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 3
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 4
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 18,
+				"value": 2
+			},
+			{
+				"type": 21,
+				"value": 3
+			},
+			{
+				"type": 22,
+				"value": 3
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 40
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 2000
+			},
+			{
+				"type": 2,
+				"id": 501016,
+				"num": 1
+			}
+		],
+		"price": 1000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 180000
+			}
+		]
+	},
+	"9": {
+		"vipLevel": 9,
+		"recharge": 1000,
+		"total": 1886,
+		"accessTimes": [
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 19,
+				"value": 1080
+			},
+			{
+				"type": 23,
+				"value": 4
+			},
+			{
+				"type": 20,
+				"value": 40
+			},
+			{
+				"type": 1,
+				"value": 12
+			},
+			{
+				"type": 10,
+				"value": 8
+			},
+			{
+				"type": 11,
+				"value": 9
+			},
+			{
+				"type": 18,
+				"value": 3
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 4
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 17,
+				"value": 3
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 40
+			},
+			{
+				"type": 2,
+				"id": 220206,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000502,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 10
+			}
+		],
+		"price": 2000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 190
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 190000
+			}
+		]
+	},
+	"10": {
+		"vipLevel": 10,
+		"recharge": 2000,
+		"total": 3886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1200
+			},
+			{
+				"type": 20,
+				"value": 50
+			},
+			{
+				"type": 1,
+				"value": 13
+			},
+			{
+				"type": 10,
+				"value": 9
+			},
+			{
+				"type": 11,
+				"value": 10
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 4
+			},
+			{
+				"type": 9,
+				"value": 3
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 4
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 17,
+				"value": 3
+			},
+			{
+				"type": 18,
+				"value": 3
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 50
+			},
+			{
+				"type": 2,
+				"id": 220207,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 3000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 300
+			}
+		],
+		"price": 3000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 200000
+			}
+		]
+	},
+	"11": {
+		"vipLevel": 11,
+		"recharge": 3000,
+		"total": 6886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1320
+			},
+			{
+				"type": 9,
+				"value": 4
+			},
+			{
+				"type": 20,
+				"value": 60
+			},
+			{
+				"type": 1,
+				"value": 14
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 11,
+				"value": 12
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 4
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 18,
+				"value": 3
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 100
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 100
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 501017,
+				"num": 1
+			}
+		],
+		"price": 4000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 230
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 230000
+			}
+		]
+	},
+	"12": {
+		"vipLevel": 12,
+		"recharge": 4000,
+		"total": 10886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1440
+			},
+			{
+				"type": 23,
+				"value": 5
+			},
+			{
+				"type": 20,
+				"value": 70
+			},
+			{
+				"type": 1,
+				"value": 15
+			},
+			{
+				"type": 11,
+				"value": 14
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 9,
+				"value": 4
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 150
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 20
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 20000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1000
+			}
+		],
+		"price": 5000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 260
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 260000
+			}
+		]
+	},
+	"13": {
+		"vipLevel": 13,
+		"recharge": 5000,
+		"total": 15886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1560
+			},
+			{
+				"type": 20,
+				"value": 80
+			},
+			{
+				"type": 1,
+				"value": 16
+			},
+			{
+				"type": 11,
+				"value": 16
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 5
+			},
+			{
+				"type": 9,
+				"value": 4
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 200
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 50
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 220208,
+				"num": 1
+			}
+		],
+		"price": 6000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 290
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 290000
+			}
+		]
+	},
+	"14": {
+		"vipLevel": 14,
+		"recharge": 10000,
+		"total": 25886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1680
+			},
+			{
+				"type": 20,
+				"value": 90
+			},
+			{
+				"type": 1,
+				"value": 18
+			},
+			{
+				"type": 11,
+				"value": 18
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 5
+			},
+			{
+				"type": 9,
+				"value": 4
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 50
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 40000
+			},
+			{
+				"type": 2,
+				"id": 220209,
+				"num": 1
+			}
+		],
+		"price": 8000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 320
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 320000
+			}
+		]
+	},
+	"15": {
+		"vipLevel": 15,
+		"recharge": 10000,
+		"total": 35886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1800
+			},
+			{
+				"type": 23,
+				"value": 6
+			},
+			{
+				"type": 9,
+				"value": 5
+			},
+			{
+				"type": 20,
+				"value": 100
+			},
+			{
+				"type": 1,
+				"value": 20
+			},
+			{
+				"type": 11,
+				"value": 20
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 303002,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 100
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 501018,
+				"num": 1
+			}
+		],
+		"price": 10000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 350
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 350000
+			}
+		]
+	},
+	"16": {
+		"vipLevel": 16,
+		"recharge": 15000,
+		"total": 50886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 1920
+			},
+			{
+				"type": 20,
+				"value": 110
+			},
+			{
+				"type": 1,
+				"value": 22
+			},
+			{
+				"type": 11,
+				"value": 22
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 6
+			},
+			{
+				"type": 9,
+				"value": 5
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 40700205,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 40700206,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 222001,
+				"num": 3
+			},
+			{
+				"type": 2,
+				"id": 30040001,
+				"num": 1000
+			}
+		],
+		"price": 12000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 380
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 380000
+			}
+		]
+	},
+	"17": {
+		"vipLevel": 17,
+		"recharge": 20000,
+		"total": 70886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 2040
+			},
+			{
+				"type": 20,
+				"value": 120
+			},
+			{
+				"type": 1,
+				"value": 24
+			},
+			{
+				"type": 11,
+				"value": 24
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 6
+			},
+			{
+				"type": 9,
+				"value": 5
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 12500502,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 222002,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000036,
+				"num": 1000
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 60000
+			}
+		],
+		"price": 14000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 410
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 410000
+			}
+		]
+	},
+	"18": {
+		"vipLevel": 18,
+		"recharge": 25000,
+		"total": 95886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 2160
+			},
+			{
+				"type": 23,
+				"value": 7
+			},
+			{
+				"type": 20,
+				"value": 130
+			},
+			{
+				"type": 1,
+				"value": 26
+			},
+			{
+				"type": 11,
+				"value": 26
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 9,
+				"value": 5
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 40700305,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 40700306,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 222001,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30040001,
+				"num": 3000
+			}
+		],
+		"price": 16000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 440
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 440000
+			}
+		]
+	},
+	"19": {
+		"vipLevel": 19,
+		"recharge": 30000,
+		"total": 125886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 2280
+			},
+			{
+				"type": 20,
+				"value": 140
+			},
+			{
+				"type": 1,
+				"value": 28
+			},
+			{
+				"type": 11,
+				"value": 28
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 7
+			},
+			{
+				"type": 9,
+				"value": 5
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 12500501,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 222002,
+				"num": 3
+			},
+			{
+				"type": 2,
+				"id": 30000036,
+				"num": 3000
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 70000
+			}
+		],
+		"price": 18000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 470
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 470000
+			}
+		]
+	},
+	"20": {
+		"vipLevel": 20,
+		"recharge": 35000,
+		"total": 160886,
+		"accessTimes": [
+			{
+				"type": 19,
+				"value": 2400
+			},
+			{
+				"type": 20,
+				"value": 150
+			},
+			{
+				"type": 1,
+				"value": 30
+			},
+			{
+				"type": 11,
+				"value": 30
+			},
+			{
+				"type": 14,
+				"value": 86400
+			},
+			{
+				"type": 4,
+				"value": 1
+			},
+			{
+				"type": 8,
+				"value": 4
+			},
+			{
+				"type": 23,
+				"value": 7
+			},
+			{
+				"type": 9,
+				"value": 5
+			},
+			{
+				"type": 3,
+				"value": 1
+			},
+			{
+				"type": 12,
+				"value": 100
+			},
+			{
+				"type": 15,
+				"value": 1
+			},
+			{
+				"type": 16,
+				"value": 1
+			},
+			{
+				"type": 13,
+				"value": 1
+			},
+			{
+				"type": 2,
+				"value": 1
+			},
+			{
+				"type": 7,
+				"value": 5
+			},
+			{
+				"type": 5,
+				"value": 1
+			},
+			{
+				"type": 6,
+				"value": 1
+			},
+			{
+				"type": 10,
+				"value": 10
+			},
+			{
+				"type": 17,
+				"value": 4
+			},
+			{
+				"type": 18,
+				"value": 4
+			},
+			{
+				"type": 21,
+				"value": 4
+			},
+			{
+				"type": 22,
+				"value": 4
+			}
+		],
+		"vipReward": [
+			{
+				"type": 2,
+				"id": 40800305,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 40800306,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30040001,
+				"num": 5000
+			},
+			{
+				"type": 2,
+				"id": 30000036,
+				"num": 5000
+			}
+		],
+		"price": 20000,
+		"dailyPackage": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 1,
+				"id": 1,
+				"num": 500000
+			}
+		]
+	}
+}

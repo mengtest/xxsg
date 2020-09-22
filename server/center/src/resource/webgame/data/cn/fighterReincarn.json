@@ -1,0 +1,1106 @@
+{
+	"1": {
+		"id": 1,
+		"openLevel": 200,
+		"task": [
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 8
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 194,
+				"targetId": 0,
+				"num": 400
+			},
+			{
+				"type": 218,
+				"targetId": 0,
+				"num": 50
+			},
+			{
+				"type": 241,
+				"targetId": 0,
+				"num": 10
+			}
+		],
+		"levelLimit": 250,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 12000
+			},
+			{
+				"id": 2,
+				"num": 6000
+			},
+			{
+				"id": 3,
+				"num": 6000
+			},
+			{
+				"id": 4,
+				"num": 120000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"openLevel": 250,
+		"task": [
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 12
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 50
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 194,
+				"targetId": 0,
+				"num": 600
+			},
+			{
+				"type": 218,
+				"targetId": 0,
+				"num": 60
+			},
+			{
+				"type": 241,
+				"targetId": 0,
+				"num": 20
+			}
+		],
+		"levelLimit": 300,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 40
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 20000
+			},
+			{
+				"id": 2,
+				"num": 10000
+			},
+			{
+				"id": 3,
+				"num": 10000
+			},
+			{
+				"id": 4,
+				"num": 200000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 40
+			}
+		]
+	},
+	"3": {
+		"id": 3,
+		"openLevel": 300,
+		"task": [
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 16
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 75
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 30
+			},
+			{
+				"type": 194,
+				"targetId": 0,
+				"num": 800
+			},
+			{
+				"type": 218,
+				"targetId": 0,
+				"num": 70
+			},
+			{
+				"type": 241,
+				"targetId": 0,
+				"num": 30
+			}
+		],
+		"levelLimit": 350,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 60
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 28000
+			},
+			{
+				"id": 2,
+				"num": 14000
+			},
+			{
+				"id": 3,
+				"num": 14000
+			},
+			{
+				"id": 4,
+				"num": 280000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 60
+			}
+		]
+	},
+	"4": {
+		"id": 4,
+		"openLevel": 350,
+		"task": [
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 100
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 35
+			},
+			{
+				"type": 194,
+				"targetId": 0,
+				"num": 1000
+			},
+			{
+				"type": 218,
+				"targetId": 0,
+				"num": 80
+			},
+			{
+				"type": 241,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"levelLimit": 400,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 100
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 40000
+			},
+			{
+				"id": 2,
+				"num": 20000
+			},
+			{
+				"id": 3,
+				"num": 20000
+			},
+			{
+				"id": 4,
+				"num": 400000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 100
+			}
+		]
+	},
+	"101": {
+		"id": 101,
+		"openLevel": 200,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 3
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 8
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 50
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 20
+			}
+		],
+		"levelLimit": 250,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 6000
+			},
+			{
+				"id": 2,
+				"num": 3000
+			},
+			{
+				"id": 3,
+				"num": 3000
+			},
+			{
+				"id": 4,
+				"num": 60000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 20
+			}
+		]
+	},
+	"102": {
+		"id": 102,
+		"openLevel": 250,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 4
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 12
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 50
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 100
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 30
+			}
+		],
+		"levelLimit": 300,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 40
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 10000
+			},
+			{
+				"id": 2,
+				"num": 5000
+			},
+			{
+				"id": 3,
+				"num": 5000
+			},
+			{
+				"id": 4,
+				"num": 100000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 40
+			}
+		]
+	},
+	"103": {
+		"id": 103,
+		"openLevel": 300,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 5
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 16
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 75
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 30
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 150
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"levelLimit": 350,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 60
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 14000
+			},
+			{
+				"id": 2,
+				"num": 7000
+			},
+			{
+				"id": 3,
+				"num": 7000
+			},
+			{
+				"id": 4,
+				"num": 140000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 60
+			}
+		]
+	},
+	"104": {
+		"id": 104,
+		"openLevel": 350,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 6
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 100
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 35
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 200
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 60
+			}
+		],
+		"levelLimit": 400,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 100
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 20000
+			},
+			{
+				"id": 2,
+				"num": 10000
+			},
+			{
+				"id": 3,
+				"num": 10000
+			},
+			{
+				"id": 4,
+				"num": 200000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 100
+			}
+		]
+	},
+	"201": {
+		"id": 201,
+		"openLevel": 200,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 3
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 8
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 50
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 20
+			}
+		],
+		"levelLimit": 250,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 30
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 9000
+			},
+			{
+				"id": 2,
+				"num": 4500
+			},
+			{
+				"id": 3,
+				"num": 4500
+			},
+			{
+				"id": 4,
+				"num": 90000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 30
+			}
+		]
+	},
+	"202": {
+		"id": 202,
+		"openLevel": 250,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 4
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 12
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 50
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 100
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 30
+			}
+		],
+		"levelLimit": 300,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 60
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 15000
+			},
+			{
+				"id": 2,
+				"num": 7500
+			},
+			{
+				"id": 3,
+				"num": 7500
+			},
+			{
+				"id": 4,
+				"num": 150000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 60
+			}
+		]
+	},
+	"203": {
+		"id": 203,
+		"openLevel": 300,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 5
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 16
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 75
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 30
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 150
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"levelLimit": 350,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 90
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 21000
+			},
+			{
+				"id": 2,
+				"num": 10500
+			},
+			{
+				"id": 3,
+				"num": 10500
+			},
+			{
+				"id": 4,
+				"num": 210000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 90
+			}
+		]
+	},
+	"204": {
+		"id": 204,
+		"openLevel": 350,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 6
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 100
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 35
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 200
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 60
+			}
+		],
+		"levelLimit": 400,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 150
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 30000
+			},
+			{
+				"id": 2,
+				"num": 15000
+			},
+			{
+				"id": 3,
+				"num": 15000
+			},
+			{
+				"id": 4,
+				"num": 300000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 150
+			}
+		]
+	},
+	"301": {
+		"id": 301,
+		"openLevel": 200,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 2
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 8
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 100
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 30
+			}
+		],
+		"levelLimit": 250,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 40
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 12000
+			},
+			{
+				"id": 2,
+				"num": 6000
+			},
+			{
+				"id": 3,
+				"num": 6000
+			},
+			{
+				"id": 4,
+				"num": 120000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 40
+			}
+		]
+	},
+	"302": {
+		"id": 302,
+		"openLevel": 250,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 3
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 12
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 50
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 25
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 150
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"levelLimit": 300,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 80
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 20000
+			},
+			{
+				"id": 2,
+				"num": 10000
+			},
+			{
+				"id": 3,
+				"num": 10000
+			},
+			{
+				"id": 4,
+				"num": 200000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 80
+			}
+		]
+	},
+	"303": {
+		"id": 303,
+		"openLevel": 300,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 4
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 16
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 75
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 30
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 200
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 60
+			}
+		],
+		"levelLimit": 350,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 120
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 28000
+			},
+			{
+				"id": 2,
+				"num": 14000
+			},
+			{
+				"id": 3,
+				"num": 14000
+			},
+			{
+				"id": 4,
+				"num": 280000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 120
+			}
+		]
+	},
+	"304": {
+		"id": 304,
+		"openLevel": 350,
+		"task": [
+			{
+				"type": 237,
+				"targetId": -1,
+				"num": 5
+			},
+			{
+				"type": 238,
+				"targetId": -1,
+				"num": 20
+			},
+			{
+				"type": 239,
+				"targetId": -1,
+				"num": 100
+			},
+			{
+				"type": 240,
+				"targetId": -1,
+				"num": 35
+			},
+			{
+				"type": 233,
+				"targetId": 0,
+				"num": 250
+			},
+			{
+				"type": 224,
+				"targetId": 0,
+				"num": 80
+			}
+		],
+		"levelLimit": 400,
+		"cost": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 200
+			}
+		],
+		"attr": [
+			{
+				"id": 1,
+				"num": 40000
+			},
+			{
+				"id": 2,
+				"num": 20000
+			},
+			{
+				"id": 3,
+				"num": 20000
+			},
+			{
+				"id": 4,
+				"num": 400000
+			}
+		],
+		"recover": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 200
+			}
+		]
+	}
+}

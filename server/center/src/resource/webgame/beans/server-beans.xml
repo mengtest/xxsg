@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.2.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd">
+
+    <context:annotation-config/>
+
+    <context:property-placeholder location="webgame/props/*.properties"/>
+
+    <import resource="data-beans.xml" />
+    <import resource="service-beans.xml" />
+    <import resource="redis-beans.xml" />
+
+    <bean id="serverManager" class="com.linlongyx.sanguo.webgame.server.ServerManagerImpl" init-method="startServers" destroy-method="stopServers"/>
+
+    <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
+
+    <!-- wsServer -->
+    <bean id="wsServer" class="com.linlongyx.core.framework.server.netty.NettyTCPServer">
+        <constructor-arg ref="wsConfig"/>
+        <constructor-arg ref="webSocketServerInitializer"/>
+    </bean>
+
+    <!-- wsSSLServer -->
+    <bean id="wssServer" class="com.linlongyx.core.framework.server.netty.NettyTCPServer">
+        <constructor-arg ref="wsSSLConfig"/>
+        <constructor-arg ref="webSSLSocketServerInitializer"/>
+    </bean>
+
+    <bean id="webSocketServerInitializer" class="com.linlongyx.sanguo.webgame.net.ws.WebSocketServerInitializer">
+        <constructor-arg type="boolean" name="ssl" value="false"/>
+    </bean>
+    <bean id="webSSLSocketServerInitializer" class="com.linlongyx.sanguo.webgame.net.ws.WebSocketServerInitializer">
+        <constructor-arg type="boolean" name="ssl" value="false"/>
+        <!--<property name="businessGroup" ref="businessGroup" />-->
+    </bean>
+
+    <bean id="wsConfig" class="com.linlongyx.core.framework.server.netty.NettyConfig">
+        <property name="channelOptions" ref="tcpChannelOptions"/>
+        <property name="bossGroup" ref="bossGroup"/>
+        <property name="workerGroup" ref="workerGroup"/>
+        <property name="portNumber" value="${ws.port}"/>
+    </bean>
+
+    <bean id="wsSSLConfig" class="com.linlongyx.core.framework.server.netty.NettyConfig">
+        <property name="channelOptions" ref="tcpChannelOptions"/>
+        <property name="bossGroup" ref="bossGroup"/>
+        <property name="workerGroup" ref="workerGroup"/>
+        <property name="portNumber" value="${wss.port}"/>
+        <property name="ssl" value="true"/>
+    </bean>
+
+    <!-- httpServer -->
+    <bean id="httpServer" class="com.linlongyx.core.framework.server.netty.NettyTCPServer">
+        <constructor-arg ref="httpConfig"/>
+        <constructor-arg ref="httpChannelInitializer"/>
+    </bean>
+    <bean id="httpConfig" class="com.linlongyx.core.framework.server.netty.NettyConfig">
+        <property name="channelOptions" ref="tcpChannelOptions"/>
+        <property name="bossGroup" ref="bossGroup"/>
+        <property name="workerGroup" ref="workerGroup"/>
+        <property name="portNumber" value="${http.port}"/>
+    </bean>
+    <bean id="httpChannelInitializer"  class="com.linlongyx.sanguo.webgame.net.http.HttpChannelInitializer"/>
+
+    <!-- Netty options for server bootstrap -->
+    <util:map id="tcpChannelOptions" map-class="java.util.HashMap">
+        <entry>
+            <key>
+                <util:constant static-field="io.netty.channel.ChannelOption.SO_KEEPALIVE"/>
+            </key>
+            <value type="java.lang.Boolean">${so.keepalive}</value>
+        </entry>
+        <entry>
+            <key>
+                <util:constant static-field="io.netty.channel.ChannelOption.SO_BACKLOG"/>
+            </key>
+            <value type="java.lang.Integer">${so.backlog}</value>
+        </entry>
+    </util:map>
+    <bean id="bossGroup" class="io.netty.channel.nio.NioEventLoopGroup" destroy-method="shutdownGracefully">
+        <constructor-arg type="int" index="0" value="${bossThreadCount}"/>
+        <constructor-arg index="1" ref="bossThreadFactory"/>
+    </bean>
+    <bean id="workerGroup" class="io.netty.channel.nio.NioEventLoopGroup" destroy-method="shutdownGracefully">
+        <constructor-arg type="int" index="0" value="${workerThreadCount}"/>
+        <constructor-arg index="1" ref="workerThreadFactory"/>
+    </bean>
+    <bean id="bossThreadFactory" class="com.linlongyx.core.framework.concurrent.NamedThreadFactory">
+        <constructor-arg index="0" value="Server-Boss"/>
+    </bean>
+    <bean id="workerThreadFactory" class="com.linlongyx.core.framework.concurrent.NamedThreadFactory">
+        <constructor-arg index="0" value="Server-Worker"/>
+    </bean>
+
+
+    <!-- rmi配置 -->
+    <bean id="rmiManager" class="com.linlongyx.sanguo.webgame.rmi.RmiManager" init-method="publishRmi" destroy-method="stopRmi">
+        <property name="host" value="${rmi.host}"/>
+        <property name="port" value="${rmi.port}"/>
+        <property name="cmPort" value="${rmi.cmPort}"/>
+    </bean>
+
+    <!-- quartz -->
+    <bean id="quartzManager" class="com.linlongyx.sanguo.webgame.quartz.QuartzManager" init-method="start" destroy-method="shutdown"/>
+</beans>

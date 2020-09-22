@@ -1,0 +1,52 @@
+{
+	"1001": {
+		"id": 1001,
+		"name": "玄铁",
+		"rid": "S1015",
+		"quality": 50,
+		"star": 6,
+		"petSkill": 210010401,
+		"hurtType": 1,
+		"attr": 20000
+	},
+	"1002": {
+		"id": 1002,
+		"name": "天枢",
+		"rid": "S1014",
+		"quality": 50,
+		"star": 6,
+		"petSkill": 210020401,
+		"hurtType": 1,
+		"attr": 20000
+	},
+	"2001": {
+		"id": 2001,
+		"name": "真武",
+		"rid": "S1018",
+		"quality": 60,
+		"star": 6,
+		"petSkill": 210030401,
+		"hurtType": 1,
+		"attr": 20000
+	},
+	"2002": {
+		"id": 2002,
+		"name": "星璇",
+		"rid": "S1012",
+		"quality": 60,
+		"star": 6,
+		"petSkill": 210040401,
+		"hurtType": 1,
+		"attr": 20000
+	},
+	"3001": {
+		"id": 3001,
+		"name": "魔岩",
+		"rid": "S1019",
+		"quality": 70,
+		"star": 6,
+		"petSkill": 210050401,
+		"hurtType": 1,
+		"attr": 20000
+	}
+}

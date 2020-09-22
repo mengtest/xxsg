@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1eb2b0-aa3b-40da-99f9-88cd6d9b2cfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/center/center.iml" beforeDir="false" afterPath="$PROJECT_DIR$/center/center.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/game/game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xxsg.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +44,8 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -62,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600739192650</updated>
       <workItem from="1600739195123" duration="232000" />
+      <workItem from="1600741048607" duration="458000" />
     </task>
     <servers />
   </component>
@@ -78,12 +76,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1600739405989">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600741505985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600739405989" />
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600741505985" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600739368844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

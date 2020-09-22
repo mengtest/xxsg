@@ -19,7 +19,76 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1eb2b0-aa3b-40da-99f9-88cd6d9b2cfe" name="Default Changelist" comment="" />
+    <list default="true" id="4a1eb2b0-aa3b-40da-99f9-88cd6d9b2cfe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/center/center.iml" beforeDir="false" afterPath="$PROJECT_DIR$/center/center.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/dao/IDAO$TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/dao/proxy/EntityProxy$1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/dao/proxy/IEntityProxy$ENTITY_STATUS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/ICharacter$CHARACTER_TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/IPlayerSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/IPlayerSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/ISession$Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/ISession.java" beforeDir="false" afterPath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/ISession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/PlayerSession$PlayerSessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/Session$SessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/moblie/PlayerSession$PlayerSessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/moblie/PlayerSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/logic/moblie/PlayerSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/protocol/IEvent$EVENT_TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/server/Server$TRANSMISSION_PROTOCOL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/core/framework/server/Server$TransmissionProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/common/attribute/PlayerAttrUp$AttrUpType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/common/fight/select/range/RANGE_TARGET$TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/common/fight/select/target/SINGLE_TARGET$TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/common/fight/side/IFightSide$END_STATUS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/common/team/Team$TeamStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/EffectBean$AffectParaBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/FighterBean$AttrParBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/FighterBean$FurnaceBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/FighterStarBean$LevelBean$AttrBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/FighterStarBean$LevelBean$AttrParbonusBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/FighterStarBean$LevelBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/MultiInsBean$WaveBean$MonsterBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/MultiInsBean$WaveBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/MultiRobotBean$FightingBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/MultiRobotBean$LevelBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/ParameterBean$SecBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/PetBean$StarBean$CardBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/PetBean$StarBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/SoulsStarBean$StarBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/StarcraftBean$BuildingLocationBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/ZhenfaBean$StarBean$CardBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/ZhenfaBean$StarBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/config/bean/ZhenfaRestraintBean$BuffBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/constant/ParameterConstant$SimpleAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/log/LogType.java" beforeDir="false" afterPath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/log/LogType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/battle/BattleResource$ResourceState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/battle/BattleResource$ResourceType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/battle/BattleUtil$BattleState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/data/CoordinateData$AxisData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/data/CoordinateData$NodeData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/destiny/MatchCache$RewardCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/destiny/match/Zone$ZoneState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/rank/RankDataCache$RankState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/runewar/RunewarCache$RunewarStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/tower/TowerLayerData$TowerLayerFightState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/src/main/java/com/linlongyx/sanguo/webgame/rmi/tower/TowerLayerData$TowerLayerState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/game/game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/dao/IDAO$TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/dao/proxy/EntityProxy$1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/dao/proxy/IEntityProxy$ENTITY_STATUS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/logic/ICharacter$CHARACTER_TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/logic/ISession$Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/logic/PlayerSession$PlayerSessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/logic/Session$SessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/logic/moblie/PlayerSession$PlayerSessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/protocol/IEvent$EVENT_TYPE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/server/Server$TRANSMISSION_PROTOCOL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/framework/server/Server$TransmissionProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/core/utils/Rijndael$AESMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/sanguo/logclient/event/Events$EventType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/sanguo/logclient/event/Events$SanguoSubChatType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/sanguo/logclient/event/Events$SubChatType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/linlongyx/sanguo/logclient/event/Events$SwordSubChatType.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +109,73 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CrossClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linlongyx.sanguo.cross.CrossClient" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linlongyx.sanguo.cross.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linlongyx.startup.CrossServer" />
+      <module name="center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linlongyx.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linlongyx.sanguo.client.startup.GameClient" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linlongyx.sanguo.client.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linlongyx.core.Main" />
+      <module name="center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linlongyx.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CrossClient" />
+        <item itemvalue="Application.GameClient" />
+        <item itemvalue="Application.CrossServer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,6 +189,7 @@
       <updated>1600739192650</updated>
       <workItem from="1600739195123" duration="232000" />
       <workItem from="1600741048607" duration="755000" />
+      <workItem from="1600741814676" duration="2299000" />
     </task>
     <servers />
   </component>
@@ -77,17 +209,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1600741505985">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600756535445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600741505985" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600739368844">
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600756535445" />
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600756514442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600739368844" />
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600756514442" />
+    <state x="737" y="404" key="DetectedRootsChooserDialog" timestamp="1600756451570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="404" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600756451570" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600756477922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600756477922" />
     <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1600739369871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600739369871" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600756922340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600756922340" />
   </component>
 </project>

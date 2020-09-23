@@ -1,0 +1,170 @@
+{
+	"1": {
+		"goodsId": 1,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10506003,
+				"num": 1
+			}
+		],
+		"cost": 800,
+		"activityType": 1,
+		"exchangeTimes": 1
+	},
+	"2": {
+		"goodsId": 2,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10505043,
+				"num": 1
+			}
+		],
+		"cost": 200,
+		"activityType": 1,
+		"exchangeTimes": 1
+	},
+	"3": {
+		"goodsId": 3,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702004,
+				"num": 1
+			}
+		],
+		"cost": 250,
+		"activityType": 1,
+		"exchangeTimes": 100
+	},
+	"4": {
+		"goodsId": 4,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702005,
+				"num": 1
+			}
+		],
+		"cost": 150,
+		"activityType": 1,
+		"exchangeTimes": 100
+	},
+	"5": {
+		"goodsId": 5,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10703001,
+				"num": 1
+			}
+		],
+		"cost": 100,
+		"activityType": 1,
+		"exchangeTimes": 100
+	},
+	"6": {
+		"goodsId": 6,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10703002,
+				"num": 1
+			}
+		],
+		"cost": 20,
+		"activityType": 1,
+		"exchangeTimes": 100
+	},
+	"7": {
+		"goodsId": 7,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702106,
+				"num": 10
+			}
+		],
+		"cost": 1,
+		"activityType": 1,
+		"exchangeTimes": 0
+	},
+	"8": {
+		"goodsId": 8,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702105,
+				"num": 10
+			}
+		],
+		"cost": 1,
+		"activityType": 1,
+		"exchangeTimes": 0
+	},
+	"9": {
+		"goodsId": 9,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702104,
+				"num": 10
+			}
+		],
+		"cost": 1,
+		"activityType": 1,
+		"exchangeTimes": 0
+	},
+	"10": {
+		"goodsId": 10,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702103,
+				"num": 10
+			}
+		],
+		"cost": 1,
+		"activityType": 1,
+		"exchangeTimes": 0
+	},
+	"11": {
+		"goodsId": 11,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702102,
+				"num": 10
+			}
+		],
+		"cost": 1,
+		"activityType": 1,
+		"exchangeTimes": 0
+	},
+	"12": {
+		"goodsId": 12,
+		"lib": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 10702101,
+				"num": 10
+			}
+		],
+		"cost": 1,
+		"activityType": 1,
+		"exchangeTimes": 0
+	}
+}

@@ -1,0 +1,162 @@
+---------------------------------------processors目录功能---------------------------------------
+achieve：成就系统
+    AchieveInfoProcessor 获取成就信息
+    AchieveRewardProcessor 领取成就奖励奖励
+    AchieveUtil 成就计算
+
+arena：竞技场
+    ArenaBuyTimesProcessor 购买挑战次数
+    ArenaInfoProcessor 竞技场信息
+    ArenaReportProcessor 竞技场战报记录
+    ArenaSweepProcessor 竞技场扫荡
+    ArenaUtil 竞技场相关方法
+
+bosshome：排行Boss、世界Boss
+    BossBuyTimeProcessor 排行BOSS挑战次数购买
+    BossDamagePushProcessor 排行Boss伤害变化推送
+    BossHitInfoProcessor 排行Boss伤害排行
+    BossListProcessor 排行Boss列表
+    BossUtil 相关方法
+    WorldBuyTimeProcessor 世界boss购买次数
+    WorldDamageListProcessor 世界boss伤害排名
+    WorldInfoProcessor 世界BOSS信息
+    WorldPushProcessor 世界boss伤害推送
+    WorldRewardInfoProcessor 世界boss奖励信息
+    WorldRewardProcessor 领取世界boss奖励
+
+charge：充值
+    ChargeInfoProcessor 充值信息
+    FirstChargeRewardProcessor 领取首充奖励
+
+chat：聊天
+    ChatBroadcastProcessor 频道广播
+    ChatByChannelProcessor 公共聊天
+    ChatConstant 聊天类型
+    ChatOpenProcessor 打开私聊
+    ChatProcessor 私聊
+    ChatRadiateProcessor 屏幕中央广播
+    ChatUtils 聊天相关方法
+
+common：公用
+    AdditionUpdateProcessor 加成属性更新
+    AttrUpdateProcessor 属性更新
+    DelayRewardNoticeProcessor 延迟奖励弹窗
+    FunctionTimeNoticeProcessor 定时活动通知
+    KeyValueUpdateProcessor 玩家keyvalue信息更新
+    RedNoticeProcessor 提醒推送（红点）
+    RewardNoticeProcessor 玩家获得奖励弹窗（飘字）
+
+continuity：开服连充
+    ContinueRechargeInfoProcessor 获取某活动个人信息
+    ContinueRechargeNoticeProcessor 开服连充开启
+    ContinueRechargeRewardProcessor 开服连充领奖
+    ContinueUtil 活动相关方法
+
+equip：装备/锻造
+    EquipPurifyProcessor 武将装备精炼
+    EquipStoneUpProcessor 装备宝石升级
+    EquipStrengthUpProcessor 武将装备强化
+    EquipZhuUpProcessor 装备铸魂升级
+    EquipUtil 装备相关方法
+
+fight：战斗
+    FightRecordProcessor 请求战报数据
+    InsRewardProcessor 副本结算奖励
+    KillSingleMonsterProcessor 挂机杀怪
+    ResultUtil 战斗相关方法
+
+general：名将副本
+    GeneralBoxRewardProcessor 名将副本领取宝箱奖励
+    GeneralBuyOrderProcessor 名将副本购买军令
+    GeneralChapterInfoProcessor 名将章节信息
+    GeneralPointResetProcessor 名将副本关卡重置
+    GeneralPointSweepProcessor 名将副本扫荡
+    GeneralStarRankProcessor 名将副本星级排行
+    GeneralTotalInfoProcessor 名将总体信息
+    GeneralUtil 名将副本相关方法
+
+group：军团
+    GroupApplyDealProcessor 军团申请列表处理
+    GroupApplyListProcessor 军团申请列表
+    GroupApplyProcessor 申请加入军团
+    GroupCancelApplyProcessor 取消申请加入军团
+    GroupCreateProcessor 创建军团
+    GroupInfoProcessor 军团信息
+    GroupListProcessor 军团列表
+    GroupMemberListProcessor 成员列表
+    GroupMemberManageProcessor 军团成员管理
+    GroupNoticeChangeProcessor 修改公告
+    GroupSacrificeActionProcessor 进行祭天
+    GroupSacrificeInfoProcessor 祭天信息
+    GroupSacrificeRewardProcessor 领取祭天宝箱奖励
+    GroupSkillInfoProcessor 军团技能信息
+    GroupSkillLevelUpProcessor 军团技能升级
+    GroupUtil 军团相关方法
+
+login：登陆
+    CreatePlayerProcessor 创角
+    EnterGameProcessor 进入游戏
+    LoginInfoDebugProcessor 玩家登陆(Debug模式)
+    LoginInfoProcessor 玩家登陆
+    OfflineNoticeProcessor 离线通知
+    TimeSyncProcessor 同步时钟
+
+    OfflineIncomeInfoProcessor 挂机离线收益信息
+    OfflineIncomeRewardProcessor 挂机离线收益领取
+
+    VipInfoProcessor vip信息
+    VipRewardProcessor 购买vip专享礼包
+    VipUtil vip相关方法
+
+mail：邮件
+    MailConstant 邮件常量
+    MailExtractProcessor 收取邮件附件
+    MailListProcessor 邮件列表
+    MailNoticeProcessor 邮件提醒
+    MailReadProcessor 读邮件
+    MailUtil 邮件相关方法
+
+rankAct：开服竞赛
+    RankActInfoProcessor 获取某活动个人信息
+    RankActListProcessor 获取某活动排行榜
+    RankActNoticeProcessor 开服竞赛开启
+    RankActRewardProcessor 领取某活动奖励
+    RankActUtil 竞赛相关方法
+
+singleIns：日常副本
+    NormalInsInfoProcessor 日常副本信息
+    NormalInsSweepProcessor 日常副本扫荡
+    SingleInsUtil 相关方法
+
+task：任务
+    TaskCompleteProcessor 主线完成任务（领奖）
+    TaskDailyInfoProcessor 日常信息
+    TaskDailyRewardProcessor 日常奖励领取
+    TaskInfoProcessor 玩家任务信息
+    TaskUtil 任务相关方法
+
+welfare：福利
+    WelfareVipInfoProcessor 福利vip信息
+    WelfareVipDailyProcessor 福利vip每日领取
+    WelfareVipWeekProcessor 福利vip每周购买
+
+---------------------------------------战斗类---------------------------------------
+ArenaFight 竞技场战斗
+GeneralFight 名将副本
+NormalFight 日常副本
+RankBossFight 排行boss副本
+WorldBossFight 世界boss副本
+
+---------------------------------------service---------------------------------------
+FightService 战斗线程
+GroupService 军团服务
+PubMailService 公共邮件
+WorldBossService 世界boss
+
+---------------------------------------event---------------------------------------
+ArenaRewardEvent 竞技场结算
+DailyResetEvent 每日重置
+GmListEvent gm列表
+MailEvent 公共邮件
+WorldBossEndEvent 世界Boss关闭
+WorldBossStartEvent 世界Boss开启

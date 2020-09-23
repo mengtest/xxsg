@@ -1,0 +1,3656 @@
+{
+	"10": {
+		"equipLevel": 10,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 240
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 48
+			}
+		],
+		"suitC": [
+			{
+				"id": 16,
+				"num": 100
+			},
+			{
+				"id": 22,
+				"num": 100
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40100101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 8
+					}
+				],
+				"costCoin": 1000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 14
+					}
+				],
+				"costExp": 1000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 20000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40100102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 4
+					}
+				],
+				"costCoin": 1000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 7
+					}
+				],
+				"costExp": 1000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40100103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 4
+					}
+				],
+				"costCoin": 1000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 7
+					}
+				],
+				"costExp": 1000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40100104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 40
+					}
+				],
+				"costCoin": 1000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 70
+					}
+				],
+				"costExp": 1000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"20": {
+		"equipLevel": 20,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 480
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 96
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 100
+			},
+			{
+				"id": 12,
+				"num": 100
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40200101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 16
+					}
+				],
+				"costCoin": 2000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 28
+					}
+				],
+				"costExp": 2000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40200102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 8
+					}
+				],
+				"costCoin": 2000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 14
+					}
+				],
+				"costExp": 2000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40200103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 8
+					}
+				],
+				"costCoin": 2000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 14
+					}
+				],
+				"costExp": 2000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40200104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 80
+					}
+				],
+				"costCoin": 2000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 140
+					}
+				],
+				"costExp": 2000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"30": {
+		"equipLevel": 30,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 720
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 144
+			}
+		],
+		"suitC": [
+			{
+				"id": 16,
+				"num": 200
+			},
+			{
+				"id": 23,
+				"num": 200
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40300101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 24
+					}
+				],
+				"costCoin": 3000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 42
+					}
+				],
+				"costExp": 3000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40300102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 12
+					}
+				],
+				"costCoin": 3000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 21
+					}
+				],
+				"costExp": 3000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40300103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 12
+					}
+				],
+				"costCoin": 3000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 21
+					}
+				],
+				"costExp": 3000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40300104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 120
+					}
+				],
+				"costCoin": 3000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 210
+					}
+				],
+				"costExp": 3000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"31": {
+		"equipLevel": 31,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 960
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 192
+			}
+		],
+		"suitC": [
+			{
+				"id": 22,
+				"num": 200
+			},
+			{
+				"id": 24,
+				"num": 200
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40300201,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 32
+					}
+				],
+				"costCoin": 4000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 56
+					}
+				],
+				"costExp": 4000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40300202,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 16
+					}
+				],
+				"costCoin": 4000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 28
+					}
+				],
+				"costExp": 4000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40300203,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 16
+					}
+				],
+				"costCoin": 4000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 28
+					}
+				],
+				"costExp": 4000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40300204,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 160
+					}
+				],
+				"costCoin": 4000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 280
+					}
+				],
+				"costExp": 4000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"40": {
+		"equipLevel": 40,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 1200
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 240
+			}
+		],
+		"suitC": [
+			{
+				"id": 16,
+				"num": 300
+			},
+			{
+				"id": 22,
+				"num": 300
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40400101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 48
+					}
+				],
+				"costCoin": 6000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 84
+					}
+				],
+				"costExp": 6000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40400102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 24
+					}
+				],
+				"costCoin": 6000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 42
+					}
+				],
+				"costExp": 6000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40400103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 24
+					}
+				],
+				"costCoin": 6000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 42
+					}
+				],
+				"costExp": 6000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40400104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 240
+					}
+				],
+				"costCoin": 6000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 420
+					}
+				],
+				"costExp": 6000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"41": {
+		"equipLevel": 41,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 1440
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 288
+			}
+		],
+		"suitC": [
+			{
+				"id": 23,
+				"num": 300
+			},
+			{
+				"id": 24,
+				"num": 300
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40400201,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 64
+					}
+				],
+				"costCoin": 8000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 112
+					}
+				],
+				"costExp": 8000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40400202,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 32
+					}
+				],
+				"costCoin": 8000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 56
+					}
+				],
+				"costExp": 8000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40400203,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 32
+					}
+				],
+				"costCoin": 8000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 56
+					}
+				],
+				"costExp": 8000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40400204,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 320
+					}
+				],
+				"costCoin": 8000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 560
+					}
+				],
+				"costExp": 8000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"42": {
+		"equipLevel": 42,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 1680
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 336
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 300
+			},
+			{
+				"id": 12,
+				"num": 300
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40400301,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 80
+					}
+				],
+				"costCoin": 10000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 140
+					}
+				],
+				"costExp": 10000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40400302,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 40
+					}
+				],
+				"costCoin": 10000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 70
+					}
+				],
+				"costExp": 10000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40400303,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 40
+					}
+				],
+				"costCoin": 10000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 70
+					}
+				],
+				"costExp": 10000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40400304,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 400
+					}
+				],
+				"costCoin": 10000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 700
+					}
+				],
+				"costExp": 10000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"50": {
+		"equipLevel": 50,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 1920
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 384
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 500
+			},
+			{
+				"id": 12,
+				"num": 500
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40500101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 96
+					}
+				],
+				"costCoin": 12000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 168
+					}
+				],
+				"costExp": 12000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40500102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 48
+					}
+				],
+				"costCoin": 12000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 84
+					}
+				],
+				"costExp": 12000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40500103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 48
+					}
+				],
+				"costCoin": 12000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 84
+					}
+				],
+				"costExp": 12000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40500104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 480
+					}
+				],
+				"costCoin": 12000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 840
+					}
+				],
+				"costExp": 12000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"51": {
+		"equipLevel": 51,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 2160
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 432
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 800
+			},
+			{
+				"id": 12,
+				"num": 800
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40500201,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 112
+					}
+				],
+				"costCoin": 14000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 196
+					}
+				],
+				"costExp": 14000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40500202,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 56
+					}
+				],
+				"costCoin": 14000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 98
+					}
+				],
+				"costExp": 14000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40500203,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 56
+					}
+				],
+				"costCoin": 14000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 98
+					}
+				],
+				"costExp": 14000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40500204,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 560
+					}
+				],
+				"costCoin": 14000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 980
+					}
+				],
+				"costExp": 14000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"60": {
+		"equipLevel": 60,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 2400
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 480
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 1000
+			},
+			{
+				"id": 12,
+				"num": 1000
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40600101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 128
+					}
+				],
+				"costCoin": 16000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 224
+					}
+				],
+				"costExp": 16000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40600102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 64
+					}
+				],
+				"costCoin": 16000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 112
+					}
+				],
+				"costExp": 16000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40600103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 64
+					}
+				],
+				"costCoin": 16000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 112
+					}
+				],
+				"costExp": 16000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40600104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 640
+					}
+				],
+				"costCoin": 16000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 1120
+					}
+				],
+				"costExp": 16000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"61": {
+		"equipLevel": 61,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 2640
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 528
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 1500
+			},
+			{
+				"id": 12,
+				"num": 1500
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40600201,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 144
+					}
+				],
+				"costCoin": 18000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 252
+					}
+				],
+				"costExp": 18000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40600202,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 72
+					}
+				],
+				"costCoin": 18000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 126
+					}
+				],
+				"costExp": 18000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40600203,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 72
+					}
+				],
+				"costCoin": 18000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 126
+					}
+				],
+				"costExp": 18000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40600204,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 720
+					}
+				],
+				"costCoin": 18000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 1260
+					}
+				],
+				"costExp": 18000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"70": {
+		"equipLevel": 70,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 2880
+			}
+		],
+		"suitB": [
+			{
+				"id": 1,
+				"num": 576
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 2000
+			},
+			{
+				"id": 12,
+				"num": 2000
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40700101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 160
+					}
+				],
+				"costCoin": 20000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 280
+					}
+				],
+				"costExp": 20000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 360
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 4
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 400
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40700102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 80
+					}
+				],
+				"costCoin": 20000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 140
+					}
+				],
+				"costExp": 20000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 2
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 200
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40700103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 80
+					}
+				],
+				"costCoin": 20000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 140
+					}
+				],
+				"costExp": 20000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 180
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 2
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 200
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40700104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 800
+					}
+				],
+				"costCoin": 20000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 1400
+					}
+				],
+				"costExp": 20000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 1800
+					}
+				],
+				"costZhstone": 10000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 20
+					}
+				],
+				"artificeStone": 10000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 2000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"71": {
+		"equipLevel": 71,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 5000
+			},
+			{
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"suitB": [
+			{
+				"id": 7,
+				"num": 2000
+			},
+			{
+				"id": 8,
+				"num": 2000
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 3000
+			},
+			{
+				"id": 12,
+				"num": 3000
+			},
+			{
+				"id": 25,
+				"num": 1
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40700201,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 176
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 280
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 432
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 6
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40700202,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 88
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 140
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 216
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 3
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 300
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40700203,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 88
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 140
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 216
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 3
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 300
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40700204,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 880
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 1540
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 2160
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 30
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 3000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"72": {
+		"equipLevel": 72,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 5000
+			},
+			{
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"suitB": [
+			{
+				"id": 5,
+				"num": 2000
+			},
+			{
+				"id": 6,
+				"num": 2000
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 3000
+			},
+			{
+				"id": 12,
+				"num": 3000
+			},
+			{
+				"id": 25,
+				"num": 1
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40700301,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 176
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 280
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 432
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 6
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40700302,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 88
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 140
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 216
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 3
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 300
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40700303,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 88
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 140
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 216
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 3
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 300
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40700304,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 880
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 1540
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 2160
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 30
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 3000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"73": {
+		"equipLevel": 73,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 5000
+			},
+			{
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"suitB": [
+			{
+				"id": 18,
+				"num": 4000
+			},
+			{
+				"id": 21,
+				"num": 4000
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 3000
+			},
+			{
+				"id": 12,
+				"num": 3000
+			},
+			{
+				"id": 25,
+				"num": 1
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40700401,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 176
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 280
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 432
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 6
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40700402,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 88
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 140
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 216
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 3
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 300
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40700403,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 88
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 140
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 216
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 3
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 300
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40700404,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 880
+					}
+				],
+				"costCoin": 22000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 1540
+					}
+				],
+				"costExp": 22000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 2160
+					}
+				],
+				"costZhstone": 12000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 30
+					}
+				],
+				"artificeStone": 15000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 3000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"81": {
+		"equipLevel": 81,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 10000
+			},
+			{
+				"id": 1,
+				"num": 2000
+			}
+		],
+		"suitB": [
+			{
+				"id": 7,
+				"num": 3000
+			},
+			{
+				"id": 8,
+				"num": 3000
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 5000
+			},
+			{
+				"id": 12,
+				"num": 5000
+			},
+			{
+				"id": 25,
+				"num": 2
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40800101,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 240
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 420
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 720
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 12
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 1200
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40800102,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 120
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 210
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 360
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 6
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40800103,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 120
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 210
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 360
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 6
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40800104,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 1200
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 2100
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 3600
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 60
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 6000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"82": {
+		"equipLevel": 82,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 10000
+			},
+			{
+				"id": 1,
+				"num": 2000
+			}
+		],
+		"suitB": [
+			{
+				"id": 5,
+				"num": 3000
+			},
+			{
+				"id": 6,
+				"num": 3000
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 5000
+			},
+			{
+				"id": 12,
+				"num": 5000
+			},
+			{
+				"id": 25,
+				"num": 2
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40800201,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 240
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 420
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 720
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 12
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 1200
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40800202,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 120
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 210
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 360
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 6
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40800203,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 120
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 210
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 360
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 6
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40800204,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 1200
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 2100
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 3600
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 60
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 6000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	},
+	"83": {
+		"equipLevel": 83,
+		"suitA": [
+			{
+				"id": 4,
+				"num": 10000
+			},
+			{
+				"id": 1,
+				"num": 2000
+			}
+		],
+		"suitB": [
+			{
+				"id": 18,
+				"num": 6000
+			},
+			{
+				"id": 21,
+				"num": 6000
+			}
+		],
+		"suitC": [
+			{
+				"id": 11,
+				"num": 5000
+			},
+			{
+				"id": 12,
+				"num": 5000
+			},
+			{
+				"id": 25,
+				"num": 2
+			}
+		],
+		"equipPart": {
+			"1": {
+				"equipId": 40800301,
+				"strengthAttr": [
+					{
+						"id": 1,
+						"num": 240
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 1,
+						"num": 420
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 1,
+						"num": 720
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 1,
+						"num": 12
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 1,
+						"num": 1200
+					}
+				],
+				"attStar": [
+					{
+						"id": 1,
+						"num": 20000
+					}
+				]
+			},
+			"2": {
+				"equipId": 40800302,
+				"strengthAttr": [
+					{
+						"id": 2,
+						"num": 120
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 2,
+						"num": 210
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 2,
+						"num": 360
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 2,
+						"num": 6
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 2,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 2,
+						"num": 10000
+					}
+				]
+			},
+			"3": {
+				"equipId": 40800303,
+				"strengthAttr": [
+					{
+						"id": 3,
+						"num": 120
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 3,
+						"num": 210
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 3,
+						"num": 360
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 3,
+						"num": 6
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 3,
+						"num": 600
+					}
+				],
+				"attStar": [
+					{
+						"id": 3,
+						"num": 10000
+					}
+				]
+			},
+			"4": {
+				"equipId": 40800304,
+				"strengthAttr": [
+					{
+						"id": 4,
+						"num": 1200
+					}
+				],
+				"costCoin": 30000,
+				"purifyAttr": [
+					{
+						"id": 4,
+						"num": 2100
+					}
+				],
+				"costExp": 30000,
+				"zhuhunAttr": [
+					{
+						"id": 4,
+						"num": 3600
+					}
+				],
+				"costZhstone": 20000,
+				"artificeAttr": [
+					{
+						"id": 4,
+						"num": 60
+					}
+				],
+				"artificeStone": 30000,
+				"artifiAdd": [
+					{
+						"id": 4,
+						"num": 6000
+					}
+				],
+				"attStar": [
+					{
+						"id": 4,
+						"num": 200000
+					}
+				]
+			}
+		}
+	}
+}

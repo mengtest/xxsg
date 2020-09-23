@@ -1,0 +1,76 @@
+{
+	"1": {
+		"id": 1,
+		"channelType": 0,
+		"name": "压岁钱系列",
+		"actType": 1,
+		"serverType": 0,
+		"beginTime": "2019-2-4 00:00:00",
+		"endTime": "2019-2-9 00:00:00",
+		"finalTime": "2019-2-13 23:59:59",
+		"day": 0,
+		"limit": 10000,
+		"receivePoints": 50,
+		"costReward": [
+			{
+				"type": 2,
+				"id": 30000032,
+				"num": 100
+			},
+			{
+				"type": 2,
+				"id": 30000033,
+				"num": 100
+			}
+		],
+		"rebateReward": [
+			{
+				"type": 2,
+				"id": 30000032,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000033,
+				"num": 3000
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"channelType": 0,
+		"name": "小金库",
+		"actType": 2,
+		"serverType": 2,
+		"beginTime": "1",
+		"endTime": "4",
+		"finalTime": "7",
+		"day": 0,
+		"limit": 10000,
+		"receivePoints": 50,
+		"costReward": [
+			{
+				"type": 2,
+				"id": 30000032,
+				"num": 100
+			},
+			{
+				"type": 2,
+				"id": 30000033,
+				"num": 100
+			}
+		],
+		"rebateReward": [
+			{
+				"type": 2,
+				"id": 30000032,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000033,
+				"num": 3000
+			}
+		]
+	}
+}

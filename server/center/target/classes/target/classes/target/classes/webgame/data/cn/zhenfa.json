@@ -1,0 +1,1172 @@
+{
+	"1001": {
+		"id": 1001,
+		"name": "玄兵阵",
+		"rid": "ZF1001",
+		"quality": 50,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 80
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 10000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 50
+					}
+				],
+				"buffOne": [310010101],
+				"buffTwo": [310010201],
+				"buffThree": [310010301],
+				"buffFour": [310010401],
+				"buffFive": [310010501],
+				"buffSix": [310010601],
+				"levelPar": 10000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 100
+					}
+				],
+				"buffOne": [310010102],
+				"buffTwo": [310010202],
+				"buffThree": [310010302],
+				"buffFour": [310010402],
+				"buffFive": [310010502],
+				"buffSix": [310010602],
+				"levelPar": 11000
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 150
+					}
+				],
+				"buffOne": [310010103],
+				"buffTwo": [310010203],
+				"buffThree": [310010303],
+				"buffFour": [310010403],
+				"buffFive": [310010503],
+				"buffSix": [310010603],
+				"levelPar": 12000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 200
+					}
+				],
+				"buffOne": [310010104],
+				"buffTwo": [310010204],
+				"buffThree": [310010304],
+				"buffFour": [310010404],
+				"buffFive": [310010504],
+				"buffSix": [310010604],
+				"levelPar": 13000
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 300
+					}
+				],
+				"buffOne": [310010105],
+				"buffTwo": [310010205],
+				"buffThree": [310010305],
+				"buffFour": [310010405],
+				"buffFive": [310010505],
+				"buffSix": [310010605],
+				"levelPar": 14000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701001,
+						"num": 400
+					}
+				],
+				"buffOne": [310010106],
+				"buffTwo": [310010206],
+				"buffThree": [310010306],
+				"buffFour": [310010406],
+				"buffFive": [310010506],
+				"buffSix": [310010606],
+				"levelPar": 15000
+			},
+			"6": {
+				"card": [],
+				"buffOne": [310010107],
+				"buffTwo": [310010207],
+				"buffThree": [310010307],
+				"buffFour": [310010407],
+				"buffFive": [310010507],
+				"buffSix": [310010607],
+				"levelPar": 16000
+			}
+		}
+	},
+	"1002": {
+		"id": 1002,
+		"name": "天罡阵",
+		"rid": "ZF1002",
+		"quality": 50,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 80
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 10000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 50
+					}
+				],
+				"buffOne": [310020101],
+				"buffTwo": [310020201],
+				"buffThree": [310020301],
+				"buffFour": [310020401],
+				"buffFive": [310020501],
+				"buffSix": [310020601],
+				"levelPar": 10000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 100
+					}
+				],
+				"buffOne": [310020102],
+				"buffTwo": [310020202],
+				"buffThree": [310020302],
+				"buffFour": [310020402],
+				"buffFive": [310020502],
+				"buffSix": [310020602],
+				"levelPar": 11000
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 150
+					}
+				],
+				"buffOne": [310020103],
+				"buffTwo": [310020203],
+				"buffThree": [310020303],
+				"buffFour": [310020403],
+				"buffFive": [310020503],
+				"buffSix": [310020603],
+				"levelPar": 12000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 200
+					}
+				],
+				"buffOne": [310020104],
+				"buffTwo": [310020204],
+				"buffThree": [310020304],
+				"buffFour": [310020404],
+				"buffFive": [310020504],
+				"buffSix": [310020604],
+				"levelPar": 13000
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 300
+					}
+				],
+				"buffOne": [310020105],
+				"buffTwo": [310020205],
+				"buffThree": [310020305],
+				"buffFour": [310020405],
+				"buffFive": [310020505],
+				"buffSix": [310020605],
+				"levelPar": 14000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701002,
+						"num": 400
+					}
+				],
+				"buffOne": [310020106],
+				"buffTwo": [310020206],
+				"buffThree": [310020306],
+				"buffFour": [310020406],
+				"buffFive": [310020506],
+				"buffSix": [310020606],
+				"levelPar": 15000
+			},
+			"6": {
+				"card": [],
+				"buffOne": [310020107],
+				"buffTwo": [310020207],
+				"buffThree": [310020307],
+				"buffFour": [310020407],
+				"buffFive": [310020507],
+				"buffSix": [310020607],
+				"levelPar": 16000
+			}
+		}
+	},
+	"1003": {
+		"id": 1003,
+		"name": "地煞阵",
+		"rid": "ZF1003",
+		"quality": 50,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 80
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 10000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 50
+					}
+				],
+				"buffOne": [310030101],
+				"buffTwo": [310030201],
+				"buffThree": [310030301],
+				"buffFour": [310030401],
+				"buffFive": [310030501],
+				"buffSix": [310030601],
+				"levelPar": 10000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 100
+					}
+				],
+				"buffOne": [310030102],
+				"buffTwo": [310030202],
+				"buffThree": [310030302],
+				"buffFour": [310030402],
+				"buffFive": [310030502],
+				"buffSix": [310030602],
+				"levelPar": 11000
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 150
+					}
+				],
+				"buffOne": [310030103],
+				"buffTwo": [310030203],
+				"buffThree": [310030303],
+				"buffFour": [310030403],
+				"buffFive": [310030503],
+				"buffSix": [310030603],
+				"levelPar": 12000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 200
+					}
+				],
+				"buffOne": [310030104],
+				"buffTwo": [310030204],
+				"buffThree": [310030304],
+				"buffFour": [310030404],
+				"buffFive": [310030504],
+				"buffSix": [310030604],
+				"levelPar": 13000
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 300
+					}
+				],
+				"buffOne": [310030105],
+				"buffTwo": [310030205],
+				"buffThree": [310030305],
+				"buffFour": [310030405],
+				"buffFive": [310030505],
+				"buffSix": [310030605],
+				"levelPar": 14000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 701003,
+						"num": 400
+					}
+				],
+				"buffOne": [310030106],
+				"buffTwo": [310030206],
+				"buffThree": [310030306],
+				"buffFour": [310030406],
+				"buffFive": [310030506],
+				"buffSix": [310030606],
+				"levelPar": 15000
+			},
+			"6": {
+				"card": [],
+				"buffOne": [310030107],
+				"buffTwo": [310030207],
+				"buffThree": [310030307],
+				"buffFour": [310030407],
+				"buffFive": [310030507],
+				"buffSix": [310030607],
+				"levelPar": 16000
+			}
+		}
+	},
+	"2001": {
+		"id": 2001,
+		"name": "邪风阵",
+		"rid": "ZF2001",
+		"quality": 60,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 120
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 15000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 50
+					}
+				],
+				"buffOne": [320010101],
+				"buffTwo": [320010201],
+				"buffThree": [320010301],
+				"buffFour": [320010401],
+				"buffFive": [320010501],
+				"buffSix": [320010601],
+				"levelPar": 15000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 100
+					}
+				],
+				"buffOne": [320010102],
+				"buffTwo": [320010202],
+				"buffThree": [320010302],
+				"buffFour": [320010402],
+				"buffFive": [320010502],
+				"buffSix": [320010602],
+				"levelPar": 16500
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 150
+					}
+				],
+				"buffOne": [320010103],
+				"buffTwo": [320010203],
+				"buffThree": [320010303],
+				"buffFour": [320010403],
+				"buffFive": [320010503],
+				"buffSix": [320010603],
+				"levelPar": 18000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 200
+					}
+				],
+				"buffOne": [320010104],
+				"buffTwo": [320010204],
+				"buffThree": [320010304],
+				"buffFour": [320010404],
+				"buffFive": [320010504],
+				"buffSix": [320010604],
+				"levelPar": 19500
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 300
+					}
+				],
+				"buffOne": [320010105],
+				"buffTwo": [320010205],
+				"buffThree": [320010305],
+				"buffFour": [320010405],
+				"buffFive": [320010505],
+				"buffSix": [320010605],
+				"levelPar": 21000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702001,
+						"num": 400
+					}
+				],
+				"buffOne": [320010106],
+				"buffTwo": [320010206],
+				"buffThree": [320010306],
+				"buffFour": [320010406],
+				"buffFive": [320010506],
+				"buffSix": [320010606],
+				"levelPar": 22500
+			},
+			"6": {
+				"card": [],
+				"buffOne": [320010107],
+				"buffTwo": [320010207],
+				"buffThree": [320010307],
+				"buffFour": [320010407],
+				"buffFive": [320010507],
+				"buffSix": [320010607],
+				"levelPar": 24000
+			}
+		}
+	},
+	"2002": {
+		"id": 2002,
+		"name": "丛云阵",
+		"rid": "ZF2002",
+		"quality": 60,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 120
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 15000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 50
+					}
+				],
+				"buffOne": [320020101],
+				"buffTwo": [320020201],
+				"buffThree": [320020301],
+				"buffFour": [320020401],
+				"buffFive": [320020501],
+				"buffSix": [320020601],
+				"levelPar": 15000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 100
+					}
+				],
+				"buffOne": [320020102],
+				"buffTwo": [320020202],
+				"buffThree": [320020302],
+				"buffFour": [320020402],
+				"buffFive": [320020502],
+				"buffSix": [320020602],
+				"levelPar": 16500
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 150
+					}
+				],
+				"buffOne": [320020103],
+				"buffTwo": [320020203],
+				"buffThree": [320020303],
+				"buffFour": [320020403],
+				"buffFive": [320020503],
+				"buffSix": [320020603],
+				"levelPar": 18000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 200
+					}
+				],
+				"buffOne": [320020104],
+				"buffTwo": [320020204],
+				"buffThree": [320020304],
+				"buffFour": [320020404],
+				"buffFive": [320020504],
+				"buffSix": [320020604],
+				"levelPar": 19500
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 300
+					}
+				],
+				"buffOne": [320020105],
+				"buffTwo": [320020205],
+				"buffThree": [320020305],
+				"buffFour": [320020405],
+				"buffFive": [320020505],
+				"buffSix": [320020605],
+				"levelPar": 21000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702002,
+						"num": 400
+					}
+				],
+				"buffOne": [320020106],
+				"buffTwo": [320020206],
+				"buffThree": [320020306],
+				"buffFour": [320020406],
+				"buffFive": [320020506],
+				"buffSix": [320020606],
+				"levelPar": 22500
+			},
+			"6": {
+				"card": [],
+				"buffOne": [320020107],
+				"buffTwo": [320020207],
+				"buffThree": [320020307],
+				"buffFour": [320020407],
+				"buffFive": [320020507],
+				"buffSix": [320020607],
+				"levelPar": 24000
+			}
+		}
+	},
+	"2003": {
+		"id": 2003,
+		"name": "困龙阵",
+		"rid": "ZF2003",
+		"quality": 60,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 120
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 15000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 50
+					}
+				],
+				"buffOne": [320030101],
+				"buffTwo": [320030201],
+				"buffThree": [320030301],
+				"buffFour": [320030401],
+				"buffFive": [320030501],
+				"buffSix": [320030601],
+				"levelPar": 15000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 100
+					}
+				],
+				"buffOne": [320030102],
+				"buffTwo": [320030202],
+				"buffThree": [320030302],
+				"buffFour": [320030402],
+				"buffFive": [320030502],
+				"buffSix": [320030602],
+				"levelPar": 16500
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 150
+					}
+				],
+				"buffOne": [320030103],
+				"buffTwo": [320030203],
+				"buffThree": [320030303],
+				"buffFour": [320030403],
+				"buffFive": [320030503],
+				"buffSix": [320030603],
+				"levelPar": 18000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 200
+					}
+				],
+				"buffOne": [320030104],
+				"buffTwo": [320030204],
+				"buffThree": [320030304],
+				"buffFour": [320030404],
+				"buffFive": [320030504],
+				"buffSix": [320030604],
+				"levelPar": 19500
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 300
+					}
+				],
+				"buffOne": [320030105],
+				"buffTwo": [320030205],
+				"buffThree": [320030305],
+				"buffFour": [320030405],
+				"buffFive": [320030505],
+				"buffSix": [320030605],
+				"levelPar": 21000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 702003,
+						"num": 400
+					}
+				],
+				"buffOne": [320030106],
+				"buffTwo": [320030206],
+				"buffThree": [320030306],
+				"buffFour": [320030406],
+				"buffFive": [320030506],
+				"buffSix": [320030606],
+				"levelPar": 22500
+			},
+			"6": {
+				"card": [],
+				"buffOne": [320030107],
+				"buffTwo": [320030207],
+				"buffThree": [320030307],
+				"buffFour": [320030407],
+				"buffFive": [320030507],
+				"buffSix": [320030607],
+				"levelPar": 24000
+			}
+		}
+	},
+	"3001": {
+		"id": 3001,
+		"name": "灭妖阵",
+		"rid": "ZF3001",
+		"quality": 70,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 150
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 20000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 50
+					}
+				],
+				"buffOne": [330010101],
+				"buffTwo": [330010201],
+				"buffThree": [330010301],
+				"buffFour": [330010401],
+				"buffFive": [330010501],
+				"buffSix": [330010601],
+				"levelPar": 20000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 100
+					}
+				],
+				"buffOne": [330010102],
+				"buffTwo": [330010202],
+				"buffThree": [330010302],
+				"buffFour": [330010402],
+				"buffFive": [330010502],
+				"buffSix": [330010602],
+				"levelPar": 22000
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 150
+					}
+				],
+				"buffOne": [330010103],
+				"buffTwo": [330010203],
+				"buffThree": [330010303],
+				"buffFour": [330010403],
+				"buffFive": [330010503],
+				"buffSix": [330010603],
+				"levelPar": 24000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 200
+					}
+				],
+				"buffOne": [330010104],
+				"buffTwo": [330010204],
+				"buffThree": [330010304],
+				"buffFour": [330010404],
+				"buffFive": [330010504],
+				"buffSix": [330010604],
+				"levelPar": 26000
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 300
+					}
+				],
+				"buffOne": [330010105],
+				"buffTwo": [330010205],
+				"buffThree": [330010305],
+				"buffFour": [330010405],
+				"buffFive": [330010505],
+				"buffSix": [330010605],
+				"levelPar": 28000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703001,
+						"num": 400
+					}
+				],
+				"buffOne": [330010106],
+				"buffTwo": [330010206],
+				"buffThree": [330010306],
+				"buffFour": [330010406],
+				"buffFive": [330010506],
+				"buffSix": [330010606],
+				"levelPar": 30000
+			},
+			"6": {
+				"card": [],
+				"buffOne": [330010107],
+				"buffTwo": [330010207],
+				"buffThree": [330010307],
+				"buffFour": [330010407],
+				"buffFive": [330010507],
+				"buffSix": [330010607],
+				"levelPar": 32000
+			}
+		}
+	},
+	"3002": {
+		"id": 3002,
+		"name": "云鸟阵",
+		"rid": "ZF3002",
+		"quality": 70,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 150
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 20000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 50
+					}
+				],
+				"buffOne": [330020101],
+				"buffTwo": [330020201],
+				"buffThree": [330020301],
+				"buffFour": [330020401],
+				"buffFive": [330020501],
+				"buffSix": [330020601],
+				"levelPar": 20000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 100
+					}
+				],
+				"buffOne": [330020102],
+				"buffTwo": [330020202],
+				"buffThree": [330020302],
+				"buffFour": [330020402],
+				"buffFive": [330020502],
+				"buffSix": [330020602],
+				"levelPar": 22000
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 150
+					}
+				],
+				"buffOne": [330020103],
+				"buffTwo": [330020203],
+				"buffThree": [330020303],
+				"buffFour": [330020403],
+				"buffFive": [330020503],
+				"buffSix": [330020603],
+				"levelPar": 24000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 200
+					}
+				],
+				"buffOne": [330020104],
+				"buffTwo": [330020204],
+				"buffThree": [330020304],
+				"buffFour": [330020404],
+				"buffFive": [330020504],
+				"buffSix": [330020604],
+				"levelPar": 26000
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 300
+					}
+				],
+				"buffOne": [330020105],
+				"buffTwo": [330020205],
+				"buffThree": [330020305],
+				"buffFour": [330020405],
+				"buffFive": [330020505],
+				"buffSix": [330020605],
+				"levelPar": 28000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703002,
+						"num": 400
+					}
+				],
+				"buffOne": [330020106],
+				"buffTwo": [330020206],
+				"buffThree": [330020306],
+				"buffFour": [330020406],
+				"buffFive": [330020506],
+				"buffSix": [330020606],
+				"levelPar": 30000
+			},
+			"6": {
+				"card": [],
+				"buffOne": [330020107],
+				"buffTwo": [330020207],
+				"buffThree": [330020307],
+				"buffFour": [330020407],
+				"buffFive": [330020507],
+				"buffSix": [330020607],
+				"levelPar": 32000
+			}
+		}
+	},
+	"3003": {
+		"id": 3003,
+		"name": "灵蛇阵",
+		"rid": "ZF3003",
+		"quality": 70,
+		"star": {
+			"-1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 150
+					}
+				],
+				"buffOne": [],
+				"buffTwo": [],
+				"buffThree": [],
+				"buffFour": [],
+				"buffFive": [],
+				"buffSix": [],
+				"levelPar": 20000
+			},
+			"0": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 50
+					}
+				],
+				"buffOne": [330030101],
+				"buffTwo": [330030201],
+				"buffThree": [330030301],
+				"buffFour": [330030401],
+				"buffFive": [330030501],
+				"buffSix": [330030601],
+				"levelPar": 20000
+			},
+			"1": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 100
+					}
+				],
+				"buffOne": [330030102],
+				"buffTwo": [330030202],
+				"buffThree": [330030302],
+				"buffFour": [330030402],
+				"buffFive": [330030502],
+				"buffSix": [330030602],
+				"levelPar": 22000
+			},
+			"2": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 150
+					}
+				],
+				"buffOne": [330030103],
+				"buffTwo": [330030203],
+				"buffThree": [330030303],
+				"buffFour": [330030403],
+				"buffFive": [330030503],
+				"buffSix": [330030603],
+				"levelPar": 24000
+			},
+			"3": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 200
+					}
+				],
+				"buffOne": [330030104],
+				"buffTwo": [330030204],
+				"buffThree": [330030304],
+				"buffFour": [330030404],
+				"buffFive": [330030504],
+				"buffSix": [330030604],
+				"levelPar": 26000
+			},
+			"4": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 300
+					}
+				],
+				"buffOne": [330030105],
+				"buffTwo": [330030205],
+				"buffThree": [330030305],
+				"buffFour": [330030405],
+				"buffFive": [330030505],
+				"buffSix": [330030605],
+				"levelPar": 28000
+			},
+			"5": {
+				"card": [
+					{
+						"type": 2,
+						"id": 703003,
+						"num": 400
+					}
+				],
+				"buffOne": [330030106],
+				"buffTwo": [330030206],
+				"buffThree": [330030306],
+				"buffFour": [330030406],
+				"buffFive": [330030506],
+				"buffSix": [330030606],
+				"levelPar": 30000
+			},
+			"6": {
+				"card": [],
+				"buffOne": [330030107],
+				"buffTwo": [330030207],
+				"buffThree": [330030307],
+				"buffFour": [330030407],
+				"buffFive": [330030507],
+				"buffSix": [330030607],
+				"levelPar": 32000
+			}
+		}
+	}
+}

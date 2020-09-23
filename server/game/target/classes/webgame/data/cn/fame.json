@@ -1,0 +1,5265 @@
+{
+	"1000": {
+		"fameId": 1000,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 106,
+		"last": 1,
+		"order": 0,
+		"target": 0,
+		"number": 5,
+		"sec": "世界频道累计发言5次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1001": {
+		"fameId": 1001,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 20,
+		"sec": "主角等级达到{1}级",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1002": {
+		"fameId": 1002,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1001,
+		"target": 0,
+		"number": 30,
+		"sec": "主角等级达到{1}级",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1003": {
+		"fameId": 1003,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1002,
+		"target": 0,
+		"number": 40,
+		"sec": "主角等级达到{1}级",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1004": {
+		"fameId": 1004,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1003,
+		"target": 0,
+		"number": 50,
+		"sec": "主角等级达到{1}级",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1005": {
+		"fameId": 1005,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1004,
+		"target": 0,
+		"number": 60,
+		"sec": "主角等级达到{1}级",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1006": {
+		"fameId": 1006,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1005,
+		"target": 0,
+		"number": 70,
+		"sec": "主角等级达到{1}级",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1007": {
+		"fameId": 1007,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1006,
+		"target": 0,
+		"number": 80,
+		"sec": "主角等级达到{1}级",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1008": {
+		"fameId": 1008,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1007,
+		"target": 0,
+		"number": 90,
+		"sec": "主角等级达到{1}级",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1009": {
+		"fameId": 1009,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1008,
+		"target": 0,
+		"number": 100,
+		"sec": "主角等级达到{1}级",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"1010": {
+		"fameId": 1010,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1009,
+		"target": 0,
+		"number": 110,
+		"sec": "主角等级达到{1}级",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1011": {
+		"fameId": 1011,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1010,
+		"target": 0,
+		"number": 120,
+		"sec": "主角等级达到{1}级",
+		"fame": 35,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 210
+			}
+		]
+	},
+	"1012": {
+		"fameId": 1012,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 109,
+		"last": 0,
+		"order": 0,
+		"target": 40,
+		"number": 5,
+		"sec": "获得紫色品质武将{1}个",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1013": {
+		"fameId": 1013,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 109,
+		"last": 0,
+		"order": 1012,
+		"target": 50,
+		"number": 5,
+		"sec": "获得橙色品质武将{1}个",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1014": {
+		"fameId": 1014,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 109,
+		"last": 0,
+		"order": 1013,
+		"target": 60,
+		"number": 4,
+		"sec": "获得红色品质武将{1}个",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1015": {
+		"fameId": 1015,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 0,
+		"target": 1,
+		"number": 5,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1016": {
+		"fameId": 1016,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 1015,
+		"target": 2,
+		"number": 5,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1017": {
+		"fameId": 1017,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 1016,
+		"target": 3,
+		"number": 5,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1018": {
+		"fameId": 1018,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 1017,
+		"target": 4,
+		"number": 5,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"1019": {
+		"fameId": 1019,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 1018,
+		"target": 5,
+		"number": 5,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1020": {
+		"fameId": 1020,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 1019,
+		"target": 6,
+		"number": 1,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 35,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 210
+			}
+		]
+	},
+	"1021": {
+		"fameId": 1021,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 480,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1022": {
+		"fameId": 1022,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1021,
+		"target": 0,
+		"number": 960,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1023": {
+		"fameId": 1023,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1022,
+		"target": 0,
+		"number": 1440,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1024": {
+		"fameId": 1024,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1023,
+		"target": 0,
+		"number": 1920,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1025": {
+		"fameId": 1025,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1024,
+		"target": 0,
+		"number": 2400,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"1026": {
+		"fameId": 1026,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1025,
+		"target": 0,
+		"number": 2880,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1027": {
+		"fameId": 1027,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1026,
+		"target": 0,
+		"number": 3360,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"1028": {
+		"fameId": 1028,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1027,
+		"target": 0,
+		"number": 3840,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"1029": {
+		"fameId": 1029,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1028,
+		"target": 0,
+		"number": 4320,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"1030": {
+		"fameId": 1030,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1029,
+		"target": 0,
+		"number": 4800,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"1031": {
+		"fameId": 1031,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 50,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1032": {
+		"fameId": 1032,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 1031,
+		"target": 0,
+		"number": 100,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1033": {
+		"fameId": 1033,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 1032,
+		"target": 0,
+		"number": 250,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1034": {
+		"fameId": 1034,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 1033,
+		"target": 0,
+		"number": 500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"1035": {
+		"fameId": 1035,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 1034,
+		"target": 0,
+		"number": 750,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1036": {
+		"fameId": 1036,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 1035,
+		"target": 0,
+		"number": 1000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"1037": {
+		"fameId": 1037,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1038": {
+		"fameId": 1038,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1037,
+		"target": 0,
+		"number": 10000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1039": {
+		"fameId": 1039,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1038,
+		"target": 0,
+		"number": 20000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1040": {
+		"fameId": 1040,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1039,
+		"target": 0,
+		"number": 40000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1041": {
+		"fameId": 1041,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1040,
+		"target": 0,
+		"number": 80000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"1042": {
+		"fameId": 1042,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1041,
+		"target": 0,
+		"number": 160000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1043": {
+		"fameId": 1043,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1042,
+		"target": 0,
+		"number": 320000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1044": {
+		"fameId": 1044,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1043,
+		"target": 0,
+		"number": 640000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"1045": {
+		"fameId": 1045,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 0,
+		"order": 1044,
+		"target": 0,
+		"number": 1280000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"1046": {
+		"fameId": 1046,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 124,
+		"last": 1,
+		"order": 1045,
+		"target": 0,
+		"number": 2500000,
+		"sec": "累计消耗{1}元宝",
+		"fame": 300,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1800
+			}
+		]
+	},
+	"1047": {
+		"fameId": 1047,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 20,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1048": {
+		"fameId": 1048,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1047,
+		"target": 0,
+		"number": 50,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1049": {
+		"fameId": 1049,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1048,
+		"target": 0,
+		"number": 75,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1050": {
+		"fameId": 1050,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1049,
+		"target": 0,
+		"number": 100,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1051": {
+		"fameId": 1051,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1050,
+		"target": 0,
+		"number": 250,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"1052": {
+		"fameId": 1052,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1051,
+		"target": 0,
+		"number": 500,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"1053": {
+		"fameId": 1053,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1052,
+		"target": 0,
+		"number": 750,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"1054": {
+		"fameId": 1054,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 20000,
+		"sec": "战斗力达到{1}",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1055": {
+		"fameId": 1055,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1055,
+		"target": 0,
+		"number": 50000,
+		"sec": "战斗力达到{1}",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1056": {
+		"fameId": 1056,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1056,
+		"target": 0,
+		"number": 100000,
+		"sec": "战斗力达到{1}",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1057": {
+		"fameId": 1057,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1057,
+		"target": 0,
+		"number": 150000,
+		"sec": "战斗力达到{1}",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1058": {
+		"fameId": 1058,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1058,
+		"target": 0,
+		"number": 250000,
+		"sec": "战斗力达到{1}",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"1059": {
+		"fameId": 1059,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1059,
+		"target": 0,
+		"number": 350000,
+		"sec": "战斗力达到{1}",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1060": {
+		"fameId": 1060,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1060,
+		"target": 0,
+		"number": 450000,
+		"sec": "战斗力达到{1}",
+		"fame": 35,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 210
+			}
+		]
+	},
+	"1061": {
+		"fameId": 1061,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1061,
+		"target": 0,
+		"number": 700000,
+		"sec": "战斗力达到{1}",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"1062": {
+		"fameId": 1062,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1062,
+		"target": 0,
+		"number": 1000000,
+		"sec": "战斗力达到{1}",
+		"fame": 45,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 270
+			}
+		]
+	},
+	"1063": {
+		"fameId": 1063,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1063,
+		"target": 0,
+		"number": 1500000,
+		"sec": "战斗力达到{1}",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1064": {
+		"fameId": 1064,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1064,
+		"target": 0,
+		"number": 3000000,
+		"sec": "战斗力达到{1}",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"1065": {
+		"fameId": 1065,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1065,
+		"target": 0,
+		"number": 5000000,
+		"sec": "战斗力达到{1}",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"1066": {
+		"fameId": 1066,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1066,
+		"target": 0,
+		"number": 7000000,
+		"sec": "战斗力达到{1}",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"1067": {
+		"fameId": 1067,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 500,
+		"sec": "竞技场达到{1}名",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1068": {
+		"fameId": 1068,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 0,
+		"order": 1067,
+		"target": 0,
+		"number": 100,
+		"sec": "竞技场达到{1}名",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1069": {
+		"fameId": 1069,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 0,
+		"order": 1068,
+		"target": 0,
+		"number": 50,
+		"sec": "竞技场达到{1}名",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1070": {
+		"fameId": 1070,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 0,
+		"order": 1069,
+		"target": 0,
+		"number": 10,
+		"sec": "竞技场达到{1}名",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1071": {
+		"fameId": 1071,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 0,
+		"order": 1070,
+		"target": 0,
+		"number": 5,
+		"sec": "竞技场达到{1}名",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1072": {
+		"fameId": 1072,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 0,
+		"order": 1071,
+		"target": 0,
+		"number": 3,
+		"sec": "竞技场达到{1}名",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1073": {
+		"fameId": 1073,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 122,
+		"last": 1,
+		"order": 1072,
+		"target": 0,
+		"number": 1,
+		"sec": "竞技场达到{1}名",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"1074": {
+		"fameId": 1074,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 10,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1075": {
+		"fameId": 1075,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 1074,
+		"target": 0,
+		"number": 20,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1076": {
+		"fameId": 1076,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 1075,
+		"target": 0,
+		"number": 40,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1077": {
+		"fameId": 1077,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 1076,
+		"target": 0,
+		"number": 80,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1078": {
+		"fameId": 1078,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 1077,
+		"target": 0,
+		"number": 160,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1079": {
+		"fameId": 1079,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 1078,
+		"target": 0,
+		"number": 320,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1080": {
+		"fameId": 1080,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 0,
+		"order": 1079,
+		"target": 0,
+		"number": 640,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"1081": {
+		"fameId": 1081,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 123,
+		"last": 1,
+		"order": 1080,
+		"target": 0,
+		"number": 1280,
+		"sec": "日常副本累计挑战{1}次",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"1082": {
+		"fameId": 1082,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 10,
+		"sec": "元宝招募{1}次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1083": {
+		"fameId": 1083,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 0,
+		"order": 1082,
+		"target": 0,
+		"number": 50,
+		"sec": "元宝招募{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1084": {
+		"fameId": 1084,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 0,
+		"order": 1083,
+		"target": 0,
+		"number": 100,
+		"sec": "元宝招募{1}次",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1085": {
+		"fameId": 1085,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 0,
+		"order": 1084,
+		"target": 0,
+		"number": 300,
+		"sec": "元宝招募{1}次",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1086": {
+		"fameId": 1086,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 0,
+		"order": 1085,
+		"target": 0,
+		"number": 500,
+		"sec": "元宝招募{1}次",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"1087": {
+		"fameId": 1087,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 0,
+		"order": 1086,
+		"target": 0,
+		"number": 1000,
+		"sec": "元宝招募{1}次",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"1088": {
+		"fameId": 1088,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 125,
+		"last": 1,
+		"order": 1087,
+		"target": 0,
+		"number": 5000,
+		"sec": "元宝招募{1}次",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"1089": {
+		"fameId": 1089,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 132,
+		"last": 0,
+		"order": 0,
+		"target": 1,
+		"number": 1,
+		"sec": "完成三国志第{0}章",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1090": {
+		"fameId": 1090,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 132,
+		"last": 0,
+		"order": 1089,
+		"target": 2,
+		"number": 1,
+		"sec": "完成三国志第{0}章",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1091": {
+		"fameId": 1091,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 132,
+		"last": 0,
+		"order": 1090,
+		"target": 3,
+		"number": 1,
+		"sec": "完成三国志第{0}章",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1092": {
+		"fameId": 1092,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 132,
+		"last": 1,
+		"order": 1091,
+		"target": 4,
+		"number": 1,
+		"sec": "完成三国志第{0}章",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1093": {
+		"fameId": 1093,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 2,
+		"sec": "VIP达到{1}级",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1094": {
+		"fameId": 1094,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1093,
+		"target": 0,
+		"number": 3,
+		"sec": "VIP达到{1}级",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1095": {
+		"fameId": 1095,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1094,
+		"target": 0,
+		"number": 4,
+		"sec": "VIP达到{1}级",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1096": {
+		"fameId": 1096,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1095,
+		"target": 0,
+		"number": 5,
+		"sec": "VIP达到{1}级",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1097": {
+		"fameId": 1097,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1096,
+		"target": 0,
+		"number": 6,
+		"sec": "VIP达到{1}级",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1098": {
+		"fameId": 1098,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1097,
+		"target": 0,
+		"number": 7,
+		"sec": "VIP达到{1}级",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"1099": {
+		"fameId": 1099,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1098,
+		"target": 0,
+		"number": 8,
+		"sec": "VIP达到{1}级",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"1100": {
+		"fameId": 1100,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1099,
+		"target": 0,
+		"number": 9,
+		"sec": "VIP达到{1}级",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"1101": {
+		"fameId": 1101,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1100,
+		"target": 0,
+		"number": 10,
+		"sec": "VIP达到{1}级",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"1102": {
+		"fameId": 1102,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1101,
+		"target": 0,
+		"number": 11,
+		"sec": "VIP达到{1}级",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"1103": {
+		"fameId": 1103,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1102,
+		"target": 0,
+		"number": 12,
+		"sec": "VIP达到{1}级",
+		"fame": 90,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 540
+			}
+		]
+	},
+	"1104": {
+		"fameId": 1104,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1103,
+		"target": 0,
+		"number": 13,
+		"sec": "VIP达到{1}级",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"1105": {
+		"fameId": 1105,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 0,
+		"order": 1104,
+		"target": 0,
+		"number": 14,
+		"sec": "VIP达到{1}级",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"1106": {
+		"fameId": 1106,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 142,
+		"last": 1,
+		"order": 1105,
+		"target": 0,
+		"number": 15,
+		"sec": "VIP达到{1}级",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"1107": {
+		"fameId": 1107,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 10,
+		"sec": "三国无双最高{1}星",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"1108": {
+		"fameId": 1108,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1107,
+		"target": 0,
+		"number": 30,
+		"sec": "三国无双最高{1}星",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"1109": {
+		"fameId": 1109,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1108,
+		"target": 0,
+		"number": 52,
+		"sec": "三国无双最高{1}星",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"1110": {
+		"fameId": 1110,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1109,
+		"target": 0,
+		"number": 80,
+		"sec": "三国无双最高{1}星",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"1111": {
+		"fameId": 1111,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1110,
+		"target": 0,
+		"number": 120,
+		"sec": "三国无双最高{1}星",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"1112": {
+		"fameId": 1112,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1111,
+		"target": 0,
+		"number": 240,
+		"sec": "三国无双最高{1}星",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"1113": {
+		"fameId": 1113,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1112,
+		"target": 0,
+		"number": 360,
+		"sec": "三国无双最高{1}星",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"1114": {
+		"fameId": 1114,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1113,
+		"target": 0,
+		"number": 600,
+		"sec": "三国无双最高{1}星",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"1115": {
+		"fameId": 1115,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1114,
+		"target": 0,
+		"number": 900,
+		"sec": "三国无双最高{1}星",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"1116": {
+		"fameId": 1116,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 0,
+		"order": 1115,
+		"target": 0,
+		"number": 1400,
+		"sec": "三国无双最高{1}星",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"1117": {
+		"fameId": 1117,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 150,
+		"last": 1,
+		"order": 1116,
+		"target": 0,
+		"number": 1800,
+		"sec": "三国无双最高{1}星",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3112": {
+		"fameId": 3112,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 1011,
+		"target": 0,
+		"number": 130,
+		"sec": "主角等级达到{1}级",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"3113": {
+		"fameId": 3113,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3112,
+		"target": 0,
+		"number": 135,
+		"sec": "主角等级达到{1}级",
+		"fame": 45,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 270
+			}
+		]
+	},
+	"3114": {
+		"fameId": 3114,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3113,
+		"target": 0,
+		"number": 140,
+		"sec": "主角等级达到{1}级",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"3115": {
+		"fameId": 3115,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3114,
+		"target": 0,
+		"number": 145,
+		"sec": "主角等级达到{1}级",
+		"fame": 55,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 330
+			}
+		]
+	},
+	"3116": {
+		"fameId": 3116,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3115,
+		"target": 0,
+		"number": 150,
+		"sec": "主角等级达到{1}级",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"3117": {
+		"fameId": 3117,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3116,
+		"target": 0,
+		"number": 155,
+		"sec": "主角等级达到{1}级",
+		"fame": 65,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 390
+			}
+		]
+	},
+	"3118": {
+		"fameId": 3118,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3117,
+		"target": 0,
+		"number": 160,
+		"sec": "主角等级达到{1}级",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"3119": {
+		"fameId": 3119,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3118,
+		"target": 0,
+		"number": 165,
+		"sec": "主角等级达到{1}级",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"3120": {
+		"fameId": 3120,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3119,
+		"target": 0,
+		"number": 170,
+		"sec": "主角等级达到{1}级",
+		"fame": 90,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 540
+			}
+		]
+	},
+	"3121": {
+		"fameId": 3121,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3120,
+		"target": 0,
+		"number": 175,
+		"sec": "主角等级达到{1}级",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3122": {
+		"fameId": 3122,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3121,
+		"target": 0,
+		"number": 180,
+		"sec": "主角等级达到{1}级",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"3123": {
+		"fameId": 3123,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3122,
+		"target": 0,
+		"number": 185,
+		"sec": "主角等级达到{1}级",
+		"fame": 140,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 840
+			}
+		]
+	},
+	"3124": {
+		"fameId": 3124,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3123,
+		"target": 0,
+		"number": 190,
+		"sec": "主角等级达到{1}级",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"3125": {
+		"fameId": 3125,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 0,
+		"order": 3124,
+		"target": 0,
+		"number": 195,
+		"sec": "主角等级达到{1}级",
+		"fame": 180,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1080
+			}
+		]
+	},
+	"3126": {
+		"fameId": 3126,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 108,
+		"last": 1,
+		"order": 3125,
+		"target": 0,
+		"number": 200,
+		"sec": "主角等级达到{1}级",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3204": {
+		"fameId": 3204,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 109,
+		"last": 0,
+		"order": 1014,
+		"target": 70,
+		"number": 1,
+		"sec": "获得天金品质武将{1}个",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"3205": {
+		"fameId": 3205,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 109,
+		"last": 0,
+		"order": 3204,
+		"target": 70,
+		"number": 2,
+		"sec": "获得天金品质武将{1}个",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"3206": {
+		"fameId": 3206,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 109,
+		"last": 1,
+		"order": 3205,
+		"target": 70,
+		"number": 4,
+		"sec": "获得天金品质武将{1}个",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3307": {
+		"fameId": 3307,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 1020,
+		"target": 6,
+		"number": 3,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"3308": {
+		"fameId": 3308,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 3307,
+		"target": 6,
+		"number": 5,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"3309": {
+		"fameId": 3309,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 3308,
+		"target": 6,
+		"number": 10,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3310": {
+		"fameId": 3310,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 0,
+		"order": 3309,
+		"target": 6,
+		"number": 15,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"3311": {
+		"fameId": 3311,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 110,
+		"last": 1,
+		"order": 3310,
+		"target": 6,
+		"number": 20,
+		"sec": "拥有{0}星武将{1}个",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3411": {
+		"fameId": 3411,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 1030,
+		"target": 0,
+		"number": 5280,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"3412": {
+		"fameId": 3412,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3411,
+		"target": 0,
+		"number": 5760,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 140,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 840
+			}
+		]
+	},
+	"3413": {
+		"fameId": 3413,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3412,
+		"target": 0,
+		"number": 6240,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"3414": {
+		"fameId": 3414,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3413,
+		"target": 0,
+		"number": 6720,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 180,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1080
+			}
+		]
+	},
+	"3415": {
+		"fameId": 3415,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3414,
+		"target": 0,
+		"number": 7200,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3416": {
+		"fameId": 3416,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3415,
+		"target": 0,
+		"number": 7680,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 220,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1320
+			}
+		]
+	},
+	"3417": {
+		"fameId": 3417,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3416,
+		"target": 0,
+		"number": 8160,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 240,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1440
+			}
+		]
+	},
+	"3418": {
+		"fameId": 3418,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3417,
+		"target": 0,
+		"number": 8640,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 260,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1560
+			}
+		]
+	},
+	"3419": {
+		"fameId": 3419,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 0,
+		"order": 3418,
+		"target": 0,
+		"number": 9120,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 280,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1680
+			}
+		]
+	},
+	"3420": {
+		"fameId": 3420,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 113,
+		"last": 1,
+		"order": 3419,
+		"target": 0,
+		"number": 9600,
+		"sec": "上阵武将总强化达{1}级",
+		"fame": 300,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1800
+			}
+		]
+	},
+	"3507": {
+		"fameId": 3507,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 1036,
+		"target": 0,
+		"number": 1500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"3508": {
+		"fameId": 3508,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3507,
+		"target": 0,
+		"number": 2000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"3509": {
+		"fameId": 3509,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3508,
+		"target": 0,
+		"number": 2500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 90,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 540
+			}
+		]
+	},
+	"3510": {
+		"fameId": 3510,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3509,
+		"target": 0,
+		"number": 3000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3511": {
+		"fameId": 3511,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3510,
+		"target": 0,
+		"number": 3500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"3512": {
+		"fameId": 3512,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3511,
+		"target": 0,
+		"number": 4000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 140,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 840
+			}
+		]
+	},
+	"3513": {
+		"fameId": 3513,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3512,
+		"target": 0,
+		"number": 4500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"3514": {
+		"fameId": 3514,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3513,
+		"target": 0,
+		"number": 5000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 180,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1080
+			}
+		]
+	},
+	"3515": {
+		"fameId": 3515,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3514,
+		"target": 0,
+		"number": 5500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3516": {
+		"fameId": 3516,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3515,
+		"target": 0,
+		"number": 6000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 220,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1320
+			}
+		]
+	},
+	"3517": {
+		"fameId": 3517,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3516,
+		"target": 0,
+		"number": 6500,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 240,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1440
+			}
+		]
+	},
+	"3518": {
+		"fameId": 3518,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3517,
+		"target": 0,
+		"number": 7000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 260,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1560
+			}
+		]
+	},
+	"3519": {
+		"fameId": 3519,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 0,
+		"order": 3518,
+		"target": 0,
+		"number": 8000,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 280,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1680
+			}
+		]
+	},
+	"3520": {
+		"fameId": 3520,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 114,
+		"last": 1,
+		"order": 3519,
+		"target": 0,
+		"number": 9600,
+		"sec": "上阵武将总精炼达{1}级",
+		"fame": 300,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1800
+			}
+		]
+	},
+	"3608": {
+		"fameId": 3608,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 1053,
+		"target": 0,
+		"number": 1000,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3609": {
+		"fameId": 3609,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 3608,
+		"target": 0,
+		"number": 1500,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"3610": {
+		"fameId": 3610,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 3609,
+		"target": 0,
+		"number": 2000,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 140,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 840
+			}
+		]
+	},
+	"3611": {
+		"fameId": 3611,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 3610,
+		"target": 0,
+		"number": 3000,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"3612": {
+		"fameId": 3612,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 0,
+		"order": 3611,
+		"target": 0,
+		"number": 4000,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 180,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1080
+			}
+		]
+	},
+	"3613": {
+		"fameId": 3613,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 164,
+		"last": 1,
+		"order": 3612,
+		"target": 0,
+		"number": 5000,
+		"sec": "击杀排名BOSS{1}次",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3714": {
+		"fameId": 3714,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 1067,
+		"target": 0,
+		"number": 10000000,
+		"sec": "战斗力达到{1}",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3715": {
+		"fameId": 3715,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 3714,
+		"target": 0,
+		"number": 15000000,
+		"sec": "战斗力达到{1}",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"3716": {
+		"fameId": 3716,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 3715,
+		"target": 0,
+		"number": 20000000,
+		"sec": "战斗力达到{1}",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3717": {
+		"fameId": 3717,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 0,
+		"order": 3716,
+		"target": 0,
+		"number": 30000000,
+		"sec": "战斗力达到{1}",
+		"fame": 300,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1800
+			}
+		]
+	},
+	"3718": {
+		"fameId": 3718,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 120,
+		"last": 1,
+		"order": 3717,
+		"target": 0,
+		"number": 50000000,
+		"sec": "战斗力达到{1}",
+		"fame": 500,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3000
+			}
+		]
+	},
+	"3801": {
+		"fameId": 3801,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"3802": {
+		"fameId": 3802,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3801,
+		"target": 0,
+		"number": 4,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"3803": {
+		"fameId": 3803,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3802,
+		"target": 0,
+		"number": 8,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"3804": {
+		"fameId": 3804,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3803,
+		"target": 0,
+		"number": 12,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"3805": {
+		"fameId": 3805,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3804,
+		"target": 0,
+		"number": 16,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"3806": {
+		"fameId": 3806,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3805,
+		"target": 0,
+		"number": 20,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"3807": {
+		"fameId": 3807,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3806,
+		"target": 0,
+		"number": 25,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"3808": {
+		"fameId": 3808,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3807,
+		"target": 0,
+		"number": 30,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3809": {
+		"fameId": 3809,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3808,
+		"target": 0,
+		"number": 36,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"3810": {
+		"fameId": 3810,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 0,
+		"order": 3809,
+		"target": 0,
+		"number": 42,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"3811": {
+		"fameId": 3811,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 163,
+		"last": 1,
+		"order": 3810,
+		"target": 0,
+		"number": 48,
+		"sec": "战宠总星数达到{1}星",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"3901": {
+		"fameId": 3901,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 160,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "激活{1}只战宠",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"3902": {
+		"fameId": 3902,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 160,
+		"last": 0,
+		"order": 3901,
+		"target": 0,
+		"number": 3,
+		"sec": "激活{1}只战宠",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"3903": {
+		"fameId": 3903,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 160,
+		"last": 0,
+		"order": 3902,
+		"target": 0,
+		"number": 5,
+		"sec": "激活{1}只战宠",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"3904": {
+		"fameId": 3904,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 160,
+		"last": 1,
+		"order": 3903,
+		"target": 0,
+		"number": 8,
+		"sec": "激活{1}只战宠",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"4001": {
+		"fameId": 4001,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 176,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "激活{1}个称号",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4002": {
+		"fameId": 4002,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 176,
+		"last": 0,
+		"order": 4001,
+		"target": 0,
+		"number": 3,
+		"sec": "激活{1}个称号",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4003": {
+		"fameId": 4003,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 176,
+		"last": 0,
+		"order": 4002,
+		"target": 0,
+		"number": 5,
+		"sec": "激活{1}个称号",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"4004": {
+		"fameId": 4004,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 176,
+		"last": 0,
+		"order": 4003,
+		"target": 0,
+		"number": 8,
+		"sec": "激活{1}个称号",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"4005": {
+		"fameId": 4005,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 176,
+		"last": 1,
+		"order": 4004,
+		"target": 0,
+		"number": 12,
+		"sec": "激活{1}个称号",
+		"fame": 300,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1800
+			}
+		]
+	},
+	"4101": {
+		"fameId": 4101,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 5,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"4102": {
+		"fameId": 4102,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4101,
+		"target": 0,
+		"number": 10,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4103": {
+		"fameId": 4103,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4102,
+		"target": 0,
+		"number": 15,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"4104": {
+		"fameId": 4104,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4103,
+		"target": 0,
+		"number": 20,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"4105": {
+		"fameId": 4105,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4104,
+		"target": 0,
+		"number": 30,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"4106": {
+		"fameId": 4106,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4105,
+		"target": 0,
+		"number": 40,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"4107": {
+		"fameId": 4107,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4106,
+		"target": 0,
+		"number": 50,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"4108": {
+		"fameId": 4108,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4107,
+		"target": 0,
+		"number": 70,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4109": {
+		"fameId": 4109,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4108,
+		"target": 0,
+		"number": 100,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"4110": {
+		"fameId": 4110,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4109,
+		"target": 0,
+		"number": 150,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"4111": {
+		"fameId": 4111,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4110,
+		"target": 0,
+		"number": 200,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"4112": {
+		"fameId": 4112,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4111,
+		"target": 0,
+		"number": 300,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 90,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 540
+			}
+		]
+	},
+	"4113": {
+		"fameId": 4113,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4112,
+		"target": 0,
+		"number": 500,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"4114": {
+		"fameId": 4114,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4113,
+		"target": 0,
+		"number": 700,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"4115": {
+		"fameId": 4115,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4114,
+		"target": 0,
+		"number": 1000,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 140,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 840
+			}
+		]
+	},
+	"4116": {
+		"fameId": 4116,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4115,
+		"target": 0,
+		"number": 1500,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"4117": {
+		"fameId": 4117,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4116,
+		"target": 0,
+		"number": 2000,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 180,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1080
+			}
+		]
+	},
+	"4118": {
+		"fameId": 4118,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4117,
+		"target": 0,
+		"number": 2500,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"4119": {
+		"fameId": 4119,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 0,
+		"order": 4118,
+		"target": 0,
+		"number": 3500,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 250,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1500
+			}
+		]
+	},
+	"4120": {
+		"fameId": 4120,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 146,
+		"last": 1,
+		"order": 4119,
+		"target": 0,
+		"number": 4800,
+		"sec": "宝物总精炼等级达到{1}级",
+		"fame": 300,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1800
+			}
+		]
+	},
+	"4201": {
+		"fameId": 4201,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 5,
+		"sec": "主线通关第{1}章",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4202": {
+		"fameId": 4202,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 0,
+		"order": 4201,
+		"target": 0,
+		"number": 10,
+		"sec": "主线通关第{1}章",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"4203": {
+		"fameId": 4203,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 0,
+		"order": 4202,
+		"target": 0,
+		"number": 20,
+		"sec": "主线通关第{1}章",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"4204": {
+		"fameId": 4204,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 0,
+		"order": 4203,
+		"target": 0,
+		"number": 30,
+		"sec": "主线通关第{1}章",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"4205": {
+		"fameId": 4205,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 0,
+		"order": 4204,
+		"target": 0,
+		"number": 50,
+		"sec": "主线通关第{1}章",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"4206": {
+		"fameId": 4206,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 0,
+		"order": 4205,
+		"target": 0,
+		"number": 70,
+		"sec": "主线通关第{1}章",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"4207": {
+		"fameId": 4207,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 143,
+		"last": 1,
+		"order": 4206,
+		"target": 0,
+		"number": 100,
+		"sec": "主线通关第{1}章",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4301": {
+		"fameId": 4301,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4302": {
+		"fameId": 4302,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4301,
+		"target": 0,
+		"number": 4,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"4303": {
+		"fameId": 4303,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4302,
+		"target": 0,
+		"number": 8,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"4304": {
+		"fameId": 4304,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4303,
+		"target": 0,
+		"number": 12,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 40,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 240
+			}
+		]
+	},
+	"4305": {
+		"fameId": 4305,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4304,
+		"target": 0,
+		"number": 16,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4306": {
+		"fameId": 4306,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4305,
+		"target": 0,
+		"number": 20,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 60,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 360
+			}
+		]
+	},
+	"4307": {
+		"fameId": 4307,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4306,
+		"target": 0,
+		"number": 25,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 80,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 480
+			}
+		]
+	},
+	"4308": {
+		"fameId": 4308,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4307,
+		"target": 0,
+		"number": 30,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"4309": {
+		"fameId": 4309,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4308,
+		"target": 0,
+		"number": 36,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 120,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 720
+			}
+		]
+	},
+	"4310": {
+		"fameId": 4310,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 0,
+		"order": 4309,
+		"target": 0,
+		"number": 42,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 160,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 960
+			}
+		]
+	},
+	"4311": {
+		"fameId": 4311,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 192,
+		"last": 1,
+		"order": 4310,
+		"target": 0,
+		"number": 48,
+		"sec": "坐骑总星数达到{1}星",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"4401": {
+		"fameId": 4401,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 193,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "激活{1}只坐骑",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4402": {
+		"fameId": 4402,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 193,
+		"last": 0,
+		"order": 4401,
+		"target": 0,
+		"number": 3,
+		"sec": "激活{1}只坐骑",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4403": {
+		"fameId": 4403,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 193,
+		"last": 0,
+		"order": 4402,
+		"target": 0,
+		"number": 5,
+		"sec": "激活{1}只坐骑",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"4404": {
+		"fameId": 4404,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 193,
+		"last": 1,
+		"order": 4403,
+		"target": 0,
+		"number": 8,
+		"sec": "激活{1}只坐骑",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"4501": {
+		"fameId": 4501,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 10,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"4502": {
+		"fameId": 4502,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4501,
+		"target": 0,
+		"number": 30,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4503": {
+		"fameId": 4503,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4502,
+		"target": 0,
+		"number": 50,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"4504": {
+		"fameId": 4504,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4503,
+		"target": 0,
+		"number": 100,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"4505": {
+		"fameId": 4505,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4504,
+		"target": 0,
+		"number": 150,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 25,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"4506": {
+		"fameId": 4506,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4505,
+		"target": 0,
+		"number": 200,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"4507": {
+		"fameId": 4507,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4506,
+		"target": 0,
+		"number": 250,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4508": {
+		"fameId": 4508,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4507,
+		"target": 0,
+		"number": 300,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 70,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			}
+		]
+	},
+	"4509": {
+		"fameId": 4509,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4508,
+		"target": 0,
+		"number": 400,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"4510": {
+		"fameId": 4510,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 0,
+		"order": 4509,
+		"target": 0,
+		"number": 500,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"4511": {
+		"fameId": 4511,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 194,
+		"last": 1,
+		"order": 4510,
+		"target": 0,
+		"number": 600,
+		"sec": "妖凰塔最高{1}层",
+		"fame": 200,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1200
+			}
+		]
+	},
+	"4601": {
+		"fameId": 4601,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 20,
+		"sec": "挑战组队副本{1}次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"4602": {
+		"fameId": 4602,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 4601,
+		"target": 0,
+		"number": 50,
+		"sec": "挑战组队副本{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"4603": {
+		"fameId": 4603,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 4602,
+		"target": 0,
+		"number": 100,
+		"sec": "挑战组队副本{1}次",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"4604": {
+		"fameId": 4604,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 4603,
+		"target": 0,
+		"number": 300,
+		"sec": "挑战组队副本{1}次",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			}
+		]
+	},
+	"4605": {
+		"fameId": 4605,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 4604,
+		"target": 0,
+		"number": 500,
+		"sec": "挑战组队副本{1}次",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 180
+			}
+		]
+	},
+	"4606": {
+		"fameId": 4606,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 4605,
+		"target": 0,
+		"number": 700,
+		"sec": "挑战组队副本{1}次",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		]
+	},
+	"4607": {
+		"fameId": 4607,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 0,
+		"order": 4606,
+		"target": 0,
+		"number": 1000,
+		"sec": "挑战组队副本{1}次",
+		"fame": 100,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 600
+			}
+		]
+	},
+	"4608": {
+		"fameId": 4608,
+		"fameType": 1,
+		"tagId": 0,
+		"targetType": 195,
+		"last": 1,
+		"order": 4607,
+		"target": 0,
+		"number": 1500,
+		"sec": "挑战组队副本{1}次",
+		"fame": 150,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 900
+			}
+		]
+	},
+	"2000": {
+		"fameId": 2000,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 154,
+		"last": 1,
+		"order": 0,
+		"target": 0,
+		"number": 2,
+		"sec": "快速作战{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"2001": {
+		"fameId": 2001,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 145,
+		"last": 1,
+		"order": 0,
+		"target": 0,
+		"number": 2,
+		"sec": "三国无双重置{1}次",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"2002": {
+		"fameId": 2002,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 116,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 100,
+		"sec": "当日累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 45
+			}
+		]
+	},
+	"2003": {
+		"fameId": 2003,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 116,
+		"last": 0,
+		"order": 2002,
+		"target": 0,
+		"number": 200,
+		"sec": "当日累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 45
+			}
+		]
+	},
+	"2004": {
+		"fameId": 2004,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 116,
+		"last": 0,
+		"order": 2003,
+		"target": 0,
+		"number": 500,
+		"sec": "当日累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 45
+			}
+		]
+	},
+	"2005": {
+		"fameId": 2005,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 116,
+		"last": 0,
+		"order": 2004,
+		"target": 0,
+		"number": 1000,
+		"sec": "当日累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 45
+			}
+		]
+	},
+	"2006": {
+		"fameId": 2006,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 116,
+		"last": 0,
+		"order": 2005,
+		"target": 0,
+		"number": 5000,
+		"sec": "当日累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 45
+			}
+		]
+	},
+	"2007": {
+		"fameId": 2007,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 116,
+		"last": 1,
+		"order": 2006,
+		"target": 0,
+		"number": 10000,
+		"sec": "当日累计消耗{1}元宝",
+		"fame": 15,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 45
+			}
+		]
+	},
+	"2008": {
+		"fameId": 2008,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 165,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "名将副本当日购买{1}次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		]
+	},
+	"2009": {
+		"fameId": 2009,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 165,
+		"last": 0,
+		"order": 2008,
+		"target": 0,
+		"number": 3,
+		"sec": "名将副本当日购买{1}次",
+		"fame": 5,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 15
+			}
+		]
+	},
+	"2010": {
+		"fameId": 2010,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 165,
+		"last": 1,
+		"order": 2009,
+		"target": 0,
+		"number": 5,
+		"sec": "名将副本当日购买{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"2011": {
+		"fameId": 2011,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 151,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "元宝招募{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"2012": {
+		"fameId": 2012,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 151,
+		"last": 0,
+		"order": 2011,
+		"target": 0,
+		"number": 10,
+		"sec": "元宝招募{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"2013": {
+		"fameId": 2013,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 151,
+		"last": 1,
+		"order": 2012,
+		"target": 0,
+		"number": 50,
+		"sec": "元宝招募{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"2014": {
+		"fameId": 2014,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 138,
+		"last": 0,
+		"order": 0,
+		"target": 0,
+		"number": 600,
+		"sec": "当日累计充值{1}元宝",
+		"fame": 20,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		]
+	},
+	"2015": {
+		"fameId": 2015,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 138,
+		"last": 0,
+		"order": 2014,
+		"target": 0,
+		"number": 3000,
+		"sec": "当日累计充值{1}元宝",
+		"fame": 30,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 90
+			}
+		]
+	},
+	"2016": {
+		"fameId": 2016,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 138,
+		"last": 0,
+		"order": 2015,
+		"target": 0,
+		"number": 19800,
+		"sec": "当日累计充值{1}元宝",
+		"fame": 50,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		]
+	},
+	"2017": {
+		"fameId": 2017,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 138,
+		"last": 1,
+		"order": 2016,
+		"target": 0,
+		"number": 64800,
+		"sec": "当日累计充值{1}元宝",
+		"fame": 75,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 225
+			}
+		]
+	},
+	"2018": {
+		"fameId": 2018,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 196,
+		"last": 1,
+		"order": 0,
+		"target": 0,
+		"number": 1,
+		"sec": "妖凰塔额外奖励购买",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"2019": {
+		"fameId": 2019,
+		"fameType": 0,
+		"tagId": 0,
+		"targetType": 197,
+		"last": 1,
+		"order": 0,
+		"target": 0,
+		"number": 2,
+		"sec": "排行boss次数购买{1}次",
+		"fame": 10,
+		"fameReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	}
+}

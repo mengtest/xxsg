@@ -1,0 +1,20 @@
+{
+	"1": {
+		"id": 1,
+		"bornInterval": 1000,
+		"lieInterval": 500,
+		"atkType": 3,
+		"walkArea": 5,
+		"visualRadius": 8,
+		"atkArea": 100
+	},
+	"2": {
+		"id": 2,
+		"bornInterval": 1000,
+		"lieInterval": 500,
+		"atkType": 3,
+		"walkArea": 5,
+		"visualRadius": 8,
+		"atkArea": 100
+	}
+}

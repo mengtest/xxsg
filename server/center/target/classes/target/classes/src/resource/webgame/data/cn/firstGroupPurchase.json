@@ -1,0 +1,182 @@
+{
+	"1": {
+		"id": 1,
+		"number": 50,
+		"condition": 0,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 100
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"number": 50,
+		"condition": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 200
+			}
+		]
+	},
+	"3": {
+		"id": 3,
+		"number": 50,
+		"condition": 198,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 400
+			}
+		]
+	},
+	"4": {
+		"id": 4,
+		"number": 100,
+		"condition": 0,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 30
+			}
+		]
+	},
+	"5": {
+		"id": 5,
+		"number": 100,
+		"condition": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 60
+			}
+		]
+	},
+	"6": {
+		"id": 6,
+		"number": 100,
+		"condition": 198,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 120
+			}
+		]
+	},
+	"7": {
+		"id": 7,
+		"number": 200,
+		"condition": 0,
+		"reward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			}
+		]
+	},
+	"8": {
+		"id": 8,
+		"number": 200,
+		"condition": 1,
+		"reward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1000
+			}
+		]
+	},
+	"9": {
+		"id": 9,
+		"number": 200,
+		"condition": 198,
+		"reward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 2000
+			}
+		]
+	},
+	"10": {
+		"id": 10,
+		"number": 300,
+		"condition": 0,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 4
+			}
+		]
+	},
+	"11": {
+		"id": 11,
+		"number": 300,
+		"condition": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000613,
+				"num": 8
+			}
+		]
+	},
+	"12": {
+		"id": 12,
+		"number": 300,
+		"condition": 198,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 8
+			}
+		]
+	},
+	"13": {
+		"id": 13,
+		"number": 500,
+		"condition": 0,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		]
+	},
+	"14": {
+		"id": 14,
+		"number": 500,
+		"condition": 1,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 2
+			}
+		]
+	},
+	"15": {
+		"id": 15,
+		"number": 500,
+		"condition": 198,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 4
+			}
+		]
+	}
+}

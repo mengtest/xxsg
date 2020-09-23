@@ -1,0 +1,1037 @@
+{
+	"1": {
+		"id": 1,
+		"times": {
+			"1": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"2": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"3": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"4": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"5": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"6": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"7": {
+				"warehouseId": 1,
+				"rareId": 101,
+				"rarePer": 0
+			},
+			"8": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"9": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"10": {
+				"warehouseId": 1,
+				"rareId": 102,
+				"rarePer": 0
+			},
+			"11": {
+				"warehouseId": 1,
+				"rareId": 102,
+				"rarePer": 0
+			},
+			"12": {
+				"warehouseId": 1,
+				"rareId": 102,
+				"rarePer": 0
+			},
+			"13": {
+				"warehouseId": 1,
+				"rareId": 102,
+				"rarePer": 0
+			},
+			"14": {
+				"warehouseId": 1,
+				"rareId": 102,
+				"rarePer": 0
+			},
+			"15": {
+				"warehouseId": 1,
+				"rareId": 102,
+				"rarePer": 0
+			},
+			"16": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"17": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"18": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"19": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"20": {
+				"warehouseId": 1,
+				"rareId": 103,
+				"rarePer": 0
+			},
+			"21": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"22": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"23": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"24": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"25": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"26": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"27": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"28": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"29": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"30": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"31": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"32": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"33": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"34": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"35": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"36": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"37": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"38": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"39": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"40": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"41": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"42": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"43": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"44": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"45": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"46": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"47": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"48": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"49": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"50": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"51": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"52": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"53": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"54": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"55": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"56": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"57": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"58": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"59": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"60": {
+				"warehouseId": 1,
+				"rareId": 104,
+				"rarePer": 0
+			},
+			"61": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"62": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"63": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"64": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"65": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"66": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"67": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"68": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"69": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"70": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"71": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"72": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"73": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"74": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"75": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"76": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"77": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"78": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"79": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"80": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"81": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"82": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"83": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"84": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"85": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"86": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"87": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"88": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"89": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"90": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"91": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"92": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"93": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"94": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"95": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"96": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"97": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"98": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"99": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"100": {
+				"warehouseId": 1,
+				"rareId": 105,
+				"rarePer": 0
+			},
+			"101": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"102": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"103": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"104": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"105": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"106": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"107": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"108": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"109": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"110": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"111": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"112": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"113": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"114": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"115": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"116": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"117": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"118": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"119": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"120": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"121": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"122": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"123": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"124": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"125": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"126": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"127": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"128": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"129": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"130": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"131": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"132": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"133": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"134": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"135": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"136": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"137": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"138": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"139": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"140": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"141": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"142": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"143": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"144": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"145": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"146": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"147": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"148": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"149": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"150": {
+				"warehouseId": 1,
+				"rareId": 106,
+				"rarePer": 0
+			},
+			"151": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"152": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"153": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"154": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"155": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"156": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"157": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"158": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"159": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"160": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"161": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"162": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"163": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"164": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"165": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"166": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"167": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"168": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"169": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"170": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"171": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"172": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"173": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"174": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"175": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"176": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"177": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"178": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"179": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"180": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"181": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"182": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"183": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"184": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"185": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"186": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"187": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"188": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"189": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"190": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"191": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"192": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"193": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"194": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"195": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"196": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"197": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"198": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"199": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			},
+			"200": {
+				"warehouseId": 1,
+				"rareId": 107,
+				"rarePer": 0
+			}
+		}
+	},
+	"2": {
+		"id": 2,
+		"times": {
+			"1": {
+				"warehouseId": 1,
+				"rareId": 201,
+				"rarePer": 1
+			}
+		}
+	},
+	"3": {
+		"id": 3,
+		"times": {
+			"1": {
+				"warehouseId": 1,
+				"rareId": 201,
+				"rarePer": 0
+			}
+		}
+	},
+	"4": {
+		"id": 4,
+		"times": {
+			"1": {
+				"warehouseId": 1,
+				"rareId": 201,
+				"rarePer": 0
+			}
+		}
+	}
+}

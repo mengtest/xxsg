@@ -1,0 +1,542 @@
+{
+	"1": {
+		"id": 1,
+		"level": 50,
+		"type": [
+			{
+				"type": 164,
+				"targetId": 0,
+				"num": 2
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 6
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"level": 50,
+		"type": [
+			{
+				"type": 177,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 4
+			}
+		]
+	},
+	"3": {
+		"id": 3,
+		"level": 50,
+		"type": [
+			{
+				"type": 188,
+				"targetId": 0,
+				"num": 6
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 4
+			}
+		]
+	},
+	"4": {
+		"id": 4,
+		"level": 50,
+		"type": [
+			{
+				"type": 204,
+				"targetId": 0,
+				"num": 1
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 8
+			}
+		]
+	},
+	"5": {
+		"id": 5,
+		"level": 50,
+		"type": [
+			{
+				"type": 215,
+				"targetId": 0,
+				"num": 2
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 8
+			}
+		]
+	},
+	"6": {
+		"id": 6,
+		"level": 50,
+		"type": [
+			{
+				"type": 197,
+				"targetId": 0,
+				"num": 3
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 20
+			}
+		]
+	},
+	"7": {
+		"id": 7,
+		"level": 50,
+		"type": [
+			{
+				"type": 116,
+				"targetId": 0,
+				"num": 20000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 30
+			}
+		]
+	},
+	"8": {
+		"id": 8,
+		"level": 50,
+		"type": [
+			{
+				"type": 116,
+				"targetId": 0,
+				"num": 100000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 70
+			}
+		]
+	},
+	"9": {
+		"id": 9,
+		"level": 50,
+		"type": [
+			{
+				"type": 138,
+				"targetId": 0,
+				"num": 3000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 100
+			}
+		]
+	},
+	"10": {
+		"id": 10,
+		"level": 50,
+		"type": [
+			{
+				"type": 138,
+				"targetId": 0,
+				"num": 64800
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 500
+			}
+		]
+	},
+	"11": {
+		"id": 11,
+		"level": 120,
+		"type": [
+			{
+				"type": 164,
+				"targetId": 0,
+				"num": 2
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 6
+			}
+		]
+	},
+	"12": {
+		"id": 12,
+		"level": 120,
+		"type": [
+			{
+				"type": 177,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 4
+			}
+		]
+	},
+	"13": {
+		"id": 13,
+		"level": 120,
+		"type": [
+			{
+				"type": 188,
+				"targetId": 0,
+				"num": 6
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 4
+			}
+		]
+	},
+	"14": {
+		"id": 14,
+		"level": 120,
+		"type": [
+			{
+				"type": 204,
+				"targetId": 0,
+				"num": 1
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 8
+			}
+		]
+	},
+	"15": {
+		"id": 15,
+		"level": 120,
+		"type": [
+			{
+				"type": 215,
+				"targetId": 0,
+				"num": 2
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 8
+			}
+		]
+	},
+	"16": {
+		"id": 16,
+		"level": 120,
+		"type": [
+			{
+				"type": 197,
+				"targetId": 0,
+				"num": 3
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 20
+			}
+		]
+	},
+	"17": {
+		"id": 17,
+		"level": 120,
+		"type": [
+			{
+				"type": 116,
+				"targetId": 0,
+				"num": 20000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 30
+			}
+		]
+	},
+	"18": {
+		"id": 18,
+		"level": 120,
+		"type": [
+			{
+				"type": 116,
+				"targetId": 0,
+				"num": 100000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 70
+			}
+		]
+	},
+	"19": {
+		"id": 19,
+		"level": 120,
+		"type": [
+			{
+				"type": 138,
+				"targetId": 0,
+				"num": 3000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 100
+			}
+		]
+	},
+	"20": {
+		"id": 20,
+		"level": 120,
+		"type": [
+			{
+				"type": 138,
+				"targetId": 0,
+				"num": 64800
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 500
+			}
+		]
+	},
+	"21": {
+		"id": 21,
+		"level": 999,
+		"type": [
+			{
+				"type": 164,
+				"targetId": 0,
+				"num": 2
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 6
+			}
+		]
+	},
+	"22": {
+		"id": 22,
+		"level": 999,
+		"type": [
+			{
+				"type": 177,
+				"targetId": 0,
+				"num": 40
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 4
+			}
+		]
+	},
+	"23": {
+		"id": 23,
+		"level": 999,
+		"type": [
+			{
+				"type": 188,
+				"targetId": 0,
+				"num": 6
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 4
+			}
+		]
+	},
+	"24": {
+		"id": 24,
+		"level": 999,
+		"type": [
+			{
+				"type": 204,
+				"targetId": 0,
+				"num": 1
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 8
+			}
+		]
+	},
+	"25": {
+		"id": 25,
+		"level": 999,
+		"type": [
+			{
+				"type": 215,
+				"targetId": 0,
+				"num": 2
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 8
+			}
+		]
+	},
+	"26": {
+		"id": 26,
+		"level": 999,
+		"type": [
+			{
+				"type": 197,
+				"targetId": 0,
+				"num": 3
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 20
+			}
+		]
+	},
+	"27": {
+		"id": 27,
+		"level": 999,
+		"type": [
+			{
+				"type": 116,
+				"targetId": 0,
+				"num": 20000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 30
+			}
+		]
+	},
+	"28": {
+		"id": 28,
+		"level": 999,
+		"type": [
+			{
+				"type": 116,
+				"targetId": 0,
+				"num": 100000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 70
+			}
+		]
+	},
+	"29": {
+		"id": 29,
+		"level": 999,
+		"type": [
+			{
+				"type": 138,
+				"targetId": 0,
+				"num": 3000
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 100
+			}
+		]
+	},
+	"30": {
+		"id": 30,
+		"level": 999,
+		"type": [
+			{
+				"type": 138,
+				"targetId": 0,
+				"num": 64800
+			}
+		],
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000037,
+				"num": 500
+			}
+		]
+	}
+}

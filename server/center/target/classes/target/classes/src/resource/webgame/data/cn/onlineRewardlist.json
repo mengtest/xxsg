@@ -1,0 +1,104 @@
+{
+	"2": {
+		"time": 2,
+		"onlineReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"extraReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		]
+	},
+	"5": {
+		"time": 5,
+		"onlineReward": [
+			{
+				"type": 2,
+				"id": 30000101,
+				"num": 10
+			}
+		],
+		"extraReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		]
+	},
+	"10": {
+		"time": 10,
+		"onlineReward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 80
+			}
+		],
+		"extraReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		]
+	},
+	"20": {
+		"time": 20,
+		"onlineReward": [
+			{
+				"type": 2,
+				"id": 30000611,
+				"num": 5
+			}
+		],
+		"extraReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 20
+			}
+		]
+	},
+	"30": {
+		"time": 30,
+		"onlineReward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30
+			}
+		],
+		"extraReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		]
+	},
+	"60": {
+		"time": 60,
+		"onlineReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"extraReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 50
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"1": {
+		"id": 1,
+		"desc": "符文1层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040002,
+				"num": 2
+			}
+		],
+		"score": 40,
+		"win": 10,
+		"lose": 10
+	},
+	"2": {
+		"id": 2,
+		"desc": "符文2层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040002,
+				"num": 3
+			}
+		],
+		"score": 100,
+		"win": 15,
+		"lose": 10
+	},
+	"3": {
+		"id": 3,
+		"desc": "符文3层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040003,
+				"num": 2
+			}
+		],
+		"score": 200,
+		"win": 15,
+		"lose": -5
+	},
+	"4": {
+		"id": 4,
+		"desc": "符文4层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040003,
+				"num": 3
+			}
+		],
+		"score": 500,
+		"win": 20,
+		"lose": -5
+	},
+	"5": {
+		"id": 5,
+		"desc": "符文5层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040003,
+				"num": 4
+			}
+		],
+		"score": 900,
+		"win": 20,
+		"lose": -10
+	},
+	"6": {
+		"id": 6,
+		"desc": "符文6层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040004,
+				"num": 2
+			}
+		],
+		"score": 1500,
+		"win": 20,
+		"lose": -10
+	},
+	"7": {
+		"id": 7,
+		"desc": "符文7层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040004,
+				"num": 2
+			}
+		],
+		"score": 2200,
+		"win": 20,
+		"lose": -20
+	},
+	"8": {
+		"id": 8,
+		"desc": "符文8层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040004,
+				"num": 2
+			}
+		],
+		"score": 3000,
+		"win": 20,
+		"lose": -20
+	},
+	"9": {
+		"id": 9,
+		"desc": "符文9层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040005,
+				"num": 1
+			}
+		],
+		"score": 4000,
+		"win": 20,
+		"lose": -20
+	},
+	"10": {
+		"id": 10,
+		"desc": "符文10层",
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30040005,
+				"num": 1
+			}
+		],
+		"score": 4500,
+		"win": 10,
+		"lose": -20
+	}
+}

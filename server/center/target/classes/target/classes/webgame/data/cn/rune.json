@@ -1,0 +1,982 @@
+{
+	"12100001": {
+		"itemId": 12100001,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 4,
+				"num": 10000
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1001,
+		"type": 1,
+		"mlevel": 20
+	},
+	"12100002": {
+		"itemId": 12100002,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 1,
+				"num": 800
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1001,
+		"type": 2,
+		"mlevel": 20
+	},
+	"12100003": {
+		"itemId": 12100003,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 2,
+				"num": 500
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1001,
+		"type": 3,
+		"mlevel": 20
+	},
+	"12100004": {
+		"itemId": 12100004,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 3,
+				"num": 500
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1001,
+		"type": 4,
+		"mlevel": 20
+	},
+	"12100101": {
+		"itemId": 12100101,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 7,
+				"num": 20
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1002,
+		"type": 5,
+		"mlevel": 20
+	},
+	"12100102": {
+		"itemId": 12100102,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 5,
+				"num": 16
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1002,
+		"type": 6,
+		"mlevel": 20
+	},
+	"12100201": {
+		"itemId": 12100201,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 8,
+				"num": 16
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1003,
+		"type": 7,
+		"mlevel": 20
+	},
+	"12100202": {
+		"itemId": 12100202,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 6,
+				"num": 20
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1003,
+		"type": 8,
+		"mlevel": 20
+	},
+	"12100401": {
+		"itemId": 12100401,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 21,
+				"num": 100
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1004,
+		"type": 9,
+		"mlevel": 20
+	},
+	"12100402": {
+		"itemId": 12100402,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 18,
+				"num": 80
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1004,
+		"type": 10,
+		"mlevel": 20
+	},
+	"12100403": {
+		"itemId": 12100403,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 19,
+				"num": 100
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1004,
+		"type": 11,
+		"mlevel": 20
+	},
+	"12100404": {
+		"itemId": 12100404,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 20,
+				"num": 100
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1004,
+		"type": 12,
+		"mlevel": 20
+	},
+	"12100501": {
+		"itemId": 12100501,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 11,
+				"num": 24
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1005,
+		"type": 13,
+		"mlevel": 20
+	},
+	"12100502": {
+		"itemId": 12100502,
+		"quality": 30,
+		"strengthAttr": [
+			{
+				"id": 12,
+				"num": 30
+			}
+		],
+		"costCoin": 10000,
+		"suitId": 1005,
+		"type": 14,
+		"mlevel": 20
+	},
+	"12200001": {
+		"itemId": 12200001,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 4,
+				"num": 15000
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1001,
+		"type": 15,
+		"mlevel": 20
+	},
+	"12200002": {
+		"itemId": 12200002,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 1,
+				"num": 1200
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1001,
+		"type": 16,
+		"mlevel": 20
+	},
+	"12200003": {
+		"itemId": 12200003,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 2,
+				"num": 750
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1001,
+		"type": 17,
+		"mlevel": 20
+	},
+	"12200004": {
+		"itemId": 12200004,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 3,
+				"num": 750
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1001,
+		"type": 18,
+		"mlevel": 20
+	},
+	"12200101": {
+		"itemId": 12200101,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 7,
+				"num": 30
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1002,
+		"type": 19,
+		"mlevel": 20
+	},
+	"12200102": {
+		"itemId": 12200102,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 5,
+				"num": 24
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1002,
+		"type": 20,
+		"mlevel": 20
+	},
+	"12200201": {
+		"itemId": 12200201,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 8,
+				"num": 24
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1003,
+		"type": 21,
+		"mlevel": 20
+	},
+	"12200202": {
+		"itemId": 12200202,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 6,
+				"num": 30
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1003,
+		"type": 22,
+		"mlevel": 20
+	},
+	"12200401": {
+		"itemId": 12200401,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 21,
+				"num": 150
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1004,
+		"type": 23,
+		"mlevel": 20
+	},
+	"12200402": {
+		"itemId": 12200402,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 18,
+				"num": 120
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1004,
+		"type": 24,
+		"mlevel": 20
+	},
+	"12200403": {
+		"itemId": 12200403,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 19,
+				"num": 150
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1004,
+		"type": 25,
+		"mlevel": 20
+	},
+	"12200404": {
+		"itemId": 12200404,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 20,
+				"num": 150
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1004,
+		"type": 26,
+		"mlevel": 20
+	},
+	"12200501": {
+		"itemId": 12200501,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 11,
+				"num": 36
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1005,
+		"type": 27,
+		"mlevel": 20
+	},
+	"12200502": {
+		"itemId": 12200502,
+		"quality": 40,
+		"strengthAttr": [
+			{
+				"id": 12,
+				"num": 45
+			}
+		],
+		"costCoin": 15000,
+		"suitId": 1005,
+		"type": 28,
+		"mlevel": 20
+	},
+	"12300001": {
+		"itemId": 12300001,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 4,
+				"num": 20000
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1001,
+		"type": 29,
+		"mlevel": 20
+	},
+	"12300002": {
+		"itemId": 12300002,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 1,
+				"num": 1600
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1001,
+		"type": 30,
+		"mlevel": 20
+	},
+	"12300003": {
+		"itemId": 12300003,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 2,
+				"num": 1000
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1001,
+		"type": 31,
+		"mlevel": 20
+	},
+	"12300004": {
+		"itemId": 12300004,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 3,
+				"num": 1000
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1001,
+		"type": 32,
+		"mlevel": 20
+	},
+	"12300101": {
+		"itemId": 12300101,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 7,
+				"num": 40
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1002,
+		"type": 33,
+		"mlevel": 20
+	},
+	"12300102": {
+		"itemId": 12300102,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 5,
+				"num": 32
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1002,
+		"type": 34,
+		"mlevel": 20
+	},
+	"12300201": {
+		"itemId": 12300201,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 8,
+				"num": 32
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1003,
+		"type": 35,
+		"mlevel": 20
+	},
+	"12300202": {
+		"itemId": 12300202,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 6,
+				"num": 40
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1003,
+		"type": 36,
+		"mlevel": 20
+	},
+	"12300401": {
+		"itemId": 12300401,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 21,
+				"num": 200
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1004,
+		"type": 37,
+		"mlevel": 20
+	},
+	"12300402": {
+		"itemId": 12300402,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 18,
+				"num": 160
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1004,
+		"type": 38,
+		"mlevel": 20
+	},
+	"12300403": {
+		"itemId": 12300403,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 19,
+				"num": 200
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1004,
+		"type": 39,
+		"mlevel": 20
+	},
+	"12300404": {
+		"itemId": 12300404,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 20,
+				"num": 200
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1004,
+		"type": 40,
+		"mlevel": 20
+	},
+	"12300501": {
+		"itemId": 12300501,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 11,
+				"num": 48
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1005,
+		"type": 41,
+		"mlevel": 20
+	},
+	"12300502": {
+		"itemId": 12300502,
+		"quality": 50,
+		"strengthAttr": [
+			{
+				"id": 12,
+				"num": 60
+			}
+		],
+		"costCoin": 20000,
+		"suitId": 1005,
+		"type": 42,
+		"mlevel": 20
+	},
+	"12400001": {
+		"itemId": 12400001,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 4,
+				"num": 30000
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1001,
+		"type": 43,
+		"mlevel": 20
+	},
+	"12400002": {
+		"itemId": 12400002,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 1,
+				"num": 2400
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1001,
+		"type": 44,
+		"mlevel": 20
+	},
+	"12400003": {
+		"itemId": 12400003,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 2,
+				"num": 1500
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1001,
+		"type": 45,
+		"mlevel": 20
+	},
+	"12400004": {
+		"itemId": 12400004,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 3,
+				"num": 1500
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1001,
+		"type": 46,
+		"mlevel": 20
+	},
+	"12400101": {
+		"itemId": 12400101,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 7,
+				"num": 60
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1002,
+		"type": 47,
+		"mlevel": 20
+	},
+	"12400102": {
+		"itemId": 12400102,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 5,
+				"num": 48
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1002,
+		"type": 48,
+		"mlevel": 20
+	},
+	"12400201": {
+		"itemId": 12400201,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 8,
+				"num": 48
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1003,
+		"type": 49,
+		"mlevel": 20
+	},
+	"12400202": {
+		"itemId": 12400202,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 6,
+				"num": 60
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1003,
+		"type": 50,
+		"mlevel": 20
+	},
+	"12400401": {
+		"itemId": 12400401,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 21,
+				"num": 300
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1004,
+		"type": 51,
+		"mlevel": 20
+	},
+	"12400402": {
+		"itemId": 12400402,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 18,
+				"num": 240
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1004,
+		"type": 52,
+		"mlevel": 20
+	},
+	"12400403": {
+		"itemId": 12400403,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 19,
+				"num": 300
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1004,
+		"type": 53,
+		"mlevel": 20
+	},
+	"12400404": {
+		"itemId": 12400404,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 20,
+				"num": 300
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1004,
+		"type": 54,
+		"mlevel": 20
+	},
+	"12400501": {
+		"itemId": 12400501,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 11,
+				"num": 72
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1005,
+		"type": 55,
+		"mlevel": 20
+	},
+	"12400502": {
+		"itemId": 12400502,
+		"quality": 60,
+		"strengthAttr": [
+			{
+				"id": 12,
+				"num": 90
+			}
+		],
+		"costCoin": 30000,
+		"suitId": 1005,
+		"type": 56,
+		"mlevel": 20
+	},
+	"12500001": {
+		"itemId": 12500001,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 4,
+				"num": 50000
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1001,
+		"type": 57,
+		"mlevel": 20
+	},
+	"12500002": {
+		"itemId": 12500002,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 1,
+				"num": 4000
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1001,
+		"type": 58,
+		"mlevel": 20
+	},
+	"12500003": {
+		"itemId": 12500003,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 2,
+				"num": 2500
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1001,
+		"type": 59,
+		"mlevel": 20
+	},
+	"12500004": {
+		"itemId": 12500004,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 3,
+				"num": 2500
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1001,
+		"type": 60,
+		"mlevel": 20
+	},
+	"12500101": {
+		"itemId": 12500101,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 7,
+				"num": 100
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1002,
+		"type": 61,
+		"mlevel": 20
+	},
+	"12500102": {
+		"itemId": 12500102,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 5,
+				"num": 80
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1002,
+		"type": 62,
+		"mlevel": 20
+	},
+	"12500201": {
+		"itemId": 12500201,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 8,
+				"num": 80
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1003,
+		"type": 63,
+		"mlevel": 20
+	},
+	"12500202": {
+		"itemId": 12500202,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 6,
+				"num": 100
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1003,
+		"type": 64,
+		"mlevel": 20
+	},
+	"12500401": {
+		"itemId": 12500401,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 21,
+				"num": 500
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1004,
+		"type": 65,
+		"mlevel": 20
+	},
+	"12500402": {
+		"itemId": 12500402,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 18,
+				"num": 400
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1004,
+		"type": 66,
+		"mlevel": 20
+	},
+	"12500403": {
+		"itemId": 12500403,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 19,
+				"num": 500
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1004,
+		"type": 67,
+		"mlevel": 20
+	},
+	"12500404": {
+		"itemId": 12500404,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 20,
+				"num": 500
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1004,
+		"type": 68,
+		"mlevel": 20
+	},
+	"12500501": {
+		"itemId": 12500501,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 11,
+				"num": 120
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1005,
+		"type": 69,
+		"mlevel": 20
+	},
+	"12500502": {
+		"itemId": 12500502,
+		"quality": 70,
+		"strengthAttr": [
+			{
+				"id": 12,
+				"num": 150
+			}
+		],
+		"costCoin": 50000,
+		"suitId": 1005,
+		"type": 70,
+		"mlevel": 20
+	}
+}

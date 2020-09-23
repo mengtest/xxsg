@@ -1,0 +1,32 @@
+{
+	"80": {
+		"worldLevel": 80,
+		"reward": [1,2,3,4,5,6],
+		"rankReward": [1,2,3]
+	},
+	"100": {
+		"worldLevel": 100,
+		"reward": [7,8,9,10,11,12],
+		"rankReward": [4,5,6]
+	},
+	"120": {
+		"worldLevel": 120,
+		"reward": [13,14,15,16,17,18],
+		"rankReward": [7,8,9]
+	},
+	"150": {
+		"worldLevel": 150,
+		"reward": [19,20,21,22,23,24],
+		"rankReward": [10,11,12]
+	},
+	"200": {
+		"worldLevel": 200,
+		"reward": [25,26,27,28,29,30],
+		"rankReward": [13,14,15]
+	},
+	"999": {
+		"worldLevel": 999,
+		"reward": [31,32,33,34,35,36],
+		"rankReward": [16,17,18]
+	}
+}

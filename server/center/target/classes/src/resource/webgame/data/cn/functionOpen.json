@@ -1,0 +1,547 @@
+{
+	"300": {
+		"functionId": 300,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"301": {
+		"functionId": 301,
+		"taskId": 0,
+		"playerLv": 12
+	},
+	"302": {
+		"functionId": 302,
+		"taskId": 0,
+		"playerLv": 50
+	},
+	"303": {
+		"functionId": 303,
+		"taskId": 0,
+		"playerLv": 100
+	},
+	"8": {
+		"functionId": 8,
+		"taskId": 0,
+		"playerLv": 15
+	},
+	"10": {
+		"functionId": 10,
+		"taskId": 0,
+		"playerLv": 5
+	},
+	"11": {
+		"functionId": 11,
+		"taskId": 0,
+		"playerLv": 30
+	},
+	"12": {
+		"functionId": 12,
+		"taskId": 0,
+		"playerLv": 12
+	},
+	"1201": {
+		"functionId": 1201,
+		"taskId": 0,
+		"playerLv": 110
+	},
+	"1202": {
+		"functionId": 1202,
+		"taskId": 0,
+		"playerLv": 401
+	},
+	"13": {
+		"functionId": 13,
+		"taskId": 0,
+		"playerLv": 5
+	},
+	"16": {
+		"functionId": 16,
+		"taskId": 0,
+		"playerLv": 6
+	},
+	"17": {
+		"functionId": 17,
+		"taskId": 0,
+		"playerLv": 11
+	},
+	"18": {
+		"functionId": 18,
+		"taskId": 0,
+		"playerLv": 40
+	},
+	"28": {
+		"functionId": 28,
+		"taskId": 0,
+		"playerLv": 90
+	},
+	"30": {
+		"functionId": 30,
+		"taskId": 0,
+		"playerLv": 15
+	},
+	"31": {
+		"functionId": 31,
+		"taskId": 0,
+		"playerLv": 1
+	},
+	"3101": {
+		"functionId": 3101,
+		"taskId": 0,
+		"playerLv": 90
+	},
+	"3102": {
+		"functionId": 3102,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"3103": {
+		"functionId": 3103,
+		"taskId": 0,
+		"playerLv": 20
+	},
+	"32": {
+		"functionId": 32,
+		"taskId": 0,
+		"playerLv": 15
+	},
+	"33": {
+		"functionId": 33,
+		"taskId": 0,
+		"playerLv": 70
+	},
+	"35": {
+		"functionId": 35,
+		"taskId": 0,
+		"playerLv": 20
+	},
+	"36": {
+		"functionId": 36,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"37": {
+		"functionId": 37,
+		"taskId": 0,
+		"playerLv": 35
+	},
+	"38": {
+		"functionId": 38,
+		"taskId": 0,
+		"playerLv": 1
+	},
+	"40": {
+		"functionId": 40,
+		"taskId": 0,
+		"playerLv": 30
+	},
+	"41": {
+		"functionId": 41,
+		"taskId": 0,
+		"playerLv": 65
+	},
+	"7": {
+		"functionId": 7,
+		"taskId": 0,
+		"playerLv": 19
+	},
+	"22": {
+		"functionId": 22,
+		"taskId": 0,
+		"playerLv": 18
+	},
+	"1001": {
+		"functionId": 1001,
+		"taskId": 0,
+		"playerLv": 1
+	},
+	"9801": {
+		"functionId": 9801,
+		"taskId": 0,
+		"playerLv": 1
+	},
+	"9802": {
+		"functionId": 9802,
+		"taskId": 0,
+		"playerLv": 1
+	},
+	"9803": {
+		"functionId": 9803,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"9804": {
+		"functionId": 9804,
+		"taskId": 0,
+		"playerLv": 12
+	},
+	"9805": {
+		"functionId": 9805,
+		"taskId": 0,
+		"playerLv": 45
+	},
+	"9806": {
+		"functionId": 9806,
+		"taskId": 0,
+		"playerLv": 100
+	},
+	"9807": {
+		"functionId": 9807,
+		"taskId": 0,
+		"playerLv": 200
+	},
+	"1002": {
+		"functionId": 1002,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"1003": {
+		"functionId": 1003,
+		"taskId": 0,
+		"playerLv": 5
+	},
+	"801": {
+		"functionId": 801,
+		"taskId": 0,
+		"playerLv": 5
+	},
+	"802": {
+		"functionId": 802,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"803": {
+		"functionId": 803,
+		"taskId": 0,
+		"playerLv": 30
+	},
+	"804": {
+		"functionId": 804,
+		"taskId": 0,
+		"playerLv": 40
+	},
+	"805": {
+		"functionId": 805,
+		"taskId": 0,
+		"playerLv": 120
+	},
+	"806": {
+		"functionId": 806,
+		"taskId": 0,
+		"playerLv": 150
+	},
+	"1004": {
+		"functionId": 1004,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"1005": {
+		"functionId": 1005,
+		"taskId": 0,
+		"playerLv": 6
+	},
+	"1006": {
+		"functionId": 1006,
+		"taskId": 0,
+		"playerLv": 8
+	},
+	"1101": {
+		"functionId": 1101,
+		"taskId": 0,
+		"playerLv": 401
+	},
+	"42": {
+		"functionId": 42,
+		"taskId": 0,
+		"playerLv": 55
+	},
+	"43": {
+		"functionId": 43,
+		"taskId": 0,
+		"playerLv": 20
+	},
+	"50": {
+		"functionId": 50,
+		"taskId": 0,
+		"playerLv": 37
+	},
+	"77": {
+		"functionId": 77,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"46": {
+		"functionId": 46,
+		"taskId": 0,
+		"playerLv": 3
+	},
+	"24": {
+		"functionId": 24,
+		"taskId": 0,
+		"playerLv": 15
+	},
+	"74": {
+		"functionId": 74,
+		"taskId": 0,
+		"playerLv": 45
+	},
+	"80": {
+		"functionId": 80,
+		"taskId": 0,
+		"playerLv": 30
+	},
+	"6301": {
+		"functionId": 6301,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6401": {
+		"functionId": 6401,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"6402": {
+		"functionId": 6402,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"6403": {
+		"functionId": 6403,
+		"taskId": 0,
+		"playerLv": 60
+	},
+	"6404": {
+		"functionId": 6404,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6405": {
+		"functionId": 6405,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"52": {
+		"functionId": 52,
+		"taskId": 0,
+		"playerLv": 65
+	},
+	"53": {
+		"functionId": 53,
+		"taskId": 0,
+		"playerLv": 65
+	},
+	"54": {
+		"functionId": 54,
+		"taskId": 0,
+		"playerLv": 70
+	},
+	"6201": {
+		"functionId": 6201,
+		"taskId": 0,
+		"playerLv": 15
+	},
+	"6203": {
+		"functionId": 6203,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6204": {
+		"functionId": 6204,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6205": {
+		"functionId": 6205,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6208": {
+		"functionId": 6208,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6209": {
+		"functionId": 6209,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6210": {
+		"functionId": 6210,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"6501": {
+		"functionId": 6501,
+		"taskId": 0,
+		"playerLv": 14
+	},
+	"9601": {
+		"functionId": 9601,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"81": {
+		"functionId": 81,
+		"taskId": 0,
+		"playerLv": 60
+	},
+	"82": {
+		"functionId": 82,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"3601": {
+		"functionId": 3601,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"3602": {
+		"functionId": 3602,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"3603": {
+		"functionId": 3603,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"3604": {
+		"functionId": 3604,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"83": {
+		"functionId": 83,
+		"taskId": 0,
+		"playerLv": 40
+	},
+	"44": {
+		"functionId": 44,
+		"taskId": 0,
+		"playerLv": 85
+	},
+	"45": {
+		"functionId": 45,
+		"taskId": 0,
+		"playerLv": 52
+	},
+	"57": {
+		"functionId": 57,
+		"taskId": 0,
+		"playerLv": 80
+	},
+	"58": {
+		"functionId": 58,
+		"taskId": 0,
+		"playerLv": 80
+	},
+	"59": {
+		"functionId": 59,
+		"taskId": 0,
+		"playerLv": 50
+	},
+	"55": {
+		"functionId": 55,
+		"taskId": 0,
+		"playerLv": 130
+	},
+	"61": {
+		"functionId": 61,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"62": {
+		"functionId": 62,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"66": {
+		"functionId": 66,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"29": {
+		"functionId": 29,
+		"taskId": 0,
+		"playerLv": 90
+	},
+	"2901": {
+		"functionId": 2901,
+		"taskId": 0,
+		"playerLv": 90
+	},
+	"67": {
+		"functionId": 67,
+		"taskId": 0,
+		"playerLv": 50
+	},
+	"68": {
+		"functionId": 68,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"69": {
+		"functionId": 69,
+		"taskId": 0,
+		"playerLv": 52
+	},
+	"131": {
+		"functionId": 131,
+		"taskId": 0,
+		"playerLv": 60
+	},
+	"70": {
+		"functionId": 70,
+		"taskId": 0,
+		"playerLv": 4
+	},
+	"71": {
+		"functionId": 71,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"72": {
+		"functionId": 72,
+		"taskId": 0,
+		"playerLv": 0
+	},
+	"75": {
+		"functionId": 75,
+		"taskId": 0,
+		"playerLv": 11
+	},
+	"79": {
+		"functionId": 79,
+		"taskId": 0,
+		"playerLv": 401
+	},
+	"1301": {
+		"functionId": 1301,
+		"taskId": 0,
+		"playerLv": 5
+	},
+	"1302": {
+		"functionId": 1302,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"1303": {
+		"functionId": 1303,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"1304": {
+		"functionId": 1304,
+		"taskId": 0,
+		"playerLv": 10
+	},
+	"1305": {
+		"functionId": 1305,
+		"taskId": 0,
+		"playerLv": 40
+	},
+	"1306": {
+		"functionId": 1306,
+		"taskId": 0,
+		"playerLv": 15
+	}
+}

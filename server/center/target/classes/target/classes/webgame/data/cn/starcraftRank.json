@@ -1,0 +1,308 @@
+{
+	"1": {
+		"id": 1,
+		"campRanking": "第1名",
+		"target": 1,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"campRanking": "第2名",
+		"target": 2,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 700
+			}
+		]
+	},
+	"3": {
+		"id": 3,
+		"campRanking": "第3名",
+		"target": 3,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		]
+	},
+	"4": {
+		"id": 4,
+		"campRanking": "第1名",
+		"target": 1,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			}
+		]
+	},
+	"5": {
+		"id": 5,
+		"campRanking": "第2名",
+		"target": 2,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 700
+			}
+		]
+	},
+	"6": {
+		"id": 6,
+		"campRanking": "第3名",
+		"target": 3,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		]
+	},
+	"7": {
+		"id": 7,
+		"campRanking": "第1名",
+		"target": 1,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			}
+		]
+	},
+	"8": {
+		"id": 8,
+		"campRanking": "第2名",
+		"target": 2,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 700
+			}
+		]
+	},
+	"9": {
+		"id": 9,
+		"campRanking": "第3名",
+		"target": 3,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		]
+	},
+	"10": {
+		"id": 10,
+		"campRanking": "第1名",
+		"target": 1,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			}
+		]
+	},
+	"11": {
+		"id": 11,
+		"campRanking": "第2名",
+		"target": 2,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 700
+			}
+		]
+	},
+	"12": {
+		"id": 12,
+		"campRanking": "第3名",
+		"target": 3,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		]
+	},
+	"13": {
+		"id": 13,
+		"campRanking": "第1名",
+		"target": 1,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			}
+		]
+	},
+	"14": {
+		"id": 14,
+		"campRanking": "第2名",
+		"target": 2,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 700
+			}
+		]
+	},
+	"15": {
+		"id": 15,
+		"campRanking": "第3名",
+		"target": 3,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		]
+	},
+	"16": {
+		"id": 16,
+		"campRanking": "第1名",
+		"target": 1,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 4
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			}
+		]
+	},
+	"17": {
+		"id": 17,
+		"campRanking": "第2名",
+		"target": 2,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 2
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 700
+			}
+		]
+	},
+	"18": {
+		"id": 18,
+		"campRanking": "第3名",
+		"target": 3,
+		"rankReward": [
+			{
+				"type": 2,
+				"id": 30011001,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		]
+	}
+}

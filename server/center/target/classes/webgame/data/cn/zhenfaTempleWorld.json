@@ -1,0 +1,20 @@
+{
+	"80": {
+		"worldLevel": 80,
+		"integralReward": [101,102,103,104,105,106,107,108,109,110],
+		"rankReward": [101,102,103,104],
+		"entryScore": 50000
+	},
+	"140": {
+		"worldLevel": 140,
+		"integralReward": [201,202,203,204,205,206,207,208,209,210],
+		"rankReward": [201,202,203,204],
+		"entryScore": 50000
+	},
+	"200": {
+		"worldLevel": 200,
+		"integralReward": [301,302,303,304,305,306,307,308,309,310],
+		"rankReward": [301,302,303,304],
+		"entryScore": 50000
+	}
+}

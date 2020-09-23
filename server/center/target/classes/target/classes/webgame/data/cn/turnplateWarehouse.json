@@ -1,0 +1,850 @@
+{
+	"1": {
+		"warehouseId": 1,
+		"id": {
+			"1": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 2500,
+				"rewardPro": 0,
+				"sort": 2,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"2": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 211701,
+						"num": 1
+					}
+				],
+				"desc": "甄姬碎片*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 8,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"3": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220603,
+						"num": 1
+					}
+				],
+				"desc": "战宠物资补给*1",
+				"rafflePer": 2000,
+				"rewardPro": 0,
+				"sort": 5,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"4": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 211701,
+						"num": 10
+					}
+				],
+				"desc": "甄姬碎片*10",
+				"rafflePer": 50,
+				"rewardPro": 0,
+				"sort": 6,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"5": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000302,
+						"num": 1
+					}
+				],
+				"desc": "突破精华*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 3,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"6": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 3000,
+				"rewardPro": 0,
+				"sort": 9,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"7": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 1444,
+				"rewardPro": 0,
+				"sort": 12,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"8": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 501012,
+						"num": 1
+					}
+				],
+				"desc": "武圣称号卡*1",
+				"rafflePer": 5,
+				"rewardPro": 0,
+				"sort": 11,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"9": {
+				"raffleReward": [
+					{
+						"type": 4,
+						"id": 1701,
+						"num": 1
+					}
+				],
+				"desc": "甄姬*1",
+				"rafflePer": 1,
+				"rewardPro": 0,
+				"sort": 10,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"2": {
+		"warehouseId": 2,
+		"id": {
+			"1": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 2500,
+				"rewardPro": 0,
+				"sort": 2,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"2": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 214701,
+						"num": 1
+					}
+				],
+				"desc": "蔡文姬碎片*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 8,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"3": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220603,
+						"num": 1
+					}
+				],
+				"desc": "战宠物资补给*1",
+				"rafflePer": 2000,
+				"rewardPro": 0,
+				"sort": 5,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"4": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 214701,
+						"num": 10
+					}
+				],
+				"desc": "蔡文姬碎片*10",
+				"rafflePer": 50,
+				"rewardPro": 0,
+				"sort": 6,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"5": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000302,
+						"num": 1
+					}
+				],
+				"desc": "突破精华*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 3,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"6": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 3000,
+				"rewardPro": 0,
+				"sort": 9,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"7": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 1444,
+				"rewardPro": 0,
+				"sort": 12,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"8": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 501012,
+						"num": 1
+					}
+				],
+				"desc": "武圣称号卡*1",
+				"rafflePer": 5,
+				"rewardPro": 0,
+				"sort": 11,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"9": {
+				"raffleReward": [
+					{
+						"type": 4,
+						"id": 4701,
+						"num": 1
+					}
+				],
+				"desc": "蔡文姬*1",
+				"rafflePer": 1,
+				"rewardPro": 0,
+				"sort": 10,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"3": {
+		"warehouseId": 3,
+		"id": {
+			"1": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 2500,
+				"rewardPro": 0,
+				"sort": 2,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"2": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 213702,
+						"num": 1
+					}
+				],
+				"desc": "大帝孙权碎片*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 8,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"3": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220603,
+						"num": 1
+					}
+				],
+				"desc": "战宠物资补给*1",
+				"rafflePer": 2000,
+				"rewardPro": 0,
+				"sort": 5,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"4": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 213702,
+						"num": 10
+					}
+				],
+				"desc": "大帝孙权碎片*10",
+				"rafflePer": 50,
+				"rewardPro": 0,
+				"sort": 6,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"5": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000302,
+						"num": 1
+					}
+				],
+				"desc": "突破精华*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 3,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"6": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 3000,
+				"rewardPro": 0,
+				"sort": 9,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"7": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 1444,
+				"rewardPro": 0,
+				"sort": 12,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"8": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 501012,
+						"num": 1
+					}
+				],
+				"desc": "武圣称号卡*1",
+				"rafflePer": 5,
+				"rewardPro": 0,
+				"sort": 11,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"9": {
+				"raffleReward": [
+					{
+						"type": 4,
+						"id": 3702,
+						"num": 1
+					}
+				],
+				"desc": "大帝孙权*1",
+				"rafflePer": 1,
+				"rewardPro": 0,
+				"sort": 10,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"4": {
+		"warehouseId": 4,
+		"id": {
+			"1": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220602,
+						"num": 1
+					}
+				],
+				"desc": "红将随机礼包*1",
+				"rafflePer": 2500,
+				"rewardPro": 0,
+				"sort": 2,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"2": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 214702,
+						"num": 1
+					}
+				],
+				"desc": "妖惑于吉碎片*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 8,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"3": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220603,
+						"num": 1
+					}
+				],
+				"desc": "战宠物资补给*1",
+				"rafflePer": 2000,
+				"rewardPro": 0,
+				"sort": 5,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"4": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 214702,
+						"num": 10
+					}
+				],
+				"desc": "妖惑于吉碎片*10",
+				"rafflePer": 50,
+				"rewardPro": 0,
+				"sort": 6,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"5": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000302,
+						"num": 1
+					}
+				],
+				"desc": "突破精华*1",
+				"rafflePer": 500,
+				"rewardPro": 0,
+				"sort": 3,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"6": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 220601,
+						"num": 1
+					}
+				],
+				"desc": "武将物资补给*1",
+				"rafflePer": 3000,
+				"rewardPro": 0,
+				"sort": 9,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"7": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 30000613,
+						"num": 1
+					}
+				],
+				"desc": "高级宝石礼盒*1",
+				"rafflePer": 1444,
+				"rewardPro": 0,
+				"sort": 12,
+				"isShow": 0,
+				"isRare": 0
+			},
+			"8": {
+				"raffleReward": [
+					{
+						"type": 2,
+						"id": 501012,
+						"num": 1
+					}
+				],
+				"desc": "武圣称号卡*1",
+				"rafflePer": 5,
+				"rewardPro": 0,
+				"sort": 11,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"9": {
+				"raffleReward": [
+					{
+						"type": 4,
+						"id": 4702,
+						"num": 1
+					}
+				],
+				"desc": "妖惑于吉*1",
+				"rafflePer": 1,
+				"rewardPro": 0,
+				"sort": 10,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"101": {
+		"warehouseId": 101,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 10000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 0,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 0,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"102": {
+		"warehouseId": 102,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 7000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 3000,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 0,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"103": {
+		"warehouseId": 103,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 0,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 10000,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 0,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"104": {
+		"warehouseId": 104,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 6000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 4000,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 0,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"105": {
+		"warehouseId": 105,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 6000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 3500,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 500,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"106": {
+		"warehouseId": 106,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 6000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 3500,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 500,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"107": {
+		"warehouseId": 107,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 6000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 3500,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 500,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"108": {
+		"warehouseId": 108,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 6000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 3500,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 500,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	},
+	"201": {
+		"warehouseId": 201,
+		"id": {
+			"101": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝10%",
+				"rafflePer": 9000,
+				"rewardPro": 10,
+				"sort": 7,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"102": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝20%",
+				"rafflePer": 950,
+				"rewardPro": 20,
+				"sort": 4,
+				"isShow": 1,
+				"isRare": 1
+			},
+			"103": {
+				"raffleReward": [],
+				"desc": "当前奖池元宝50%",
+				"rafflePer": 50,
+				"rewardPro": 50,
+				"sort": 1,
+				"isShow": 1,
+				"isRare": 1
+			}
+		}
+	}
+}

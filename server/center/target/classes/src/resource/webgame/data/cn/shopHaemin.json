@@ -1,0 +1,1277 @@
+{
+	"101": {
+		"goodsId": 101,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"102": {
+		"goodsId": 102,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 100
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"103": {
+		"goodsId": 103,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"104": {
+		"goodsId": 104,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 25,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"105": {
+		"goodsId": 105,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"106": {
+		"goodsId": 106,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221001,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 150,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"107": {
+		"goodsId": 107,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"108": {
+		"goodsId": 108,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220303,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"109": {
+		"goodsId": 109,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220304,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"110": {
+		"goodsId": 110,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220305,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"111": {
+		"goodsId": 111,
+		"lv": 59,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220306,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"201": {
+		"goodsId": 201,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"202": {
+		"goodsId": 202,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 100
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"203": {
+		"goodsId": 203,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"204": {
+		"goodsId": 204,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 25,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"205": {
+		"goodsId": 205,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"206": {
+		"goodsId": 206,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221001,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 150,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"207": {
+		"goodsId": 207,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"208": {
+		"goodsId": 208,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220303,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"209": {
+		"goodsId": 209,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220304,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"210": {
+		"goodsId": 210,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220305,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"211": {
+		"goodsId": 211,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220306,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"212": {
+		"goodsId": 212,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220801,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"213": {
+		"goodsId": 213,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220802,
+				"num": 5
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"214": {
+		"goodsId": 214,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220803,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"215": {
+		"goodsId": 215,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220901,
+				"num": 5
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"216": {
+		"goodsId": 216,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220902,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"217": {
+		"goodsId": 217,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221502,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"218": {
+		"goodsId": 218,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221503,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"219": {
+		"goodsId": 219,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221504,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"220": {
+		"goodsId": 220,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221505,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"221": {
+		"goodsId": 221,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221101,
+				"num": 5
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"222": {
+		"goodsId": 222,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221102,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"223": {
+		"goodsId": 223,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221103,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 25,
+		"recommend": 0
+	},
+	"224": {
+		"goodsId": 224,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30014004,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"225": {
+		"goodsId": 225,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30030001,
+				"num": 100
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"226": {
+		"goodsId": 226,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221201,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"227": {
+		"goodsId": 227,
+		"lv": 119,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000029,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"301": {
+		"goodsId": 301,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"302": {
+		"goodsId": 302,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 100
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"303": {
+		"goodsId": 303,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"304": {
+		"goodsId": 304,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 25,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"305": {
+		"goodsId": 305,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"306": {
+		"goodsId": 306,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221001,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 150,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"307": {
+		"goodsId": 307,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221301,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"308": {
+		"goodsId": 308,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220303,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"309": {
+		"goodsId": 309,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220304,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"310": {
+		"goodsId": 310,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220305,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"311": {
+		"goodsId": 311,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220306,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"312": {
+		"goodsId": 312,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220801,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"313": {
+		"goodsId": 313,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220802,
+				"num": 5
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"314": {
+		"goodsId": 314,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220803,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"315": {
+		"goodsId": 315,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220901,
+				"num": 5
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"316": {
+		"goodsId": 316,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220902,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"317": {
+		"goodsId": 317,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221502,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"318": {
+		"goodsId": 318,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221503,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"319": {
+		"goodsId": 319,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221504,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"320": {
+		"goodsId": 320,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221505,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"321": {
+		"goodsId": 321,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221101,
+				"num": 5
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"322": {
+		"goodsId": 322,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221102,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"323": {
+		"goodsId": 323,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221103,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 25,
+		"recommend": 0
+	},
+	"324": {
+		"goodsId": 324,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30014004,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"325": {
+		"goodsId": 325,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30030001,
+				"num": 100
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"326": {
+		"goodsId": 326,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221201,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"327": {
+		"goodsId": 327,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000029,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 50,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"328": {
+		"goodsId": 328,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 211801,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"329": {
+		"goodsId": 329,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 212801,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"330": {
+		"goodsId": 330,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 213801,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"331": {
+		"goodsId": 331,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 214801,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"332": {
+		"goodsId": 332,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 802003,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"333": {
+		"goodsId": 333,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 802004,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 30,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 100,
+		"recommend": 0
+	},
+	"334": {
+		"goodsId": 334,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221602,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"335": {
+		"goodsId": 335,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 221603,
+				"num": 1
+			}
+		],
+		"costType": 17,
+		"costNum": 600,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 50,
+		"recommend": 0
+	},
+	"336": {
+		"goodsId": 336,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 10
+			}
+		],
+		"costType": 17,
+		"costNum": 100,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	},
+	"337": {
+		"goodsId": 337,
+		"lv": 999,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 100
+			}
+		],
+		"costType": 17,
+		"costNum": 10,
+		"vip": 0,
+		"sellTimes": 1,
+		"prob": 150,
+		"recommend": 0
+	}
+}

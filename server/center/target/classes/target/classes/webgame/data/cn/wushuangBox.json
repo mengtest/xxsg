@@ -1,0 +1,3002 @@
+{
+	"9": {
+		"costStar": 9,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"18": {
+		"costStar": 18,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"27": {
+		"costStar": 27,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"36": {
+		"costStar": 36,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"45": {
+		"costStar": 45,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"54": {
+		"costStar": 54,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"63": {
+		"costStar": 63,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"72": {
+		"costStar": 72,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"81": {
+		"costStar": 81,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"90": {
+		"costStar": 90,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"99": {
+		"costStar": 99,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"108": {
+		"costStar": 108,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"117": {
+		"costStar": 117,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"126": {
+		"costStar": 126,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"135": {
+		"costStar": 135,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"144": {
+		"costStar": 144,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"153": {
+		"costStar": 153,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"162": {
+		"costStar": 162,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"171": {
+		"costStar": 171,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"180": {
+		"costStar": 180,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"189": {
+		"costStar": 189,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"198": {
+		"costStar": 198,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"207": {
+		"costStar": 207,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"216": {
+		"costStar": 216,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"225": {
+		"costStar": 225,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"234": {
+		"costStar": 234,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"243": {
+		"costStar": 243,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"252": {
+		"costStar": 252,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"261": {
+		"costStar": 261,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"270": {
+		"costStar": 270,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"279": {
+		"costStar": 279,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"288": {
+		"costStar": 288,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"297": {
+		"costStar": 297,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"306": {
+		"costStar": 306,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"315": {
+		"costStar": 315,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"324": {
+		"costStar": 324,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"333": {
+		"costStar": 333,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"342": {
+		"costStar": 342,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"351": {
+		"costStar": 351,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"360": {
+		"costStar": 360,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"369": {
+		"costStar": 369,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"378": {
+		"costStar": 378,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"387": {
+		"costStar": 387,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"396": {
+		"costStar": 396,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"405": {
+		"costStar": 405,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"414": {
+		"costStar": 414,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"423": {
+		"costStar": 423,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"432": {
+		"costStar": 432,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"441": {
+		"costStar": 441,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"450": {
+		"costStar": 450,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"459": {
+		"costStar": 459,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"468": {
+		"costStar": 468,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"477": {
+		"costStar": 477,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"486": {
+		"costStar": 486,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"495": {
+		"costStar": 495,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"504": {
+		"costStar": 504,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"513": {
+		"costStar": 513,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"522": {
+		"costStar": 522,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"531": {
+		"costStar": 531,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"540": {
+		"costStar": 540,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"549": {
+		"costStar": 549,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"558": {
+		"costStar": 558,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"567": {
+		"costStar": 567,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"576": {
+		"costStar": 576,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"585": {
+		"costStar": 585,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"594": {
+		"costStar": 594,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"603": {
+		"costStar": 603,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"612": {
+		"costStar": 612,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"621": {
+		"costStar": 621,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"630": {
+		"costStar": 630,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"639": {
+		"costStar": 639,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"648": {
+		"costStar": 648,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"657": {
+		"costStar": 657,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"666": {
+		"costStar": 666,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"675": {
+		"costStar": 675,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"684": {
+		"costStar": 684,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"693": {
+		"costStar": 693,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"702": {
+		"costStar": 702,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"711": {
+		"costStar": 711,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"720": {
+		"costStar": 720,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"729": {
+		"costStar": 729,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"738": {
+		"costStar": 738,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"747": {
+		"costStar": 747,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"756": {
+		"costStar": 756,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"765": {
+		"costStar": 765,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"774": {
+		"costStar": 774,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"783": {
+		"costStar": 783,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"792": {
+		"costStar": 792,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"801": {
+		"costStar": 801,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"810": {
+		"costStar": 810,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"819": {
+		"costStar": 819,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"828": {
+		"costStar": 828,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"837": {
+		"costStar": 837,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"846": {
+		"costStar": 846,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"855": {
+		"costStar": 855,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"864": {
+		"costStar": 864,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"873": {
+		"costStar": 873,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"882": {
+		"costStar": 882,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"891": {
+		"costStar": 891,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"900": {
+		"costStar": 900,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"909": {
+		"costStar": 909,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"918": {
+		"costStar": 918,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"927": {
+		"costStar": 927,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"936": {
+		"costStar": 936,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"945": {
+		"costStar": 945,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"954": {
+		"costStar": 954,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"963": {
+		"costStar": 963,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"972": {
+		"costStar": 972,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"981": {
+		"costStar": 981,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"990": {
+		"costStar": 990,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"999": {
+		"costStar": 999,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1008": {
+		"costStar": 1008,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1017": {
+		"costStar": 1017,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1026": {
+		"costStar": 1026,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1035": {
+		"costStar": 1035,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1044": {
+		"costStar": 1044,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1053": {
+		"costStar": 1053,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1062": {
+		"costStar": 1062,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1071": {
+		"costStar": 1071,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1080": {
+		"costStar": 1080,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1089": {
+		"costStar": 1089,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1098": {
+		"costStar": 1098,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1107": {
+		"costStar": 1107,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1116": {
+		"costStar": 1116,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1125": {
+		"costStar": 1125,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1134": {
+		"costStar": 1134,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1143": {
+		"costStar": 1143,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1152": {
+		"costStar": 1152,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1161": {
+		"costStar": 1161,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1170": {
+		"costStar": 1170,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1179": {
+		"costStar": 1179,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1188": {
+		"costStar": 1188,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1197": {
+		"costStar": 1197,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1206": {
+		"costStar": 1206,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1215": {
+		"costStar": 1215,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1224": {
+		"costStar": 1224,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1233": {
+		"costStar": 1233,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1242": {
+		"costStar": 1242,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1251": {
+		"costStar": 1251,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1260": {
+		"costStar": 1260,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1269": {
+		"costStar": 1269,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1278": {
+		"costStar": 1278,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1287": {
+		"costStar": 1287,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1296": {
+		"costStar": 1296,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1305": {
+		"costStar": 1305,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1314": {
+		"costStar": 1314,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1323": {
+		"costStar": 1323,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1332": {
+		"costStar": 1332,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1341": {
+		"costStar": 1341,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1350": {
+		"costStar": 1350,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1359": {
+		"costStar": 1359,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1368": {
+		"costStar": 1368,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1377": {
+		"costStar": 1377,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1386": {
+		"costStar": 1386,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1395": {
+		"costStar": 1395,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1404": {
+		"costStar": 1404,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1413": {
+		"costStar": 1413,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1422": {
+		"costStar": 1422,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1431": {
+		"costStar": 1431,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1440": {
+		"costStar": 1440,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1449": {
+		"costStar": 1449,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1458": {
+		"costStar": 1458,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1467": {
+		"costStar": 1467,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1476": {
+		"costStar": 1476,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1485": {
+		"costStar": 1485,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1494": {
+		"costStar": 1494,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1503": {
+		"costStar": 1503,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1512": {
+		"costStar": 1512,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1521": {
+		"costStar": 1521,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1530": {
+		"costStar": 1530,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1539": {
+		"costStar": 1539,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1548": {
+		"costStar": 1548,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1557": {
+		"costStar": 1557,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1566": {
+		"costStar": 1566,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1575": {
+		"costStar": 1575,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1584": {
+		"costStar": 1584,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1593": {
+		"costStar": 1593,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1602": {
+		"costStar": 1602,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1611": {
+		"costStar": 1611,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1620": {
+		"costStar": 1620,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1629": {
+		"costStar": 1629,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1638": {
+		"costStar": 1638,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1647": {
+		"costStar": 1647,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1656": {
+		"costStar": 1656,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1665": {
+		"costStar": 1665,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1674": {
+		"costStar": 1674,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1683": {
+		"costStar": 1683,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1692": {
+		"costStar": 1692,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1701": {
+		"costStar": 1701,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1710": {
+		"costStar": 1710,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1719": {
+		"costStar": 1719,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1728": {
+		"costStar": 1728,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1737": {
+		"costStar": 1737,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1746": {
+		"costStar": 1746,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1755": {
+		"costStar": 1755,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1764": {
+		"costStar": 1764,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1773": {
+		"costStar": 1773,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1782": {
+		"costStar": 1782,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1791": {
+		"costStar": 1791,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	},
+	"1800": {
+		"costStar": 1800,
+		"starReward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 7,
+				"num": 100
+			}
+		]
+	}
+}

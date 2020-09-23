@@ -1,0 +1,2007 @@
+{
+	"0": {
+		"level": 0,
+		"coin": 1,
+		"totalCost": 0
+	},
+	"1": {
+		"level": 1,
+		"coin": 2,
+		"totalCost": 1
+	},
+	"2": {
+		"level": 2,
+		"coin": 3,
+		"totalCost": 3
+	},
+	"3": {
+		"level": 3,
+		"coin": 4,
+		"totalCost": 6
+	},
+	"4": {
+		"level": 4,
+		"coin": 5,
+		"totalCost": 10
+	},
+	"5": {
+		"level": 5,
+		"coin": 7,
+		"totalCost": 15
+	},
+	"6": {
+		"level": 6,
+		"coin": 11,
+		"totalCost": 22
+	},
+	"7": {
+		"level": 7,
+		"coin": 16,
+		"totalCost": 33
+	},
+	"8": {
+		"level": 8,
+		"coin": 22,
+		"totalCost": 49
+	},
+	"9": {
+		"level": 9,
+		"coin": 29,
+		"totalCost": 71
+	},
+	"10": {
+		"level": 10,
+		"coin": 38,
+		"totalCost": 100
+	},
+	"11": {
+		"level": 11,
+		"coin": 49,
+		"totalCost": 138
+	},
+	"12": {
+		"level": 12,
+		"coin": 61,
+		"totalCost": 187
+	},
+	"13": {
+		"level": 13,
+		"coin": 75,
+		"totalCost": 248
+	},
+	"14": {
+		"level": 14,
+		"coin": 91,
+		"totalCost": 323
+	},
+	"15": {
+		"level": 15,
+		"coin": 110,
+		"totalCost": 414
+	},
+	"16": {
+		"level": 16,
+		"coin": 130,
+		"totalCost": 524
+	},
+	"17": {
+		"level": 17,
+		"coin": 154,
+		"totalCost": 654
+	},
+	"18": {
+		"level": 18,
+		"coin": 180,
+		"totalCost": 808
+	},
+	"19": {
+		"level": 19,
+		"coin": 208,
+		"totalCost": 988
+	},
+	"20": {
+		"level": 20,
+		"coin": 240,
+		"totalCost": 1196
+	},
+	"21": {
+		"level": 21,
+		"coin": 274,
+		"totalCost": 1436
+	},
+	"22": {
+		"level": 22,
+		"coin": 312,
+		"totalCost": 1710
+	},
+	"23": {
+		"level": 23,
+		"coin": 353,
+		"totalCost": 2022
+	},
+	"24": {
+		"level": 24,
+		"coin": 398,
+		"totalCost": 2375
+	},
+	"25": {
+		"level": 25,
+		"coin": 446,
+		"totalCost": 2773
+	},
+	"26": {
+		"level": 26,
+		"coin": 498,
+		"totalCost": 3219
+	},
+	"27": {
+		"level": 27,
+		"coin": 554,
+		"totalCost": 3717
+	},
+	"28": {
+		"level": 28,
+		"coin": 614,
+		"totalCost": 4271
+	},
+	"29": {
+		"level": 29,
+		"coin": 678,
+		"totalCost": 4885
+	},
+	"30": {
+		"level": 30,
+		"coin": 746,
+		"totalCost": 5563
+	},
+	"31": {
+		"level": 31,
+		"coin": 819,
+		"totalCost": 6309
+	},
+	"32": {
+		"level": 32,
+		"coin": 897,
+		"totalCost": 7128
+	},
+	"33": {
+		"level": 33,
+		"coin": 979,
+		"totalCost": 8025
+	},
+	"34": {
+		"level": 34,
+		"coin": 1066,
+		"totalCost": 9004
+	},
+	"35": {
+		"level": 35,
+		"coin": 1158,
+		"totalCost": 10070
+	},
+	"36": {
+		"level": 36,
+		"coin": 1255,
+		"totalCost": 11228
+	},
+	"37": {
+		"level": 37,
+		"coin": 1357,
+		"totalCost": 12483
+	},
+	"38": {
+		"level": 38,
+		"coin": 1465,
+		"totalCost": 13840
+	},
+	"39": {
+		"level": 39,
+		"coin": 1579,
+		"totalCost": 15305
+	},
+	"40": {
+		"level": 40,
+		"coin": 1698,
+		"totalCost": 16884
+	},
+	"41": {
+		"level": 41,
+		"coin": 1823,
+		"totalCost": 18582
+	},
+	"42": {
+		"level": 42,
+		"coin": 1954,
+		"totalCost": 20405
+	},
+	"43": {
+		"level": 43,
+		"coin": 2092,
+		"totalCost": 22359
+	},
+	"44": {
+		"level": 44,
+		"coin": 2235,
+		"totalCost": 24451
+	},
+	"45": {
+		"level": 45,
+		"coin": 2385,
+		"totalCost": 26686
+	},
+	"46": {
+		"level": 46,
+		"coin": 2541,
+		"totalCost": 29071
+	},
+	"47": {
+		"level": 47,
+		"coin": 2705,
+		"totalCost": 31612
+	},
+	"48": {
+		"level": 48,
+		"coin": 2875,
+		"totalCost": 34317
+	},
+	"49": {
+		"level": 49,
+		"coin": 3052,
+		"totalCost": 37192
+	},
+	"50": {
+		"level": 50,
+		"coin": 3236,
+		"totalCost": 40244
+	},
+	"51": {
+		"level": 51,
+		"coin": 3427,
+		"totalCost": 43480
+	},
+	"52": {
+		"level": 52,
+		"coin": 3626,
+		"totalCost": 46907
+	},
+	"53": {
+		"level": 53,
+		"coin": 3832,
+		"totalCost": 50533
+	},
+	"54": {
+		"level": 54,
+		"coin": 4046,
+		"totalCost": 54365
+	},
+	"55": {
+		"level": 55,
+		"coin": 4268,
+		"totalCost": 58411
+	},
+	"56": {
+		"level": 56,
+		"coin": 4498,
+		"totalCost": 62679
+	},
+	"57": {
+		"level": 57,
+		"coin": 4736,
+		"totalCost": 67177
+	},
+	"58": {
+		"level": 58,
+		"coin": 4982,
+		"totalCost": 71913
+	},
+	"59": {
+		"level": 59,
+		"coin": 5237,
+		"totalCost": 76895
+	},
+	"60": {
+		"level": 60,
+		"coin": 5500,
+		"totalCost": 82132
+	},
+	"61": {
+		"level": 61,
+		"coin": 5772,
+		"totalCost": 87632
+	},
+	"62": {
+		"level": 62,
+		"coin": 6053,
+		"totalCost": 93404
+	},
+	"63": {
+		"level": 63,
+		"coin": 6342,
+		"totalCost": 99457
+	},
+	"64": {
+		"level": 64,
+		"coin": 6641,
+		"totalCost": 105799
+	},
+	"65": {
+		"level": 65,
+		"coin": 6949,
+		"totalCost": 112440
+	},
+	"66": {
+		"level": 66,
+		"coin": 7266,
+		"totalCost": 119389
+	},
+	"67": {
+		"level": 67,
+		"coin": 7593,
+		"totalCost": 126655
+	},
+	"68": {
+		"level": 68,
+		"coin": 7929,
+		"totalCost": 134248
+	},
+	"69": {
+		"level": 69,
+		"coin": 8275,
+		"totalCost": 142177
+	},
+	"70": {
+		"level": 70,
+		"coin": 8632,
+		"totalCost": 150452
+	},
+	"71": {
+		"level": 71,
+		"coin": 8998,
+		"totalCost": 159084
+	},
+	"72": {
+		"level": 72,
+		"coin": 9374,
+		"totalCost": 168082
+	},
+	"73": {
+		"level": 73,
+		"coin": 9761,
+		"totalCost": 177456
+	},
+	"74": {
+		"level": 74,
+		"coin": 10159,
+		"totalCost": 187217
+	},
+	"75": {
+		"level": 75,
+		"coin": 10567,
+		"totalCost": 197376
+	},
+	"76": {
+		"level": 76,
+		"coin": 10985,
+		"totalCost": 207943
+	},
+	"77": {
+		"level": 77,
+		"coin": 11415,
+		"totalCost": 218928
+	},
+	"78": {
+		"level": 78,
+		"coin": 11856,
+		"totalCost": 230343
+	},
+	"79": {
+		"level": 79,
+		"coin": 12308,
+		"totalCost": 242199
+	},
+	"80": {
+		"level": 80,
+		"coin": 12771,
+		"totalCost": 254507
+	},
+	"81": {
+		"level": 81,
+		"coin": 13246,
+		"totalCost": 267278
+	},
+	"82": {
+		"level": 82,
+		"coin": 13732,
+		"totalCost": 280524
+	},
+	"83": {
+		"level": 83,
+		"coin": 14230,
+		"totalCost": 294256
+	},
+	"84": {
+		"level": 84,
+		"coin": 14740,
+		"totalCost": 308486
+	},
+	"85": {
+		"level": 85,
+		"coin": 15262,
+		"totalCost": 323226
+	},
+	"86": {
+		"level": 86,
+		"coin": 15797,
+		"totalCost": 338488
+	},
+	"87": {
+		"level": 87,
+		"coin": 16343,
+		"totalCost": 354285
+	},
+	"88": {
+		"level": 88,
+		"coin": 16902,
+		"totalCost": 370628
+	},
+	"89": {
+		"level": 89,
+		"coin": 17474,
+		"totalCost": 387530
+	},
+	"90": {
+		"level": 90,
+		"coin": 18059,
+		"totalCost": 405004
+	},
+	"91": {
+		"level": 91,
+		"coin": 18656,
+		"totalCost": 423063
+	},
+	"92": {
+		"level": 92,
+		"coin": 19266,
+		"totalCost": 441719
+	},
+	"93": {
+		"level": 93,
+		"coin": 19890,
+		"totalCost": 460985
+	},
+	"94": {
+		"level": 94,
+		"coin": 20527,
+		"totalCost": 480875
+	},
+	"95": {
+		"level": 95,
+		"coin": 21177,
+		"totalCost": 501402
+	},
+	"96": {
+		"level": 96,
+		"coin": 21841,
+		"totalCost": 522579
+	},
+	"97": {
+		"level": 97,
+		"coin": 22519,
+		"totalCost": 544420
+	},
+	"98": {
+		"level": 98,
+		"coin": 23210,
+		"totalCost": 566939
+	},
+	"99": {
+		"level": 99,
+		"coin": 23916,
+		"totalCost": 590149
+	},
+	"100": {
+		"level": 100,
+		"coin": 24635,
+		"totalCost": 614065
+	},
+	"101": {
+		"level": 101,
+		"coin": 25369,
+		"totalCost": 638700
+	},
+	"102": {
+		"level": 102,
+		"coin": 26118,
+		"totalCost": 664069
+	},
+	"103": {
+		"level": 103,
+		"coin": 26881,
+		"totalCost": 690187
+	},
+	"104": {
+		"level": 104,
+		"coin": 27659,
+		"totalCost": 717068
+	},
+	"105": {
+		"level": 105,
+		"coin": 28451,
+		"totalCost": 744727
+	},
+	"106": {
+		"level": 106,
+		"coin": 29259,
+		"totalCost": 773178
+	},
+	"107": {
+		"level": 107,
+		"coin": 30082,
+		"totalCost": 802437
+	},
+	"108": {
+		"level": 108,
+		"coin": 30920,
+		"totalCost": 832519
+	},
+	"109": {
+		"level": 109,
+		"coin": 31773,
+		"totalCost": 863439
+	},
+	"110": {
+		"level": 110,
+		"coin": 32642,
+		"totalCost": 895212
+	},
+	"111": {
+		"level": 111,
+		"coin": 33527,
+		"totalCost": 927854
+	},
+	"112": {
+		"level": 112,
+		"coin": 34427,
+		"totalCost": 961381
+	},
+	"113": {
+		"level": 113,
+		"coin": 35344,
+		"totalCost": 995808
+	},
+	"114": {
+		"level": 114,
+		"coin": 36276,
+		"totalCost": 1031152
+	},
+	"115": {
+		"level": 115,
+		"coin": 37225,
+		"totalCost": 1067428
+	},
+	"116": {
+		"level": 116,
+		"coin": 38191,
+		"totalCost": 1104653
+	},
+	"117": {
+		"level": 117,
+		"coin": 39172,
+		"totalCost": 1142844
+	},
+	"118": {
+		"level": 118,
+		"coin": 40171,
+		"totalCost": 1182016
+	},
+	"119": {
+		"level": 119,
+		"coin": 41186,
+		"totalCost": 1222187
+	},
+	"120": {
+		"level": 120,
+		"coin": 42219,
+		"totalCost": 1263373
+	},
+	"121": {
+		"level": 121,
+		"coin": 43268,
+		"totalCost": 1305592
+	},
+	"122": {
+		"level": 122,
+		"coin": 44335,
+		"totalCost": 1348860
+	},
+	"123": {
+		"level": 123,
+		"coin": 45419,
+		"totalCost": 1393195
+	},
+	"124": {
+		"level": 124,
+		"coin": 46521,
+		"totalCost": 1438614
+	},
+	"125": {
+		"level": 125,
+		"coin": 47640,
+		"totalCost": 1485135
+	},
+	"126": {
+		"level": 126,
+		"coin": 48777,
+		"totalCost": 1532775
+	},
+	"127": {
+		"level": 127,
+		"coin": 49932,
+		"totalCost": 1581552
+	},
+	"128": {
+		"level": 128,
+		"coin": 51105,
+		"totalCost": 1631484
+	},
+	"129": {
+		"level": 129,
+		"coin": 52297,
+		"totalCost": 1682589
+	},
+	"130": {
+		"level": 130,
+		"coin": 53506,
+		"totalCost": 1734886
+	},
+	"131": {
+		"level": 131,
+		"coin": 54735,
+		"totalCost": 1788392
+	},
+	"132": {
+		"level": 132,
+		"coin": 55982,
+		"totalCost": 1843127
+	},
+	"133": {
+		"level": 133,
+		"coin": 57247,
+		"totalCost": 1899109
+	},
+	"134": {
+		"level": 134,
+		"coin": 58532,
+		"totalCost": 1956356
+	},
+	"135": {
+		"level": 135,
+		"coin": 59836,
+		"totalCost": 2014888
+	},
+	"136": {
+		"level": 136,
+		"coin": 61159,
+		"totalCost": 2074724
+	},
+	"137": {
+		"level": 137,
+		"coin": 62501,
+		"totalCost": 2135883
+	},
+	"138": {
+		"level": 138,
+		"coin": 63863,
+		"totalCost": 2198384
+	},
+	"139": {
+		"level": 139,
+		"coin": 65245,
+		"totalCost": 2262247
+	},
+	"140": {
+		"level": 140,
+		"coin": 66646,
+		"totalCost": 2327492
+	},
+	"141": {
+		"level": 141,
+		"coin": 68067,
+		"totalCost": 2394138
+	},
+	"142": {
+		"level": 142,
+		"coin": 69508,
+		"totalCost": 2462205
+	},
+	"143": {
+		"level": 143,
+		"coin": 70970,
+		"totalCost": 2531713
+	},
+	"144": {
+		"level": 144,
+		"coin": 72451,
+		"totalCost": 2602683
+	},
+	"145": {
+		"level": 145,
+		"coin": 73954,
+		"totalCost": 2675134
+	},
+	"146": {
+		"level": 146,
+		"coin": 75477,
+		"totalCost": 2749088
+	},
+	"147": {
+		"level": 147,
+		"coin": 77020,
+		"totalCost": 2824565
+	},
+	"148": {
+		"level": 148,
+		"coin": 78585,
+		"totalCost": 2901585
+	},
+	"149": {
+		"level": 149,
+		"coin": 80170,
+		"totalCost": 2980170
+	},
+	"150": {
+		"level": 150,
+		"coin": 81777,
+		"totalCost": 3060340
+	},
+	"151": {
+		"level": 151,
+		"coin": 83405,
+		"totalCost": 3142117
+	},
+	"152": {
+		"level": 152,
+		"coin": 85055,
+		"totalCost": 3225522
+	},
+	"153": {
+		"level": 153,
+		"coin": 86726,
+		"totalCost": 3310577
+	},
+	"154": {
+		"level": 154,
+		"coin": 88419,
+		"totalCost": 3397303
+	},
+	"155": {
+		"level": 155,
+		"coin": 90134,
+		"totalCost": 3485722
+	},
+	"156": {
+		"level": 156,
+		"coin": 91871,
+		"totalCost": 3575856
+	},
+	"157": {
+		"level": 157,
+		"coin": 93630,
+		"totalCost": 3667727
+	},
+	"158": {
+		"level": 158,
+		"coin": 95411,
+		"totalCost": 3761357
+	},
+	"159": {
+		"level": 159,
+		"coin": 97215,
+		"totalCost": 3856768
+	},
+	"160": {
+		"level": 160,
+		"coin": 99042,
+		"totalCost": 3953983
+	},
+	"161": {
+		"level": 161,
+		"coin": 100891,
+		"totalCost": 4053025
+	},
+	"162": {
+		"level": 162,
+		"coin": 102763,
+		"totalCost": 4153916
+	},
+	"163": {
+		"level": 163,
+		"coin": 104658,
+		"totalCost": 4256679
+	},
+	"164": {
+		"level": 164,
+		"coin": 106576,
+		"totalCost": 4361337
+	},
+	"165": {
+		"level": 165,
+		"coin": 108517,
+		"totalCost": 4467913
+	},
+	"166": {
+		"level": 166,
+		"coin": 110482,
+		"totalCost": 4576430
+	},
+	"167": {
+		"level": 167,
+		"coin": 112471,
+		"totalCost": 4686912
+	},
+	"168": {
+		"level": 168,
+		"coin": 114483,
+		"totalCost": 4799383
+	},
+	"169": {
+		"level": 169,
+		"coin": 116519,
+		"totalCost": 4913866
+	},
+	"170": {
+		"level": 170,
+		"coin": 118579,
+		"totalCost": 5030385
+	},
+	"171": {
+		"level": 171,
+		"coin": 120664,
+		"totalCost": 5148964
+	},
+	"172": {
+		"level": 172,
+		"coin": 122772,
+		"totalCost": 5269628
+	},
+	"173": {
+		"level": 173,
+		"coin": 124905,
+		"totalCost": 5392400
+	},
+	"174": {
+		"level": 174,
+		"coin": 127062,
+		"totalCost": 5517305
+	},
+	"175": {
+		"level": 175,
+		"coin": 129245,
+		"totalCost": 5644367
+	},
+	"176": {
+		"level": 176,
+		"coin": 131452,
+		"totalCost": 5773612
+	},
+	"177": {
+		"level": 177,
+		"coin": 133684,
+		"totalCost": 5905064
+	},
+	"178": {
+		"level": 178,
+		"coin": 135941,
+		"totalCost": 6038748
+	},
+	"179": {
+		"level": 179,
+		"coin": 138223,
+		"totalCost": 6174689
+	},
+	"180": {
+		"level": 180,
+		"coin": 140531,
+		"totalCost": 6312912
+	},
+	"181": {
+		"level": 181,
+		"coin": 142864,
+		"totalCost": 6453443
+	},
+	"182": {
+		"level": 182,
+		"coin": 145223,
+		"totalCost": 6596307
+	},
+	"183": {
+		"level": 183,
+		"coin": 147608,
+		"totalCost": 6741530
+	},
+	"184": {
+		"level": 184,
+		"coin": 150019,
+		"totalCost": 6889138
+	},
+	"185": {
+		"level": 185,
+		"coin": 152456,
+		"totalCost": 7039157
+	},
+	"186": {
+		"level": 186,
+		"coin": 154919,
+		"totalCost": 7191613
+	},
+	"187": {
+		"level": 187,
+		"coin": 157409,
+		"totalCost": 7346532
+	},
+	"188": {
+		"level": 188,
+		"coin": 159925,
+		"totalCost": 7503941
+	},
+	"189": {
+		"level": 189,
+		"coin": 162468,
+		"totalCost": 7663866
+	},
+	"190": {
+		"level": 190,
+		"coin": 165038,
+		"totalCost": 7826334
+	},
+	"191": {
+		"level": 191,
+		"coin": 167634,
+		"totalCost": 7991372
+	},
+	"192": {
+		"level": 192,
+		"coin": 170258,
+		"totalCost": 8159006
+	},
+	"193": {
+		"level": 193,
+		"coin": 172909,
+		"totalCost": 8329264
+	},
+	"194": {
+		"level": 194,
+		"coin": 175587,
+		"totalCost": 8502173
+	},
+	"195": {
+		"level": 195,
+		"coin": 178293,
+		"totalCost": 8677760
+	},
+	"196": {
+		"level": 196,
+		"coin": 181026,
+		"totalCost": 8856053
+	},
+	"197": {
+		"level": 197,
+		"coin": 183787,
+		"totalCost": 9037079
+	},
+	"198": {
+		"level": 198,
+		"coin": 186577,
+		"totalCost": 9220866
+	},
+	"199": {
+		"level": 199,
+		"coin": 189394,
+		"totalCost": 9407443
+	},
+	"200": {
+		"level": 200,
+		"coin": 192239,
+		"totalCost": 9596837
+	},
+	"201": {
+		"level": 201,
+		"coin": 195113,
+		"totalCost": 9789076
+	},
+	"202": {
+		"level": 202,
+		"coin": 198016,
+		"totalCost": 9984189
+	},
+	"203": {
+		"level": 203,
+		"coin": 200947,
+		"totalCost": 10182205
+	},
+	"204": {
+		"level": 204,
+		"coin": 203906,
+		"totalCost": 10383152
+	},
+	"205": {
+		"level": 205,
+		"coin": 206895,
+		"totalCost": 10587058
+	},
+	"206": {
+		"level": 206,
+		"coin": 209913,
+		"totalCost": 10793953
+	},
+	"207": {
+		"level": 207,
+		"coin": 212960,
+		"totalCost": 11003866
+	},
+	"208": {
+		"level": 208,
+		"coin": 216036,
+		"totalCost": 11216826
+	},
+	"209": {
+		"level": 209,
+		"coin": 219142,
+		"totalCost": 11432862
+	},
+	"210": {
+		"level": 210,
+		"coin": 222277,
+		"totalCost": 11652004
+	},
+	"211": {
+		"level": 211,
+		"coin": 225442,
+		"totalCost": 11874281
+	},
+	"212": {
+		"level": 212,
+		"coin": 228637,
+		"totalCost": 12099723
+	},
+	"213": {
+		"level": 213,
+		"coin": 231862,
+		"totalCost": 12328360
+	},
+	"214": {
+		"level": 214,
+		"coin": 235118,
+		"totalCost": 12560222
+	},
+	"215": {
+		"level": 215,
+		"coin": 238403,
+		"totalCost": 12795340
+	},
+	"216": {
+		"level": 216,
+		"coin": 241719,
+		"totalCost": 13033743
+	},
+	"217": {
+		"level": 217,
+		"coin": 245066,
+		"totalCost": 13275462
+	},
+	"218": {
+		"level": 218,
+		"coin": 248444,
+		"totalCost": 13520528
+	},
+	"219": {
+		"level": 219,
+		"coin": 251852,
+		"totalCost": 13768972
+	},
+	"220": {
+		"level": 220,
+		"coin": 255291,
+		"totalCost": 14020824
+	},
+	"221": {
+		"level": 221,
+		"coin": 258762,
+		"totalCost": 14276115
+	},
+	"222": {
+		"level": 222,
+		"coin": 262264,
+		"totalCost": 14534877
+	},
+	"223": {
+		"level": 223,
+		"coin": 265797,
+		"totalCost": 14797141
+	},
+	"224": {
+		"level": 224,
+		"coin": 269362,
+		"totalCost": 15062938
+	},
+	"225": {
+		"level": 225,
+		"coin": 272959,
+		"totalCost": 15332300
+	},
+	"226": {
+		"level": 226,
+		"coin": 276587,
+		"totalCost": 15605259
+	},
+	"227": {
+		"level": 227,
+		"coin": 280248,
+		"totalCost": 15881846
+	},
+	"228": {
+		"level": 228,
+		"coin": 283940,
+		"totalCost": 16162094
+	},
+	"229": {
+		"level": 229,
+		"coin": 287665,
+		"totalCost": 16446034
+	},
+	"230": {
+		"level": 230,
+		"coin": 291423,
+		"totalCost": 16733699
+	},
+	"231": {
+		"level": 231,
+		"coin": 295213,
+		"totalCost": 17025122
+	},
+	"232": {
+		"level": 232,
+		"coin": 299036,
+		"totalCost": 17320335
+	},
+	"233": {
+		"level": 233,
+		"coin": 302891,
+		"totalCost": 17619371
+	},
+	"234": {
+		"level": 234,
+		"coin": 306780,
+		"totalCost": 17922262
+	},
+	"235": {
+		"level": 235,
+		"coin": 310702,
+		"totalCost": 18229042
+	},
+	"236": {
+		"level": 236,
+		"coin": 314657,
+		"totalCost": 18539744
+	},
+	"237": {
+		"level": 237,
+		"coin": 318645,
+		"totalCost": 18854401
+	},
+	"238": {
+		"level": 238,
+		"coin": 322667,
+		"totalCost": 19173046
+	},
+	"239": {
+		"level": 239,
+		"coin": 326723,
+		"totalCost": 19495713
+	},
+	"240": {
+		"level": 240,
+		"coin": 330812,
+		"totalCost": 19822436
+	},
+	"241": {
+		"level": 241,
+		"coin": 334936,
+		"totalCost": 20153248
+	},
+	"242": {
+		"level": 242,
+		"coin": 339093,
+		"totalCost": 20488184
+	},
+	"243": {
+		"level": 243,
+		"coin": 343285,
+		"totalCost": 20827277
+	},
+	"244": {
+		"level": 244,
+		"coin": 347512,
+		"totalCost": 21170562
+	},
+	"245": {
+		"level": 245,
+		"coin": 351772,
+		"totalCost": 21518074
+	},
+	"246": {
+		"level": 246,
+		"coin": 356068,
+		"totalCost": 21869846
+	},
+	"247": {
+		"level": 247,
+		"coin": 360398,
+		"totalCost": 22225914
+	},
+	"248": {
+		"level": 248,
+		"coin": 364764,
+		"totalCost": 22586312
+	},
+	"249": {
+		"level": 249,
+		"coin": 369164,
+		"totalCost": 22951076
+	},
+	"250": {
+		"level": 250,
+		"coin": 373600,
+		"totalCost": 23320240
+	},
+	"251": {
+		"level": 251,
+		"coin": 378071,
+		"totalCost": 23693840
+	},
+	"252": {
+		"level": 252,
+		"coin": 382578,
+		"totalCost": 24071911
+	},
+	"253": {
+		"level": 253,
+		"coin": 387120,
+		"totalCost": 24454489
+	},
+	"254": {
+		"level": 254,
+		"coin": 391698,
+		"totalCost": 24841609
+	},
+	"255": {
+		"level": 255,
+		"coin": 396312,
+		"totalCost": 25233307
+	},
+	"256": {
+		"level": 256,
+		"coin": 400962,
+		"totalCost": 25629619
+	},
+	"257": {
+		"level": 257,
+		"coin": 405649,
+		"totalCost": 26030581
+	},
+	"258": {
+		"level": 258,
+		"coin": 410371,
+		"totalCost": 26436230
+	},
+	"259": {
+		"level": 259,
+		"coin": 415131,
+		"totalCost": 26846601
+	},
+	"260": {
+		"level": 260,
+		"coin": 419927,
+		"totalCost": 27261732
+	},
+	"261": {
+		"level": 261,
+		"coin": 424759,
+		"totalCost": 27681659
+	},
+	"262": {
+		"level": 262,
+		"coin": 429629,
+		"totalCost": 28106418
+	},
+	"263": {
+		"level": 263,
+		"coin": 434536,
+		"totalCost": 28536047
+	},
+	"264": {
+		"level": 264,
+		"coin": 439480,
+		"totalCost": 28970583
+	},
+	"265": {
+		"level": 265,
+		"coin": 444461,
+		"totalCost": 29410063
+	},
+	"266": {
+		"level": 266,
+		"coin": 449480,
+		"totalCost": 29854524
+	},
+	"267": {
+		"level": 267,
+		"coin": 454537,
+		"totalCost": 30304004
+	},
+	"268": {
+		"level": 268,
+		"coin": 459631,
+		"totalCost": 30758541
+	},
+	"269": {
+		"level": 269,
+		"coin": 464763,
+		"totalCost": 31218172
+	},
+	"270": {
+		"level": 270,
+		"coin": 469933,
+		"totalCost": 31682935
+	},
+	"271": {
+		"level": 271,
+		"coin": 475142,
+		"totalCost": 32152868
+	},
+	"272": {
+		"level": 272,
+		"coin": 480388,
+		"totalCost": 32628010
+	},
+	"273": {
+		"level": 273,
+		"coin": 485674,
+		"totalCost": 33108398
+	},
+	"274": {
+		"level": 274,
+		"coin": 490998,
+		"totalCost": 33594072
+	},
+	"275": {
+		"level": 275,
+		"coin": 496360,
+		"totalCost": 34085070
+	},
+	"276": {
+		"level": 276,
+		"coin": 501762,
+		"totalCost": 34581430
+	},
+	"277": {
+		"level": 277,
+		"coin": 507202,
+		"totalCost": 35083192
+	},
+	"278": {
+		"level": 278,
+		"coin": 512682,
+		"totalCost": 35590394
+	},
+	"279": {
+		"level": 279,
+		"coin": 518201,
+		"totalCost": 36103076
+	},
+	"280": {
+		"level": 280,
+		"coin": 523760,
+		"totalCost": 36621277
+	},
+	"281": {
+		"level": 281,
+		"coin": 529358,
+		"totalCost": 37145037
+	},
+	"282": {
+		"level": 282,
+		"coin": 534996,
+		"totalCost": 37674395
+	},
+	"283": {
+		"level": 283,
+		"coin": 540674,
+		"totalCost": 38209391
+	},
+	"284": {
+		"level": 284,
+		"coin": 546392,
+		"totalCost": 38750065
+	},
+	"285": {
+		"level": 285,
+		"coin": 552150,
+		"totalCost": 39296457
+	},
+	"286": {
+		"level": 286,
+		"coin": 557948,
+		"totalCost": 39848607
+	},
+	"287": {
+		"level": 287,
+		"coin": 563787,
+		"totalCost": 40406555
+	},
+	"288": {
+		"level": 288,
+		"coin": 569667,
+		"totalCost": 40970342
+	},
+	"289": {
+		"level": 289,
+		"coin": 575587,
+		"totalCost": 41540009
+	},
+	"290": {
+		"level": 290,
+		"coin": 581548,
+		"totalCost": 42115596
+	},
+	"291": {
+		"level": 291,
+		"coin": 587550,
+		"totalCost": 42697144
+	},
+	"292": {
+		"level": 292,
+		"coin": 593593,
+		"totalCost": 43284694
+	},
+	"293": {
+		"level": 293,
+		"coin": 599677,
+		"totalCost": 43878287
+	},
+	"294": {
+		"level": 294,
+		"coin": 605803,
+		"totalCost": 44477964
+	},
+	"295": {
+		"level": 295,
+		"coin": 611971,
+		"totalCost": 45083767
+	},
+	"296": {
+		"level": 296,
+		"coin": 618180,
+		"totalCost": 45695738
+	},
+	"297": {
+		"level": 297,
+		"coin": 624431,
+		"totalCost": 46313918
+	},
+	"298": {
+		"level": 298,
+		"coin": 630724,
+		"totalCost": 46938349
+	},
+	"299": {
+		"level": 299,
+		"coin": 637060,
+		"totalCost": 47569073
+	},
+	"300": {
+		"level": 300,
+		"coin": 643437,
+		"totalCost": 48206133
+	},
+	"301": {
+		"level": 301,
+		"coin": 649857,
+		"totalCost": 48849570
+	},
+	"302": {
+		"level": 302,
+		"coin": 656319,
+		"totalCost": 49499427
+	},
+	"303": {
+		"level": 303,
+		"coin": 662825,
+		"totalCost": 50155746
+	},
+	"304": {
+		"level": 304,
+		"coin": 669373,
+		"totalCost": 50818571
+	},
+	"305": {
+		"level": 305,
+		"coin": 675964,
+		"totalCost": 51487944
+	},
+	"306": {
+		"level": 306,
+		"coin": 682598,
+		"totalCost": 52163908
+	},
+	"307": {
+		"level": 307,
+		"coin": 689275,
+		"totalCost": 52846506
+	},
+	"308": {
+		"level": 308,
+		"coin": 695996,
+		"totalCost": 53535781
+	},
+	"309": {
+		"level": 309,
+		"coin": 702760,
+		"totalCost": 54231777
+	},
+	"310": {
+		"level": 310,
+		"coin": 709568,
+		"totalCost": 54934537
+	},
+	"311": {
+		"level": 311,
+		"coin": 716420,
+		"totalCost": 55644105
+	},
+	"312": {
+		"level": 312,
+		"coin": 723316,
+		"totalCost": 56360525
+	},
+	"313": {
+		"level": 313,
+		"coin": 730256,
+		"totalCost": 57083841
+	},
+	"314": {
+		"level": 314,
+		"coin": 737240,
+		"totalCost": 57814097
+	},
+	"315": {
+		"level": 315,
+		"coin": 744269,
+		"totalCost": 58551337
+	},
+	"316": {
+		"level": 316,
+		"coin": 751342,
+		"totalCost": 59295606
+	},
+	"317": {
+		"level": 317,
+		"coin": 758460,
+		"totalCost": 60046948
+	},
+	"318": {
+		"level": 318,
+		"coin": 765623,
+		"totalCost": 60805408
+	},
+	"319": {
+		"level": 319,
+		"coin": 772830,
+		"totalCost": 61571031
+	},
+	"320": {
+		"level": 320,
+		"coin": 780083,
+		"totalCost": 62343861
+	},
+	"321": {
+		"level": 321,
+		"coin": 787381,
+		"totalCost": 63123944
+	},
+	"322": {
+		"level": 322,
+		"coin": 794724,
+		"totalCost": 63911325
+	},
+	"323": {
+		"level": 323,
+		"coin": 802113,
+		"totalCost": 64706049
+	},
+	"324": {
+		"level": 324,
+		"coin": 809547,
+		"totalCost": 65508162
+	},
+	"325": {
+		"level": 325,
+		"coin": 817027,
+		"totalCost": 66317709
+	},
+	"326": {
+		"level": 326,
+		"coin": 824554,
+		"totalCost": 67134736
+	},
+	"327": {
+		"level": 327,
+		"coin": 832126,
+		"totalCost": 67959290
+	},
+	"328": {
+		"level": 328,
+		"coin": 839744,
+		"totalCost": 68791416
+	},
+	"329": {
+		"level": 329,
+		"coin": 847409,
+		"totalCost": 69631160
+	},
+	"330": {
+		"level": 330,
+		"coin": 855121,
+		"totalCost": 70478569
+	},
+	"331": {
+		"level": 331,
+		"coin": 862879,
+		"totalCost": 71333690
+	},
+	"332": {
+		"level": 332,
+		"coin": 870683,
+		"totalCost": 72196569
+	},
+	"333": {
+		"level": 333,
+		"coin": 878535,
+		"totalCost": 73067252
+	},
+	"334": {
+		"level": 334,
+		"coin": 886434,
+		"totalCost": 73945787
+	},
+	"335": {
+		"level": 335,
+		"coin": 894380,
+		"totalCost": 74832221
+	},
+	"336": {
+		"level": 336,
+		"coin": 902373,
+		"totalCost": 75726601
+	},
+	"337": {
+		"level": 337,
+		"coin": 910414,
+		"totalCost": 76628974
+	},
+	"338": {
+		"level": 338,
+		"coin": 918502,
+		"totalCost": 77539388
+	},
+	"339": {
+		"level": 339,
+		"coin": 926638,
+		"totalCost": 78457890
+	},
+	"340": {
+		"level": 340,
+		"coin": 934822,
+		"totalCost": 79384528
+	},
+	"341": {
+		"level": 341,
+		"coin": 943054,
+		"totalCost": 80319350
+	},
+	"342": {
+		"level": 342,
+		"coin": 951335,
+		"totalCost": 81262404
+	},
+	"343": {
+		"level": 343,
+		"coin": 959663,
+		"totalCost": 82213739
+	},
+	"344": {
+		"level": 344,
+		"coin": 968040,
+		"totalCost": 83173402
+	},
+	"345": {
+		"level": 345,
+		"coin": 976466,
+		"totalCost": 84141442
+	},
+	"346": {
+		"level": 346,
+		"coin": 984941,
+		"totalCost": 85117908
+	},
+	"347": {
+		"level": 347,
+		"coin": 993464,
+		"totalCost": 86102849
+	},
+	"348": {
+		"level": 348,
+		"coin": 1002036,
+		"totalCost": 87096313
+	},
+	"349": {
+		"level": 349,
+		"coin": 1010658,
+		"totalCost": 88098349
+	},
+	"350": {
+		"level": 350,
+		"coin": 1019329,
+		"totalCost": 89109007
+	},
+	"351": {
+		"level": 351,
+		"coin": 1028049,
+		"totalCost": 90128336
+	},
+	"352": {
+		"level": 352,
+		"coin": 1036819,
+		"totalCost": 91156385
+	},
+	"353": {
+		"level": 353,
+		"coin": 1045639,
+		"totalCost": 92193204
+	},
+	"354": {
+		"level": 354,
+		"coin": 1054508,
+		"totalCost": 93238843
+	},
+	"355": {
+		"level": 355,
+		"coin": 1063428,
+		"totalCost": 94293351
+	},
+	"356": {
+		"level": 356,
+		"coin": 1072397,
+		"totalCost": 95356779
+	},
+	"357": {
+		"level": 357,
+		"coin": 1081417,
+		"totalCost": 96429176
+	},
+	"358": {
+		"level": 358,
+		"coin": 1090488,
+		"totalCost": 97510593
+	},
+	"359": {
+		"level": 359,
+		"coin": 1099609,
+		"totalCost": 98601081
+	},
+	"360": {
+		"level": 360,
+		"coin": 1108781,
+		"totalCost": 99700690
+	},
+	"361": {
+		"level": 361,
+		"coin": 1118003,
+		"totalCost": 100809471
+	},
+	"362": {
+		"level": 362,
+		"coin": 1127277,
+		"totalCost": 101927474
+	},
+	"363": {
+		"level": 363,
+		"coin": 1136602,
+		"totalCost": 103054751
+	},
+	"364": {
+		"level": 364,
+		"coin": 1145978,
+		"totalCost": 104191353
+	},
+	"365": {
+		"level": 365,
+		"coin": 1155405,
+		"totalCost": 105337331
+	},
+	"366": {
+		"level": 366,
+		"coin": 1164884,
+		"totalCost": 106492736
+	},
+	"367": {
+		"level": 367,
+		"coin": 1174415,
+		"totalCost": 107657620
+	},
+	"368": {
+		"level": 368,
+		"coin": 1183997,
+		"totalCost": 108832035
+	},
+	"369": {
+		"level": 369,
+		"coin": 1193632,
+		"totalCost": 110016032
+	},
+	"370": {
+		"level": 370,
+		"coin": 1203318,
+		"totalCost": 111209664
+	},
+	"371": {
+		"level": 371,
+		"coin": 1213057,
+		"totalCost": 112412982
+	},
+	"372": {
+		"level": 372,
+		"coin": 1222849,
+		"totalCost": 113626039
+	},
+	"373": {
+		"level": 373,
+		"coin": 1232692,
+		"totalCost": 114848888
+	},
+	"374": {
+		"level": 374,
+		"coin": 1242589,
+		"totalCost": 116081580
+	},
+	"375": {
+		"level": 375,
+		"coin": 1252538,
+		"totalCost": 117324169
+	},
+	"376": {
+		"level": 376,
+		"coin": 1262541,
+		"totalCost": 118576707
+	},
+	"377": {
+		"level": 377,
+		"coin": 1272596,
+		"totalCost": 119839248
+	},
+	"378": {
+		"level": 378,
+		"coin": 1282705,
+		"totalCost": 121111844
+	},
+	"379": {
+		"level": 379,
+		"coin": 1292867,
+		"totalCost": 122394549
+	},
+	"380": {
+		"level": 380,
+		"coin": 1303083,
+		"totalCost": 123687416
+	},
+	"381": {
+		"level": 381,
+		"coin": 1313352,
+		"totalCost": 124990499
+	},
+	"382": {
+		"level": 382,
+		"coin": 1323675,
+		"totalCost": 126303851
+	},
+	"383": {
+		"level": 383,
+		"coin": 1334052,
+		"totalCost": 127627526
+	},
+	"384": {
+		"level": 384,
+		"coin": 1344483,
+		"totalCost": 128961578
+	},
+	"385": {
+		"level": 385,
+		"coin": 1354969,
+		"totalCost": 130306061
+	},
+	"386": {
+		"level": 386,
+		"coin": 1365508,
+		"totalCost": 131661030
+	},
+	"387": {
+		"level": 387,
+		"coin": 1376103,
+		"totalCost": 133026538
+	},
+	"388": {
+		"level": 388,
+		"coin": 1386752,
+		"totalCost": 134402641
+	},
+	"389": {
+		"level": 389,
+		"coin": 1397455,
+		"totalCost": 135789393
+	},
+	"390": {
+		"level": 390,
+		"coin": 1408214,
+		"totalCost": 137186848
+	},
+	"391": {
+		"level": 391,
+		"coin": 1419028,
+		"totalCost": 138595062
+	},
+	"392": {
+		"level": 392,
+		"coin": 1429897,
+		"totalCost": 140014090
+	},
+	"393": {
+		"level": 393,
+		"coin": 1440821,
+		"totalCost": 141443987
+	},
+	"394": {
+		"level": 394,
+		"coin": 1451801,
+		"totalCost": 142884808
+	},
+	"395": {
+		"level": 395,
+		"coin": 1462837,
+		"totalCost": 144336609
+	},
+	"396": {
+		"level": 396,
+		"coin": 1473928,
+		"totalCost": 145799446
+	},
+	"397": {
+		"level": 397,
+		"coin": 1485075,
+		"totalCost": 147273374
+	},
+	"398": {
+		"level": 398,
+		"coin": 1496278,
+		"totalCost": 148758449
+	},
+	"399": {
+		"level": 399,
+		"coin": 1507538,
+		"totalCost": 150254727
+	},
+	"400": {
+		"level": 400,
+		"coin": 0,
+		"totalCost": 151762265
+	}
+}

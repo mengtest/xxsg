@@ -1,0 +1,7456 @@
+{
+	"1": {
+		"level": 1,
+		"levelClass": 0,
+		"exp": 110,
+		"attr": [
+			{
+				"id": 101,
+				"num": 820
+			},
+			{
+				"id": 102,
+				"num": 410
+			},
+			{
+				"id": 103,
+				"num": 410
+			},
+			{
+				"id": 104,
+				"num": 8200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 0,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 0
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"2": {
+		"level": 2,
+		"levelClass": 0,
+		"exp": 120,
+		"attr": [
+			{
+				"id": 101,
+				"num": 840
+			},
+			{
+				"id": 102,
+				"num": 420
+			},
+			{
+				"id": 103,
+				"num": 420
+			},
+			{
+				"id": 104,
+				"num": 8400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"3": {
+		"level": 3,
+		"levelClass": 0,
+		"exp": 130,
+		"attr": [
+			{
+				"id": 101,
+				"num": 860
+			},
+			{
+				"id": 102,
+				"num": 430
+			},
+			{
+				"id": 103,
+				"num": 430
+			},
+			{
+				"id": 104,
+				"num": 8600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 230,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 230
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"4": {
+		"level": 4,
+		"levelClass": 0,
+		"exp": 140,
+		"attr": [
+			{
+				"id": 101,
+				"num": 880
+			},
+			{
+				"id": 102,
+				"num": 440
+			},
+			{
+				"id": 103,
+				"num": 440
+			},
+			{
+				"id": 104,
+				"num": 8800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 360,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 360
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"5": {
+		"level": 5,
+		"levelClass": 0,
+		"exp": 150,
+		"attr": [
+			{
+				"id": 101,
+				"num": 900
+			},
+			{
+				"id": 102,
+				"num": 450
+			},
+			{
+				"id": 103,
+				"num": 450
+			},
+			{
+				"id": 104,
+				"num": 9000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 500,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"6": {
+		"level": 6,
+		"levelClass": 0,
+		"exp": 160,
+		"attr": [
+			{
+				"id": 101,
+				"num": 920
+			},
+			{
+				"id": 102,
+				"num": 460
+			},
+			{
+				"id": 103,
+				"num": 460
+			},
+			{
+				"id": 104,
+				"num": 9200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 650,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 650
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"7": {
+		"level": 7,
+		"levelClass": 0,
+		"exp": 170,
+		"attr": [
+			{
+				"id": 101,
+				"num": 940
+			},
+			{
+				"id": 102,
+				"num": 470
+			},
+			{
+				"id": 103,
+				"num": 470
+			},
+			{
+				"id": 104,
+				"num": 9400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"8": {
+		"level": 8,
+		"levelClass": 0,
+		"exp": 180,
+		"attr": [
+			{
+				"id": 101,
+				"num": 960
+			},
+			{
+				"id": 102,
+				"num": 480
+			},
+			{
+				"id": 103,
+				"num": 480
+			},
+			{
+				"id": 104,
+				"num": 9600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 980,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 980
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"9": {
+		"level": 9,
+		"levelClass": 0,
+		"exp": 190,
+		"attr": [
+			{
+				"id": 101,
+				"num": 980
+			},
+			{
+				"id": 102,
+				"num": 490
+			},
+			{
+				"id": 103,
+				"num": 490
+			},
+			{
+				"id": 104,
+				"num": 9800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 1160,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1160
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"10": {
+		"level": 10,
+		"levelClass": 0,
+		"exp": 200,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1000
+			},
+			{
+				"id": 102,
+				"num": 500
+			},
+			{
+				"id": 103,
+				"num": 500
+			},
+			{
+				"id": 104,
+				"num": 10000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 1350,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1350
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"11": {
+		"level": 11,
+		"levelClass": 0,
+		"exp": 210,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1020
+			},
+			{
+				"id": 102,
+				"num": 510
+			},
+			{
+				"id": 103,
+				"num": 510
+			},
+			{
+				"id": 104,
+				"num": 10200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 1550,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1550
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"12": {
+		"level": 12,
+		"levelClass": 0,
+		"exp": 220,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1040
+			},
+			{
+				"id": 102,
+				"num": 520
+			},
+			{
+				"id": 103,
+				"num": 520
+			},
+			{
+				"id": 104,
+				"num": 10400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 1760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"13": {
+		"level": 13,
+		"levelClass": 0,
+		"exp": 230,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1060
+			},
+			{
+				"id": 102,
+				"num": 530
+			},
+			{
+				"id": 103,
+				"num": 530
+			},
+			{
+				"id": 104,
+				"num": 10600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 1980,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 1980
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"14": {
+		"level": 14,
+		"levelClass": 0,
+		"exp": 240,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1080
+			},
+			{
+				"id": 102,
+				"num": 540
+			},
+			{
+				"id": 103,
+				"num": 540
+			},
+			{
+				"id": 104,
+				"num": 10800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 2210,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 2210
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"15": {
+		"level": 15,
+		"levelClass": 0,
+		"exp": 250,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1100
+			},
+			{
+				"id": 102,
+				"num": 550
+			},
+			{
+				"id": 103,
+				"num": 550
+			},
+			{
+				"id": 104,
+				"num": 11000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 2450,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 2450
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"16": {
+		"level": 16,
+		"levelClass": 0,
+		"exp": 260,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1120
+			},
+			{
+				"id": 102,
+				"num": 560
+			},
+			{
+				"id": 103,
+				"num": 560
+			},
+			{
+				"id": 104,
+				"num": 11200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 2700,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 2700
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"17": {
+		"level": 17,
+		"levelClass": 0,
+		"exp": 270,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1140
+			},
+			{
+				"id": 102,
+				"num": 570
+			},
+			{
+				"id": 103,
+				"num": 570
+			},
+			{
+				"id": 104,
+				"num": 11400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 2960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 2960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"18": {
+		"level": 18,
+		"levelClass": 0,
+		"exp": 280,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1160
+			},
+			{
+				"id": 102,
+				"num": 580
+			},
+			{
+				"id": 103,
+				"num": 580
+			},
+			{
+				"id": 104,
+				"num": 11600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 3230,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 3230
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"19": {
+		"level": 19,
+		"levelClass": 0,
+		"exp": 290,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1180
+			},
+			{
+				"id": 102,
+				"num": 590
+			},
+			{
+				"id": 103,
+				"num": 590
+			},
+			{
+				"id": 104,
+				"num": 11800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 3510,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 3510
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"20": {
+		"level": 20,
+		"levelClass": 0,
+		"exp": 300,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1220
+			},
+			{
+				"id": 102,
+				"num": 610
+			},
+			{
+				"id": 103,
+				"num": 610
+			},
+			{
+				"id": 104,
+				"num": 12200
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		],
+		"totalExp": 3800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 3800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 0
+			}
+		]
+	},
+	"21": {
+		"level": 21,
+		"levelClass": 1,
+		"exp": 410,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1260
+			},
+			{
+				"id": 102,
+				"num": 630
+			},
+			{
+				"id": 103,
+				"num": 630
+			},
+			{
+				"id": 104,
+				"num": 12600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 4100,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 4100
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"22": {
+		"level": 22,
+		"levelClass": 1,
+		"exp": 420,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1300
+			},
+			{
+				"id": 102,
+				"num": 650
+			},
+			{
+				"id": 103,
+				"num": 650
+			},
+			{
+				"id": 104,
+				"num": 13000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 4510,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 4510
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"23": {
+		"level": 23,
+		"levelClass": 1,
+		"exp": 430,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1340
+			},
+			{
+				"id": 102,
+				"num": 670
+			},
+			{
+				"id": 103,
+				"num": 670
+			},
+			{
+				"id": 104,
+				"num": 13400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 4930,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 4930
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"24": {
+		"level": 24,
+		"levelClass": 1,
+		"exp": 440,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1380
+			},
+			{
+				"id": 102,
+				"num": 690
+			},
+			{
+				"id": 103,
+				"num": 690
+			},
+			{
+				"id": 104,
+				"num": 13800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 5360,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 5360
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"25": {
+		"level": 25,
+		"levelClass": 1,
+		"exp": 450,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1420
+			},
+			{
+				"id": 102,
+				"num": 710
+			},
+			{
+				"id": 103,
+				"num": 710
+			},
+			{
+				"id": 104,
+				"num": 14200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 5800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 5800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"26": {
+		"level": 26,
+		"levelClass": 1,
+		"exp": 460,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1460
+			},
+			{
+				"id": 102,
+				"num": 730
+			},
+			{
+				"id": 103,
+				"num": 730
+			},
+			{
+				"id": 104,
+				"num": 14600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 6250,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 6250
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"27": {
+		"level": 27,
+		"levelClass": 1,
+		"exp": 470,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1500
+			},
+			{
+				"id": 102,
+				"num": 750
+			},
+			{
+				"id": 103,
+				"num": 750
+			},
+			{
+				"id": 104,
+				"num": 15000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 6710,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 6710
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"28": {
+		"level": 28,
+		"levelClass": 1,
+		"exp": 480,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1540
+			},
+			{
+				"id": 102,
+				"num": 770
+			},
+			{
+				"id": 103,
+				"num": 770
+			},
+			{
+				"id": 104,
+				"num": 15400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 7180,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 7180
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"29": {
+		"level": 29,
+		"levelClass": 1,
+		"exp": 490,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1580
+			},
+			{
+				"id": 102,
+				"num": 790
+			},
+			{
+				"id": 103,
+				"num": 790
+			},
+			{
+				"id": 104,
+				"num": 15800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 7660,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 7660
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"30": {
+		"level": 30,
+		"levelClass": 1,
+		"exp": 500,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1620
+			},
+			{
+				"id": 102,
+				"num": 810
+			},
+			{
+				"id": 103,
+				"num": 810
+			},
+			{
+				"id": 104,
+				"num": 16200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 8150,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 8150
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"31": {
+		"level": 31,
+		"levelClass": 1,
+		"exp": 510,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1660
+			},
+			{
+				"id": 102,
+				"num": 830
+			},
+			{
+				"id": 103,
+				"num": 830
+			},
+			{
+				"id": 104,
+				"num": 16600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 8650,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 8650
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"32": {
+		"level": 32,
+		"levelClass": 1,
+		"exp": 520,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1700
+			},
+			{
+				"id": 102,
+				"num": 850
+			},
+			{
+				"id": 103,
+				"num": 850
+			},
+			{
+				"id": 104,
+				"num": 17000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 9160,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 9160
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"33": {
+		"level": 33,
+		"levelClass": 1,
+		"exp": 530,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1740
+			},
+			{
+				"id": 102,
+				"num": 870
+			},
+			{
+				"id": 103,
+				"num": 870
+			},
+			{
+				"id": 104,
+				"num": 17400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 9680,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 9680
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"34": {
+		"level": 34,
+		"levelClass": 1,
+		"exp": 540,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1780
+			},
+			{
+				"id": 102,
+				"num": 890
+			},
+			{
+				"id": 103,
+				"num": 890
+			},
+			{
+				"id": 104,
+				"num": 17800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 10210,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 10210
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"35": {
+		"level": 35,
+		"levelClass": 1,
+		"exp": 550,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1820
+			},
+			{
+				"id": 102,
+				"num": 910
+			},
+			{
+				"id": 103,
+				"num": 910
+			},
+			{
+				"id": 104,
+				"num": 18200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 10750,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 10750
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"36": {
+		"level": 36,
+		"levelClass": 1,
+		"exp": 560,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1860
+			},
+			{
+				"id": 102,
+				"num": 930
+			},
+			{
+				"id": 103,
+				"num": 930
+			},
+			{
+				"id": 104,
+				"num": 18600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 11300,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 11300
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"37": {
+		"level": 37,
+		"levelClass": 1,
+		"exp": 570,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1900
+			},
+			{
+				"id": 102,
+				"num": 950
+			},
+			{
+				"id": 103,
+				"num": 950
+			},
+			{
+				"id": 104,
+				"num": 19000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 11860,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 11860
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"38": {
+		"level": 38,
+		"levelClass": 1,
+		"exp": 580,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1940
+			},
+			{
+				"id": 102,
+				"num": 970
+			},
+			{
+				"id": 103,
+				"num": 970
+			},
+			{
+				"id": 104,
+				"num": 19400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 12430,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 12430
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"39": {
+		"level": 39,
+		"levelClass": 1,
+		"exp": 590,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1980
+			},
+			{
+				"id": 102,
+				"num": 990
+			},
+			{
+				"id": 103,
+				"num": 990
+			},
+			{
+				"id": 104,
+				"num": 19800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 13010,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 13010
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"40": {
+		"level": 40,
+		"levelClass": 1,
+		"exp": 600,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2040
+			},
+			{
+				"id": 102,
+				"num": 1020
+			},
+			{
+				"id": 103,
+				"num": 1020
+			},
+			{
+				"id": 104,
+				"num": 20400
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 60
+			}
+		],
+		"totalExp": 13600,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 13600
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 30
+			}
+		]
+	},
+	"41": {
+		"level": 41,
+		"levelClass": 2,
+		"exp": 910,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2100
+			},
+			{
+				"id": 102,
+				"num": 1050
+			},
+			{
+				"id": 103,
+				"num": 1050
+			},
+			{
+				"id": 104,
+				"num": 21000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 14200,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 14200
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"42": {
+		"level": 42,
+		"levelClass": 2,
+		"exp": 920,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2160
+			},
+			{
+				"id": 102,
+				"num": 1080
+			},
+			{
+				"id": 103,
+				"num": 1080
+			},
+			{
+				"id": 104,
+				"num": 21600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 15110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 15110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"43": {
+		"level": 43,
+		"levelClass": 2,
+		"exp": 930,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2220
+			},
+			{
+				"id": 102,
+				"num": 1110
+			},
+			{
+				"id": 103,
+				"num": 1110
+			},
+			{
+				"id": 104,
+				"num": 22200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 16030,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 16030
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"44": {
+		"level": 44,
+		"levelClass": 2,
+		"exp": 940,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2280
+			},
+			{
+				"id": 102,
+				"num": 1140
+			},
+			{
+				"id": 103,
+				"num": 1140
+			},
+			{
+				"id": 104,
+				"num": 22800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 16960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 16960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"45": {
+		"level": 45,
+		"levelClass": 2,
+		"exp": 950,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2340
+			},
+			{
+				"id": 102,
+				"num": 1170
+			},
+			{
+				"id": 103,
+				"num": 1170
+			},
+			{
+				"id": 104,
+				"num": 23400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 17900,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 17900
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"46": {
+		"level": 46,
+		"levelClass": 2,
+		"exp": 960,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2400
+			},
+			{
+				"id": 102,
+				"num": 1200
+			},
+			{
+				"id": 103,
+				"num": 1200
+			},
+			{
+				"id": 104,
+				"num": 24000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 18850,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 18850
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"47": {
+		"level": 47,
+		"levelClass": 2,
+		"exp": 970,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2460
+			},
+			{
+				"id": 102,
+				"num": 1230
+			},
+			{
+				"id": 103,
+				"num": 1230
+			},
+			{
+				"id": 104,
+				"num": 24600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 19810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 19810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"48": {
+		"level": 48,
+		"levelClass": 2,
+		"exp": 980,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2520
+			},
+			{
+				"id": 102,
+				"num": 1260
+			},
+			{
+				"id": 103,
+				"num": 1260
+			},
+			{
+				"id": 104,
+				"num": 25200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 20780,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 20780
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"49": {
+		"level": 49,
+		"levelClass": 2,
+		"exp": 990,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2580
+			},
+			{
+				"id": 102,
+				"num": 1290
+			},
+			{
+				"id": 103,
+				"num": 1290
+			},
+			{
+				"id": 104,
+				"num": 25800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 21760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 21760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"50": {
+		"level": 50,
+		"levelClass": 2,
+		"exp": 1000,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2640
+			},
+			{
+				"id": 102,
+				"num": 1320
+			},
+			{
+				"id": 103,
+				"num": 1320
+			},
+			{
+				"id": 104,
+				"num": 26400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 22750,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 22750
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"51": {
+		"level": 51,
+		"levelClass": 2,
+		"exp": 1010,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2700
+			},
+			{
+				"id": 102,
+				"num": 1350
+			},
+			{
+				"id": 103,
+				"num": 1350
+			},
+			{
+				"id": 104,
+				"num": 27000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 23750,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 23750
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"52": {
+		"level": 52,
+		"levelClass": 2,
+		"exp": 1020,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2760
+			},
+			{
+				"id": 102,
+				"num": 1380
+			},
+			{
+				"id": 103,
+				"num": 1380
+			},
+			{
+				"id": 104,
+				"num": 27600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 24760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 24760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"53": {
+		"level": 53,
+		"levelClass": 2,
+		"exp": 1030,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2820
+			},
+			{
+				"id": 102,
+				"num": 1410
+			},
+			{
+				"id": 103,
+				"num": 1410
+			},
+			{
+				"id": 104,
+				"num": 28200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 25780,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 25780
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"54": {
+		"level": 54,
+		"levelClass": 2,
+		"exp": 1040,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2880
+			},
+			{
+				"id": 102,
+				"num": 1440
+			},
+			{
+				"id": 103,
+				"num": 1440
+			},
+			{
+				"id": 104,
+				"num": 28800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 26810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 26810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"55": {
+		"level": 55,
+		"levelClass": 2,
+		"exp": 1050,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2940
+			},
+			{
+				"id": 102,
+				"num": 1470
+			},
+			{
+				"id": 103,
+				"num": 1470
+			},
+			{
+				"id": 104,
+				"num": 29400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 27850,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 27850
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"56": {
+		"level": 56,
+		"levelClass": 2,
+		"exp": 1060,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3000
+			},
+			{
+				"id": 102,
+				"num": 1500
+			},
+			{
+				"id": 103,
+				"num": 1500
+			},
+			{
+				"id": 104,
+				"num": 30000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 28900,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 28900
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"57": {
+		"level": 57,
+		"levelClass": 2,
+		"exp": 1070,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3060
+			},
+			{
+				"id": 102,
+				"num": 1530
+			},
+			{
+				"id": 103,
+				"num": 1530
+			},
+			{
+				"id": 104,
+				"num": 30600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 29960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 29960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"58": {
+		"level": 58,
+		"levelClass": 2,
+		"exp": 1080,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3120
+			},
+			{
+				"id": 102,
+				"num": 1560
+			},
+			{
+				"id": 103,
+				"num": 1560
+			},
+			{
+				"id": 104,
+				"num": 31200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 31030,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 31030
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"59": {
+		"level": 59,
+		"levelClass": 2,
+		"exp": 1090,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3180
+			},
+			{
+				"id": 102,
+				"num": 1590
+			},
+			{
+				"id": 103,
+				"num": 1590
+			},
+			{
+				"id": 104,
+				"num": 31800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 32110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 32110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"60": {
+		"level": 60,
+		"levelClass": 2,
+		"exp": 1100,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3260
+			},
+			{
+				"id": 102,
+				"num": 1630
+			},
+			{
+				"id": 103,
+				"num": 1630
+			},
+			{
+				"id": 104,
+				"num": 32600
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 110
+			}
+		],
+		"totalExp": 33200,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 33200
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 90
+			}
+		]
+	},
+	"61": {
+		"level": 61,
+		"levelClass": 3,
+		"exp": 1610,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3340
+			},
+			{
+				"id": 102,
+				"num": 1670
+			},
+			{
+				"id": 103,
+				"num": 1670
+			},
+			{
+				"id": 104,
+				"num": 33400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 34300,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 34300
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"62": {
+		"level": 62,
+		"levelClass": 3,
+		"exp": 1620,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3420
+			},
+			{
+				"id": 102,
+				"num": 1710
+			},
+			{
+				"id": 103,
+				"num": 1710
+			},
+			{
+				"id": 104,
+				"num": 34200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 35910,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 35910
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"63": {
+		"level": 63,
+		"levelClass": 3,
+		"exp": 1630,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3500
+			},
+			{
+				"id": 102,
+				"num": 1750
+			},
+			{
+				"id": 103,
+				"num": 1750
+			},
+			{
+				"id": 104,
+				"num": 35000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 37530,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 37530
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"64": {
+		"level": 64,
+		"levelClass": 3,
+		"exp": 1640,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3580
+			},
+			{
+				"id": 102,
+				"num": 1790
+			},
+			{
+				"id": 103,
+				"num": 1790
+			},
+			{
+				"id": 104,
+				"num": 35800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 39160,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 39160
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"65": {
+		"level": 65,
+		"levelClass": 3,
+		"exp": 1650,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3660
+			},
+			{
+				"id": 102,
+				"num": 1830
+			},
+			{
+				"id": 103,
+				"num": 1830
+			},
+			{
+				"id": 104,
+				"num": 36600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 40800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 40800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"66": {
+		"level": 66,
+		"levelClass": 3,
+		"exp": 1660,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3740
+			},
+			{
+				"id": 102,
+				"num": 1870
+			},
+			{
+				"id": 103,
+				"num": 1870
+			},
+			{
+				"id": 104,
+				"num": 37400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 42450,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 42450
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"67": {
+		"level": 67,
+		"levelClass": 3,
+		"exp": 1670,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3820
+			},
+			{
+				"id": 102,
+				"num": 1910
+			},
+			{
+				"id": 103,
+				"num": 1910
+			},
+			{
+				"id": 104,
+				"num": 38200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 44110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 44110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"68": {
+		"level": 68,
+		"levelClass": 3,
+		"exp": 1680,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3900
+			},
+			{
+				"id": 102,
+				"num": 1950
+			},
+			{
+				"id": 103,
+				"num": 1950
+			},
+			{
+				"id": 104,
+				"num": 39000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 45780,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 45780
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"69": {
+		"level": 69,
+		"levelClass": 3,
+		"exp": 1690,
+		"attr": [
+			{
+				"id": 101,
+				"num": 3980
+			},
+			{
+				"id": 102,
+				"num": 1990
+			},
+			{
+				"id": 103,
+				"num": 1990
+			},
+			{
+				"id": 104,
+				"num": 39800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 47460,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 47460
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"70": {
+		"level": 70,
+		"levelClass": 3,
+		"exp": 1700,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4060
+			},
+			{
+				"id": 102,
+				"num": 2030
+			},
+			{
+				"id": 103,
+				"num": 2030
+			},
+			{
+				"id": 104,
+				"num": 40600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 49150,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 49150
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"71": {
+		"level": 71,
+		"levelClass": 3,
+		"exp": 1710,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4140
+			},
+			{
+				"id": 102,
+				"num": 2070
+			},
+			{
+				"id": 103,
+				"num": 2070
+			},
+			{
+				"id": 104,
+				"num": 41400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 50850,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 50850
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"72": {
+		"level": 72,
+		"levelClass": 3,
+		"exp": 1720,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4220
+			},
+			{
+				"id": 102,
+				"num": 2110
+			},
+			{
+				"id": 103,
+				"num": 2110
+			},
+			{
+				"id": 104,
+				"num": 42200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 52560,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 52560
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"73": {
+		"level": 73,
+		"levelClass": 3,
+		"exp": 1730,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4300
+			},
+			{
+				"id": 102,
+				"num": 2150
+			},
+			{
+				"id": 103,
+				"num": 2150
+			},
+			{
+				"id": 104,
+				"num": 43000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 54280,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 54280
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"74": {
+		"level": 74,
+		"levelClass": 3,
+		"exp": 1740,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4380
+			},
+			{
+				"id": 102,
+				"num": 2190
+			},
+			{
+				"id": 103,
+				"num": 2190
+			},
+			{
+				"id": 104,
+				"num": 43800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 56010,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 56010
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"75": {
+		"level": 75,
+		"levelClass": 3,
+		"exp": 1750,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4460
+			},
+			{
+				"id": 102,
+				"num": 2230
+			},
+			{
+				"id": 103,
+				"num": 2230
+			},
+			{
+				"id": 104,
+				"num": 44600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 57750,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 57750
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"76": {
+		"level": 76,
+		"levelClass": 3,
+		"exp": 1760,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4540
+			},
+			{
+				"id": 102,
+				"num": 2270
+			},
+			{
+				"id": 103,
+				"num": 2270
+			},
+			{
+				"id": 104,
+				"num": 45400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 59500,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 59500
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"77": {
+		"level": 77,
+		"levelClass": 3,
+		"exp": 1770,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4620
+			},
+			{
+				"id": 102,
+				"num": 2310
+			},
+			{
+				"id": 103,
+				"num": 2310
+			},
+			{
+				"id": 104,
+				"num": 46200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 61260,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 61260
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"78": {
+		"level": 78,
+		"levelClass": 3,
+		"exp": 1780,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4700
+			},
+			{
+				"id": 102,
+				"num": 2350
+			},
+			{
+				"id": 103,
+				"num": 2350
+			},
+			{
+				"id": 104,
+				"num": 47000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 63030,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 63030
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"79": {
+		"level": 79,
+		"levelClass": 3,
+		"exp": 1790,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4780
+			},
+			{
+				"id": 102,
+				"num": 2390
+			},
+			{
+				"id": 103,
+				"num": 2390
+			},
+			{
+				"id": 104,
+				"num": 47800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 64810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 64810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"80": {
+		"level": 80,
+		"levelClass": 3,
+		"exp": 1800,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4880
+			},
+			{
+				"id": 102,
+				"num": 2440
+			},
+			{
+				"id": 103,
+				"num": 2440
+			},
+			{
+				"id": 104,
+				"num": 48800
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 180
+			}
+		],
+		"totalExp": 66600,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 66600
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 200
+			}
+		]
+	},
+	"81": {
+		"level": 81,
+		"levelClass": 4,
+		"exp": 2510,
+		"attr": [
+			{
+				"id": 101,
+				"num": 4980
+			},
+			{
+				"id": 102,
+				"num": 2490
+			},
+			{
+				"id": 103,
+				"num": 2490
+			},
+			{
+				"id": 104,
+				"num": 49800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 68400,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 68400
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"82": {
+		"level": 82,
+		"levelClass": 4,
+		"exp": 2520,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5080
+			},
+			{
+				"id": 102,
+				"num": 2540
+			},
+			{
+				"id": 103,
+				"num": 2540
+			},
+			{
+				"id": 104,
+				"num": 50800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 70910,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 70910
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"83": {
+		"level": 83,
+		"levelClass": 4,
+		"exp": 2530,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5180
+			},
+			{
+				"id": 102,
+				"num": 2590
+			},
+			{
+				"id": 103,
+				"num": 2590
+			},
+			{
+				"id": 104,
+				"num": 51800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 73430,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 73430
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"84": {
+		"level": 84,
+		"levelClass": 4,
+		"exp": 2540,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5280
+			},
+			{
+				"id": 102,
+				"num": 2640
+			},
+			{
+				"id": 103,
+				"num": 2640
+			},
+			{
+				"id": 104,
+				"num": 52800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 75960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 75960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"85": {
+		"level": 85,
+		"levelClass": 4,
+		"exp": 2550,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5380
+			},
+			{
+				"id": 102,
+				"num": 2690
+			},
+			{
+				"id": 103,
+				"num": 2690
+			},
+			{
+				"id": 104,
+				"num": 53800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 78500,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 78500
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"86": {
+		"level": 86,
+		"levelClass": 4,
+		"exp": 2560,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5480
+			},
+			{
+				"id": 102,
+				"num": 2740
+			},
+			{
+				"id": 103,
+				"num": 2740
+			},
+			{
+				"id": 104,
+				"num": 54800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 81050,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 81050
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"87": {
+		"level": 87,
+		"levelClass": 4,
+		"exp": 2570,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5580
+			},
+			{
+				"id": 102,
+				"num": 2790
+			},
+			{
+				"id": 103,
+				"num": 2790
+			},
+			{
+				"id": 104,
+				"num": 55800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 83610,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 83610
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"88": {
+		"level": 88,
+		"levelClass": 4,
+		"exp": 2580,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5680
+			},
+			{
+				"id": 102,
+				"num": 2840
+			},
+			{
+				"id": 103,
+				"num": 2840
+			},
+			{
+				"id": 104,
+				"num": 56800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 86180,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 86180
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"89": {
+		"level": 89,
+		"levelClass": 4,
+		"exp": 2590,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5780
+			},
+			{
+				"id": 102,
+				"num": 2890
+			},
+			{
+				"id": 103,
+				"num": 2890
+			},
+			{
+				"id": 104,
+				"num": 57800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 88760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 88760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"90": {
+		"level": 90,
+		"levelClass": 4,
+		"exp": 2600,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5880
+			},
+			{
+				"id": 102,
+				"num": 2940
+			},
+			{
+				"id": 103,
+				"num": 2940
+			},
+			{
+				"id": 104,
+				"num": 58800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 91350,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 91350
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"91": {
+		"level": 91,
+		"levelClass": 4,
+		"exp": 2610,
+		"attr": [
+			{
+				"id": 101,
+				"num": 5980
+			},
+			{
+				"id": 102,
+				"num": 2990
+			},
+			{
+				"id": 103,
+				"num": 2990
+			},
+			{
+				"id": 104,
+				"num": 59800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 93950,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 93950
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"92": {
+		"level": 92,
+		"levelClass": 4,
+		"exp": 2620,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6080
+			},
+			{
+				"id": 102,
+				"num": 3040
+			},
+			{
+				"id": 103,
+				"num": 3040
+			},
+			{
+				"id": 104,
+				"num": 60800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 96560,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 96560
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"93": {
+		"level": 93,
+		"levelClass": 4,
+		"exp": 2630,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6180
+			},
+			{
+				"id": 102,
+				"num": 3090
+			},
+			{
+				"id": 103,
+				"num": 3090
+			},
+			{
+				"id": 104,
+				"num": 61800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 99180,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 99180
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"94": {
+		"level": 94,
+		"levelClass": 4,
+		"exp": 2640,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6280
+			},
+			{
+				"id": 102,
+				"num": 3140
+			},
+			{
+				"id": 103,
+				"num": 3140
+			},
+			{
+				"id": 104,
+				"num": 62800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 101810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 101810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"95": {
+		"level": 95,
+		"levelClass": 4,
+		"exp": 2650,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6380
+			},
+			{
+				"id": 102,
+				"num": 3190
+			},
+			{
+				"id": 103,
+				"num": 3190
+			},
+			{
+				"id": 104,
+				"num": 63800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 104450,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 104450
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"96": {
+		"level": 96,
+		"levelClass": 4,
+		"exp": 2660,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6480
+			},
+			{
+				"id": 102,
+				"num": 3240
+			},
+			{
+				"id": 103,
+				"num": 3240
+			},
+			{
+				"id": 104,
+				"num": 64800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 107100,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 107100
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"97": {
+		"level": 97,
+		"levelClass": 4,
+		"exp": 2670,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6580
+			},
+			{
+				"id": 102,
+				"num": 3290
+			},
+			{
+				"id": 103,
+				"num": 3290
+			},
+			{
+				"id": 104,
+				"num": 65800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 109760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 109760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"98": {
+		"level": 98,
+		"levelClass": 4,
+		"exp": 2680,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6680
+			},
+			{
+				"id": 102,
+				"num": 3340
+			},
+			{
+				"id": 103,
+				"num": 3340
+			},
+			{
+				"id": 104,
+				"num": 66800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 112430,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 112430
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"99": {
+		"level": 99,
+		"levelClass": 4,
+		"exp": 2690,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6780
+			},
+			{
+				"id": 102,
+				"num": 3390
+			},
+			{
+				"id": 103,
+				"num": 3390
+			},
+			{
+				"id": 104,
+				"num": 67800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 115110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 115110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"100": {
+		"level": 100,
+		"levelClass": 4,
+		"exp": 2700,
+		"attr": [
+			{
+				"id": 101,
+				"num": 6900
+			},
+			{
+				"id": 102,
+				"num": 3450
+			},
+			{
+				"id": 103,
+				"num": 3450
+			},
+			{
+				"id": 104,
+				"num": 69000
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 270
+			}
+		],
+		"totalExp": 117800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 117800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		]
+	},
+	"101": {
+		"level": 101,
+		"levelClass": 5,
+		"exp": 3610,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7020
+			},
+			{
+				"id": 102,
+				"num": 3510
+			},
+			{
+				"id": 103,
+				"num": 3510
+			},
+			{
+				"id": 104,
+				"num": 70200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 120500,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 120500
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"102": {
+		"level": 102,
+		"levelClass": 5,
+		"exp": 3620,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7140
+			},
+			{
+				"id": 102,
+				"num": 3570
+			},
+			{
+				"id": 103,
+				"num": 3570
+			},
+			{
+				"id": 104,
+				"num": 71400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 124110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 124110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"103": {
+		"level": 103,
+		"levelClass": 5,
+		"exp": 3630,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7260
+			},
+			{
+				"id": 102,
+				"num": 3630
+			},
+			{
+				"id": 103,
+				"num": 3630
+			},
+			{
+				"id": 104,
+				"num": 72600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 127730,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 127730
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"104": {
+		"level": 104,
+		"levelClass": 5,
+		"exp": 3640,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7380
+			},
+			{
+				"id": 102,
+				"num": 3690
+			},
+			{
+				"id": 103,
+				"num": 3690
+			},
+			{
+				"id": 104,
+				"num": 73800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 131360,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 131360
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"105": {
+		"level": 105,
+		"levelClass": 5,
+		"exp": 3650,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7500
+			},
+			{
+				"id": 102,
+				"num": 3750
+			},
+			{
+				"id": 103,
+				"num": 3750
+			},
+			{
+				"id": 104,
+				"num": 75000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 135000,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 135000
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"106": {
+		"level": 106,
+		"levelClass": 5,
+		"exp": 3660,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7620
+			},
+			{
+				"id": 102,
+				"num": 3810
+			},
+			{
+				"id": 103,
+				"num": 3810
+			},
+			{
+				"id": 104,
+				"num": 76200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 138650,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 138650
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"107": {
+		"level": 107,
+		"levelClass": 5,
+		"exp": 3670,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7740
+			},
+			{
+				"id": 102,
+				"num": 3870
+			},
+			{
+				"id": 103,
+				"num": 3870
+			},
+			{
+				"id": 104,
+				"num": 77400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 142310,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 142310
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"108": {
+		"level": 108,
+		"levelClass": 5,
+		"exp": 3680,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7860
+			},
+			{
+				"id": 102,
+				"num": 3930
+			},
+			{
+				"id": 103,
+				"num": 3930
+			},
+			{
+				"id": 104,
+				"num": 78600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 145980,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 145980
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"109": {
+		"level": 109,
+		"levelClass": 5,
+		"exp": 3690,
+		"attr": [
+			{
+				"id": 101,
+				"num": 7980
+			},
+			{
+				"id": 102,
+				"num": 3990
+			},
+			{
+				"id": 103,
+				"num": 3990
+			},
+			{
+				"id": 104,
+				"num": 79800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 149660,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 149660
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"110": {
+		"level": 110,
+		"levelClass": 5,
+		"exp": 3700,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8100
+			},
+			{
+				"id": 102,
+				"num": 4050
+			},
+			{
+				"id": 103,
+				"num": 4050
+			},
+			{
+				"id": 104,
+				"num": 81000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 153350,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 153350
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"111": {
+		"level": 111,
+		"levelClass": 5,
+		"exp": 3710,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8220
+			},
+			{
+				"id": 102,
+				"num": 4110
+			},
+			{
+				"id": 103,
+				"num": 4110
+			},
+			{
+				"id": 104,
+				"num": 82200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 157050,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 157050
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"112": {
+		"level": 112,
+		"levelClass": 5,
+		"exp": 3720,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8340
+			},
+			{
+				"id": 102,
+				"num": 4170
+			},
+			{
+				"id": 103,
+				"num": 4170
+			},
+			{
+				"id": 104,
+				"num": 83400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 160760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 160760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"113": {
+		"level": 113,
+		"levelClass": 5,
+		"exp": 3730,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8460
+			},
+			{
+				"id": 102,
+				"num": 4230
+			},
+			{
+				"id": 103,
+				"num": 4230
+			},
+			{
+				"id": 104,
+				"num": 84600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 164480,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 164480
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"114": {
+		"level": 114,
+		"levelClass": 5,
+		"exp": 3740,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8580
+			},
+			{
+				"id": 102,
+				"num": 4290
+			},
+			{
+				"id": 103,
+				"num": 4290
+			},
+			{
+				"id": 104,
+				"num": 85800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 168210,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 168210
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"115": {
+		"level": 115,
+		"levelClass": 5,
+		"exp": 3750,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8700
+			},
+			{
+				"id": 102,
+				"num": 4350
+			},
+			{
+				"id": 103,
+				"num": 4350
+			},
+			{
+				"id": 104,
+				"num": 87000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 171950,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 171950
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"116": {
+		"level": 116,
+		"levelClass": 5,
+		"exp": 3760,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8820
+			},
+			{
+				"id": 102,
+				"num": 4410
+			},
+			{
+				"id": 103,
+				"num": 4410
+			},
+			{
+				"id": 104,
+				"num": 88200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 175700,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 175700
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"117": {
+		"level": 117,
+		"levelClass": 5,
+		"exp": 3770,
+		"attr": [
+			{
+				"id": 101,
+				"num": 8940
+			},
+			{
+				"id": 102,
+				"num": 4470
+			},
+			{
+				"id": 103,
+				"num": 4470
+			},
+			{
+				"id": 104,
+				"num": 89400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 179460,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 179460
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"118": {
+		"level": 118,
+		"levelClass": 5,
+		"exp": 3780,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9060
+			},
+			{
+				"id": 102,
+				"num": 4530
+			},
+			{
+				"id": 103,
+				"num": 4530
+			},
+			{
+				"id": 104,
+				"num": 90600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 183230,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 183230
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"119": {
+		"level": 119,
+		"levelClass": 5,
+		"exp": 3790,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9180
+			},
+			{
+				"id": 102,
+				"num": 4590
+			},
+			{
+				"id": 103,
+				"num": 4590
+			},
+			{
+				"id": 104,
+				"num": 91800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 187010,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 187010
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"120": {
+		"level": 120,
+		"levelClass": 5,
+		"exp": 3800,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9320
+			},
+			{
+				"id": 102,
+				"num": 4660
+			},
+			{
+				"id": 103,
+				"num": 4660
+			},
+			{
+				"id": 104,
+				"num": 93200
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 380
+			}
+		],
+		"totalExp": 190800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 190800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 650
+			}
+		]
+	},
+	"121": {
+		"level": 121,
+		"levelClass": 6,
+		"exp": 4910,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9460
+			},
+			{
+				"id": 102,
+				"num": 4730
+			},
+			{
+				"id": 103,
+				"num": 4730
+			},
+			{
+				"id": 104,
+				"num": 94600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 194600,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 194600
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"122": {
+		"level": 122,
+		"levelClass": 6,
+		"exp": 4920,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9600
+			},
+			{
+				"id": 102,
+				"num": 4800
+			},
+			{
+				"id": 103,
+				"num": 4800
+			},
+			{
+				"id": 104,
+				"num": 96000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 199510,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 199510
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"123": {
+		"level": 123,
+		"levelClass": 6,
+		"exp": 4930,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9740
+			},
+			{
+				"id": 102,
+				"num": 4870
+			},
+			{
+				"id": 103,
+				"num": 4870
+			},
+			{
+				"id": 104,
+				"num": 97400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 204430,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 204430
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"124": {
+		"level": 124,
+		"levelClass": 6,
+		"exp": 4940,
+		"attr": [
+			{
+				"id": 101,
+				"num": 9880
+			},
+			{
+				"id": 102,
+				"num": 4940
+			},
+			{
+				"id": 103,
+				"num": 4940
+			},
+			{
+				"id": 104,
+				"num": 98800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 209360,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 209360
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"125": {
+		"level": 125,
+		"levelClass": 6,
+		"exp": 4950,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10020
+			},
+			{
+				"id": 102,
+				"num": 5010
+			},
+			{
+				"id": 103,
+				"num": 5010
+			},
+			{
+				"id": 104,
+				"num": 100200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 214300,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 214300
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"126": {
+		"level": 126,
+		"levelClass": 6,
+		"exp": 4960,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10160
+			},
+			{
+				"id": 102,
+				"num": 5080
+			},
+			{
+				"id": 103,
+				"num": 5080
+			},
+			{
+				"id": 104,
+				"num": 101600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 219250,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 219250
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"127": {
+		"level": 127,
+		"levelClass": 6,
+		"exp": 4970,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10300
+			},
+			{
+				"id": 102,
+				"num": 5150
+			},
+			{
+				"id": 103,
+				"num": 5150
+			},
+			{
+				"id": 104,
+				"num": 103000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 224210,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 224210
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"128": {
+		"level": 128,
+		"levelClass": 6,
+		"exp": 4980,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10440
+			},
+			{
+				"id": 102,
+				"num": 5220
+			},
+			{
+				"id": 103,
+				"num": 5220
+			},
+			{
+				"id": 104,
+				"num": 104400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 229180,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 229180
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"129": {
+		"level": 129,
+		"levelClass": 6,
+		"exp": 4990,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10580
+			},
+			{
+				"id": 102,
+				"num": 5290
+			},
+			{
+				"id": 103,
+				"num": 5290
+			},
+			{
+				"id": 104,
+				"num": 105800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 234160,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 234160
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"130": {
+		"level": 130,
+		"levelClass": 6,
+		"exp": 5000,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10720
+			},
+			{
+				"id": 102,
+				"num": 5360
+			},
+			{
+				"id": 103,
+				"num": 5360
+			},
+			{
+				"id": 104,
+				"num": 107200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 239150,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 239150
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"131": {
+		"level": 131,
+		"levelClass": 6,
+		"exp": 5010,
+		"attr": [
+			{
+				"id": 101,
+				"num": 10860
+			},
+			{
+				"id": 102,
+				"num": 5430
+			},
+			{
+				"id": 103,
+				"num": 5430
+			},
+			{
+				"id": 104,
+				"num": 108600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 244150,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 244150
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"132": {
+		"level": 132,
+		"levelClass": 6,
+		"exp": 5020,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11000
+			},
+			{
+				"id": 102,
+				"num": 5500
+			},
+			{
+				"id": 103,
+				"num": 5500
+			},
+			{
+				"id": 104,
+				"num": 110000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 249160,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 249160
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"133": {
+		"level": 133,
+		"levelClass": 6,
+		"exp": 5030,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11140
+			},
+			{
+				"id": 102,
+				"num": 5570
+			},
+			{
+				"id": 103,
+				"num": 5570
+			},
+			{
+				"id": 104,
+				"num": 111400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 254180,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 254180
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"134": {
+		"level": 134,
+		"levelClass": 6,
+		"exp": 5040,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11280
+			},
+			{
+				"id": 102,
+				"num": 5640
+			},
+			{
+				"id": 103,
+				"num": 5640
+			},
+			{
+				"id": 104,
+				"num": 112800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 259210,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 259210
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"135": {
+		"level": 135,
+		"levelClass": 6,
+		"exp": 5050,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11420
+			},
+			{
+				"id": 102,
+				"num": 5710
+			},
+			{
+				"id": 103,
+				"num": 5710
+			},
+			{
+				"id": 104,
+				"num": 114200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 264250,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 264250
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"136": {
+		"level": 136,
+		"levelClass": 6,
+		"exp": 5060,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11560
+			},
+			{
+				"id": 102,
+				"num": 5780
+			},
+			{
+				"id": 103,
+				"num": 5780
+			},
+			{
+				"id": 104,
+				"num": 115600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 269300,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 269300
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"137": {
+		"level": 137,
+		"levelClass": 6,
+		"exp": 5070,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11700
+			},
+			{
+				"id": 102,
+				"num": 5850
+			},
+			{
+				"id": 103,
+				"num": 5850
+			},
+			{
+				"id": 104,
+				"num": 117000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 274360,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 274360
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"138": {
+		"level": 138,
+		"levelClass": 6,
+		"exp": 5080,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11840
+			},
+			{
+				"id": 102,
+				"num": 5920
+			},
+			{
+				"id": 103,
+				"num": 5920
+			},
+			{
+				"id": 104,
+				"num": 118400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 279430,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 279430
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"139": {
+		"level": 139,
+		"levelClass": 6,
+		"exp": 5090,
+		"attr": [
+			{
+				"id": 101,
+				"num": 11980
+			},
+			{
+				"id": 102,
+				"num": 5990
+			},
+			{
+				"id": 103,
+				"num": 5990
+			},
+			{
+				"id": 104,
+				"num": 119800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 284510,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 284510
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"140": {
+		"level": 140,
+		"levelClass": 6,
+		"exp": 5100,
+		"attr": [
+			{
+				"id": 101,
+				"num": 12140
+			},
+			{
+				"id": 102,
+				"num": 6070
+			},
+			{
+				"id": 103,
+				"num": 6070
+			},
+			{
+				"id": 104,
+				"num": 121400
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 510
+			}
+		],
+		"totalExp": 289600,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 289600
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1030
+			}
+		]
+	},
+	"141": {
+		"level": 141,
+		"levelClass": 7,
+		"exp": 6410,
+		"attr": [
+			{
+				"id": 101,
+				"num": 12300
+			},
+			{
+				"id": 102,
+				"num": 6150
+			},
+			{
+				"id": 103,
+				"num": 6150
+			},
+			{
+				"id": 104,
+				"num": 123000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 294700,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 294700
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"142": {
+		"level": 142,
+		"levelClass": 7,
+		"exp": 6420,
+		"attr": [
+			{
+				"id": 101,
+				"num": 12460
+			},
+			{
+				"id": 102,
+				"num": 6230
+			},
+			{
+				"id": 103,
+				"num": 6230
+			},
+			{
+				"id": 104,
+				"num": 124600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 301110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 301110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"143": {
+		"level": 143,
+		"levelClass": 7,
+		"exp": 6430,
+		"attr": [
+			{
+				"id": 101,
+				"num": 12620
+			},
+			{
+				"id": 102,
+				"num": 6310
+			},
+			{
+				"id": 103,
+				"num": 6310
+			},
+			{
+				"id": 104,
+				"num": 126200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 307530,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 307530
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"144": {
+		"level": 144,
+		"levelClass": 7,
+		"exp": 6440,
+		"attr": [
+			{
+				"id": 101,
+				"num": 12780
+			},
+			{
+				"id": 102,
+				"num": 6390
+			},
+			{
+				"id": 103,
+				"num": 6390
+			},
+			{
+				"id": 104,
+				"num": 127800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 313960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 313960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"145": {
+		"level": 145,
+		"levelClass": 7,
+		"exp": 6450,
+		"attr": [
+			{
+				"id": 101,
+				"num": 12940
+			},
+			{
+				"id": 102,
+				"num": 6470
+			},
+			{
+				"id": 103,
+				"num": 6470
+			},
+			{
+				"id": 104,
+				"num": 129400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 320400,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 320400
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"146": {
+		"level": 146,
+		"levelClass": 7,
+		"exp": 6460,
+		"attr": [
+			{
+				"id": 101,
+				"num": 13100
+			},
+			{
+				"id": 102,
+				"num": 6550
+			},
+			{
+				"id": 103,
+				"num": 6550
+			},
+			{
+				"id": 104,
+				"num": 131000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 326850,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 326850
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"147": {
+		"level": 147,
+		"levelClass": 7,
+		"exp": 6470,
+		"attr": [
+			{
+				"id": 101,
+				"num": 13260
+			},
+			{
+				"id": 102,
+				"num": 6630
+			},
+			{
+				"id": 103,
+				"num": 6630
+			},
+			{
+				"id": 104,
+				"num": 132600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 333310,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 333310
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"148": {
+		"level": 148,
+		"levelClass": 7,
+		"exp": 6480,
+		"attr": [
+			{
+				"id": 101,
+				"num": 13420
+			},
+			{
+				"id": 102,
+				"num": 6710
+			},
+			{
+				"id": 103,
+				"num": 6710
+			},
+			{
+				"id": 104,
+				"num": 134200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 339780,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 339780
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"149": {
+		"level": 149,
+		"levelClass": 7,
+		"exp": 6490,
+		"attr": [
+			{
+				"id": 101,
+				"num": 13580
+			},
+			{
+				"id": 102,
+				"num": 6790
+			},
+			{
+				"id": 103,
+				"num": 6790
+			},
+			{
+				"id": 104,
+				"num": 135800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 346260,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 346260
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"150": {
+		"level": 150,
+		"levelClass": 7,
+		"exp": 6500,
+		"attr": [
+			{
+				"id": 101,
+				"num": 13740
+			},
+			{
+				"id": 102,
+				"num": 6870
+			},
+			{
+				"id": 103,
+				"num": 6870
+			},
+			{
+				"id": 104,
+				"num": 137400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 352750,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 352750
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"151": {
+		"level": 151,
+		"levelClass": 7,
+		"exp": 6510,
+		"attr": [
+			{
+				"id": 101,
+				"num": 13900
+			},
+			{
+				"id": 102,
+				"num": 6950
+			},
+			{
+				"id": 103,
+				"num": 6950
+			},
+			{
+				"id": 104,
+				"num": 139000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 359250,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 359250
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"152": {
+		"level": 152,
+		"levelClass": 7,
+		"exp": 6520,
+		"attr": [
+			{
+				"id": 101,
+				"num": 14060
+			},
+			{
+				"id": 102,
+				"num": 7030
+			},
+			{
+				"id": 103,
+				"num": 7030
+			},
+			{
+				"id": 104,
+				"num": 140600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 365760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 365760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"153": {
+		"level": 153,
+		"levelClass": 7,
+		"exp": 6530,
+		"attr": [
+			{
+				"id": 101,
+				"num": 14220
+			},
+			{
+				"id": 102,
+				"num": 7110
+			},
+			{
+				"id": 103,
+				"num": 7110
+			},
+			{
+				"id": 104,
+				"num": 142200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 372280,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 372280
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"154": {
+		"level": 154,
+		"levelClass": 7,
+		"exp": 6540,
+		"attr": [
+			{
+				"id": 101,
+				"num": 14380
+			},
+			{
+				"id": 102,
+				"num": 7190
+			},
+			{
+				"id": 103,
+				"num": 7190
+			},
+			{
+				"id": 104,
+				"num": 143800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 378810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 378810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"155": {
+		"level": 155,
+		"levelClass": 7,
+		"exp": 6550,
+		"attr": [
+			{
+				"id": 101,
+				"num": 14540
+			},
+			{
+				"id": 102,
+				"num": 7270
+			},
+			{
+				"id": 103,
+				"num": 7270
+			},
+			{
+				"id": 104,
+				"num": 145400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 385350,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 385350
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"156": {
+		"level": 156,
+		"levelClass": 7,
+		"exp": 6560,
+		"attr": [
+			{
+				"id": 101,
+				"num": 14700
+			},
+			{
+				"id": 102,
+				"num": 7350
+			},
+			{
+				"id": 103,
+				"num": 7350
+			},
+			{
+				"id": 104,
+				"num": 147000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 391900,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 391900
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"157": {
+		"level": 157,
+		"levelClass": 7,
+		"exp": 6570,
+		"attr": [
+			{
+				"id": 101,
+				"num": 14860
+			},
+			{
+				"id": 102,
+				"num": 7430
+			},
+			{
+				"id": 103,
+				"num": 7430
+			},
+			{
+				"id": 104,
+				"num": 148600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 398460,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 398460
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"158": {
+		"level": 158,
+		"levelClass": 7,
+		"exp": 6580,
+		"attr": [
+			{
+				"id": 101,
+				"num": 15020
+			},
+			{
+				"id": 102,
+				"num": 7510
+			},
+			{
+				"id": 103,
+				"num": 7510
+			},
+			{
+				"id": 104,
+				"num": 150200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 405030,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 405030
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"159": {
+		"level": 159,
+		"levelClass": 7,
+		"exp": 6590,
+		"attr": [
+			{
+				"id": 101,
+				"num": 15180
+			},
+			{
+				"id": 102,
+				"num": 7590
+			},
+			{
+				"id": 103,
+				"num": 7590
+			},
+			{
+				"id": 104,
+				"num": 151800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 411610,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 411610
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"160": {
+		"level": 160,
+		"levelClass": 7,
+		"exp": 6600,
+		"attr": [
+			{
+				"id": 101,
+				"num": 15360
+			},
+			{
+				"id": 102,
+				"num": 7680
+			},
+			{
+				"id": 103,
+				"num": 7680
+			},
+			{
+				"id": 104,
+				"num": 153600
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 660
+			}
+		],
+		"totalExp": 418200,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 418200
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 1540
+			}
+		]
+	},
+	"161": {
+		"level": 161,
+		"levelClass": 8,
+		"exp": 8110,
+		"attr": [
+			{
+				"id": 101,
+				"num": 15540
+			},
+			{
+				"id": 102,
+				"num": 7770
+			},
+			{
+				"id": 103,
+				"num": 7770
+			},
+			{
+				"id": 104,
+				"num": 155400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 424800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 424800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"162": {
+		"level": 162,
+		"levelClass": 8,
+		"exp": 8120,
+		"attr": [
+			{
+				"id": 101,
+				"num": 15720
+			},
+			{
+				"id": 102,
+				"num": 7860
+			},
+			{
+				"id": 103,
+				"num": 7860
+			},
+			{
+				"id": 104,
+				"num": 157200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 432910,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 432910
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"163": {
+		"level": 163,
+		"levelClass": 8,
+		"exp": 8130,
+		"attr": [
+			{
+				"id": 101,
+				"num": 15900
+			},
+			{
+				"id": 102,
+				"num": 7950
+			},
+			{
+				"id": 103,
+				"num": 7950
+			},
+			{
+				"id": 104,
+				"num": 159000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 441030,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 441030
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"164": {
+		"level": 164,
+		"levelClass": 8,
+		"exp": 8140,
+		"attr": [
+			{
+				"id": 101,
+				"num": 16080
+			},
+			{
+				"id": 102,
+				"num": 8040
+			},
+			{
+				"id": 103,
+				"num": 8040
+			},
+			{
+				"id": 104,
+				"num": 160800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 449160,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 449160
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"165": {
+		"level": 165,
+		"levelClass": 8,
+		"exp": 8150,
+		"attr": [
+			{
+				"id": 101,
+				"num": 16260
+			},
+			{
+				"id": 102,
+				"num": 8130
+			},
+			{
+				"id": 103,
+				"num": 8130
+			},
+			{
+				"id": 104,
+				"num": 162600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 457300,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 457300
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"166": {
+		"level": 166,
+		"levelClass": 8,
+		"exp": 8160,
+		"attr": [
+			{
+				"id": 101,
+				"num": 16440
+			},
+			{
+				"id": 102,
+				"num": 8220
+			},
+			{
+				"id": 103,
+				"num": 8220
+			},
+			{
+				"id": 104,
+				"num": 164400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 465450,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 465450
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"167": {
+		"level": 167,
+		"levelClass": 8,
+		"exp": 8170,
+		"attr": [
+			{
+				"id": 101,
+				"num": 16620
+			},
+			{
+				"id": 102,
+				"num": 8310
+			},
+			{
+				"id": 103,
+				"num": 8310
+			},
+			{
+				"id": 104,
+				"num": 166200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 473610,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 473610
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"168": {
+		"level": 168,
+		"levelClass": 8,
+		"exp": 8180,
+		"attr": [
+			{
+				"id": 101,
+				"num": 16800
+			},
+			{
+				"id": 102,
+				"num": 8400
+			},
+			{
+				"id": 103,
+				"num": 8400
+			},
+			{
+				"id": 104,
+				"num": 168000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 481780,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 481780
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"169": {
+		"level": 169,
+		"levelClass": 8,
+		"exp": 8190,
+		"attr": [
+			{
+				"id": 101,
+				"num": 16980
+			},
+			{
+				"id": 102,
+				"num": 8490
+			},
+			{
+				"id": 103,
+				"num": 8490
+			},
+			{
+				"id": 104,
+				"num": 169800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 489960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 489960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"170": {
+		"level": 170,
+		"levelClass": 8,
+		"exp": 8200,
+		"attr": [
+			{
+				"id": 101,
+				"num": 17160
+			},
+			{
+				"id": 102,
+				"num": 8580
+			},
+			{
+				"id": 103,
+				"num": 8580
+			},
+			{
+				"id": 104,
+				"num": 171600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 498150,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 498150
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"171": {
+		"level": 171,
+		"levelClass": 8,
+		"exp": 8210,
+		"attr": [
+			{
+				"id": 101,
+				"num": 17340
+			},
+			{
+				"id": 102,
+				"num": 8670
+			},
+			{
+				"id": 103,
+				"num": 8670
+			},
+			{
+				"id": 104,
+				"num": 173400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 506350,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 506350
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"172": {
+		"level": 172,
+		"levelClass": 8,
+		"exp": 8220,
+		"attr": [
+			{
+				"id": 101,
+				"num": 17520
+			},
+			{
+				"id": 102,
+				"num": 8760
+			},
+			{
+				"id": 103,
+				"num": 8760
+			},
+			{
+				"id": 104,
+				"num": 175200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 514560,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 514560
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"173": {
+		"level": 173,
+		"levelClass": 8,
+		"exp": 8230,
+		"attr": [
+			{
+				"id": 101,
+				"num": 17700
+			},
+			{
+				"id": 102,
+				"num": 8850
+			},
+			{
+				"id": 103,
+				"num": 8850
+			},
+			{
+				"id": 104,
+				"num": 177000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 522780,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 522780
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"174": {
+		"level": 174,
+		"levelClass": 8,
+		"exp": 8240,
+		"attr": [
+			{
+				"id": 101,
+				"num": 17880
+			},
+			{
+				"id": 102,
+				"num": 8940
+			},
+			{
+				"id": 103,
+				"num": 8940
+			},
+			{
+				"id": 104,
+				"num": 178800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 531010,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 531010
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"175": {
+		"level": 175,
+		"levelClass": 8,
+		"exp": 8250,
+		"attr": [
+			{
+				"id": 101,
+				"num": 18060
+			},
+			{
+				"id": 102,
+				"num": 9030
+			},
+			{
+				"id": 103,
+				"num": 9030
+			},
+			{
+				"id": 104,
+				"num": 180600
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 539250,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 539250
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"176": {
+		"level": 176,
+		"levelClass": 8,
+		"exp": 8260,
+		"attr": [
+			{
+				"id": 101,
+				"num": 18240
+			},
+			{
+				"id": 102,
+				"num": 9120
+			},
+			{
+				"id": 103,
+				"num": 9120
+			},
+			{
+				"id": 104,
+				"num": 182400
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 547500,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 547500
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"177": {
+		"level": 177,
+		"levelClass": 8,
+		"exp": 8270,
+		"attr": [
+			{
+				"id": 101,
+				"num": 18420
+			},
+			{
+				"id": 102,
+				"num": 9210
+			},
+			{
+				"id": 103,
+				"num": 9210
+			},
+			{
+				"id": 104,
+				"num": 184200
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 555760,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 555760
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"178": {
+		"level": 178,
+		"levelClass": 8,
+		"exp": 8280,
+		"attr": [
+			{
+				"id": 101,
+				"num": 18600
+			},
+			{
+				"id": 102,
+				"num": 9300
+			},
+			{
+				"id": 103,
+				"num": 9300
+			},
+			{
+				"id": 104,
+				"num": 186000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 564030,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 564030
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"179": {
+		"level": 179,
+		"levelClass": 8,
+		"exp": 8290,
+		"attr": [
+			{
+				"id": 101,
+				"num": 18780
+			},
+			{
+				"id": 102,
+				"num": 9390
+			},
+			{
+				"id": 103,
+				"num": 9390
+			},
+			{
+				"id": 104,
+				"num": 187800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 572310,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 572310
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"180": {
+		"level": 180,
+		"levelClass": 8,
+		"exp": 8300,
+		"attr": [
+			{
+				"id": 101,
+				"num": 18980
+			},
+			{
+				"id": 102,
+				"num": 9490
+			},
+			{
+				"id": 103,
+				"num": 9490
+			},
+			{
+				"id": 104,
+				"num": 189800
+			}
+		],
+		"consumeClass": [
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 830
+			}
+		],
+		"totalExp": 580600,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 580600
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 2200
+			}
+		]
+	},
+	"181": {
+		"level": 181,
+		"levelClass": 9,
+		"exp": 10010,
+		"attr": [
+			{
+				"id": 101,
+				"num": 19180
+			},
+			{
+				"id": 102,
+				"num": 9590
+			},
+			{
+				"id": 103,
+				"num": 9590
+			},
+			{
+				"id": 104,
+				"num": 191800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 588900,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 588900
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"182": {
+		"level": 182,
+		"levelClass": 9,
+		"exp": 10020,
+		"attr": [
+			{
+				"id": 101,
+				"num": 19380
+			},
+			{
+				"id": 102,
+				"num": 9690
+			},
+			{
+				"id": 103,
+				"num": 9690
+			},
+			{
+				"id": 104,
+				"num": 193800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 598910,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 598910
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"183": {
+		"level": 183,
+		"levelClass": 9,
+		"exp": 10030,
+		"attr": [
+			{
+				"id": 101,
+				"num": 19580
+			},
+			{
+				"id": 102,
+				"num": 9790
+			},
+			{
+				"id": 103,
+				"num": 9790
+			},
+			{
+				"id": 104,
+				"num": 195800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 608930,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 608930
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"184": {
+		"level": 184,
+		"levelClass": 9,
+		"exp": 10040,
+		"attr": [
+			{
+				"id": 101,
+				"num": 19780
+			},
+			{
+				"id": 102,
+				"num": 9890
+			},
+			{
+				"id": 103,
+				"num": 9890
+			},
+			{
+				"id": 104,
+				"num": 197800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 618960,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 618960
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"185": {
+		"level": 185,
+		"levelClass": 9,
+		"exp": 10050,
+		"attr": [
+			{
+				"id": 101,
+				"num": 19980
+			},
+			{
+				"id": 102,
+				"num": 9990
+			},
+			{
+				"id": 103,
+				"num": 9990
+			},
+			{
+				"id": 104,
+				"num": 199800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 629000,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 629000
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"186": {
+		"level": 186,
+		"levelClass": 9,
+		"exp": 10060,
+		"attr": [
+			{
+				"id": 101,
+				"num": 20180
+			},
+			{
+				"id": 102,
+				"num": 10090
+			},
+			{
+				"id": 103,
+				"num": 10090
+			},
+			{
+				"id": 104,
+				"num": 201800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 639050,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 639050
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"187": {
+		"level": 187,
+		"levelClass": 9,
+		"exp": 10070,
+		"attr": [
+			{
+				"id": 101,
+				"num": 20380
+			},
+			{
+				"id": 102,
+				"num": 10190
+			},
+			{
+				"id": 103,
+				"num": 10190
+			},
+			{
+				"id": 104,
+				"num": 203800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 649110,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 649110
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"188": {
+		"level": 188,
+		"levelClass": 9,
+		"exp": 10080,
+		"attr": [
+			{
+				"id": 101,
+				"num": 20580
+			},
+			{
+				"id": 102,
+				"num": 10290
+			},
+			{
+				"id": 103,
+				"num": 10290
+			},
+			{
+				"id": 104,
+				"num": 205800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 659180,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 659180
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"189": {
+		"level": 189,
+		"levelClass": 9,
+		"exp": 10090,
+		"attr": [
+			{
+				"id": 101,
+				"num": 20780
+			},
+			{
+				"id": 102,
+				"num": 10390
+			},
+			{
+				"id": 103,
+				"num": 10390
+			},
+			{
+				"id": 104,
+				"num": 207800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 669260,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 669260
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"190": {
+		"level": 190,
+		"levelClass": 9,
+		"exp": 10100,
+		"attr": [
+			{
+				"id": 101,
+				"num": 20980
+			},
+			{
+				"id": 102,
+				"num": 10490
+			},
+			{
+				"id": 103,
+				"num": 10490
+			},
+			{
+				"id": 104,
+				"num": 209800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 679350,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 679350
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"191": {
+		"level": 191,
+		"levelClass": 9,
+		"exp": 10110,
+		"attr": [
+			{
+				"id": 101,
+				"num": 21180
+			},
+			{
+				"id": 102,
+				"num": 10590
+			},
+			{
+				"id": 103,
+				"num": 10590
+			},
+			{
+				"id": 104,
+				"num": 211800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 689450,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 689450
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"192": {
+		"level": 192,
+		"levelClass": 9,
+		"exp": 10120,
+		"attr": [
+			{
+				"id": 101,
+				"num": 21380
+			},
+			{
+				"id": 102,
+				"num": 10690
+			},
+			{
+				"id": 103,
+				"num": 10690
+			},
+			{
+				"id": 104,
+				"num": 213800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 699560,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 699560
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"193": {
+		"level": 193,
+		"levelClass": 9,
+		"exp": 10130,
+		"attr": [
+			{
+				"id": 101,
+				"num": 21580
+			},
+			{
+				"id": 102,
+				"num": 10790
+			},
+			{
+				"id": 103,
+				"num": 10790
+			},
+			{
+				"id": 104,
+				"num": 215800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 709680,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 709680
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"194": {
+		"level": 194,
+		"levelClass": 9,
+		"exp": 10140,
+		"attr": [
+			{
+				"id": 101,
+				"num": 21780
+			},
+			{
+				"id": 102,
+				"num": 10890
+			},
+			{
+				"id": 103,
+				"num": 10890
+			},
+			{
+				"id": 104,
+				"num": 217800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 719810,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 719810
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"195": {
+		"level": 195,
+		"levelClass": 9,
+		"exp": 10150,
+		"attr": [
+			{
+				"id": 101,
+				"num": 21980
+			},
+			{
+				"id": 102,
+				"num": 10990
+			},
+			{
+				"id": 103,
+				"num": 10990
+			},
+			{
+				"id": 104,
+				"num": 219800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 729950,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 729950
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"196": {
+		"level": 196,
+		"levelClass": 9,
+		"exp": 10160,
+		"attr": [
+			{
+				"id": 101,
+				"num": 22180
+			},
+			{
+				"id": 102,
+				"num": 11090
+			},
+			{
+				"id": 103,
+				"num": 11090
+			},
+			{
+				"id": 104,
+				"num": 221800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 740100,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 740100
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"197": {
+		"level": 197,
+		"levelClass": 9,
+		"exp": 10170,
+		"attr": [
+			{
+				"id": 101,
+				"num": 22380
+			},
+			{
+				"id": 102,
+				"num": 11190
+			},
+			{
+				"id": 103,
+				"num": 11190
+			},
+			{
+				"id": 104,
+				"num": 223800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 750260,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 750260
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"198": {
+		"level": 198,
+		"levelClass": 9,
+		"exp": 10180,
+		"attr": [
+			{
+				"id": 101,
+				"num": 22580
+			},
+			{
+				"id": 102,
+				"num": 11290
+			},
+			{
+				"id": 103,
+				"num": 11290
+			},
+			{
+				"id": 104,
+				"num": 225800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 760430,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 760430
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"199": {
+		"level": 199,
+		"levelClass": 9,
+		"exp": 10190,
+		"attr": [
+			{
+				"id": 101,
+				"num": 22780
+			},
+			{
+				"id": 102,
+				"num": 11390
+			},
+			{
+				"id": 103,
+				"num": 11390
+			},
+			{
+				"id": 104,
+				"num": 227800
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 770610,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 770610
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	},
+	"200": {
+		"level": 200,
+		"levelClass": 9,
+		"exp": 0,
+		"attr": [
+			{
+				"id": 101,
+				"num": 23000
+			},
+			{
+				"id": 102,
+				"num": 11500
+			},
+			{
+				"id": 103,
+				"num": 11500
+			},
+			{
+				"id": 104,
+				"num": 230000
+			}
+		],
+		"consumeClass": [],
+		"totalExp": 780800,
+		"totalConsume": [
+			{
+				"type": 2,
+				"id": 30020001,
+				"num": 780800
+			},
+			{
+				"type": 2,
+				"id": 30000030,
+				"num": 3030
+			}
+		]
+	}
+}

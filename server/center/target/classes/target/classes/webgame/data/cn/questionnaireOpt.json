@@ -1,0 +1,1309 @@
+{
+	"1": {
+		"id": 1,
+		"answerId": {
+			"1": {
+				"correlation": 2,
+				"content": "丰富的卡牌收集元素",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 2,
+				"content": "轻松休闲的挂机玩法",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 2,
+				"content": "众多角色的养成",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 2,
+				"content": "三国背景题材",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 2,
+				"content": "角色技能的策略搭配",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 2,
+				"content": "精致的游戏画风",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 2,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"2": {
+		"id": 2,
+		"answerId": {
+			"1": {
+				"correlation": 3,
+				"content": "非常满意",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 3,
+				"content": "比较满意",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 4,
+				"content": "不好不坏",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 4,
+				"content": "比较不满意",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 4,
+				"content": "非常不满意",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"3": {
+		"id": 3,
+		"answerId": {
+			"1": {
+				"correlation": 5,
+				"content": "游戏玩法有策略感",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 5,
+				"content": "游戏玩法丰富有趣",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 5,
+				"content": "战力成长迅速",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 5,
+				"content": "角色原画精美",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 5,
+				"content": "战斗画面吸引",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 5,
+				"content": "休闲挂机的成长方式",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 5,
+				"content": "材料获取难度比较合理",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 5,
+				"content": "PVP形式丰富",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 5,
+				"content": "发电耗热的程度可以接受",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 5,
+				"content": "游戏加载速度可以接受",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 5,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"4": {
+		"id": 4,
+		"answerId": {
+			"1": {
+				"correlation": 5,
+				"content": "游戏玩法策略感不足",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 5,
+				"content": "游戏玩法少",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 5,
+				"content": "战力成长乏力",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 5,
+				"content": "角色原画品质差",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 5,
+				"content": "战斗画面不吸引",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 5,
+				"content": "挂机形式的成长方式",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 5,
+				"content": "材料获取难度过高",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 5,
+				"content": "PVP形式少",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 5,
+				"content": "没有团战",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 5,
+				"content": "发热耗电情况不理想",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 5,
+				"content": "游戏加载速度太慢",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"12": {
+				"correlation": 5,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"5": {
+		"id": 5,
+		"answerId": {
+			"1": {
+				"correlation": 6,
+				"content": "征服猫星/海盗来了/梦想海岛王",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 6,
+				"content": "乱世三国志/乱戳三国",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 6,
+				"content": "我的帝国",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 6,
+				"content": "传奇来了/沙巴克传奇/屠龙破晓/决战沙城/大天使之剑H5",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 6,
+				"content": "大圣轮回/大圣觉醒/西游七十二变",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 6,
+				"content": "三生三世十里桃花/斗罗大陆/江湖侠客令/纵剑仙界",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 6,
+				"content": "江山美人",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 6,
+				"content": "妖怪宝可萌/妖怪金手指/宝贝星球",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 6,
+				"content": "全民穿越之宫",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 6,
+				"content": "欢乐斗地主/天天斗地主/途游斗地主",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 6,
+				"content": "头脑王者/欢乐球球/全民切西瓜/丛林大乱斗/消灭病毒",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"12": {
+				"correlation": 6,
+				"content": "幻城/绯雨骑士团",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"13": {
+				"correlation": 6,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"6": {
+		"id": 6,
+		"answerId": {
+			"1": {
+				"correlation": 7,
+				"content": "剑侠情缘、倩女幽魂、楚留香、天龙八部、斗破苍穹:斗帝之路、风之大陆",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 7,
+				"content": "梦幻西游、大话西游、神武3、问道、梦幻诛仙",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 7,
+				"content": "王者荣耀、决战平安京",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 7,
+				"content": "侍魂：胧月传说、龙之谷",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 7,
+				"content": "明日之后",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 7,
+				"content": "刺激战场、荒野行动、全军出击、穿越火线",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 7,
+				"content": "三国群英传-霸王之业、乱世王者、率土之滨、部落冲突、红警OL、王国纪元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 7,
+				"content": "少年三国志、魔灵召唤、三国杀名将传、阴阳师",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 7,
+				"content": "梦幻模拟战、圣斗士星矢、七龙珠爆裂激战、拳皇98、火影忍者OL",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 7,
+				"content": "崩坏3、碧蓝航线、电击文库：零境交错、Fate/Grand Order",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 7,
+				"content": "FIFA足球世界、实况足球、最强NBA",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"12": {
+				"correlation": 7,
+				"content": "苍之纪元、放置奇兵",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"13": {
+				"correlation": 7,
+				"content": "欢乐斗地主、腾讯欢乐麻将、JJ斗地主",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"14": {
+				"correlation": 7,
+				"content": "最近没有玩过手机APP游戏",
+				"mutex": 1,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"15": {
+				"correlation": 7,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"7": {
+		"id": 7,
+		"answerId": {
+			"1": {
+				"correlation": 8,
+				"content": "上/下班或上/下学的路上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 8,
+				"content": "等待的时间（如等人、排队等）",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 8,
+				"content": "工作日/上学的午休/课间时间",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 8,
+				"content": "晚饭后的娱乐时间",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 8,
+				"content": "睡前的一小段时间",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 8,
+				"content": "和朋友聚会的时候",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 8,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"8": {
+		"id": 8,
+		"answerId": {
+			"1": {
+				"correlation": 9,
+				"content": "几乎每天都玩",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 9,
+				"content": "一周3~5天",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 9,
+				"content": "一周1~2天",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 9,
+				"content": "不会每周都玩",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"9": {
+		"id": 9,
+		"answerId": {
+			"1": {
+				"correlation": 10,
+				"content": "1小时或以下",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 10,
+				"content": "2-3小时",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 10,
+				"content": "3小时或以上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"10": {
+		"id": 10,
+		"answerId": {
+			"1": {
+				"correlation": 11,
+				"content": "没有花费",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 11,
+				"content": "100元以下",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 11,
+				"content": "100-300元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 11,
+				"content": "300-500元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 11,
+				"content": "500-1000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 11,
+				"content": "1000-1500元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 11,
+				"content": "1500-2000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 11,
+				"content": "2000-3000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 11,
+				"content": "3000-5000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 11,
+				"content": "5000-10000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 11,
+				"content": "10000-20000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"12": {
+				"correlation": 11,
+				"content": "20000-50000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"13": {
+				"correlation": 11,
+				"content": "50000元以上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"14": {
+				"correlation": 11,
+				"content": "不方便透露",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"11": {
+		"id": 11,
+		"answerId": {
+			"1": {
+				"correlation": 12,
+				"content": "你是守护魔法遗迹的龙骑士，为抵御恶魔们的入侵，与各种族英雄联合对抗敌人",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 12,
+				"content": "你化身为仙剑奇侠传中的李逍遥，陪伴灵儿寻找亲人，在仙侠世界中尽显侠骨柔情",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 12,
+				"content": "你是宠物小精灵世界中的训练师，为成为最强训练师，在旅行中捕获精灵、收集道馆徽章",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 12,
+				"content": "你是二战时期的联盟舰队指挥官，为恢复世界秩序，与法西斯集团展开海上决战",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 12,
+				"content": "你是生活在魔法大陆的冒险者，为探索大陆的未解之谜，与伙伴们一起踏上旅程",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 12,
+				"content": "你是穿越到西游世界的救世英雄，为拯救乱世，与孙悟空等角色并肩斩妖除魔、重编经典",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 12,
+				"content": "以上都不喜欢",
+				"mutex": 1,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"12": {
+		"id": 12,
+		"answerId": {
+			"1": {
+				"correlation": 13,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q1001"
+			},
+			"2": {
+				"correlation": 13,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q1002"
+			},
+			"3": {
+				"correlation": 13,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q1003"
+			},
+			"4": {
+				"correlation": 13,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q1004"
+			},
+			"5": {
+				"correlation": 13,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q1005"
+			},
+			"6": {
+				"correlation": 13,
+				"content": "以上都不喜欢",
+				"mutex": 1,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"13": {
+		"id": 13,
+		"answerId": {
+			"1": {
+				"correlation": 14,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q2001"
+			},
+			"2": {
+				"correlation": 14,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q2002"
+			},
+			"3": {
+				"correlation": 14,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q2003"
+			},
+			"4": {
+				"correlation": 14,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q2004"
+			},
+			"5": {
+				"correlation": 14,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": "q2005"
+			},
+			"6": {
+				"correlation": 14,
+				"content": "以上都不喜欢",
+				"mutex": 1,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"14": {
+		"id": 14,
+		"answerId": {
+			"1": {
+				"correlation": 15,
+				"content": "华为",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 15,
+				"content": "小米",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 15,
+				"content": "三星",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 15,
+				"content": "OPPO",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 15,
+				"content": "Vivo",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 15,
+				"content": "魅族",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 15,
+				"content": "联想",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 15,
+				"content": "苹果",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 15,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	},
+	"15": {
+		"id": 15,
+		"answerId": {
+			"1": {
+				"correlation": 16,
+				"content": "1000元以下",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 16,
+				"content": "1000-3000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 16,
+				"content": "3001-5000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 16,
+				"content": "5000元及以上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 16,
+				"content": "记不清楚了",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"16": {
+		"id": 16,
+		"answerId": {
+			"1": {
+				"correlation": 17,
+				"content": "男",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 17,
+				"content": "女",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"17": {
+		"id": 17,
+		"answerId": {
+			"1": {
+				"correlation": 18,
+				"content": "12岁及以下",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 18,
+				"content": "13-17岁",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 18,
+				"content": "18-23岁",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 18,
+				"content": "24-28岁",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 18,
+				"content": "29-35岁",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 18,
+				"content": "36-45岁",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 18,
+				"content": "46岁及以上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"18": {
+		"id": 18,
+		"answerId": {
+			"1": {
+				"correlation": 19,
+				"content": "初中及以下",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 19,
+				"content": "高中",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 19,
+				"content": "中专/技校",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 19,
+				"content": "大专",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 19,
+				"content": "本科",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 19,
+				"content": "硕士及以上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"19": {
+		"id": 19,
+		"answerId": {
+			"1": {
+				"correlation": 20,
+				"content": "在校高中、初中、小学生",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 20,
+				"content": "在校大学生",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 20,
+				"content": "政府/机关干部/公务员",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 20,
+				"content": "企业管理者（包括基层及中高层管理者）",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 20,
+				"content": "普通职员（办公室/写字楼工作人员）",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 20,
+				"content": "专业人员（如医生/律师/文体/记者/老师等）",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 20,
+				"content": "普通工人（如工厂工人/体力劳动者等）",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 20,
+				"content": "商业服务业职工（如销售人员/商店职员/服务员）",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 20,
+				"content": "个体经营者/承包商",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 20,
+				"content": "自由职业者",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 20,
+				"content": "农林牧渔劳动者",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"12": {
+				"correlation": 20,
+				"content": "退休",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"13": {
+				"correlation": 20,
+				"content": "暂无职业",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"14": {
+				"correlation": 20,
+				"content": "其他",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"20": {
+		"id": 20,
+		"answerId": {
+			"1": {
+				"correlation": 21,
+				"content": "北京、上海、广州、深圳、杭州",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 21,
+				"content": "其他各省会城市及直辖市",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 21,
+				"content": "地级城市",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 21,
+				"content": "县级城市",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 21,
+				"content": "乡/村/镇",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 21,
+				"content": "不清楚",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"21": {
+		"id": 21,
+		"answerId": {
+			"1": {
+				"correlation": 22,
+				"content": "500元以下",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"2": {
+				"correlation": 22,
+				"content": "500-1000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"3": {
+				"correlation": 22,
+				"content": "1001-1500元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"4": {
+				"correlation": 22,
+				"content": "1501-2000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"5": {
+				"correlation": 22,
+				"content": "2001-3000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"6": {
+				"correlation": 22,
+				"content": "3001-5000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"7": {
+				"correlation": 22,
+				"content": "5001-8000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"8": {
+				"correlation": 22,
+				"content": "8001-10000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"9": {
+				"correlation": 22,
+				"content": "10001-20000元",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"10": {
+				"correlation": 22,
+				"content": "20000元以上",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			},
+			"11": {
+				"correlation": 22,
+				"content": "不方便透露",
+				"mutex": 0,
+				"fillIn": 0,
+				"rid": ""
+			}
+		}
+	},
+	"22": {
+		"id": 22,
+		"answerId": {
+			"1": {
+				"correlation": 0,
+				"content": "",
+				"mutex": 0,
+				"fillIn": 1,
+				"rid": ""
+			}
+		}
+	}
+}

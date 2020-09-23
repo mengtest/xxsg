@@ -1,0 +1,17 @@
+{
+	"100": {
+		"lucky": 100,
+		"showReward": 10110,
+		"petReward": 10204
+	},
+	"500": {
+		"lucky": 500,
+		"showReward": 10107,
+		"petReward": 10206
+	},
+	"1500": {
+		"lucky": 1500,
+		"showReward": 10101,
+		"petReward": 10201
+	}
+}

@@ -1,0 +1,242 @@
+{
+	"101": {
+		"id": 101,
+		"rewardId": 101,
+		"serverType": 2,
+		"beginTime": "1",
+		"endTime": "1",
+		"day": 0
+	},
+	"102": {
+		"id": 102,
+		"rewardId": 102,
+		"serverType": 2,
+		"beginTime": "2",
+		"endTime": "2",
+		"day": 0
+	},
+	"103": {
+		"id": 103,
+		"rewardId": 106,
+		"serverType": 2,
+		"beginTime": "3",
+		"endTime": "3",
+		"day": 0
+	},
+	"104": {
+		"id": 104,
+		"rewardId": 103,
+		"serverType": 2,
+		"beginTime": "4",
+		"endTime": "4",
+		"day": 0
+	},
+	"105": {
+		"id": 105,
+		"rewardId": 104,
+		"serverType": 2,
+		"beginTime": "5",
+		"endTime": "5",
+		"day": 0
+	},
+	"106": {
+		"id": 106,
+		"rewardId": 108,
+		"serverType": 2,
+		"beginTime": "6",
+		"endTime": "6",
+		"day": 0
+	},
+	"107": {
+		"id": 107,
+		"rewardId": 107,
+		"serverType": 2,
+		"beginTime": "7",
+		"endTime": "7",
+		"day": 0
+	},
+	"108": {
+		"id": 108,
+		"rewardId": 105,
+		"serverType": 2,
+		"beginTime": "8",
+		"endTime": "8",
+		"day": 0
+	},
+	"109": {
+		"id": 109,
+		"rewardId": 110,
+		"serverType": 2,
+		"beginTime": "9",
+		"endTime": "9",
+		"day": 0
+	},
+	"110": {
+		"id": 110,
+		"rewardId": 109,
+		"serverType": 2,
+		"beginTime": "10",
+		"endTime": "10",
+		"day": 0
+	},
+	"111": {
+		"id": 111,
+		"rewardId": 1,
+		"serverType": 2,
+		"beginTime": "11",
+		"endTime": "11",
+		"day": 0
+	},
+	"112": {
+		"id": 112,
+		"rewardId": 2,
+		"serverType": 2,
+		"beginTime": "12",
+		"endTime": "12",
+		"day": 0
+	},
+	"113": {
+		"id": 113,
+		"rewardId": 6,
+		"serverType": 2,
+		"beginTime": "13",
+		"endTime": "13",
+		"day": 0
+	},
+	"114": {
+		"id": 114,
+		"rewardId": 7,
+		"serverType": 2,
+		"beginTime": "14",
+		"endTime": "14",
+		"day": 0
+	},
+	"115": {
+		"id": 115,
+		"rewardId": 4,
+		"serverType": 2,
+		"beginTime": "15",
+		"endTime": "15",
+		"day": 0
+	},
+	"116": {
+		"id": 116,
+		"rewardId": 3,
+		"serverType": 2,
+		"beginTime": "16",
+		"endTime": "16",
+		"day": 0
+	},
+	"117": {
+		"id": 117,
+		"rewardId": 8,
+		"serverType": 2,
+		"beginTime": "17",
+		"endTime": "17",
+		"day": 0
+	},
+	"118": {
+		"id": 118,
+		"rewardId": 5,
+		"serverType": 2,
+		"beginTime": "18",
+		"endTime": "18",
+		"day": 0
+	},
+	"119": {
+		"id": 119,
+		"rewardId": 10,
+		"serverType": 2,
+		"beginTime": "19",
+		"endTime": "19",
+		"day": 0
+	},
+	"120": {
+		"id": 120,
+		"rewardId": 9,
+		"serverType": 2,
+		"beginTime": "20",
+		"endTime": "20",
+		"day": 0
+	},
+	"121": {
+		"id": 121,
+		"rewardId": 1,
+		"serverType": 2,
+		"beginTime": "21",
+		"endTime": "21",
+		"day": 0
+	},
+	"122": {
+		"id": 122,
+		"rewardId": 2,
+		"serverType": 2,
+		"beginTime": "22",
+		"endTime": "22",
+		"day": 0
+	},
+	"123": {
+		"id": 123,
+		"rewardId": 6,
+		"serverType": 2,
+		"beginTime": "23",
+		"endTime": "23",
+		"day": 0
+	},
+	"124": {
+		"id": 124,
+		"rewardId": 7,
+		"serverType": 2,
+		"beginTime": "24",
+		"endTime": "24",
+		"day": 0
+	},
+	"125": {
+		"id": 125,
+		"rewardId": 4,
+		"serverType": 2,
+		"beginTime": "25",
+		"endTime": "25",
+		"day": 0
+	},
+	"126": {
+		"id": 126,
+		"rewardId": 3,
+		"serverType": 2,
+		"beginTime": "26",
+		"endTime": "26",
+		"day": 0
+	},
+	"127": {
+		"id": 127,
+		"rewardId": 8,
+		"serverType": 2,
+		"beginTime": "27",
+		"endTime": "27",
+		"day": 0
+	},
+	"128": {
+		"id": 128,
+		"rewardId": 5,
+		"serverType": 2,
+		"beginTime": "28",
+		"endTime": "28",
+		"day": 0
+	},
+	"129": {
+		"id": 129,
+		"rewardId": 10,
+		"serverType": 2,
+		"beginTime": "29",
+		"endTime": "29",
+		"day": 0
+	},
+	"130": {
+		"id": 130,
+		"rewardId": 9,
+		"serverType": 2,
+		"beginTime": "30",
+		"endTime": "30",
+		"day": 0
+	}
+}

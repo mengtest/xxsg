@@ -1,0 +1,3954 @@
+{
+	"1000": {
+		"id": 1000,
+		"skillLevel": 0,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"1001": {
+		"id": 1001,
+		"skillLevel": 1,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 80
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"1002": {
+		"id": 1002,
+		"skillLevel": 2,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 160
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"1003": {
+		"id": 1003,
+		"skillLevel": 3,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 240
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"1004": {
+		"id": 1004,
+		"skillLevel": 4,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 320
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"1005": {
+		"id": 1005,
+		"skillLevel": 5,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 400
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"1006": {
+		"id": 1006,
+		"skillLevel": 6,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 480
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"1007": {
+		"id": 1007,
+		"skillLevel": 7,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 560
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"1008": {
+		"id": 1008,
+		"skillLevel": 8,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 640
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"1009": {
+		"id": 1009,
+		"skillLevel": 9,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 720
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"1010": {
+		"id": 1010,
+		"skillLevel": 10,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 800
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"1011": {
+		"id": 1011,
+		"skillLevel": 11,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 880
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"1012": {
+		"id": 1012,
+		"skillLevel": 12,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 960
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"1013": {
+		"id": 1013,
+		"skillLevel": 13,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1040
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"1014": {
+		"id": 1014,
+		"skillLevel": 14,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1120
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"1015": {
+		"id": 1015,
+		"skillLevel": 15,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1200
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"1016": {
+		"id": 1016,
+		"skillLevel": 16,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1280
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"1017": {
+		"id": 1017,
+		"skillLevel": 17,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1360
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"1018": {
+		"id": 1018,
+		"skillLevel": 18,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1440
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"1019": {
+		"id": 1019,
+		"skillLevel": 19,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1520
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"1020": {
+		"id": 1020,
+		"skillLevel": 20,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1600
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"1021": {
+		"id": 1021,
+		"skillLevel": 21,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1680
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"1022": {
+		"id": 1022,
+		"skillLevel": 22,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1760
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"1023": {
+		"id": 1023,
+		"skillLevel": 23,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1840
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"1024": {
+		"id": 1024,
+		"skillLevel": 24,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 1920
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"1025": {
+		"id": 1025,
+		"skillLevel": 25,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2000
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"1026": {
+		"id": 1026,
+		"skillLevel": 26,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2080
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"1027": {
+		"id": 1027,
+		"skillLevel": 27,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2160
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"1028": {
+		"id": 1028,
+		"skillLevel": 28,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2240
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"1029": {
+		"id": 1029,
+		"skillLevel": 29,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2320
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"1030": {
+		"id": 1030,
+		"skillLevel": 30,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2400
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"1031": {
+		"id": 1031,
+		"skillLevel": 31,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2480
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"1032": {
+		"id": 1032,
+		"skillLevel": 32,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2560
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"1033": {
+		"id": 1033,
+		"skillLevel": 33,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2640
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"1034": {
+		"id": 1034,
+		"skillLevel": 34,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2720
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"1035": {
+		"id": 1035,
+		"skillLevel": 35,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2800
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"1036": {
+		"id": 1036,
+		"skillLevel": 36,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2880
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"1037": {
+		"id": 1037,
+		"skillLevel": 37,
+		"index": 1,
+		"attr": [
+			{
+				"id": 101,
+				"num": 2960
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"2000": {
+		"id": 2000,
+		"skillLevel": 0,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"2001": {
+		"id": 2001,
+		"skillLevel": 1,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 400
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"2002": {
+		"id": 2002,
+		"skillLevel": 2,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 800
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"2003": {
+		"id": 2003,
+		"skillLevel": 3,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 1200
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"2004": {
+		"id": 2004,
+		"skillLevel": 4,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 1600
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"2005": {
+		"id": 2005,
+		"skillLevel": 5,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 2000
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"2006": {
+		"id": 2006,
+		"skillLevel": 6,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 2400
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"2007": {
+		"id": 2007,
+		"skillLevel": 7,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 2800
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"2008": {
+		"id": 2008,
+		"skillLevel": 8,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 3200
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"2009": {
+		"id": 2009,
+		"skillLevel": 9,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 3600
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"2010": {
+		"id": 2010,
+		"skillLevel": 10,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 4000
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"2011": {
+		"id": 2011,
+		"skillLevel": 11,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 4400
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"2012": {
+		"id": 2012,
+		"skillLevel": 12,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 4800
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"2013": {
+		"id": 2013,
+		"skillLevel": 13,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 5200
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"2014": {
+		"id": 2014,
+		"skillLevel": 14,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 5600
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"2015": {
+		"id": 2015,
+		"skillLevel": 15,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 6000
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"2016": {
+		"id": 2016,
+		"skillLevel": 16,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 6400
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"2017": {
+		"id": 2017,
+		"skillLevel": 17,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 6800
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"2018": {
+		"id": 2018,
+		"skillLevel": 18,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 7200
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"2019": {
+		"id": 2019,
+		"skillLevel": 19,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 7600
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"2020": {
+		"id": 2020,
+		"skillLevel": 20,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 8000
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"2021": {
+		"id": 2021,
+		"skillLevel": 21,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 8400
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"2022": {
+		"id": 2022,
+		"skillLevel": 22,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 8800
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"2023": {
+		"id": 2023,
+		"skillLevel": 23,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 9200
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"2024": {
+		"id": 2024,
+		"skillLevel": 24,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 9600
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"2025": {
+		"id": 2025,
+		"skillLevel": 25,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 10000
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"2026": {
+		"id": 2026,
+		"skillLevel": 26,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 10400
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"2027": {
+		"id": 2027,
+		"skillLevel": 27,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 10800
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"2028": {
+		"id": 2028,
+		"skillLevel": 28,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 11200
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"2029": {
+		"id": 2029,
+		"skillLevel": 29,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 11600
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"2030": {
+		"id": 2030,
+		"skillLevel": 30,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 12000
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"2031": {
+		"id": 2031,
+		"skillLevel": 31,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 12400
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"2032": {
+		"id": 2032,
+		"skillLevel": 32,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 12800
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"2033": {
+		"id": 2033,
+		"skillLevel": 33,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 13200
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"2034": {
+		"id": 2034,
+		"skillLevel": 34,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 13600
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"2035": {
+		"id": 2035,
+		"skillLevel": 35,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 14000
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"2036": {
+		"id": 2036,
+		"skillLevel": 36,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 14400
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"2037": {
+		"id": 2037,
+		"skillLevel": 37,
+		"index": 2,
+		"attr": [
+			{
+				"id": 104,
+				"num": 14800
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"3000": {
+		"id": 3000,
+		"skillLevel": 0,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"3001": {
+		"id": 3001,
+		"skillLevel": 1,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 40
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"3002": {
+		"id": 3002,
+		"skillLevel": 2,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 80
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"3003": {
+		"id": 3003,
+		"skillLevel": 3,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 120
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"3004": {
+		"id": 3004,
+		"skillLevel": 4,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 160
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"3005": {
+		"id": 3005,
+		"skillLevel": 5,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 200
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"3006": {
+		"id": 3006,
+		"skillLevel": 6,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 240
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"3007": {
+		"id": 3007,
+		"skillLevel": 7,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 280
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"3008": {
+		"id": 3008,
+		"skillLevel": 8,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 320
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"3009": {
+		"id": 3009,
+		"skillLevel": 9,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 360
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"3010": {
+		"id": 3010,
+		"skillLevel": 10,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 400
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"3011": {
+		"id": 3011,
+		"skillLevel": 11,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 440
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"3012": {
+		"id": 3012,
+		"skillLevel": 12,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 480
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"3013": {
+		"id": 3013,
+		"skillLevel": 13,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 520
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"3014": {
+		"id": 3014,
+		"skillLevel": 14,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 560
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"3015": {
+		"id": 3015,
+		"skillLevel": 15,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 600
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"3016": {
+		"id": 3016,
+		"skillLevel": 16,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 640
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"3017": {
+		"id": 3017,
+		"skillLevel": 17,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 680
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"3018": {
+		"id": 3018,
+		"skillLevel": 18,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 720
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"3019": {
+		"id": 3019,
+		"skillLevel": 19,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 760
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"3020": {
+		"id": 3020,
+		"skillLevel": 20,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 800
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"3021": {
+		"id": 3021,
+		"skillLevel": 21,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 840
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"3022": {
+		"id": 3022,
+		"skillLevel": 22,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 880
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"3023": {
+		"id": 3023,
+		"skillLevel": 23,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 920
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"3024": {
+		"id": 3024,
+		"skillLevel": 24,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 960
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"3025": {
+		"id": 3025,
+		"skillLevel": 25,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1000
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"3026": {
+		"id": 3026,
+		"skillLevel": 26,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1040
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"3027": {
+		"id": 3027,
+		"skillLevel": 27,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1080
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"3028": {
+		"id": 3028,
+		"skillLevel": 28,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1120
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"3029": {
+		"id": 3029,
+		"skillLevel": 29,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1160
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"3030": {
+		"id": 3030,
+		"skillLevel": 30,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1200
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"3031": {
+		"id": 3031,
+		"skillLevel": 31,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1240
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"3032": {
+		"id": 3032,
+		"skillLevel": 32,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1280
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"3033": {
+		"id": 3033,
+		"skillLevel": 33,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1320
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"3034": {
+		"id": 3034,
+		"skillLevel": 34,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1360
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"3035": {
+		"id": 3035,
+		"skillLevel": 35,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1400
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"3036": {
+		"id": 3036,
+		"skillLevel": 36,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1440
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"3037": {
+		"id": 3037,
+		"skillLevel": 37,
+		"index": 3,
+		"attr": [
+			{
+				"id": 102,
+				"num": 1480
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"4000": {
+		"id": 4000,
+		"skillLevel": 0,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"4001": {
+		"id": 4001,
+		"skillLevel": 1,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 40
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"4002": {
+		"id": 4002,
+		"skillLevel": 2,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 80
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"4003": {
+		"id": 4003,
+		"skillLevel": 3,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 120
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"4004": {
+		"id": 4004,
+		"skillLevel": 4,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 160
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"4005": {
+		"id": 4005,
+		"skillLevel": 5,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 200
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"4006": {
+		"id": 4006,
+		"skillLevel": 6,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 240
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"4007": {
+		"id": 4007,
+		"skillLevel": 7,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 280
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"4008": {
+		"id": 4008,
+		"skillLevel": 8,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 320
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"4009": {
+		"id": 4009,
+		"skillLevel": 9,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 360
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"4010": {
+		"id": 4010,
+		"skillLevel": 10,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 400
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"4011": {
+		"id": 4011,
+		"skillLevel": 11,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 440
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"4012": {
+		"id": 4012,
+		"skillLevel": 12,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 480
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"4013": {
+		"id": 4013,
+		"skillLevel": 13,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 520
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"4014": {
+		"id": 4014,
+		"skillLevel": 14,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 560
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"4015": {
+		"id": 4015,
+		"skillLevel": 15,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 600
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"4016": {
+		"id": 4016,
+		"skillLevel": 16,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 640
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"4017": {
+		"id": 4017,
+		"skillLevel": 17,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 680
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"4018": {
+		"id": 4018,
+		"skillLevel": 18,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 720
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"4019": {
+		"id": 4019,
+		"skillLevel": 19,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 760
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"4020": {
+		"id": 4020,
+		"skillLevel": 20,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 800
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"4021": {
+		"id": 4021,
+		"skillLevel": 21,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 840
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"4022": {
+		"id": 4022,
+		"skillLevel": 22,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 880
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"4023": {
+		"id": 4023,
+		"skillLevel": 23,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 920
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"4024": {
+		"id": 4024,
+		"skillLevel": 24,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 960
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"4025": {
+		"id": 4025,
+		"skillLevel": 25,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1000
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"4026": {
+		"id": 4026,
+		"skillLevel": 26,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1040
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"4027": {
+		"id": 4027,
+		"skillLevel": 27,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1080
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"4028": {
+		"id": 4028,
+		"skillLevel": 28,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1120
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"4029": {
+		"id": 4029,
+		"skillLevel": 29,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1160
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"4030": {
+		"id": 4030,
+		"skillLevel": 30,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1200
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"4031": {
+		"id": 4031,
+		"skillLevel": 31,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1240
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"4032": {
+		"id": 4032,
+		"skillLevel": 32,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1280
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"4033": {
+		"id": 4033,
+		"skillLevel": 33,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1320
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"4034": {
+		"id": 4034,
+		"skillLevel": 34,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1360
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"4035": {
+		"id": 4035,
+		"skillLevel": 35,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1400
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"4036": {
+		"id": 4036,
+		"skillLevel": 36,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1440
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"4037": {
+		"id": 4037,
+		"skillLevel": 37,
+		"index": 4,
+		"attr": [
+			{
+				"id": 103,
+				"num": 1480
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"5000": {
+		"id": 5000,
+		"skillLevel": 0,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"5001": {
+		"id": 5001,
+		"skillLevel": 1,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 30
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"5002": {
+		"id": 5002,
+		"skillLevel": 2,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 60
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"5003": {
+		"id": 5003,
+		"skillLevel": 3,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 90
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"5004": {
+		"id": 5004,
+		"skillLevel": 4,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 120
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"5005": {
+		"id": 5005,
+		"skillLevel": 5,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 150
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"5006": {
+		"id": 5006,
+		"skillLevel": 6,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 180
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"5007": {
+		"id": 5007,
+		"skillLevel": 7,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 210
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"5008": {
+		"id": 5008,
+		"skillLevel": 8,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 240
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"5009": {
+		"id": 5009,
+		"skillLevel": 9,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 270
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"5010": {
+		"id": 5010,
+		"skillLevel": 10,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 300
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"5011": {
+		"id": 5011,
+		"skillLevel": 11,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 330
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"5012": {
+		"id": 5012,
+		"skillLevel": 12,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 360
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"5013": {
+		"id": 5013,
+		"skillLevel": 13,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 390
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"5014": {
+		"id": 5014,
+		"skillLevel": 14,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 420
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"5015": {
+		"id": 5015,
+		"skillLevel": 15,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 450
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"5016": {
+		"id": 5016,
+		"skillLevel": 16,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 480
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"5017": {
+		"id": 5017,
+		"skillLevel": 17,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 510
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"5018": {
+		"id": 5018,
+		"skillLevel": 18,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 540
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"5019": {
+		"id": 5019,
+		"skillLevel": 19,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 570
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"5020": {
+		"id": 5020,
+		"skillLevel": 20,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 600
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"5021": {
+		"id": 5021,
+		"skillLevel": 21,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 630
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"5022": {
+		"id": 5022,
+		"skillLevel": 22,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 660
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"5023": {
+		"id": 5023,
+		"skillLevel": 23,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 690
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"5024": {
+		"id": 5024,
+		"skillLevel": 24,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 720
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"5025": {
+		"id": 5025,
+		"skillLevel": 25,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 750
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"5026": {
+		"id": 5026,
+		"skillLevel": 26,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 780
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"5027": {
+		"id": 5027,
+		"skillLevel": 27,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 810
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"5028": {
+		"id": 5028,
+		"skillLevel": 28,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 840
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"5029": {
+		"id": 5029,
+		"skillLevel": 29,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 870
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"5030": {
+		"id": 5030,
+		"skillLevel": 30,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 900
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"5031": {
+		"id": 5031,
+		"skillLevel": 31,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 930
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"5032": {
+		"id": 5032,
+		"skillLevel": 32,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 960
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"5033": {
+		"id": 5033,
+		"skillLevel": 33,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 990
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"5034": {
+		"id": 5034,
+		"skillLevel": 34,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 1020
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"5035": {
+		"id": 5035,
+		"skillLevel": 35,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 1050
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"5036": {
+		"id": 5036,
+		"skillLevel": 36,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 1080
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"5037": {
+		"id": 5037,
+		"skillLevel": 37,
+		"index": 5,
+		"attr": [
+			{
+				"id": 107,
+				"num": 1110
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"6000": {
+		"id": 6000,
+		"skillLevel": 0,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"6001": {
+		"id": 6001,
+		"skillLevel": 1,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 30
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"6002": {
+		"id": 6002,
+		"skillLevel": 2,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 60
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"6003": {
+		"id": 6003,
+		"skillLevel": 3,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 90
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"6004": {
+		"id": 6004,
+		"skillLevel": 4,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 120
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"6005": {
+		"id": 6005,
+		"skillLevel": 5,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 150
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"6006": {
+		"id": 6006,
+		"skillLevel": 6,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 180
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"6007": {
+		"id": 6007,
+		"skillLevel": 7,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 210
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"6008": {
+		"id": 6008,
+		"skillLevel": 8,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 240
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"6009": {
+		"id": 6009,
+		"skillLevel": 9,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 270
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"6010": {
+		"id": 6010,
+		"skillLevel": 10,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 300
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"6011": {
+		"id": 6011,
+		"skillLevel": 11,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 330
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"6012": {
+		"id": 6012,
+		"skillLevel": 12,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 360
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"6013": {
+		"id": 6013,
+		"skillLevel": 13,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 390
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"6014": {
+		"id": 6014,
+		"skillLevel": 14,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 420
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"6015": {
+		"id": 6015,
+		"skillLevel": 15,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 450
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"6016": {
+		"id": 6016,
+		"skillLevel": 16,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 480
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"6017": {
+		"id": 6017,
+		"skillLevel": 17,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 510
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"6018": {
+		"id": 6018,
+		"skillLevel": 18,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 540
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"6019": {
+		"id": 6019,
+		"skillLevel": 19,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 570
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"6020": {
+		"id": 6020,
+		"skillLevel": 20,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 600
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"6021": {
+		"id": 6021,
+		"skillLevel": 21,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 630
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"6022": {
+		"id": 6022,
+		"skillLevel": 22,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 660
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"6023": {
+		"id": 6023,
+		"skillLevel": 23,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 690
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"6024": {
+		"id": 6024,
+		"skillLevel": 24,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 720
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"6025": {
+		"id": 6025,
+		"skillLevel": 25,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 750
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"6026": {
+		"id": 6026,
+		"skillLevel": 26,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 780
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"6027": {
+		"id": 6027,
+		"skillLevel": 27,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 810
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"6028": {
+		"id": 6028,
+		"skillLevel": 28,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 840
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"6029": {
+		"id": 6029,
+		"skillLevel": 29,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 870
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"6030": {
+		"id": 6030,
+		"skillLevel": 30,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 900
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"6031": {
+		"id": 6031,
+		"skillLevel": 31,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 930
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"6032": {
+		"id": 6032,
+		"skillLevel": 32,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 960
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"6033": {
+		"id": 6033,
+		"skillLevel": 33,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 990
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"6034": {
+		"id": 6034,
+		"skillLevel": 34,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 1020
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"6035": {
+		"id": 6035,
+		"skillLevel": 35,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 1050
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"6036": {
+		"id": 6036,
+		"skillLevel": 36,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 1080
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"6037": {
+		"id": 6037,
+		"skillLevel": 37,
+		"index": 6,
+		"attr": [
+			{
+				"id": 108,
+				"num": 1110
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"7000": {
+		"id": 7000,
+		"skillLevel": 0,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"7001": {
+		"id": 7001,
+		"skillLevel": 1,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 30
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"7002": {
+		"id": 7002,
+		"skillLevel": 2,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 60
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"7003": {
+		"id": 7003,
+		"skillLevel": 3,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 90
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"7004": {
+		"id": 7004,
+		"skillLevel": 4,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 120
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"7005": {
+		"id": 7005,
+		"skillLevel": 5,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 150
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"7006": {
+		"id": 7006,
+		"skillLevel": 6,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 180
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"7007": {
+		"id": 7007,
+		"skillLevel": 7,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 210
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"7008": {
+		"id": 7008,
+		"skillLevel": 8,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 240
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"7009": {
+		"id": 7009,
+		"skillLevel": 9,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 270
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"7010": {
+		"id": 7010,
+		"skillLevel": 10,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 300
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"7011": {
+		"id": 7011,
+		"skillLevel": 11,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 330
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"7012": {
+		"id": 7012,
+		"skillLevel": 12,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 360
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"7013": {
+		"id": 7013,
+		"skillLevel": 13,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 390
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"7014": {
+		"id": 7014,
+		"skillLevel": 14,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 420
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"7015": {
+		"id": 7015,
+		"skillLevel": 15,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 450
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"7016": {
+		"id": 7016,
+		"skillLevel": 16,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 480
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"7017": {
+		"id": 7017,
+		"skillLevel": 17,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 510
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"7018": {
+		"id": 7018,
+		"skillLevel": 18,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 540
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"7019": {
+		"id": 7019,
+		"skillLevel": 19,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 570
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"7020": {
+		"id": 7020,
+		"skillLevel": 20,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 600
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"7021": {
+		"id": 7021,
+		"skillLevel": 21,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 630
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"7022": {
+		"id": 7022,
+		"skillLevel": 22,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 660
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"7023": {
+		"id": 7023,
+		"skillLevel": 23,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 690
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"7024": {
+		"id": 7024,
+		"skillLevel": 24,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 720
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"7025": {
+		"id": 7025,
+		"skillLevel": 25,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 750
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"7026": {
+		"id": 7026,
+		"skillLevel": 26,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 780
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"7027": {
+		"id": 7027,
+		"skillLevel": 27,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 810
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"7028": {
+		"id": 7028,
+		"skillLevel": 28,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 840
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"7029": {
+		"id": 7029,
+		"skillLevel": 29,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 870
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"7030": {
+		"id": 7030,
+		"skillLevel": 30,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 900
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"7031": {
+		"id": 7031,
+		"skillLevel": 31,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 930
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"7032": {
+		"id": 7032,
+		"skillLevel": 32,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 960
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"7033": {
+		"id": 7033,
+		"skillLevel": 33,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 990
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"7034": {
+		"id": 7034,
+		"skillLevel": 34,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 1020
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"7035": {
+		"id": 7035,
+		"skillLevel": 35,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 1050
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"7036": {
+		"id": 7036,
+		"skillLevel": 36,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 1080
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"7037": {
+		"id": 7037,
+		"skillLevel": 37,
+		"index": 7,
+		"attr": [
+			{
+				"id": 105,
+				"num": 1110
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	},
+	"8000": {
+		"id": 8000,
+		"skillLevel": 0,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 0
+			}
+		],
+		"cost": 5,
+		"blocLevel": 1
+	},
+	"8001": {
+		"id": 8001,
+		"skillLevel": 1,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 30
+			}
+		],
+		"cost": 10,
+		"blocLevel": 2
+	},
+	"8002": {
+		"id": 8002,
+		"skillLevel": 2,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 60
+			}
+		],
+		"cost": 15,
+		"blocLevel": 3
+	},
+	"8003": {
+		"id": 8003,
+		"skillLevel": 3,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 90
+			}
+		],
+		"cost": 20,
+		"blocLevel": 3
+	},
+	"8004": {
+		"id": 8004,
+		"skillLevel": 4,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 120
+			}
+		],
+		"cost": 25,
+		"blocLevel": 4
+	},
+	"8005": {
+		"id": 8005,
+		"skillLevel": 5,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 150
+			}
+		],
+		"cost": 30,
+		"blocLevel": 4
+	},
+	"8006": {
+		"id": 8006,
+		"skillLevel": 6,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 180
+			}
+		],
+		"cost": 35,
+		"blocLevel": 5
+	},
+	"8007": {
+		"id": 8007,
+		"skillLevel": 7,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 210
+			}
+		],
+		"cost": 40,
+		"blocLevel": 5
+	},
+	"8008": {
+		"id": 8008,
+		"skillLevel": 8,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 240
+			}
+		],
+		"cost": 45,
+		"blocLevel": 6
+	},
+	"8009": {
+		"id": 8009,
+		"skillLevel": 9,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 270
+			}
+		],
+		"cost": 50,
+		"blocLevel": 6
+	},
+	"8010": {
+		"id": 8010,
+		"skillLevel": 10,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 300
+			}
+		],
+		"cost": 55,
+		"blocLevel": 7
+	},
+	"8011": {
+		"id": 8011,
+		"skillLevel": 11,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 330
+			}
+		],
+		"cost": 60,
+		"blocLevel": 7
+	},
+	"8012": {
+		"id": 8012,
+		"skillLevel": 12,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 360
+			}
+		],
+		"cost": 65,
+		"blocLevel": 8
+	},
+	"8013": {
+		"id": 8013,
+		"skillLevel": 13,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 390
+			}
+		],
+		"cost": 70,
+		"blocLevel": 8
+	},
+	"8014": {
+		"id": 8014,
+		"skillLevel": 14,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 420
+			}
+		],
+		"cost": 75,
+		"blocLevel": 9
+	},
+	"8015": {
+		"id": 8015,
+		"skillLevel": 15,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 450
+			}
+		],
+		"cost": 80,
+		"blocLevel": 9
+	},
+	"8016": {
+		"id": 8016,
+		"skillLevel": 16,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 480
+			}
+		],
+		"cost": 85,
+		"blocLevel": 10
+	},
+	"8017": {
+		"id": 8017,
+		"skillLevel": 17,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 510
+			}
+		],
+		"cost": 90,
+		"blocLevel": 10
+	},
+	"8018": {
+		"id": 8018,
+		"skillLevel": 18,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 540
+			}
+		],
+		"cost": 95,
+		"blocLevel": 11
+	},
+	"8019": {
+		"id": 8019,
+		"skillLevel": 19,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 570
+			}
+		],
+		"cost": 100,
+		"blocLevel": 11
+	},
+	"8020": {
+		"id": 8020,
+		"skillLevel": 20,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 600
+			}
+		],
+		"cost": 105,
+		"blocLevel": 12
+	},
+	"8021": {
+		"id": 8021,
+		"skillLevel": 21,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 630
+			}
+		],
+		"cost": 110,
+		"blocLevel": 12
+	},
+	"8022": {
+		"id": 8022,
+		"skillLevel": 22,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 660
+			}
+		],
+		"cost": 115,
+		"blocLevel": 13
+	},
+	"8023": {
+		"id": 8023,
+		"skillLevel": 23,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 690
+			}
+		],
+		"cost": 120,
+		"blocLevel": 13
+	},
+	"8024": {
+		"id": 8024,
+		"skillLevel": 24,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 720
+			}
+		],
+		"cost": 125,
+		"blocLevel": 14
+	},
+	"8025": {
+		"id": 8025,
+		"skillLevel": 25,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 750
+			}
+		],
+		"cost": 130,
+		"blocLevel": 14
+	},
+	"8026": {
+		"id": 8026,
+		"skillLevel": 26,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 780
+			}
+		],
+		"cost": 135,
+		"blocLevel": 15
+	},
+	"8027": {
+		"id": 8027,
+		"skillLevel": 27,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 810
+			}
+		],
+		"cost": 140,
+		"blocLevel": 15
+	},
+	"8028": {
+		"id": 8028,
+		"skillLevel": 28,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 840
+			}
+		],
+		"cost": 145,
+		"blocLevel": 16
+	},
+	"8029": {
+		"id": 8029,
+		"skillLevel": 29,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 870
+			}
+		],
+		"cost": 150,
+		"blocLevel": 16
+	},
+	"8030": {
+		"id": 8030,
+		"skillLevel": 30,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 900
+			}
+		],
+		"cost": 155,
+		"blocLevel": 17
+	},
+	"8031": {
+		"id": 8031,
+		"skillLevel": 31,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 930
+			}
+		],
+		"cost": 160,
+		"blocLevel": 17
+	},
+	"8032": {
+		"id": 8032,
+		"skillLevel": 32,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 960
+			}
+		],
+		"cost": 165,
+		"blocLevel": 18
+	},
+	"8033": {
+		"id": 8033,
+		"skillLevel": 33,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 990
+			}
+		],
+		"cost": 170,
+		"blocLevel": 18
+	},
+	"8034": {
+		"id": 8034,
+		"skillLevel": 34,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 1020
+			}
+		],
+		"cost": 175,
+		"blocLevel": 19
+	},
+	"8035": {
+		"id": 8035,
+		"skillLevel": 35,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 1050
+			}
+		],
+		"cost": 180,
+		"blocLevel": 19
+	},
+	"8036": {
+		"id": 8036,
+		"skillLevel": 36,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 1080
+			}
+		],
+		"cost": 185,
+		"blocLevel": 20
+	},
+	"8037": {
+		"id": 8037,
+		"skillLevel": 37,
+		"index": 8,
+		"attr": [
+			{
+				"id": 106,
+				"num": 1110
+			}
+		],
+		"cost": 0,
+		"blocLevel": 20
+	}
+}

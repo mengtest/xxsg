@@ -1,0 +1,122 @@
+{
+	"1": {
+		"id": 1,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 2,
+		"beginTime": "2",
+		"endTime": "2",
+		"day": 0,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"2": {
+		"id": 2,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 2,
+		"beginTime": "4",
+		"endTime": "4",
+		"day": 0,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"3": {
+		"id": 3,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 2,
+		"beginTime": "10",
+		"endTime": "10",
+		"day": 0,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"4": {
+		"id": 4,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 2,
+		"beginTime": "13",
+		"endTime": "13",
+		"day": 0,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"5": {
+		"id": 5,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 2,
+		"beginTime": "17",
+		"endTime": "17",
+		"day": 0,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"6": {
+		"id": 6,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 2,
+		"beginTime": "23",
+		"endTime": "23",
+		"day": 0,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"1001": {
+		"id": 1001,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 0,
+		"beginTime": "2019-03-13 00:00:00",
+		"endTime": "2019-03-13 23:59:59",
+		"day": 30,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"1002": {
+		"id": 1002,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 0,
+		"beginTime": "2019-03-21 00:00:00",
+		"endTime": "2019-03-21 23:59:59",
+		"day": 30,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"1003": {
+		"id": 1003,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 0,
+		"beginTime": "2019-03-28 00:00:00",
+		"endTime": "2019-03-28 23:59:59",
+		"day": 30,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"1004": {
+		"id": 1004,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 0,
+		"beginTime": "2019-04-01 00:00:00",
+		"endTime": "2019-04-01 23:59:59",
+		"day": 30,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"1005": {
+		"id": 1005,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 0,
+		"beginTime": "2019-04-08 00:00:00",
+		"endTime": "2019-04-08 23:59:59",
+		"day": 30,
+		"activityList": [1001,1002,1003,1004,1005]
+	},
+	"1006": {
+		"id": 1006,
+		"name": "限时直购",
+		"activityType": 1,
+		"serverType": 0,
+		"beginTime": "2019-04-17 00:00:00",
+		"endTime": "2019-04-18 23:59:59",
+		"day": 30,
+		"activityList": [1001,1002,1003,1004,1005]
+	}
+}

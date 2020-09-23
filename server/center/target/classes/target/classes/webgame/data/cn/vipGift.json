@@ -1,0 +1,617 @@
+{
+	"301": {
+		"packageType": 301,
+		"vipLevel": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220204,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 500
+			}
+		],
+		"price": 3000,
+		"discount": 4000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"302": {
+		"packageType": 302,
+		"vipLevel": 3,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 200
+			}
+		],
+		"price": 1000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"401": {
+		"packageType": 401,
+		"vipLevel": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220205,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 2000
+			},
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 8
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 1000
+			}
+		],
+		"price": 5000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"402": {
+		"packageType": 402,
+		"vipLevel": 4,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 10
+			}
+		],
+		"price": 1300,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"501": {
+		"packageType": 501,
+		"vipLevel": 5,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220206,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 3000
+			},
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 20
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 2000
+			}
+		],
+		"price": 18000,
+		"discount": 6000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"502": {
+		"packageType": 502,
+		"vipLevel": 5,
+		"reward": [
+			{
+				"type": 1,
+				"id": 12,
+				"num": 3000
+			}
+		],
+		"price": 1500,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"601": {
+		"packageType": 601,
+		"vipLevel": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220208,
+				"num": 1
+			},
+			{
+				"type": 1,
+				"id": 12,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 5
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 10000
+			}
+		],
+		"price": 80000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"602": {
+		"packageType": 602,
+		"vipLevel": 6,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 20000
+			}
+		],
+		"price": 2000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"701": {
+		"packageType": 701,
+		"vipLevel": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 401002,
+				"num": 320
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 20000
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 2000
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 20
+			}
+		],
+		"price": 110000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"702": {
+		"packageType": 702,
+		"vipLevel": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 5000
+			}
+		],
+		"price": 2500,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"703": {
+		"packageType": 703,
+		"vipLevel": 7,
+		"reward": [
+			{
+				"type": 2,
+				"id": 902002,
+				"num": 1
+			}
+		],
+		"price": 50000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"801": {
+		"packageType": 801,
+		"vipLevel": 8,
+		"reward": [
+			{
+				"type": 4,
+				"id": 1701,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 50
+			}
+		],
+		"price": 150000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"802": {
+		"packageType": 802,
+		"vipLevel": 8,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 100
+			}
+		],
+		"price": 5000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"901": {
+		"packageType": 901,
+		"vipLevel": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220701,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 30000002,
+				"num": 100
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 50000
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 30
+			}
+		],
+		"price": 200000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"902": {
+		"packageType": 902,
+		"vipLevel": 9,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000015,
+				"num": 25000
+			}
+		],
+		"price": 7500,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"1001": {
+		"packageType": 1001,
+		"vipLevel": 10,
+		"reward": [
+			{
+				"type": 4,
+				"id": 2702,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30001701,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 10000
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 300
+			}
+		],
+		"price": 250000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1002": {
+		"packageType": 1002,
+		"vipLevel": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 20000
+			}
+		],
+		"price": 10000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"1003": {
+		"packageType": 1003,
+		"vipLevel": 10,
+		"reward": [
+			{
+				"type": 2,
+				"id": 903002,
+				"num": 1
+			}
+		],
+		"price": 200000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1101": {
+		"packageType": 1101,
+		"vipLevel": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220703,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 30000002,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000614,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 400000
+			}
+		],
+		"price": 300000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1102": {
+		"packageType": 1102,
+		"vipLevel": 11,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000404,
+				"num": 30
+			}
+		],
+		"price": 15000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"1201": {
+		"packageType": 1201,
+		"vipLevel": 12,
+		"reward": [
+			{
+				"type": 4,
+				"id": 4702,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30001701,
+				"num": 400
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 30000
+			},
+			{
+				"type": 2,
+				"id": 30000302,
+				"num": 300
+			}
+		],
+		"price": 420000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1202": {
+		"packageType": 1202,
+		"vipLevel": 12,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 5000
+			}
+		],
+		"price": 25000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"1301": {
+		"packageType": 1301,
+		"vipLevel": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220705,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 100000
+			},
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 1000000
+			},
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 100000
+			}
+		],
+		"price": 560000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1302": {
+		"packageType": 1302,
+		"vipLevel": 13,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 200
+			}
+		],
+		"price": 50000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"1401": {
+		"packageType": 1401,
+		"vipLevel": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220706,
+				"num": 4
+			},
+			{
+				"type": 2,
+				"id": 30000701,
+				"num": 500
+			},
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 25000
+			},
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 100
+			}
+		],
+		"price": 700000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1402": {
+		"packageType": 1402,
+		"vipLevel": 14,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000812,
+				"num": 150
+			}
+		],
+		"price": 75000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	},
+	"1501": {
+		"packageType": 1501,
+		"vipLevel": 15,
+		"reward": [
+			{
+				"type": 4,
+				"id": 2801,
+				"num": 1
+			},
+			{
+				"type": 2,
+				"id": 30001801,
+				"num": 300
+			},
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 100000
+			},
+			{
+				"type": 2,
+				"id": 30000015,
+				"num": 50000
+			}
+		],
+		"price": 1100000,
+		"discount": 7000,
+		"limitType": 3,
+		"selltimes": 1
+	},
+	"1502": {
+		"packageType": 1502,
+		"vipLevel": 15,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 20000
+			}
+		],
+		"price": 100000,
+		"discount": 5000,
+		"limitType": 3,
+		"selltimes": 10
+	}
+}

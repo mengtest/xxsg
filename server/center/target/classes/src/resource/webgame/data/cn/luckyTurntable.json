@@ -1,0 +1,332 @@
+{
+	"10101": {
+		"id": 10101,
+		"reward": [
+			{
+				"type": 2,
+				"id": 314001,
+				"num": 150
+			}
+		],
+		"probability_ten": 1,
+		"doubleProbability_ten": 1,
+		"probability": 1,
+		"doubleProbability": 1,
+		"notice": 1
+	},
+	"10102": {
+		"id": 10102,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000103,
+				"num": 3
+			}
+		],
+		"probability_ten": 12000,
+		"doubleProbability_ten": 12000,
+		"probability": 12000,
+		"doubleProbability": 12000,
+		"notice": 0
+	},
+	"10103": {
+		"id": 10103,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001007,
+				"num": 1
+			}
+		],
+		"probability_ten": 6000,
+		"doubleProbability_ten": 6000,
+		"probability": 6000,
+		"doubleProbability": 6000,
+		"notice": 0
+	},
+	"10104": {
+		"id": 10104,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220501,
+				"num": 60
+			}
+		],
+		"probability_ten": 750,
+		"doubleProbability_ten": 1000,
+		"probability": 500,
+		"doubleProbability": 750,
+		"notice": 1
+	},
+	"10105": {
+		"id": 10105,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001003,
+				"num": 1
+			}
+		],
+		"probability_ten": 12000,
+		"doubleProbability_ten": 12000,
+		"probability": 12000,
+		"doubleProbability": 12000,
+		"notice": 0
+	},
+	"10106": {
+		"id": 10106,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000301,
+				"num": 200
+			}
+		],
+		"probability_ten": 12000,
+		"doubleProbability_ten": 12000,
+		"probability": 12000,
+		"doubleProbability": 12000,
+		"notice": 0
+	},
+	"10107": {
+		"id": 10107,
+		"reward": [
+			{
+				"type": 2,
+				"id": 313001,
+				"num": 120
+			}
+		],
+		"probability_ten": 50,
+		"doubleProbability_ten": 50,
+		"probability": 50,
+		"doubleProbability": 50,
+		"notice": 1
+	},
+	"10108": {
+		"id": 10108,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 500
+			}
+		],
+		"probability_ten": 12000,
+		"doubleProbability_ten": 12000,
+		"probability": 12000,
+		"doubleProbability": 12000,
+		"notice": 0
+	},
+	"10109": {
+		"id": 10109,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001006,
+				"num": 3
+			}
+		],
+		"probability_ten": 9000,
+		"doubleProbability_ten": 9000,
+		"probability": 9000,
+		"doubleProbability": 9000,
+		"notice": 0
+	},
+	"10110": {
+		"id": 10110,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220502,
+				"num": 80
+			}
+		],
+		"probability_ten": 375,
+		"doubleProbability_ten": 500,
+		"probability": 250,
+		"doubleProbability": 375,
+		"notice": 1
+	},
+	"10111": {
+		"id": 10111,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001002,
+				"num": 4
+			}
+		],
+		"probability_ten": 20625,
+		"doubleProbability_ten": 20250,
+		"probability": 21000,
+		"doubleProbability": 20625,
+		"notice": 0
+	},
+	"10112": {
+		"id": 10112,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30001005,
+				"num": 10
+			}
+		],
+		"probability_ten": 15199,
+		"doubleProbability_ten": 15199,
+		"probability": 15199,
+		"doubleProbability": 15199,
+		"notice": 0
+	},
+	"10201": {
+		"id": 10201,
+		"reward": [
+			{
+				"type": 2,
+				"id": 304001,
+				"num": 150
+			}
+		],
+		"probability_ten": 1,
+		"doubleProbability_ten": 0,
+		"probability": 1,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10202": {
+		"id": 10202,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220601,
+				"num": 1
+			}
+		],
+		"probability_ten": 100,
+		"doubleProbability_ten": 0,
+		"probability": 10000,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10203": {
+		"id": 10203,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000201,
+				"num": 500
+			}
+		],
+		"probability_ten": 10000,
+		"doubleProbability_ten": 0,
+		"probability": 10000,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10204": {
+		"id": 10204,
+		"reward": [
+			{
+				"type": 2,
+				"id": 303001,
+				"num": 30
+			}
+		],
+		"probability_ten": 1,
+		"doubleProbability_ten": 0,
+		"probability": 250,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10205": {
+		"id": 10205,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000801,
+				"num": 50
+			}
+		],
+		"probability_ten": 10000,
+		"doubleProbability_ten": 0,
+		"probability": 10000,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10206": {
+		"id": 10206,
+		"reward": [
+			{
+				"type": 2,
+				"id": 303004,
+				"num": 120
+			}
+		],
+		"probability_ten": 1,
+		"doubleProbability_ten": 0,
+		"probability": 50,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10207": {
+		"id": 10207,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220603,
+				"num": 1
+			}
+		],
+		"probability_ten": 30000,
+		"doubleProbability_ten": 0,
+		"probability": 20000,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10208": {
+		"id": 10208,
+		"reward": [
+			{
+				"type": 2,
+				"id": 220407,
+				"num": 1
+			}
+		],
+		"probability_ten": 40000,
+		"doubleProbability_ten": 0,
+		"probability": 30000,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10209": {
+		"id": 10209,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000020,
+				"num": 10
+			}
+		],
+		"probability_ten": 9699,
+		"doubleProbability_ten": 0,
+		"probability": 9699,
+		"doubleProbability": 0,
+		"notice": 0
+	},
+	"10210": {
+		"id": 10210,
+		"reward": [
+			{
+				"type": 2,
+				"id": 30000811,
+				"num": 5
+			}
+		],
+		"probability_ten": 198,
+		"doubleProbability_ten": 0,
+		"probability": 10000,
+		"doubleProbability": 0,
+		"notice": 0
+	}
+}

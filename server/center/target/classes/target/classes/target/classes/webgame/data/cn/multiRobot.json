@@ -1,0 +1,1712 @@
+{
+	"1": {
+		"robotId": 1,
+		"fighting": [
+			{
+				"low": 98668,
+				"hight": 197336
+			}
+		],
+		"level": [
+			{
+				"low": 20,
+				"hight": 29
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [5500,5501]
+	},
+	"2": {
+		"robotId": 2,
+		"fighting": [
+			{
+				"low": 206754,
+				"hight": 413508
+			}
+		],
+		"level": [
+			{
+				"low": 30,
+				"hight": 39
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [5510,5511]
+	},
+	"3": {
+		"robotId": 3,
+		"fighting": [
+			{
+				"low": 437476,
+				"hight": 874952
+			}
+		],
+		"level": [
+			{
+				"low": 40,
+				"hight": 49
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [5520,5521]
+	},
+	"4": {
+		"robotId": 4,
+		"fighting": [
+			{
+				"low": 635926,
+				"hight": 1271852
+			}
+		],
+		"level": [
+			{
+				"low": 50,
+				"hight": 59
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [5530,5531]
+	},
+	"5": {
+		"robotId": 5,
+		"fighting": [
+			{
+				"low": 1165368,
+				"hight": 2330736
+			}
+		],
+		"level": [
+			{
+				"low": 60,
+				"hight": 69
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [5540,5541]
+	},
+	"6": {
+		"robotId": 6,
+		"fighting": [
+			{
+				"low": 1683208,
+				"hight": 3366416
+			}
+		],
+		"level": [
+			{
+				"low": 70,
+				"hight": 79
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [5550,5551]
+	},
+	"7": {
+		"robotId": 7,
+		"fighting": [
+			{
+				"low": 2426424,
+				"hight": 4852848
+			}
+		],
+		"level": [
+			{
+				"low": 80,
+				"hight": 89
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [5560,5561]
+	},
+	"8": {
+		"robotId": 8,
+		"fighting": [
+			{
+				"low": 3905616,
+				"hight": 7811232
+			}
+		],
+		"level": [
+			{
+				"low": 90,
+				"hight": 99
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [5570,5571]
+	},
+	"9": {
+		"robotId": 9,
+		"fighting": [
+			{
+				"low": 5000602,
+				"hight": 10001204
+			}
+		],
+		"level": [
+			{
+				"low": 100,
+				"hight": 109
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [5580,5581]
+	},
+	"10": {
+		"robotId": 10,
+		"fighting": [
+			{
+				"low": 7727602,
+				"hight": 15455204
+			}
+		],
+		"level": [
+			{
+				"low": 110,
+				"hight": 119
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [5590,5591]
+	},
+	"11": {
+		"robotId": 11,
+		"fighting": [
+			{
+				"low": 8804074,
+				"hight": 17608148
+			}
+		],
+		"level": [
+			{
+				"low": 120,
+				"hight": 129
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [5600,5601]
+	},
+	"12": {
+		"robotId": 12,
+		"fighting": [
+			{
+				"low": 10880764,
+				"hight": 21761528
+			}
+		],
+		"level": [
+			{
+				"low": 130,
+				"hight": 139
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [5610,5611]
+	},
+	"13": {
+		"robotId": 13,
+		"fighting": [
+			{
+				"low": 10282556,
+				"hight": 20565112
+			}
+		],
+		"level": [
+			{
+				"low": 140,
+				"hight": 149
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [5620,5621]
+	},
+	"14": {
+		"robotId": 14,
+		"fighting": [
+			{
+				"low": 13898584,
+				"hight": 27797168
+			}
+		],
+		"level": [
+			{
+				"low": 150,
+				"hight": 159
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [5630,5631]
+	},
+	"15": {
+		"robotId": 15,
+		"fighting": [
+			{
+				"low": 13001240,
+				"hight": 26002480
+			}
+		],
+		"level": [
+			{
+				"low": 160,
+				"hight": 169
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [5640,5641]
+	},
+	"16": {
+		"robotId": 16,
+		"fighting": [
+			{
+				"low": 15756004,
+				"hight": 31512008
+			}
+		],
+		"level": [
+			{
+				"low": 170,
+				"hight": 179
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [5650,5651]
+	},
+	"17": {
+		"robotId": 17,
+		"fighting": [
+			{
+				"low": 16563472,
+				"hight": 33126944
+			}
+		],
+		"level": [
+			{
+				"low": 180,
+				"hight": 189
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [5660,5661]
+	},
+	"18": {
+		"robotId": 18,
+		"fighting": [
+			{
+				"low": 19321356,
+				"hight": 38642712
+			}
+		],
+		"level": [
+			{
+				"low": 190,
+				"hight": 199
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [5670,5671]
+	},
+	"19": {
+		"robotId": 19,
+		"fighting": [
+			{
+				"low": 21000492,
+				"hight": 42000984
+			}
+		],
+		"level": [
+			{
+				"low": 200,
+				"hight": 200
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [5680,5681]
+	},
+	"20": {
+		"robotId": 20,
+		"fighting": [
+			{
+				"low": 98668,
+				"hight": 197336
+			}
+		],
+		"level": [
+			{
+				"low": 20,
+				"hight": 29
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [6500,6501]
+	},
+	"21": {
+		"robotId": 21,
+		"fighting": [
+			{
+				"low": 206754,
+				"hight": 413508
+			}
+		],
+		"level": [
+			{
+				"low": 30,
+				"hight": 39
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [6510,6511]
+	},
+	"22": {
+		"robotId": 22,
+		"fighting": [
+			{
+				"low": 437476,
+				"hight": 874952
+			}
+		],
+		"level": [
+			{
+				"low": 40,
+				"hight": 49
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [6520,6521]
+	},
+	"23": {
+		"robotId": 23,
+		"fighting": [
+			{
+				"low": 635926,
+				"hight": 1271852
+			}
+		],
+		"level": [
+			{
+				"low": 50,
+				"hight": 59
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [6530,6531]
+	},
+	"24": {
+		"robotId": 24,
+		"fighting": [
+			{
+				"low": 1165368,
+				"hight": 2330736
+			}
+		],
+		"level": [
+			{
+				"low": 60,
+				"hight": 69
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [6540,6541]
+	},
+	"25": {
+		"robotId": 25,
+		"fighting": [
+			{
+				"low": 1683208,
+				"hight": 3366416
+			}
+		],
+		"level": [
+			{
+				"low": 70,
+				"hight": 79
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [6550,6551]
+	},
+	"26": {
+		"robotId": 26,
+		"fighting": [
+			{
+				"low": 2426424,
+				"hight": 4852848
+			}
+		],
+		"level": [
+			{
+				"low": 80,
+				"hight": 89
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [6560,6561]
+	},
+	"27": {
+		"robotId": 27,
+		"fighting": [
+			{
+				"low": 3905616,
+				"hight": 7811232
+			}
+		],
+		"level": [
+			{
+				"low": 90,
+				"hight": 99
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [6570,6571]
+	},
+	"28": {
+		"robotId": 28,
+		"fighting": [
+			{
+				"low": 5000602,
+				"hight": 10001204
+			}
+		],
+		"level": [
+			{
+				"low": 100,
+				"hight": 109
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [6580,6581]
+	},
+	"29": {
+		"robotId": 29,
+		"fighting": [
+			{
+				"low": 7727602,
+				"hight": 15455204
+			}
+		],
+		"level": [
+			{
+				"low": 110,
+				"hight": 119
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [6590,6591]
+	},
+	"30": {
+		"robotId": 30,
+		"fighting": [
+			{
+				"low": 8804074,
+				"hight": 17608148
+			}
+		],
+		"level": [
+			{
+				"low": 120,
+				"hight": 129
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [6600,6601]
+	},
+	"31": {
+		"robotId": 31,
+		"fighting": [
+			{
+				"low": 10880764,
+				"hight": 21761528
+			}
+		],
+		"level": [
+			{
+				"low": 130,
+				"hight": 139
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [6610,6611]
+	},
+	"32": {
+		"robotId": 32,
+		"fighting": [
+			{
+				"low": 10282556,
+				"hight": 20565112
+			}
+		],
+		"level": [
+			{
+				"low": 140,
+				"hight": 149
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [6620,6621]
+	},
+	"33": {
+		"robotId": 33,
+		"fighting": [
+			{
+				"low": 13898584,
+				"hight": 27797168
+			}
+		],
+		"level": [
+			{
+				"low": 150,
+				"hight": 159
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [6630,6631]
+	},
+	"34": {
+		"robotId": 34,
+		"fighting": [
+			{
+				"low": 13001240,
+				"hight": 26002480
+			}
+		],
+		"level": [
+			{
+				"low": 160,
+				"hight": 169
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [6640,6641]
+	},
+	"35": {
+		"robotId": 35,
+		"fighting": [
+			{
+				"low": 15756004,
+				"hight": 31512008
+			}
+		],
+		"level": [
+			{
+				"low": 170,
+				"hight": 179
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [6650,6651]
+	},
+	"36": {
+		"robotId": 36,
+		"fighting": [
+			{
+				"low": 16563472,
+				"hight": 33126944
+			}
+		],
+		"level": [
+			{
+				"low": 180,
+				"hight": 189
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [6660,6661]
+	},
+	"37": {
+		"robotId": 37,
+		"fighting": [
+			{
+				"low": 19321356,
+				"hight": 38642712
+			}
+		],
+		"level": [
+			{
+				"low": 190,
+				"hight": 199
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [6670,6671]
+	},
+	"38": {
+		"robotId": 38,
+		"fighting": [
+			{
+				"low": 21000492,
+				"hight": 42000984
+			}
+		],
+		"level": [
+			{
+				"low": 200,
+				"hight": 200
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [6680,6681]
+	},
+	"39": {
+		"robotId": 39,
+		"fighting": [
+			{
+				"low": 98668,
+				"hight": 197336
+			}
+		],
+		"level": [
+			{
+				"low": 20,
+				"hight": 29
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [7500,7501]
+	},
+	"40": {
+		"robotId": 40,
+		"fighting": [
+			{
+				"low": 206754,
+				"hight": 413508
+			}
+		],
+		"level": [
+			{
+				"low": 30,
+				"hight": 39
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [7510,7511]
+	},
+	"41": {
+		"robotId": 41,
+		"fighting": [
+			{
+				"low": 437476,
+				"hight": 874952
+			}
+		],
+		"level": [
+			{
+				"low": 40,
+				"hight": 49
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [7520,7521]
+	},
+	"42": {
+		"robotId": 42,
+		"fighting": [
+			{
+				"low": 635926,
+				"hight": 1271852
+			}
+		],
+		"level": [
+			{
+				"low": 50,
+				"hight": 59
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [7530,7531]
+	},
+	"43": {
+		"robotId": 43,
+		"fighting": [
+			{
+				"low": 1165368,
+				"hight": 2330736
+			}
+		],
+		"level": [
+			{
+				"low": 60,
+				"hight": 69
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [7540,7541]
+	},
+	"44": {
+		"robotId": 44,
+		"fighting": [
+			{
+				"low": 1683208,
+				"hight": 3366416
+			}
+		],
+		"level": [
+			{
+				"low": 70,
+				"hight": 79
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [7550,7551]
+	},
+	"45": {
+		"robotId": 45,
+		"fighting": [
+			{
+				"low": 2426424,
+				"hight": 4852848
+			}
+		],
+		"level": [
+			{
+				"low": 80,
+				"hight": 89
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [7560,7561]
+	},
+	"46": {
+		"robotId": 46,
+		"fighting": [
+			{
+				"low": 3905616,
+				"hight": 7811232
+			}
+		],
+		"level": [
+			{
+				"low": 90,
+				"hight": 99
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [7570,7571]
+	},
+	"47": {
+		"robotId": 47,
+		"fighting": [
+			{
+				"low": 5000602,
+				"hight": 10001204
+			}
+		],
+		"level": [
+			{
+				"low": 100,
+				"hight": 109
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [7580,7581]
+	},
+	"48": {
+		"robotId": 48,
+		"fighting": [
+			{
+				"low": 7727602,
+				"hight": 15455204
+			}
+		],
+		"level": [
+			{
+				"low": 110,
+				"hight": 119
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [7590,7591]
+	},
+	"49": {
+		"robotId": 49,
+		"fighting": [
+			{
+				"low": 8804074,
+				"hight": 17608148
+			}
+		],
+		"level": [
+			{
+				"low": 120,
+				"hight": 129
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [7600,7601]
+	},
+	"50": {
+		"robotId": 50,
+		"fighting": [
+			{
+				"low": 10880764,
+				"hight": 21761528
+			}
+		],
+		"level": [
+			{
+				"low": 130,
+				"hight": 139
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [7610,7611]
+	},
+	"51": {
+		"robotId": 51,
+		"fighting": [
+			{
+				"low": 10282556,
+				"hight": 20565112
+			}
+		],
+		"level": [
+			{
+				"low": 140,
+				"hight": 149
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [7620,7621]
+	},
+	"52": {
+		"robotId": 52,
+		"fighting": [
+			{
+				"low": 13898584,
+				"hight": 27797168
+			}
+		],
+		"level": [
+			{
+				"low": 150,
+				"hight": 159
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [7630,7631]
+	},
+	"53": {
+		"robotId": 53,
+		"fighting": [
+			{
+				"low": 13001240,
+				"hight": 26002480
+			}
+		],
+		"level": [
+			{
+				"low": 160,
+				"hight": 169
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [7640,7641]
+	},
+	"54": {
+		"robotId": 54,
+		"fighting": [
+			{
+				"low": 15756004,
+				"hight": 31512008
+			}
+		],
+		"level": [
+			{
+				"low": 170,
+				"hight": 179
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [7650,7651]
+	},
+	"55": {
+		"robotId": 55,
+		"fighting": [
+			{
+				"low": 16563472,
+				"hight": 33126944
+			}
+		],
+		"level": [
+			{
+				"low": 180,
+				"hight": 189
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [7660,7661]
+	},
+	"56": {
+		"robotId": 56,
+		"fighting": [
+			{
+				"low": 19321356,
+				"hight": 38642712
+			}
+		],
+		"level": [
+			{
+				"low": 190,
+				"hight": 199
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [7670,7671]
+	},
+	"57": {
+		"robotId": 57,
+		"fighting": [
+			{
+				"low": 21000492,
+				"hight": 42000984
+			}
+		],
+		"level": [
+			{
+				"low": 200,
+				"hight": 200
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [7680,7681]
+	},
+	"58": {
+		"robotId": 58,
+		"fighting": [
+			{
+				"low": 98668,
+				"hight": 197336
+			}
+		],
+		"level": [
+			{
+				"low": 20,
+				"hight": 29
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [8500,8501]
+	},
+	"59": {
+		"robotId": 59,
+		"fighting": [
+			{
+				"low": 206754,
+				"hight": 413508
+			}
+		],
+		"level": [
+			{
+				"low": 30,
+				"hight": 39
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [8510,8511]
+	},
+	"60": {
+		"robotId": 60,
+		"fighting": [
+			{
+				"low": 437476,
+				"hight": 874952
+			}
+		],
+		"level": [
+			{
+				"low": 40,
+				"hight": 49
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [8520,8521]
+	},
+	"61": {
+		"robotId": 61,
+		"fighting": [
+			{
+				"low": 635926,
+				"hight": 1271852
+			}
+		],
+		"level": [
+			{
+				"low": 50,
+				"hight": 59
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [8530,8531]
+	},
+	"62": {
+		"robotId": 62,
+		"fighting": [
+			{
+				"low": 1165368,
+				"hight": 2330736
+			}
+		],
+		"level": [
+			{
+				"low": 60,
+				"hight": 69
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [8540,8541]
+	},
+	"63": {
+		"robotId": 63,
+		"fighting": [
+			{
+				"low": 1683208,
+				"hight": 3366416
+			}
+		],
+		"level": [
+			{
+				"low": 70,
+				"hight": 79
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [8550,8551]
+	},
+	"64": {
+		"robotId": 64,
+		"fighting": [
+			{
+				"low": 2426424,
+				"hight": 4852848
+			}
+		],
+		"level": [
+			{
+				"low": 80,
+				"hight": 89
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [8560,8561]
+	},
+	"65": {
+		"robotId": 65,
+		"fighting": [
+			{
+				"low": 3905616,
+				"hight": 7811232
+			}
+		],
+		"level": [
+			{
+				"low": 90,
+				"hight": 99
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [8570,8571]
+	},
+	"66": {
+		"robotId": 66,
+		"fighting": [
+			{
+				"low": 5000602,
+				"hight": 10001204
+			}
+		],
+		"level": [
+			{
+				"low": 100,
+				"hight": 109
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [8580,8581]
+	},
+	"67": {
+		"robotId": 67,
+		"fighting": [
+			{
+				"low": 7727602,
+				"hight": 15455204
+			}
+		],
+		"level": [
+			{
+				"low": 110,
+				"hight": 119
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [8590,8591]
+	},
+	"68": {
+		"robotId": 68,
+		"fighting": [
+			{
+				"low": 8804074,
+				"hight": 17608148
+			}
+		],
+		"level": [
+			{
+				"low": 120,
+				"hight": 129
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [8600,8601]
+	},
+	"69": {
+		"robotId": 69,
+		"fighting": [
+			{
+				"low": 10880764,
+				"hight": 21761528
+			}
+		],
+		"level": [
+			{
+				"low": 130,
+				"hight": 139
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [8610,8611]
+	},
+	"70": {
+		"robotId": 70,
+		"fighting": [
+			{
+				"low": 10282556,
+				"hight": 20565112
+			}
+		],
+		"level": [
+			{
+				"low": 140,
+				"hight": 149
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [8620,8621]
+	},
+	"71": {
+		"robotId": 71,
+		"fighting": [
+			{
+				"low": 13898584,
+				"hight": 27797168
+			}
+		],
+		"level": [
+			{
+				"low": 150,
+				"hight": 159
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [8630,8631]
+	},
+	"72": {
+		"robotId": 72,
+		"fighting": [
+			{
+				"low": 13001240,
+				"hight": 26002480
+			}
+		],
+		"level": [
+			{
+				"low": 160,
+				"hight": 169
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [8640,8641]
+	},
+	"73": {
+		"robotId": 73,
+		"fighting": [
+			{
+				"low": 15756004,
+				"hight": 31512008
+			}
+		],
+		"level": [
+			{
+				"low": 170,
+				"hight": 179
+			}
+		],
+		"quality": 30,
+		"head": "2",
+		"monster": [8650,8651]
+	},
+	"74": {
+		"robotId": 74,
+		"fighting": [
+			{
+				"low": 16563472,
+				"hight": 33126944
+			}
+		],
+		"level": [
+			{
+				"low": 180,
+				"hight": 189
+			}
+		],
+		"quality": 40,
+		"head": "2",
+		"monster": [8660,8661]
+	},
+	"75": {
+		"robotId": 75,
+		"fighting": [
+			{
+				"low": 19321356,
+				"hight": 38642712
+			}
+		],
+		"level": [
+			{
+				"low": 190,
+				"hight": 199
+			}
+		],
+		"quality": 50,
+		"head": "2",
+		"monster": [8670,8671]
+	},
+	"76": {
+		"robotId": 76,
+		"fighting": [
+			{
+				"low": 21000492,
+				"hight": 42000984
+			}
+		],
+		"level": [
+			{
+				"low": 200,
+				"hight": 200
+			}
+		],
+		"quality": 60,
+		"head": "2",
+		"monster": [8680,8681]
+	},
+	"77": {
+		"robotId": 77,
+		"fighting": [
+			{
+				"low": 98668,
+				"hight": 197336
+			}
+		],
+		"level": [
+			{
+				"low": 20,
+				"hight": 29
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [9500,9501]
+	},
+	"78": {
+		"robotId": 78,
+		"fighting": [
+			{
+				"low": 206754,
+				"hight": 413508
+			}
+		],
+		"level": [
+			{
+				"low": 30,
+				"hight": 39
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [9510,9511]
+	},
+	"79": {
+		"robotId": 79,
+		"fighting": [
+			{
+				"low": 437476,
+				"hight": 874952
+			}
+		],
+		"level": [
+			{
+				"low": 40,
+				"hight": 49
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [9520,9521]
+	},
+	"80": {
+		"robotId": 80,
+		"fighting": [
+			{
+				"low": 635926,
+				"hight": 1271852
+			}
+		],
+		"level": [
+			{
+				"low": 50,
+				"hight": 59
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [9530,9531]
+	},
+	"81": {
+		"robotId": 81,
+		"fighting": [
+			{
+				"low": 1165368,
+				"hight": 2330736
+			}
+		],
+		"level": [
+			{
+				"low": 60,
+				"hight": 69
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [9540,9541]
+	},
+	"82": {
+		"robotId": 82,
+		"fighting": [
+			{
+				"low": 1683208,
+				"hight": 3366416
+			}
+		],
+		"level": [
+			{
+				"low": 70,
+				"hight": 79
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [9550,9551]
+	},
+	"83": {
+		"robotId": 83,
+		"fighting": [
+			{
+				"low": 2426424,
+				"hight": 4852848
+			}
+		],
+		"level": [
+			{
+				"low": 80,
+				"hight": 89
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [9560,9561]
+	},
+	"84": {
+		"robotId": 84,
+		"fighting": [
+			{
+				"low": 3905616,
+				"hight": 7811232
+			}
+		],
+		"level": [
+			{
+				"low": 90,
+				"hight": 99
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [9570,9571]
+	},
+	"85": {
+		"robotId": 85,
+		"fighting": [
+			{
+				"low": 5000602,
+				"hight": 10001204
+			}
+		],
+		"level": [
+			{
+				"low": 100,
+				"hight": 109
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [9580,9581]
+	},
+	"86": {
+		"robotId": 86,
+		"fighting": [
+			{
+				"low": 7727602,
+				"hight": 15455204
+			}
+		],
+		"level": [
+			{
+				"low": 110,
+				"hight": 119
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [9590,9591]
+	},
+	"87": {
+		"robotId": 87,
+		"fighting": [
+			{
+				"low": 8804074,
+				"hight": 17608148
+			}
+		],
+		"level": [
+			{
+				"low": 120,
+				"hight": 129
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [9600,9601]
+	},
+	"88": {
+		"robotId": 88,
+		"fighting": [
+			{
+				"low": 10880764,
+				"hight": 21761528
+			}
+		],
+		"level": [
+			{
+				"low": 130,
+				"hight": 139
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [9610,9611]
+	},
+	"89": {
+		"robotId": 89,
+		"fighting": [
+			{
+				"low": 10282556,
+				"hight": 20565112
+			}
+		],
+		"level": [
+			{
+				"low": 140,
+				"hight": 149
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [9620,9621]
+	},
+	"90": {
+		"robotId": 90,
+		"fighting": [
+			{
+				"low": 13898584,
+				"hight": 27797168
+			}
+		],
+		"level": [
+			{
+				"low": 150,
+				"hight": 159
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [9630,9631]
+	},
+	"91": {
+		"robotId": 91,
+		"fighting": [
+			{
+				"low": 13001240,
+				"hight": 26002480
+			}
+		],
+		"level": [
+			{
+				"low": 160,
+				"hight": 169
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [9640,9641]
+	},
+	"92": {
+		"robotId": 92,
+		"fighting": [
+			{
+				"low": 15756004,
+				"hight": 31512008
+			}
+		],
+		"level": [
+			{
+				"low": 170,
+				"hight": 179
+			}
+		],
+		"quality": 60,
+		"head": "1",
+		"monster": [9650,9651]
+	},
+	"93": {
+		"robotId": 93,
+		"fighting": [
+			{
+				"low": 16563472,
+				"hight": 33126944
+			}
+		],
+		"level": [
+			{
+				"low": 180,
+				"hight": 189
+			}
+		],
+		"quality": 30,
+		"head": "1",
+		"monster": [9660,9661]
+	},
+	"94": {
+		"robotId": 94,
+		"fighting": [
+			{
+				"low": 19321356,
+				"hight": 38642712
+			}
+		],
+		"level": [
+			{
+				"low": 190,
+				"hight": 199
+			}
+		],
+		"quality": 40,
+		"head": "1",
+		"monster": [9670,9671]
+	},
+	"95": {
+		"robotId": 95,
+		"fighting": [
+			{
+				"low": 21000492,
+				"hight": 42000984
+			}
+		],
+		"level": [
+			{
+				"low": 200,
+				"hight": 200
+			}
+		],
+		"quality": 50,
+		"head": "1",
+		"monster": [9680,9681]
+	}
+}

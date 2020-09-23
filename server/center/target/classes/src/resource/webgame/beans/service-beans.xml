@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.2.xsd">
+
+    <!-- Configure all properties files here, wildcards like *.properties are
+        also allowed -->
+
+    <bean id="appContext" class="com.linlongyx.sanguo.webgame.constant.MContext">
+        <property name="debug" value="${debug}" />
+        <property name="secretKey" value="${secretKey}" />
+        <property name="ws" value="${ws}" />
+        <property name="wss" value="${wss}" />
+        <property name="jks" value="${jks}" />
+        <property name="keystorePass" value="${keystorePass}" />
+    </bean>
+
+    <bean id="lookUpService" class="com.linlongyx.sanguo.webgame.service.LookUpService" destroy-method="shutdown"/>
+
+    <!--<bean id="objectMapper" class="com.fasterxml.jackson.databind.ObjectMapper" />-->
+
+    <bean id="hotUpdate" class="com.linlongyx.core.utils.HotUpdate">
+        <property name="basePath" value="webgame/newfile"/>
+        <property name="agentPath" value="webgame/newfile/agent.jar"/>
+    </bean>
+
+    <bean id="chatUtil" class="com.linlongyx.core.utils.ChatUtil" init-method="initSensitiveWord">
+        <property name="sensitiveWord" value="webgame/word/${dataLocation}/sensitiveWord.txt"/>
+        <property name="name" value="webgame/word/${dataLocation}/nameWord.txt"/>
+    </bean>
+</beans>

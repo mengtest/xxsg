@@ -1,0 +1,1060 @@
+{
+	"1": {
+		"id": 1,
+		"lowId": 1,
+		"highId": 1,
+		"matchHigh": 0,
+		"matchLow": 10,
+		"lower": 8,
+		"rebotFighter": [9018],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1500
+			},
+			{
+				"type": 2,
+				"id": 501009,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 500
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 50
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"2": {
+		"id": 2,
+		"lowId": 2,
+		"highId": 2,
+		"matchHigh": -1,
+		"matchLow": 10,
+		"lower": 8,
+		"rebotFighter": [9017],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 450
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1350
+			},
+			{
+				"type": 2,
+				"id": 501008,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"3": {
+		"id": 3,
+		"lowId": 3,
+		"highId": 3,
+		"matchHigh": -2,
+		"matchLow": 10,
+		"lower": 8,
+		"rebotFighter": [9016],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 420
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1250
+			},
+			{
+				"type": 2,
+				"id": 501008,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"4": {
+		"id": 4,
+		"lowId": 4,
+		"highId": 4,
+		"matchHigh": -3,
+		"matchLow": 10,
+		"lower": 7,
+		"rebotFighter": [9015],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 370
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1100
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"5": {
+		"id": 5,
+		"lowId": 5,
+		"highId": 5,
+		"matchHigh": -4,
+		"matchLow": 10,
+		"lower": 6,
+		"rebotFighter": [9014],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 350
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1050
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"6": {
+		"id": 6,
+		"lowId": 6,
+		"highId": 6,
+		"matchHigh": -5,
+		"matchLow": 10,
+		"lower": 5,
+		"rebotFighter": [9013],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 330
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 1000
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"7": {
+		"id": 7,
+		"lowId": 7,
+		"highId": 7,
+		"matchHigh": -6,
+		"matchLow": 10,
+		"lower": 4,
+		"rebotFighter": [9012],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 320
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 950
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"8": {
+		"id": 8,
+		"lowId": 8,
+		"highId": 8,
+		"matchHigh": -7,
+		"matchLow": 10,
+		"lower": 3,
+		"rebotFighter": [9011],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 300
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 900
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"9": {
+		"id": 9,
+		"lowId": 9,
+		"highId": 9,
+		"matchHigh": -8,
+		"matchLow": 10,
+		"lower": 2,
+		"rebotFighter": [9010],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 280
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 850
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"10": {
+		"id": 10,
+		"lowId": 10,
+		"highId": 10,
+		"matchHigh": -9,
+		"matchLow": 10,
+		"lower": 1,
+		"rebotFighter": [9009],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 270
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 800
+			},
+			{
+				"type": 2,
+				"id": 501007,
+				"num": 1
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 60
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 45
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"11": {
+		"id": 11,
+		"lowId": 20,
+		"highId": 11,
+		"matchHigh": -10,
+		"matchLow": 20,
+		"lower": 1,
+		"rebotFighter": [9008],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 250
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 750
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 30
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"12": {
+		"id": 12,
+		"lowId": 50,
+		"highId": 21,
+		"matchHigh": -10,
+		"matchLow": 20,
+		"lower": 1,
+		"rebotFighter": [9007],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 200
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 600
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 10
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"13": {
+		"id": 13,
+		"lowId": 100,
+		"highId": 51,
+		"matchHigh": -30,
+		"matchLow": 30,
+		"lower": 1,
+		"rebotFighter": [9006],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 170
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 500
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"14": {
+		"id": 14,
+		"lowId": 200,
+		"highId": 101,
+		"matchHigh": -50,
+		"matchLow": 30,
+		"lower": 1,
+		"rebotFighter": [9005],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 150
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 450
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"15": {
+		"id": 15,
+		"lowId": 500,
+		"highId": 201,
+		"matchHigh": -100,
+		"matchLow": 50,
+		"lower": 1,
+		"rebotFighter": [9004],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 130
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 400
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"16": {
+		"id": 16,
+		"lowId": 1000,
+		"highId": 501,
+		"matchHigh": -300,
+		"matchLow": 50,
+		"lower": 1,
+		"rebotFighter": [9004],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 130
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 400
+			}
+		],
+		"breakReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 1
+			}
+		],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"17": {
+		"id": 17,
+		"lowId": 2000,
+		"highId": 1001,
+		"matchHigh": -500,
+		"matchLow": 100,
+		"lower": 1,
+		"rebotFighter": [9003],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 120
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 350
+			}
+		],
+		"breakReward": [],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"18": {
+		"id": 18,
+		"lowId": 3000,
+		"highId": 2001,
+		"matchHigh": -1000,
+		"matchLow": 100,
+		"lower": 1,
+		"rebotFighter": [9002],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 100
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 300
+			}
+		],
+		"breakReward": [],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	},
+	"19": {
+		"id": 19,
+		"lowId": 10000,
+		"highId": 3001,
+		"matchHigh": -1500,
+		"matchLow": 200,
+		"lower": 1,
+		"rebotFighter": [9001],
+		"dailyReward": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 80
+			},
+			{
+				"type": 1,
+				"id": 5,
+				"num": 250
+			}
+		],
+		"breakReward": [],
+		"winReward": [
+			{
+				"type": 1,
+				"id": 5,
+				"num": 40
+			},
+			{
+				"type": 3,
+				"id": 201,
+				"num": 1
+			}
+		],
+		"otherCost": [
+			{
+				"type": 1,
+				"id": 1,
+				"num": 1000
+			}
+		],
+		"moneyCost": [
+			{
+				"type": 1,
+				"id": 2,
+				"num": 3
+			}
+		]
+	}
+}

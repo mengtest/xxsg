@@ -1,7 +1,6 @@
 package com.linlongyx.core.framework.logic;
 
 import com.linlongyx.core.framework.protocol.ResponseBase;
-import com.linlongyx.core.framework.protocol.mobile.ResponseBase;
 
 public interface IPlayerSession extends ISession {
   IPlayer getPlayer();

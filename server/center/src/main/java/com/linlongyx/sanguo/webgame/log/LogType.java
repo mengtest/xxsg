@@ -5,6 +5,7 @@
 /*    */ 
 /*    */ public enum LogType
 /*    */ {
+    test("1231");
 /*    */   private String tableName;
 /*    */   
 /*    */   LogType(String tableName) {

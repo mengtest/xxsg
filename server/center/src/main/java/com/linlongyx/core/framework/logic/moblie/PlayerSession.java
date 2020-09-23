@@ -5,7 +5,6 @@
 /*     */ import com.linlongyx.core.framework.logic.ISession;
 /*     */ import com.linlongyx.core.framework.logic.Session;
 /*     */ import com.linlongyx.core.framework.protocol.ResponseBase;
-/*     */ import com.linlongyx.core.framework.protocol.mobile.ResponseBase;
 /*     */ import com.linlongyx.core.utils.ProtocolUtil;
 /*     */ import io.netty.buffer.ByteBuf;
 /*     */ import io.netty.buffer.Unpooled;

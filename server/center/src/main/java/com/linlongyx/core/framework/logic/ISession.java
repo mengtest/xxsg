@@ -1,4 +1,8 @@
-/*    */ package com.linlongyx.core.framework.logic;public interface ISession { void setStatus(Status paramStatus);
+/*    */ package com.linlongyx.core.framework.logic;
+
+import com.linlongyx.core.framework.communication.MessageSender;
+
+public interface ISession { void setStatus(Status paramStatus);
 /*    */   Status getStatus();
 /*    */   boolean isWriteable();
 /*    */   void setWriteable(boolean paramBoolean);
